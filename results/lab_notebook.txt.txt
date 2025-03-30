@@ -1,0 +1,21 @@
+2025-03-13
+
+#Cree las Carpetas para el proyecto fiebre_de_Norilsk (proyecto final del troncal) según la organización del paper " A quick guide to organizing computational biology projects" de William Stafford Noble (doi:10.1371/journal.pcbi.1000424): 
+
+📂 fiebre_de_Norilsk/
+├── 📂 data/             # Datos crudos y preprocesados
+├── 📂 results/          # Resultados de experimentos
+│   ├── 📂 2025-03-13/  # Experimento del 13 de marzo
+│   │   ├── runall       # Script principal del experimento
+│   │   ├── output.txt   # Resultados generados
+│   │   └── summary.png  # Gráficos
+│   ├── lab_notebook.txt # Registro cronológico de experimentos
+├── 📂 doc/              # Manuscritos y documentación
+├── 📂 src/              # Código fuente del proyecto
+├── 📂 bin/              # Scripts ejecutables
+└── 📂 scripts/          # Herramientas reutilizables en otros proyectos
+
+#Descargue de la nube el archivo “RNA-Seq-expression-Norilsk2019.csv” (https://tinyurl.com/RNA-seq-Norilsk2019) donde se encuentran los genes del RNA-seq del proyecto. Y lo guarde en la carpeta "data/".
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
