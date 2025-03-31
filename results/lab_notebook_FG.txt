@@ -1,0 +1,264 @@
+2025-03-13
+
+#Cree las Carpetas para el proyecto fiebre_de_Norilsk (proyecto final del troncal) según la organización del paper " A quick guide to organizing computational biology projects" de William Stafford Noble (doi:10.1371/journal.pcbi.1000424): 
+
+📂 fiebre_de_Norilsk/
+├── 📂 data/             # Datos crudos y preprocesados
+├── 📂 results/          # Resultados de experimentos
+│   ├── 📂 2025-03-13/  # Experimento del 13 de marzo
+│   │   ├── runall       # Script principal del experimento
+│   │   ├── output.txt   # Resultados generados
+│   │   └── summary.png  # Gráficos
+│   ├── lab_notebook.txt # Registro cronológico de experimentos
+├── 📂 doc/              # Manuscritos y documentación
+├── 📂 src/              # Código fuente del proyecto
+├── 📂 bin/              # Scripts ejecutables
+└── 📂 scripts/          # Herramientas reutilizables en otros proyectos
+
+#Descargue de la nube el archivo “RNA-Seq-expression-Norilsk2019.csv” (https://tinyurl.com/RNA-seq-Norilsk2019) donde se encuentran los genes del RNA-seq del proyecto. Y lo guarde en la carpeta "data/".
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+2025-03-30  #FELIPE GARCÍA
+
+Busque otros modelos para poder hacer los calculos de R0 y la proyeccion a las 10 semanas. Lo que se me ocurrio fue primero buscar el modelo de calculo de R0 mas 
+ideal para los datos que tengo (Susceptible, infectados y muertos). Para estos datos el modelo ideal es el modelo SIRD (Susceptibles - Infectados - Recuperados - Muertos)
+
+1. Cálculo de 𝑅0
+ 
+Usaría un modelo SIRD con ajuste de parámetros para estimar 𝑅0, ya que:
+
+La tasa de recuperación (𝛾) puede aproximarse considerando que la mayoría de los removidos son fallecidos.
+
+La tasa de transmisión (𝛽) puede ajustarse a partir del crecimiento de infectados.
+
+Permite incluir la mortalidad de forma realista.
+
+Si los datos iniciales indican un crecimiento descontrolado, también usaría un ajuste exponencial para una primera estimación de 𝑅0.
+
+2. Proyección de la Epidemia (Hasta Semana 10)
+Modelo SIRD ajustado dinámicamente: Para predecir la evolución de la epidemia considerando el agotamiento de susceptibles.
+
+LSTM (Red Neuronal Recurrente): Para hacer predicciones basadas en patrones de crecimiento en los datos, complementando el modelo SIRD.
+
+3. Machine Learning para Optimización de Parámetros
+XGBoost o Random Forest: Para encontrar relaciones no lineales entre variables como tasa de mortalidad, infectados y posibles factores externos (si hay más datos disponibles).
+
+Physically Informed Neural Networks (PINNs): Para ajustar los parámetros del modelo SIRD con datos reales y mejorar las predicciones.
+
+¿Por qué esta combinación?
+SIRD proporciona estructura epidemiológica, permitiendo hacer predicciones basadas en la biología de la enfermedad.
+
+LSTM o Prophet ayudan a detectar tendencias y anomalías sin asumir ecuaciones fijas.
+
+XGBoost y PINNs optimizan la precisión al ajustar los parámetros epidemiológicos con ML.
+
+
+#INSTALE LOS SIGUIENTES PACKAGES:
+
+catboost==1.2.5		
+matplotlib==3.8.4	
+numpy==1.26.4		
+openpyxl==3.1.2			
+pandas==2.2.2		
+scikit-learn==1.4.2
+scikit-optimize==0.10.1 
+scipy==1.13.0		
+seaborn==0.13.2		
+shap==0.45.0		
+xgboost==2.0.3		
+openpyxl== 3.1.5	
+statsmodels== 0.14.4	
+tensorflow== 2.16.1
+
+*Este es el codigo de Python que me dio chatgpt:
+
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+from scipy.integrate import odeint
+from sklearn.ensemble import RandomForestRegressor
+from tensorflow.keras.models import Sequential
+from tensorflow.keras.layers import LSTM, Dense
+from tensorflow.keras.optimizers import Adam
+from scipy.optimize import curve_fit
+
+# Cargar los datos
+data = pd.read_csv('/mnt/data/Evolución_enfermedad_fiebre_de_Norilsk.csv')
+
+# Extraer columnas relevantes
+susceptibles = data['Susceptibles'].values
+infectados = data['Infectados'].values
+muertos = data['Muertos'].values
+tiempo = np.arange(len(data))
+
+# Estimar removidos (muertos asumidos como removidos)
+removidos = np.cumsum(muertos)
+
+# Definir el modelo SIRD
+def sird_model(y, t, beta, gamma, mu):
+    S, I, R = y
+    dSdt = -beta * S * I / (S + I + R)
+    dIdt = beta * S * I / (S + I + R) - gamma * I - mu * I
+    dRdt = gamma * I + mu * I
+    return [dSdt, dIdt, dRdt]
+
+# Función de ajuste de parámetros
+def fit_sird(t, beta, gamma, mu):
+    sol = odeint(sird_model, [S0, I0, R0], t, args=(beta, gamma, mu))
+    return sol[:, 1]  # Ajustar a los datos de infectados
+
+# Condiciones iniciales
+S0 = susceptibles[0]
+I0 = infectados[0]
+R0 = removidos[0]
+
+# Ajuste de parámetros con curve_fit
+params, _ = curve_fit(fit_sird, tiempo, infectados, p0=[0.4, 0.1, 0.05], bounds=(0, [1, 1, 1]))
+beta_opt, gamma_opt, mu_opt = params
+
+# Resolver la ODE con los parámetros ajustados
+sol = odeint(sird_model, [S0, I0, R0], tiempo, args=(beta_opt, gamma_opt, mu_opt))
+S_pred, I_pred, R_pred = sol.T
+
+# Gráfica de evolución
+plt.figure(figsize=(10,6))
+plt.plot(tiempo, S_pred, label='Susceptibles (Predicción)')
+plt.plot(tiempo, I_pred, label='Infectados (Predicción)')
+plt.plot(tiempo, R_pred, label='Removidos (Predicción)')
+plt.scatter(tiempo, susceptibles, label='Datos Susceptibles', color='blue', alpha=0.5)
+plt.scatter(tiempo, infectados, label='Datos Infectados', color='red', alpha=0.5)
+plt.scatter(tiempo, removidos, label='Datos Removidos', color='green', alpha=0.5)
+plt.legend()
+plt.xlabel('Tiempo (semanas)')
+plt.ylabel('Población')
+plt.title('Modelo SIRD - Proyección Epidemia con Parámetros Ajustados')
+plt.show()
+
+# Implementación de ML para mejorar la predicción con Random Forest
+X = np.column_stack([susceptibles, infectados, removidos])
+y = np.roll(infectados, -1)  # Predecir infectados en el siguiente paso
+model_rf = RandomForestRegressor(n_estimators=100)
+model_rf.fit(X[:-1], y[:-1])
+
+# Predicción con Random Forest
+pred_rf = model_rf.predict(X)
+
+# Implementación de LSTM para series temporales
+X_lstm = np.reshape(X, (X.shape[0], X.shape[1], 1))
+y_lstm = y
+model_lstm = Sequential([
+    LSTM(50, activation='relu', input_shape=(X.shape[1], 1)),
+    Dense(1)
+])
+model_lstm.compile(optimizer=Adam(), loss='mse')
+model_lstm.fit(X_lstm[:-1], y_lstm[:-1], epochs=50, verbose=0)
+
+# Predicción con LSTM
+pred_lstm = model_lstm.predict(X_lstm)
+
+# Graficar comparaciones
+plt.figure(figsize=(10,6))
+plt.plot(tiempo, infectados, label='Infectados Reales', color='red')
+plt.plot(tiempo, pred_rf, label='Predicción Random Forest', linestyle='dashed')
+plt.plot(tiempo, pred_lstm, label='Predicción LSTM', linestyle='dotted')
+plt.xlabel('Tiempo (semanas)')
+plt.ylabel('Número de Infectados')
+plt.title('Comparación de Modelos de Machine Learning')
+plt.legend()
+plt.show()
+
+
+*Este codigo es la base para los analisis.
+
+#Conclusion: Este modelo no fue tan ideal para mis calculos de momento. 
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#Volvi a probar los calculo sin el uso de ML.
+
+PACKAGES Instalados:
+
+numpy==1.26.4		
+matplotlib==3.8.4
+scipy==1.13.0
+ipywidgets==8.1.2
+
+Este es el codigo utilizado de momento:
+
+import numpy as np
+import matplotlib.pyplot as plt
+from scipy.integrate import odeint
+from ipywidgets import interact, FloatSlider, Dropdown
+
+# Datos de las ciudades
+ciudades = {
+    'Norilsk': {'poblacion': 180000, 'infectados_iniciales': 300, 'muertes_semana2': 300, 'muertes_semana3': 650},
+    'Kayerkan': {'poblacion': 25000, 'infectados_iniciales': 10, 'muertes_semana2': 120, 'muertes_semana3': 1000},
+    'Dudinka': {'poblacion': 20000, 'infectados_iniciales': 20, 'muertes_semana2': 60, 'muertes_semana3': 900}
+}
+
+def modelo_sird(y, t, beta, gamma, mu, N):
+    S, I, R, D = y
+    dSdt = -beta * S * I / N
+    dIdt = beta * S * I / N - (gamma + mu) * I
+    dRdt = gamma * I
+    dDdt = mu * I
+    return [dSdt, dIdt, dRdt, dDdt]
+
+@interact(
+    ciudad=Dropdown(options=list(ciudades.keys()), description='Ciudad'),
+    R0=FloatSlider(min=1.0, max=5.0, step=0.1, value=2.5, description='R₀'),
+    duracion_infeccion=FloatSlider(min=5, max=20, step=1, value=12, description='Duración (días)'),
+    CFR=FloatSlider(min=0.1, max=0.8, step=0.05, value=0.45, description='CFR')
+)
+def simular_epidemia(ciudad, R0, duracion_infeccion, CFR):
+    datos = ciudades[ciudad]
+    N = datos['poblacion']
+    I0 = datos['infectados_iniciales']
+    S0 = N - I0
+    
+    # Cálculo de parámetros
+    mu = CFR / duracion_infeccion
+    gamma = (1 - CFR) / duracion_infeccion
+    beta = R0 * (gamma + mu)
+    
+    # Simulación
+    t = np.linspace(0, 70, 70)
+    sol = odeint(modelo_sird, [S0, I0, 0, 0], t, args=(beta, gamma, mu, N))
+    S, I, R, D = sol.T
+    
+    # Puntos observados
+    obs_t = [0, 14, 21]  # Días (semana 1, 2, 3)
+    obs_I = [I0, datos['infectados_iniciales']*5, datos['infectados_iniciales']*16.7]  # Valores aproximados
+    obs_D = [0, datos['muertes_semana2'], datos['muertes_semana3']]
+    
+    # Visualización
+    plt.figure(figsize=(12, 6))
+    plt.plot(t, S, 'b-', label='Susceptibles', linewidth=2)
+    plt.plot(t, I, 'r--', label='Infectados', linewidth=2)
+    plt.plot(t, D, 'k-', label='Muertos', linewidth=2)
+    plt.scatter(obs_t, obs_I, color='r', s=100, marker='o', label='Infectados observados')
+    plt.scatter(obs_t, obs_D, color='k', s=100, marker='X', label='Muertes observadas')
+    
+    plt.title(f'Modelo SIRD - {ciudad}\n'
+              f'R₀ = {R0:.2f} | CFR = {CFR:.0%} | Duración infección = {duracion_infeccion} días\n'
+              f'Población: {N:,} | Proyección muertes semana 10: {int(D[-1]):,} ({D[-1]/N:.1%})',
+              pad=20)
+    
+    plt.xlabel('Días desde el inicio', fontsize=12)
+    plt.ylabel('Número de personas', fontsize=12)
+    plt.legend(bbox_to_anchor=(1.05, 1), loc='upper left')
+    plt.grid(True, alpha=0.3)
+    plt.tight_layout()
+    plt.show()
+    
+    # Resultados numéricos
+    print(f"\n🔍 Resultados para {ciudad}:")
+    print(f"- Pico de infección: {int(I.max()):,} personas (día {int(t[np.argmax(I)])})")
+    print(f"- Total infectados semana 10: {int(I[-1] + R[-1]):,} ({((I[-1]+R[-1])/N):.1%} población)")
+    print(f"- Muertes acumuladas semana 10: {int(D[-1]):,} ({D[-1]/N:.1%} población)")
+
+    Este codigo me genero unos graficos interactivos de cada ciudad, en la cual puedo modificar el R0 para poder medir la proyeccion de Infectados y Muertes a la 
+    semana 10. Pero tengo que modificarlo para que me entregue el R0 real de la enfermedad.
+
