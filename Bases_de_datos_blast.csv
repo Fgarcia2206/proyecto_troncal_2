@@ -1,0 +1,28 @@
+﻿Bases de Datos Nucleotídicas (para blastn/blastx/tblastx);;;
+Base de Datos;Descripción;Tamaño;Uso Recomendado
+nr;Todas las secuencias no redundantes (GenBank+RefSeq+PDB+otros);~300 GB;Búsqueda general más completa
+nt;Secuencias nucleotídicas de GenBank (no incluye RefSeq);~200 GB;Búsqueda en GenBank
+refseq_rna;Transcriptomas de RefSeq;~50 GB;Genes conocidos
+refseq_genomes;Genomas completos de RefSeq;~1 TB;Búsqueda en genomas completos
+refseq_viral;Secuencias virales de RefSeq;~5 GB;Virus específicamente
+env_nt;Secuencias ambientales/metagenómicas;~100 GB;Muestras ambientales
+patnt;Secuencias de patentes;~20 GB;Patentes biotecnológicas
+;;;
+;;;
+Bases de Datos de Proteínas (para blastp/tblastn);;;
+Base de Datos;Descripción;Tamaño;Uso Recomendado
+nr;Proteínas no redundantes;~100 GB;Búsqueda general
+refseq_protein;Proteínas de RefSeq;~30 GB;Proteínas anotadas
+swissprot;Proteínas curadas de UniProt;~1 GB;Alta calidad
+pdb;Estructuras proteicas del Protein Data Bank;~5 GB;Relación estructura-función
+env_nr;Proteínas de muestras metagenómicas;~50 GB;Estudios ambientales
+;;;
+;;;
+Bases de Datos Especializadas;;;
+Base de Datos;Descripción;;
+tsa_nt;Transcript Shotgun Assembly (secuencias de transcriptomas no anotadas);;
+htgs;High Throughput Genomic Sequences (genomas en proceso de ensamblaje);;
+gss;Genome Survey Sequences (secuencias genómicas parciales);;
+16S_ribosomal_RNA;Secuencias de rRNA 16S;;
+18S_fungal_sequences;Secuencias de rRNA 18S de hongos;;
+28S_fungal_sequences;Secuencias de rRNA 28S de hongos;;

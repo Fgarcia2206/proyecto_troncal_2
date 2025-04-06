@@ -1,0 +1,465 @@
+2025-04-05 15:07:35,505 - ERROR - Error en el proceso principal: 'FileNotFoundError' object has no attribute 'stderr'
+Traceback (most recent call last):
+  File "C:\Users\fgarc\AppData\Local\Temp\ipykernel_13380\2510061112.py", line 38, in validate_blast_installation
+    subprocess.run([BLAST_BIN, "-version"], capture_output=True, check=True)
+  File "C:\Users\fgarc\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 548, in run
+    with Popen(*popenargs, **kwargs) as process:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\fgarc\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 1026, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "C:\Users\fgarc\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 1538, in _execute_child
+    hp, ht, pid, tid = _winapi.CreateProcess(executable, args,
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [WinError 2] El sistema no puede encontrar el archivo especificado
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\fgarc\AppData\Local\Temp\ipykernel_13380\2510061112.py", line 114, in <module>
+    if not validate_blast_installation():
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\fgarc\AppData\Local\Temp\ipykernel_13380\2510061112.py", line 41, in validate_blast_installation
+    logging.error(f"Error al verificar BLAST+: {e.stderr.decode('utf-8')}")
+                                                ^^^^^^^^
+AttributeError: 'FileNotFoundError' object has no attribute 'stderr'
+2025-04-05 15:08:50,397 - ERROR - No se encontró el ejecutable de BLAST en: C:\Herramientas\BLAST\ncbi-blast-2.16.0+\bin\blastn.exe
+2025-04-05 15:08:50,406 - ERROR - Por favor, instala BLAST+ o verifica la ruta
+2025-04-05 15:08:50,415 - INFO - Procesando archivo de consulta: C:\Users\fgarc\OneDrive\Escritorio\Doctorado\Ramos\1° Semestre\Troncal\proyecto_troncal2\results\2025-03-30_FG\identificacion_patogeno\cleaned_sequences.fasta
+2025-04-05 15:08:50,419 - INFO - Ejecutando BLAST con: C:\Herramientas\BLAST\ncbi-blast-2.16.0+\bin\blastn.exe -query C:\Users\fgarc\OneDrive\Escritorio\Doctorado\Ramos\1° Semestre\Troncal\proyecto_troncal2\results\2025-03-30_FG\identificacion_patogeno\cleaned_sequences.fasta -db C:\blast_db\nr -out C:\Users\fgarc\OneDrive\Escritorio\Doctorado\Ramos\1° Semestre\Troncal\proyecto_troncal2\results\2025-03-30_FG\identificacion_patogeno\blast_results.xml -outfmt 5 -evalue 1e-5 -num_threads 8 -max_target_seqs 10
+2025-04-05 15:08:50,427 - ERROR - Error de archivo no encontrado: [WinError 2] El sistema no puede encontrar el archivo especificado
+2025-04-05 15:16:51,135 - ERROR - No se encontró el ejecutable de BLAST en: C:\Herramientas\BLAST\ncbi-blast-2.16.0+\bin\blastn.exe
+2025-04-05 15:16:51,137 - ERROR - Por favor, instala BLAST+ o verifica la ruta
+2025-04-05 15:16:51,141 - INFO - Procesando archivo de consulta: C:\Users\fgarc\OneDrive\Escritorio\Doctorado\Ramos\1° Semestre\Troncal\proyecto_troncal2\results\2025-03-30_FG\identificacion_patogeno\cleaned_sequences.fasta
+2025-04-05 15:16:51,145 - INFO - Ejecutando BLAST con: C:\Herramientas\BLAST\ncbi-blast-2.16.0+\bin\blastn.exe -query C:\Users\fgarc\OneDrive\Escritorio\Doctorado\Ramos\1° Semestre\Troncal\proyecto_troncal2\results\2025-03-30_FG\identificacion_patogeno\cleaned_sequences.fasta -db C:\blast_db\nr -out C:\Users\fgarc\OneDrive\Escritorio\Doctorado\Ramos\1° Semestre\Troncal\proyecto_troncal2\results\2025-03-30_FG\identificacion_patogeno\blast_results.xml -outfmt 5 -evalue 1e-5 -num_threads 8 -max_target_seqs 10
+2025-04-05 15:16:51,149 - ERROR - Error de archivo no encontrado: [WinError 2] El sistema no puede encontrar el archivo especificado
+2025-04-05 15:34:22,934 - ERROR - Error en BLAST+: El sistema no puede encontrar la ruta especificada.
+
+2025-04-05 15:34:22,934 - INFO - Cargando secuencias procesadas de: C:\Users\fgarc\OneDrive\Escritorio\Doctorado\Ramos\1° Semestre\Troncal\proyecto_troncal2\results\2025-03-30_FG\identificacion_patogeno\cleaned_sequences.fasta
+2025-04-05 15:34:22,950 - INFO - Iniciando análisis BLAST con:
+C:\Herramientas\BLAST\ncbi-blast-2.16.0+\bin\blastn.exe -query C:\Users\fgarc\OneDrive\Escritorio\Doctorado\Ramos\1° Semestre\Troncal\proyecto_troncal2\results\2025-03-30_FG\identificacion_patogeno\cleaned_sequences.fasta -db C:\blast_db\nr -out C:\Users\fgarc\OneDrive\Escritorio\Doctorado\Ramos\1° Semestre\Troncal\proyecto_troncal2\results\2025-03-30_FG\identificacion_patogeno\blast_results.xml -outfmt 5 -evalue 1e-5 -num_threads 8 -max_target_seqs 20 -word_size 28 -perc_identity 90
+2025-04-05 15:34:22,950 - ERROR - Error: [WinError 2] El sistema no puede encontrar el archivo especificado
+Asegúrate de que 01_preprocess.py se ejecutó correctamente
+2025-04-05 15:35:49,148 - INFO - Secuencias procesadas guardadas en: C:\Users\fgarc\OneDrive\Escritorio\Doctorado\Ramos\1° Semestre\Troncal\proyecto_troncal2\results\2025-03-30_FG\identificacion_patogeno\cleaned_sequences.fasta
+2025-04-05 15:35:56,245 - ERROR - Error en BLAST+: El sistema no puede encontrar la ruta especificada.
+
+2025-04-05 15:35:56,246 - INFO - Cargando secuencias procesadas de: C:\Users\fgarc\OneDrive\Escritorio\Doctorado\Ramos\1° Semestre\Troncal\proyecto_troncal2\results\2025-03-30_FG\identificacion_patogeno\cleaned_sequences.fasta
+2025-04-05 15:35:56,248 - INFO - Iniciando análisis BLAST con:
+C:\Herramientas\BLAST\ncbi-blast-2.16.0+\bin\blastn.exe -query C:\Users\fgarc\OneDrive\Escritorio\Doctorado\Ramos\1° Semestre\Troncal\proyecto_troncal2\results\2025-03-30_FG\identificacion_patogeno\cleaned_sequences.fasta -db C:\blast_db\nr -out C:\Users\fgarc\OneDrive\Escritorio\Doctorado\Ramos\1° Semestre\Troncal\proyecto_troncal2\results\2025-03-30_FG\identificacion_patogeno\blast_results.xml -outfmt 5 -evalue 1e-5 -num_threads 8 -max_target_seqs 20 -word_size 28 -perc_identity 90
+2025-04-05 15:35:56,250 - ERROR - Error: [WinError 2] El sistema no puede encontrar el archivo especificado
+Asegúrate de que 01_preprocess.py se ejecutó correctamente
+2025-04-05 15:40:16,163 - ERROR - Error en visualización: [Errno 2] No such file or directory: 'C:\\Users\\fgarc\\OneDrive\\Escritorio\\Doctorado\\Ramos\\1° Semestre\\Troncal\\proyecto_troncal2\\results\\2025-03-30_FG\\identificacion_patogeno\\blast_summary.csv'
+Traceback (most recent call last):
+  File "C:\Users\fgarc\AppData\Local\Temp\ipykernel_18448\639328102.py", line 47, in <module>
+    plot_file = generate_blast_plot()
+                ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\fgarc\AppData\Local\Temp\ipykernel_18448\639328102.py", line 24, in generate_blast_plot
+    df = pd.read_csv(csv_path)
+         ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\python_env\proyecto_troncal2\Lib\site-packages\pandas\io\parsers\readers.py", line 1026, in read_csv
+    return _read(filepath_or_buffer, kwds)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\python_env\proyecto_troncal2\Lib\site-packages\pandas\io\parsers\readers.py", line 620, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\python_env\proyecto_troncal2\Lib\site-packages\pandas\io\parsers\readers.py", line 1620, in __init__
+    self._engine = self._make_engine(f, self.engine)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\python_env\proyecto_troncal2\Lib\site-packages\pandas\io\parsers\readers.py", line 1880, in _make_engine
+    self.handles = get_handle(
+                   ^^^^^^^^^^^
+  File "c:\python_env\proyecto_troncal2\Lib\site-packages\pandas\io\common.py", line 873, in get_handle
+    handle = open(
+             ^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\fgarc\\OneDrive\\Escritorio\\Doctorado\\Ramos\\1° Semestre\\Troncal\\proyecto_troncal2\\results\\2025-03-30_FG\\identificacion_patogeno\\blast_summary.csv'
+2025-04-05 15:41:18,550 - INFO - Iniciando análisis BLAST...
+2025-04-05 15:41:18,556 - ERROR - Base de datos NR no encontrado en: C:\blast_db\nr.nhr
+2025-04-05 15:56:31,420 - INFO - Procesadas 24 secuencias. Guardadas en: C:\Users\fgarc\OneDrive\Escritorio\Doctorado\Ramos\1° Semestre\Troncal\proyecto_troncal2\results\2025-03-30_FG\identificacion_patogeno\cleaned_sequences.fasta
+2025-04-05 15:57:18,168 - ERROR - Error en verificación: [WinError 2] El sistema no puede encontrar el archivo especificado
+2025-04-05 15:57:18,170 - INFO - Procesando archivo de consulta: C:\Users\fgarc\OneDrive\Escritorio\Doctorado\Ramos\1° Semestre\Troncal\proyecto_troncal2\results\2025-03-30_FG\identificacion_patogeno\cleaned_sequences.fasta
+2025-04-05 15:57:18,172 - ERROR - Error inesperado: Archivo de consulta no encontrado: C:\Users\fgarc\OneDrive\Escritorio\Doctorado\Ramos\1° Semestre\Troncal\proyecto_troncal2\results\2025-03-30_FG\identificacion_patogeno\cleaned_sequences.fasta
+Traceback (most recent call last):
+  File "C:\Users\fgarc\AppData\Local\Temp\ipykernel_18448\3358065496.py", line 190, in <module>
+    blast_results = run_blast(query_seq, db=BLAST_DB_VIRAL)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\fgarc\AppData\Local\Temp\ipykernel_18448\3358065496.py", line 68, in run_blast
+    raise FileNotFoundError(f"Archivo de consulta no encontrado: {query}")
+FileNotFoundError: Archivo de consulta no encontrado: C:\Users\fgarc\OneDrive\Escritorio\Doctorado\Ramos\1° Semestre\Troncal\proyecto_troncal2\results\2025-03-30_FG\identificacion_patogeno\cleaned_sequences.fasta
+2025-04-05 15:59:43,612 - ERROR - Error en verificación: [WinError 2] El sistema no puede encontrar el archivo especificado
+2025-04-05 15:59:43,614 - INFO - Procesando archivo de consulta: C:\Users\fgarc\OneDrive\Escritorio\Doctorado\Ramos\1° Semestre\Troncal\proyecto_troncal2\results\2025-03-30_FG\identificacion_patogeno\cleaned_sequences.fasta
+2025-04-05 15:59:43,616 - ERROR - Error inesperado: Archivo de consulta no encontrado: C:\Users\fgarc\OneDrive\Escritorio\Doctorado\Ramos\1° Semestre\Troncal\proyecto_troncal2\results\2025-03-30_FG\identificacion_patogeno\cleaned_sequences.fasta
+Traceback (most recent call last):
+  File "C:\Users\fgarc\AppData\Local\Temp\ipykernel_18448\3721777369.py", line 190, in <module>
+    blast_results = run_blast(query_seq, db=BLAST_DB_VIRAL)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\fgarc\AppData\Local\Temp\ipykernel_18448\3721777369.py", line 68, in run_blast
+    raise FileNotFoundError(f"Archivo de consulta no encontrado: {query}")
+FileNotFoundError: Archivo de consulta no encontrado: C:\Users\fgarc\OneDrive\Escritorio\Doctorado\Ramos\1° Semestre\Troncal\proyecto_troncal2\results\2025-03-30_FG\identificacion_patogeno\cleaned_sequences.fasta
+2025-04-05 16:00:47,491 - ERROR - Error en verificación: [WinError 2] El sistema no puede encontrar el archivo especificado
+2025-04-05 16:00:47,493 - INFO - Procesando archivo de consulta: C:\Users\fgarc\OneDrive\Escritorio\Doctorado\Ramos\1° Semestre\Troncal\proyecto_troncal2\results\2025-03-30_FG\identificacion_patogeno\cleaned_sequences.fasta
+2025-04-05 16:00:47,495 - ERROR - Error inesperado: Archivo de consulta no encontrado: C:\Users\fgarc\OneDrive\Escritorio\Doctorado\Ramos\1° Semestre\Troncal\proyecto_troncal2\results\2025-03-30_FG\identificacion_patogeno\cleaned_sequences.fasta
+Traceback (most recent call last):
+  File "C:\Users\fgarc\AppData\Local\Temp\ipykernel_18448\169929354.py", line 190, in <module>
+    blast_results = run_blast(query_seq, db=BLAST_DB_VIRAL)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\fgarc\AppData\Local\Temp\ipykernel_18448\169929354.py", line 68, in run_blast
+    raise FileNotFoundError(f"Archivo de consulta no encontrado: {query}")
+FileNotFoundError: Archivo de consulta no encontrado: C:\Users\fgarc\OneDrive\Escritorio\Doctorado\Ramos\1° Semestre\Troncal\proyecto_troncal2\results\2025-03-30_FG\identificacion_patogeno\cleaned_sequences.fasta
+2025-04-05 16:00:49,469 - ERROR - Error en verificación: [WinError 2] El sistema no puede encontrar el archivo especificado
+2025-04-05 16:00:49,472 - INFO - Procesando archivo de consulta: C:\Users\fgarc\OneDrive\Escritorio\Doctorado\Ramos\1° Semestre\Troncal\proyecto_troncal2\results\2025-03-30_FG\identificacion_patogeno\cleaned_sequences.fasta
+2025-04-05 16:00:49,477 - ERROR - Error inesperado: Archivo de consulta no encontrado: C:\Users\fgarc\OneDrive\Escritorio\Doctorado\Ramos\1° Semestre\Troncal\proyecto_troncal2\results\2025-03-30_FG\identificacion_patogeno\cleaned_sequences.fasta
+Traceback (most recent call last):
+  File "C:\Users\fgarc\AppData\Local\Temp\ipykernel_18448\169929354.py", line 190, in <module>
+    blast_results = run_blast(query_seq, db=BLAST_DB_VIRAL)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\fgarc\AppData\Local\Temp\ipykernel_18448\169929354.py", line 68, in run_blast
+    raise FileNotFoundError(f"Archivo de consulta no encontrado: {query}")
+FileNotFoundError: Archivo de consulta no encontrado: C:\Users\fgarc\OneDrive\Escritorio\Doctorado\Ramos\1° Semestre\Troncal\proyecto_troncal2\results\2025-03-30_FG\identificacion_patogeno\cleaned_sequences.fasta
+2025-04-05 16:01:58,214 - ERROR - Error en verificación: [WinError 2] El sistema no puede encontrar el archivo especificado
+2025-04-05 16:01:58,214 - INFO - Procesando archivo de consulta: C:\Users\fgarc\OneDrive\Escritorio\Doctorado\Ramos\1° Semestre\Troncal\proyecto_troncal2\results\2025-03-30_FG\identificacion_patogeno\cleaned_sequences.fasta
+2025-04-05 16:01:58,221 - ERROR - Error inesperado: Archivo de consulta no encontrado: C:\Users\fgarc\OneDrive\Escritorio\Doctorado\Ramos\1° Semestre\Troncal\proyecto_troncal2\results\2025-03-30_FG\identificacion_patogeno\cleaned_sequences.fasta
+Traceback (most recent call last):
+  File "C:\Users\fgarc\AppData\Local\Temp\ipykernel_18448\1931534803.py", line 190, in <module>
+    blast_results = run_blast(query_seq, db=BLAST_DB_VIRAL)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\fgarc\AppData\Local\Temp\ipykernel_18448\1931534803.py", line 68, in run_blast
+    raise FileNotFoundError(f"Archivo de consulta no encontrado: {query}")
+FileNotFoundError: Archivo de consulta no encontrado: C:\Users\fgarc\OneDrive\Escritorio\Doctorado\Ramos\1° Semestre\Troncal\proyecto_troncal2\results\2025-03-30_FG\identificacion_patogeno\cleaned_sequences.fasta
+2025-04-05 16:01:59,970 - ERROR - Error en verificación: [WinError 2] El sistema no puede encontrar el archivo especificado
+2025-04-05 16:01:59,972 - INFO - Procesando archivo de consulta: C:\Users\fgarc\OneDrive\Escritorio\Doctorado\Ramos\1° Semestre\Troncal\proyecto_troncal2\results\2025-03-30_FG\identificacion_patogeno\cleaned_sequences.fasta
+2025-04-05 16:01:59,974 - ERROR - Error inesperado: Archivo de consulta no encontrado: C:\Users\fgarc\OneDrive\Escritorio\Doctorado\Ramos\1° Semestre\Troncal\proyecto_troncal2\results\2025-03-30_FG\identificacion_patogeno\cleaned_sequences.fasta
+Traceback (most recent call last):
+  File "C:\Users\fgarc\AppData\Local\Temp\ipykernel_18448\1931534803.py", line 190, in <module>
+    blast_results = run_blast(query_seq, db=BLAST_DB_VIRAL)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\fgarc\AppData\Local\Temp\ipykernel_18448\1931534803.py", line 68, in run_blast
+    raise FileNotFoundError(f"Archivo de consulta no encontrado: {query}")
+FileNotFoundError: Archivo de consulta no encontrado: C:\Users\fgarc\OneDrive\Escritorio\Doctorado\Ramos\1° Semestre\Troncal\proyecto_troncal2\results\2025-03-30_FG\identificacion_patogeno\cleaned_sequences.fasta
+2025-04-05 16:04:06,183 - INFO - Procesadas 24 secuencias. Guardadas en: C:\Users\fgarc\OneDrive\Escritorio\Doctorado\Ramos\1° Semestre\Troncal\proyecto_troncal2\results\2025-03-30_FG\identificacion_patogeno\cleaned_sequences.fasta
+2025-04-05 16:07:00,441 - INFO - Procesadas 24 secuencias. Guardadas en: C:\Users\fgarc\OneDrive\Escritorio\Doctorado\Ramos\1° Semestre\Troncal\proyecto_troncal2\results\2025-03-30_FG\identificacion_patogeno\cleaned_sequences.fasta
+2025-04-05 16:07:00,445 - INFO - Puedes abrir el archivo en un editor de texto: C:\Users\fgarc\OneDrive\Escritorio\Doctorado\Ramos\1° Semestre\Troncal\proyecto_troncal2\results\2025-03-30_FG\identificacion_patogeno\cleaned_sequences.fasta
+2025-04-05 16:07:36,602 - ERROR - Error en verificación: [WinError 2] El sistema no puede encontrar el archivo especificado
+2025-04-05 16:07:36,604 - INFO - Procesando archivo de consulta: C:\Users\fgarc\OneDrive\Escritorio\Doctorado\Ramos\1° Semestre\Troncal\proyecto_troncal2\results\2025-03-30_FG\identificacion_patogeno\cleaned_sequences.fasta
+2025-04-05 16:07:36,605 - INFO - Ejecutando BLAST contra C:\blast_db\refseq_viral_genomes con parámetros:
+C:\Herramientas\ncbi-blast-2.16.0\bin\blastn -query C:\Users\fgarc\OneDrive\Escritorio\Doctorado\Ramos\1° Semestre\Troncal\proyecto_troncal2\results\2025-03-30_FG\identificacion_patogeno\cleaned_sequences.fasta -db C:\blast_db\refseq_viral_genomes -out C:\Users\fgarc\OneDrive\Escritorio\Doctorado\Ramos\1° Semestre\Troncal\proyecto_troncal2\results\2025-03-30_FG\identificacion_patogeno\blast_results_refseq_viral_genomes.xml -outfmt 5 -evalue 1e-10 -num_threads 8 -max_target_seqs 50 -perc_identity 70 -word_size 28 -reward 1 -penalty -2 -gapopen 2 -gapextend 2
+2025-04-05 16:07:36,607 - ERROR - Error inesperado: [WinError 2] El sistema no puede encontrar el archivo especificado
+Traceback (most recent call last):
+  File "C:\Users\fgarc\AppData\Local\Temp\ipykernel_18448\1931534803.py", line 190, in <module>
+    blast_results = run_blast(query_seq, db=BLAST_DB_VIRAL)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\fgarc\AppData\Local\Temp\ipykernel_18448\1931534803.py", line 89, in run_blast
+    subprocess.run(cmd, check=True)
+  File "C:\Users\fgarc\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 548, in run
+    with Popen(*popenargs, **kwargs) as process:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\fgarc\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 1026, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "C:\Users\fgarc\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 1538, in _execute_child
+    hp, ht, pid, tid = _winapi.CreateProcess(executable, args,
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [WinError 2] El sistema no puede encontrar el archivo especificado
+2025-04-05 16:10:44,846 - ERROR - Error en verificación: [WinError 2] El sistema no puede encontrar el archivo especificado
+2025-04-05 16:10:44,848 - INFO - Procesando archivo de consulta: C:\Users\fgarc\OneDrive\Escritorio\Doctorado\Ramos\1° Semestre\Troncal\proyecto_troncal2\results\2025-03-30_FG\identificacion_patogeno\cleaned_sequences.fasta
+2025-04-05 16:10:44,851 - INFO - Ejecutando BLAST contra C:\blast_db\refseq_viral_genomes con parámetros:
+C:\Herramientas\ncbi-blast-2.16.0\bin\blastn.exe -query C:\Users\fgarc\OneDrive\Escritorio\Doctorado\Ramos\1° Semestre\Troncal\proyecto_troncal2\results\2025-03-30_FG\identificacion_patogeno\cleaned_sequences.fasta -db C:\blast_db\refseq_viral_genomes -out C:\Users\fgarc\OneDrive\Escritorio\Doctorado\Ramos\1° Semestre\Troncal\proyecto_troncal2\results\2025-03-30_FG\identificacion_patogeno\blast_results_refseq_viral_genomes.xml -outfmt 5 -evalue 1e-10 -num_threads 8 -max_target_seqs 50 -perc_identity 70 -word_size 28 -reward 1 -penalty -2 -gapopen 2 -gapextend 2
+2025-04-05 16:10:44,855 - ERROR - Error inesperado: [WinError 2] El sistema no puede encontrar el archivo especificado
+Traceback (most recent call last):
+  File "C:\Users\fgarc\AppData\Local\Temp\ipykernel_18448\3059479069.py", line 190, in <module>
+    blast_results = run_blast(query_seq, db=BLAST_DB_VIRAL)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\fgarc\AppData\Local\Temp\ipykernel_18448\3059479069.py", line 89, in run_blast
+    subprocess.run(cmd, check=True)
+  File "C:\Users\fgarc\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 548, in run
+    with Popen(*popenargs, **kwargs) as process:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\fgarc\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 1026, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "C:\Users\fgarc\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 1538, in _execute_child
+    hp, ht, pid, tid = _winapi.CreateProcess(executable, args,
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [WinError 2] El sistema no puede encontrar el archivo especificado
+2025-04-05 16:26:12,845 - INFO - Iniciando BLAST remoto con 24 secuencias contra refseq_viral
+2025-04-05 16:26:12,847 - ERROR - Error en BLAST remoto: qblast() got an unexpected keyword argument 'email'
+2025-04-05 16:26:12,850 - ERROR - Error inesperado: qblast() got an unexpected keyword argument 'email'
+Traceback (most recent call last):
+  File "C:\Users\fgarc\AppData\Local\Temp\ipykernel_18448\1960315663.py", line 154, in <module>
+    blast_results = run_remote_blast(query_seq)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\fgarc\AppData\Local\Temp\ipykernel_18448\1960315663.py", line 57, in run_remote_blast
+    handle = NCBIWWW.qblast(
+             ^^^^^^^^^^^^^^^
+TypeError: qblast() got an unexpected keyword argument 'email'
+2025-04-05 16:27:41,185 - INFO - Iniciando BLAST remoto con 24 secuencias contra refseq_viral
+2025-04-05 16:27:41,187 - ERROR - Error en BLAST remoto: qblast() got an unexpected keyword argument 'email'
+2025-04-05 16:27:41,187 - ERROR - Error inesperado: qblast() got an unexpected keyword argument 'email'
+Traceback (most recent call last):
+  File "C:\Users\fgarc\AppData\Local\Temp\ipykernel_18448\3493566579.py", line 153, in <module>
+    blast_results = run_remote_blast(query_seq)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\fgarc\AppData\Local\Temp\ipykernel_18448\3493566579.py", line 56, in run_remote_blast
+    handle = NCBIWWW.qblast(
+             ^^^^^^^^^^^^^^^
+TypeError: qblast() got an unexpected keyword argument 'email'
+2025-04-05 16:28:21,871 - INFO - Iniciando BLAST remoto con 24 secuencias contra refseq_viral
+2025-04-05 16:29:24,164 - INFO - Resultados BLAST guardados en: C:\Users\fgarc\OneDrive\Escritorio\Doctorado\Ramos\1° Semestre\Troncal\proyecto_troncal2\results\2025-03-30_FG\identificacion_patogeno\remote_blast_results.xml
+2025-04-05 16:29:24,239 - ERROR - Error al parsear resultados: module 'Bio.Blast.NCBIWWW' has no attribute 'parse'
+2025-04-05 16:29:24,243 - ERROR - Error inesperado: module 'Bio.Blast.NCBIWWW' has no attribute 'parse'
+Traceback (most recent call last):
+  File "C:\Users\fgarc\AppData\Local\Temp\ipykernel_18448\3035620889.py", line 165, in <module>
+    df = parse_blast_results(blast_results)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\fgarc\AppData\Local\Temp\ipykernel_18448\3035620889.py", line 87, in parse_blast_results
+    blast_records = NCBIWWW.parse(StringIO(content))
+                    ^^^^^^^^^^^^^
+AttributeError: module 'Bio.Blast.NCBIWWW' has no attribute 'parse'
+2025-04-05 17:23:33,261 - ERROR - Error inesperado: No se encontró el archivo de consulta: cleaned_sequences.fasta
+Traceback (most recent call last):
+  File "C:\Users\fgarc\AppData\Local\Temp\ipykernel_18448\2686109624.py", line 195, in <module>
+    raise FileNotFoundError(f"No se encontró el archivo de consulta: {query_seq}")
+FileNotFoundError: No se encontró el archivo de consulta: cleaned_sequences.fasta
+2025-04-05 17:24:10,046 - INFO - Iniciando BLAST remoto con 24 secuencias
+2025-04-05 17:24:10,047 - INFO - Parámetros: word_size=11, gapcosts=5 2, evalue=1e-10
+2025-04-05 17:24:10,050 - ERROR - Error en BLAST remoto: qblast() got an unexpected keyword argument 'penalty'
+2025-04-05 17:24:10,050 - ERROR - Error inesperado: qblast() got an unexpected keyword argument 'penalty'
+Traceback (most recent call last):
+  File "C:\Users\fgarc\AppData\Local\Temp\ipykernel_18448\3051605359.py", line 210, in <module>
+    blast_results = run_remote_blast(query_seq, **custom_params)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\fgarc\AppData\Local\Temp\ipykernel_18448\3051605359.py", line 96, in run_remote_blast
+    handle = NCBIWWW.qblast(**blast_params)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: qblast() got an unexpected keyword argument 'penalty'
+2025-04-05 17:26:52,824 - ERROR - Error inesperado: No se encontró el archivo de consulta: cleaned_sequences.fasta
+Traceback (most recent call last):
+  File "C:\Users\fgarc\AppData\Local\Temp\ipykernel_18448\235188124.py", line 176, in <module>
+    raise FileNotFoundError(f"No se encontró el archivo de consulta: {query_seq}")
+FileNotFoundError: No se encontró el archivo de consulta: cleaned_sequences.fasta
+2025-04-05 17:27:12,535 - INFO - Iniciando BLAST remoto con 24 secuencias
+2025-04-05 17:27:12,537 - INFO - Parámetros: word_size=11, gapcosts=5 2, evalue=1e-10
+2025-04-05 17:31:14,758 - INFO - Resultados guardados en: results\blast_analysis\blast_results.xml
+2025-04-05 17:31:14,926 - INFO - Resultados detallados guardados en: results\blast_analysis\blast_results_detailed.csv
+2025-04-05 17:31:14,927 - WARNING - No se encontraron hits significativos
+2025-04-05 17:34:51,198 - INFO - Iniciando BLAST remoto con 24 secuencias
+2025-04-05 17:34:51,198 - INFO - Parámetros: word_size=11, gapcosts=5 2, evalue=1e-05
+2025-04-05 17:35:53,341 - INFO - Resultados guardados en: results\blast_analysis\blast_results.xml
+2025-04-05 17:35:53,370 - INFO - Resultados detallados guardados en: results\blast_analysis\blast_results_detailed.csv
+2025-04-05 17:35:53,371 - WARNING - No se encontraron hits significativos
+2025-04-05 17:35:53,373 - WARNING - 
+    No se encontraron hits significativos. Recomendaciones:
+    1. Aumentar el e_value (ej. 1e-3)
+    2. Reducir el word_size (ej. 7 para mayor sensibilidad)
+    3. Cambiar la base de datos (ej. 'nr' o 'nt')
+    4. Verificar la calidad de las secuencias de entrada
+    5. Considerar usar blastx si son secuencias codificantes
+    
+2025-04-05 17:37:00,033 - INFO - Iniciando BLAST remoto con 24 secuencias
+2025-04-05 17:37:00,035 - INFO - Parámetros: word_size=7, gapcosts=5 2, evalue=0.001
+2025-04-05 17:38:01,983 - INFO - Resultados guardados en: results\blast_analysis\blast_results.xml
+2025-04-05 17:38:02,014 - INFO - Resultados detallados guardados en: results\blast_analysis\blast_results_detailed.csv
+2025-04-05 17:38:02,014 - WARNING - No se encontraron hits significativos
+2025-04-05 17:38:02,016 - WARNING - 
+    No se encontraron hits significativos. Recomendaciones:
+    1. Aumentar el e_value 
+    2. Reducir el word_size 
+    3. Cambiar la base de datos (ej. 'nr' o 'nt')
+    4. Verificar la calidad de las secuencias de entrada
+    5. Considerar usar blastx si son secuencias codificantes
+    
+2025-04-05 17:40:17,448 - INFO - Iniciando BLAST remoto con 24 secuencias
+2025-04-05 17:40:17,460 - INFO - Parámetros: word_size=7, gapcosts=5 2, evalue=0.001
+2025-04-05 17:43:19,255 - INFO - Resultados guardados en: results\blast_analysis\blast_results.xml
+2025-04-05 17:43:19,320 - INFO - Resultados detallados guardados en: results\blast_analysis\blast_results_detailed.csv
+2025-04-05 17:43:19,327 - WARNING - No se encontraron hits significativos
+2025-04-05 17:43:19,331 - WARNING - 
+    No se encontraron hits significativos. Recomendaciones:
+    1. Aumentar el e_value 
+    2. Reducir el word_size 
+    3. Cambiar la base de datos (ej. 'nr' o 'nt')
+    4. Verificar la calidad de las secuencias de entrada
+    5. Considerar usar blastx si son secuencias codificantes
+    
+2025-04-05 17:44:24,821 - INFO - Iniciando BLAST remoto con 24 secuencias
+2025-04-05 17:44:24,836 - INFO - Parámetros: word_size=7, gapcosts=5 2, evalue=0.001
+2025-04-05 19:06:01,719 - INFO - Iniciando BLAST remoto con 24 secuencias
+2025-04-05 19:06:01,720 - INFO - Parámetros: word_size=7, gapcosts=5 2, evalue=0.001
+2025-04-05 19:09:03,629 - INFO - Resultados guardados en: results\blast_analysis\blast_results.xml
+2025-04-05 19:09:03,706 - INFO - Resultados detallados guardados en: results\blast_analysis\blast_results_detailed.csv
+2025-04-05 19:09:03,711 - WARNING - No se encontraron hits significativos
+2025-04-05 19:09:03,715 - WARNING - 
+    No se encontraron hits significativos. Recomendaciones:
+    1. Aumentar el e_value 
+    2. Reducir el word_size 
+    3. Cambiar la base de datos (ej. 'nr' o 'nt')
+    4. Verificar la calidad de las secuencias de entrada
+    5. Considerar usar blastx si son secuencias codificantes
+    
+2025-04-05 19:13:19,614 - ERROR - Error en visualización: [Errno 2] No such file or directory: 'C:\\Users\\fgarc\\OneDrive\\Escritorio\\Doctorado\\Ramos\\1° Semestre\\Troncal\\proyecto_troncal2\\results\\2025-03-30_FG\\identificacion_patogeno\\blast_results_detailed.csv'
+Traceback (most recent call last):
+  File "C:\Users\fgarc\AppData\Local\Temp\ipykernel_18448\2759041587.py", line 144, in <module>
+    plots = plot_blast_results()
+            ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\fgarc\AppData\Local\Temp\ipykernel_18448\2759041587.py", line 37, in plot_blast_results
+    df = pd.read_csv(csv_path)
+         ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\python_env\proyecto_troncal2\Lib\site-packages\pandas\io\parsers\readers.py", line 1026, in read_csv
+    return _read(filepath_or_buffer, kwds)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\python_env\proyecto_troncal2\Lib\site-packages\pandas\io\parsers\readers.py", line 620, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\python_env\proyecto_troncal2\Lib\site-packages\pandas\io\parsers\readers.py", line 1620, in __init__
+    self._engine = self._make_engine(f, self.engine)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\python_env\proyecto_troncal2\Lib\site-packages\pandas\io\parsers\readers.py", line 1880, in _make_engine
+    self.handles = get_handle(
+                   ^^^^^^^^^^^
+  File "c:\python_env\proyecto_troncal2\Lib\site-packages\pandas\io\common.py", line 873, in get_handle
+    handle = open(
+             ^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\fgarc\\OneDrive\\Escritorio\\Doctorado\\Ramos\\1° Semestre\\Troncal\\proyecto_troncal2\\results\\2025-03-30_FG\\identificacion_patogeno\\blast_results_detailed.csv'
+2025-04-05 19:20:18,618 - INFO - Iniciando BLAST remoto con 24 secuencias
+2025-04-05 19:20:18,618 - INFO - Parámetros: word_size=7, gapcosts=5 2, evalue=0.001
+2025-04-05 19:20:18,618 - ERROR - Error en BLAST remoto: Program specified is megablast. Expected one of blastn, blastp, blastx, tblastn, tblastx
+2025-04-05 19:20:18,626 - ERROR - Error inesperado: Program specified is megablast. Expected one of blastn, blastp, blastx, tblastn, tblastx
+Traceback (most recent call last):
+  File "C:\Users\fgarc\AppData\Local\Temp\ipykernel_18448\3128188137.py", line 188, in <module>
+    blast_results = run_remote_blast(query_seq, **custom_params)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\fgarc\AppData\Local\Temp\ipykernel_18448\3128188137.py", line 82, in run_remote_blast
+    handle = NCBIWWW.qblast(**blast_params)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\python_env\proyecto_troncal2\Lib\site-packages\Bio\Blast\NCBIWWW.py", line 141, in qblast
+    raise ValueError(
+ValueError: Program specified is megablast. Expected one of blastn, blastp, blastx, tblastn, tblastx
+2025-04-05 19:20:18,629 - WARNING - 
+    No se encontraron hits significativos. Recomendaciones:
+    1. Aumentar el e_value 
+    2. Reducir el word_size 
+    3. Cambiar la base de datos (ej. 'nr' o 'nt')
+    4. Verificar la calidad de las secuencias de entrada
+    5. Considerar usar blastx si son secuencias codificantes
+    
+2025-04-05 19:21:14,520 - INFO - Iniciando BLAST remoto con 24 secuencias
+2025-04-05 19:21:14,521 - INFO - Parámetros: word_size=7, gapcosts=5 2, evalue=0.001
+2025-04-05 19:29:16,314 - INFO - Resultados guardados en: results\blast_analysis\blast_results.xml
+2025-04-05 19:29:16,439 - INFO - Resultados detallados guardados en: results\blast_analysis\blast_results_detailed.csv
+2025-04-05 19:29:16,455 - INFO - Resumen de resultados guardado en: results\blast_analysis\blast_results_summary.csv
+2025-04-05 19:29:16,470 - INFO - 
+Mejores hits encontrados:
+             evalue  bit_score  percent_identity  query_id  \
+organism                                                     
+Desconocido     0.0    655.909         76.809584        51   
+
+                                                 hit_accession  
+organism                                                        
+Desconocido  KA652115, LA010820, LA010821, LA020528, LA0349...  
+2025-04-05 19:30:23,159 - ERROR - Error en visualización: [Errno 2] No such file or directory: 'C:\\Users\\fgarc\\OneDrive\\Escritorio\\Doctorado\\Ramos\\1° Semestre\\Troncal\\proyecto_troncal2\\results\\2025-03-30_FG\\identificacion_patogeno\\blast_results_detailed.csv'
+Traceback (most recent call last):
+  File "C:\Users\fgarc\AppData\Local\Temp\ipykernel_18448\2759041587.py", line 144, in <module>
+    plots = plot_blast_results()
+            ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\fgarc\AppData\Local\Temp\ipykernel_18448\2759041587.py", line 37, in plot_blast_results
+    df = pd.read_csv(csv_path)
+         ^^^^^^^^^^^^^^^^^^^^^
+  File "c:\python_env\proyecto_troncal2\Lib\site-packages\pandas\io\parsers\readers.py", line 1026, in read_csv
+    return _read(filepath_or_buffer, kwds)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\python_env\proyecto_troncal2\Lib\site-packages\pandas\io\parsers\readers.py", line 620, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\python_env\proyecto_troncal2\Lib\site-packages\pandas\io\parsers\readers.py", line 1620, in __init__
+    self._engine = self._make_engine(f, self.engine)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\python_env\proyecto_troncal2\Lib\site-packages\pandas\io\parsers\readers.py", line 1880, in _make_engine
+    self.handles = get_handle(
+                   ^^^^^^^^^^^
+  File "c:\python_env\proyecto_troncal2\Lib\site-packages\pandas\io\common.py", line 873, in get_handle
+    handle = open(
+             ^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\fgarc\\OneDrive\\Escritorio\\Doctorado\\Ramos\\1° Semestre\\Troncal\\proyecto_troncal2\\results\\2025-03-30_FG\\identificacion_patogeno\\blast_results_detailed.csv'
+2025-04-05 19:36:28,845 - INFO - Iniciando BLAST remoto con 24 secuencias
+2025-04-05 19:36:28,848 - INFO - Parámetros: word_size=7, gapcosts=5 2, evalue=0.001
+2025-04-05 19:47:30,869 - INFO - Resultados guardados en: C:\Users\fgarc\OneDrive\Escritorio\Doctorado\Ramos\1° Semestre\Troncal\proyecto_troncal2\results\2025-03-30_FG\identificacion_patogeno\blast_results.xml
+2025-04-05 19:47:30,902 - INFO - Resultados detallados guardados en: C:\Users\fgarc\OneDrive\Escritorio\Doctorado\Ramos\1° Semestre\Troncal\proyecto_troncal2\results\2025-03-30_FG\identificacion_patogeno\blast_results_detailed.csv
+2025-04-05 19:47:30,910 - INFO - Resumen de resultados guardado en: C:\Users\fgarc\OneDrive\Escritorio\Doctorado\Ramos\1° Semestre\Troncal\proyecto_troncal2\results\2025-03-30_FG\identificacion_patogeno\blast_results_summary.csv
+2025-04-05 19:47:30,913 - INFO - 
+Mejores hits encontrados:
+             evalue  bit_score  percent_identity  query_id  \
+organism                                                     
+Desconocido     0.0    655.909         76.809584        51   
+
+                                                 hit_accession  
+organism                                                        
+Desconocido  KA652115, LA010820, LA010821, LA020528, LA0349...  
+2025-04-05 19:47:55,811 - INFO - Gráficos guardados en:
+- C:\Users\fgarc\OneDrive\Escritorio\Doctorado\Ramos\1° Semestre\Troncal\proyecto_troncal2\results\2025-03-30_FG\identificacion_patogeno\blast_top_organisms.png
+- C:\Users\fgarc\OneDrive\Escritorio\Doctorado\Ramos\1° Semestre\Troncal\proyecto_troncal2\results\2025-03-30_FG\identificacion_patogeno\blast_identity_heatmap.png
+- C:\Users\fgarc\OneDrive\Escritorio\Doctorado\Ramos\1° Semestre\Troncal\proyecto_troncal2\results\2025-03-30_FG\identificacion_patogeno\blast_evalue_distribution.png
+2025-04-05 19:47:55,811 - WARNING - Archivo de alineamiento no encontrado. Ejecuta CLUSTAL primero.
+2025-04-05 19:49:10,804 - INFO - Ejecutando Clustal Omega con: "C:\Program Files\Clustal\Omega\clustalo.exe" -i "C:\Users\fgarc\OneDrive\Escritorio\Doctorado\Ramos\1° Semestre\Troncal\proyecto_troncal2\results\2025-03-30_FG\identificacion_patogeno\cleaned_sequences.fasta" -o "C:\Users\fgarc\OneDrive\Escritorio\Doctorado\Ramos\1° Semestre\Troncal\proyecto_troncal2\results\2025-03-30_FG\identificacion_patogeno\alignment.clustal" --outfmt clustal --auto --threads 4 -v
+2025-04-05 19:49:10,851 - ERROR - Error en alineamiento: [WinError 2] El sistema no puede encontrar el archivo especificado
+Traceback (most recent call last):
+  File "C:\Users\fgarc\AppData\Local\Temp\ipykernel_18448\3377491070.py", line 102, in <module>
+    aln_file = run_clustal(input_seqs)
+               ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\fgarc\AppData\Local\Temp\ipykernel_18448\3377491070.py", line 49, in run_clustal
+    stdout, stderr = clustal_cmd()
+                     ^^^^^^^^^^^^^
+  File "c:\python_env\proyecto_troncal2\Lib\site-packages\Bio\Application\__init__.py", line 562, in __call__
+    child_process = subprocess.Popen(
+                    ^^^^^^^^^^^^^^^^^
+  File "C:\Users\fgarc\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 1026, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "C:\Users\fgarc\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 1538, in _execute_child
+    hp, ht, pid, tid = _winapi.CreateProcess(executable, args,
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [WinError 2] El sistema no puede encontrar el archivo especificado
+2025-04-05 20:05:14,265 - INFO - Enviando secuencias a Clustal Omega remoto...
+2025-04-05 20:05:16,147 - ERROR - Error en la conexión con Clustal Omega remoto: 400 Client Error: Bad Request for url: https://www.ebi.ac.uk/Tools/services/rest/clustalo/run
+2025-04-05 20:05:16,153 - ERROR - Error en alineamiento remoto: 400 Client Error: Bad Request for url: https://www.ebi.ac.uk/Tools/services/rest/clustalo/run
+Traceback (most recent call last):
+  File "C:\Users\fgarc\AppData\Local\Temp\ipykernel_18448\1802394072.py", line 85, in <module>
+    aln_file = run_remote_clustal(input_seqs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\fgarc\AppData\Local\Temp\ipykernel_18448\1802394072.py", line 50, in run_remote_clustal
+    response.raise_for_status()
+  File "c:\python_env\proyecto_troncal2\Lib\site-packages\requests\models.py", line 1024, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 400 Client Error: Bad Request for url: https://www.ebi.ac.uk/Tools/services/rest/clustalo/run
+2025-04-05 20:08:54,817 - INFO - Enviando secuencias a Clustal Omega remoto...
+2025-04-05 20:08:55,855 - ERROR - Error en la conexión con Clustal Omega remoto: 400 Client Error: Bad Request for url: https://www.ebi.ac.uk/Tools/services/rest/clustalo/run
+2025-04-05 20:08:55,855 - ERROR - Error en alineamiento remoto: 400 Client Error: Bad Request for url: https://www.ebi.ac.uk/Tools/services/rest/clustalo/run
+Traceback (most recent call last):
+  File "C:\Users\fgarc\AppData\Local\Temp\ipykernel_18448\3699388797.py", line 85, in <module>
+    aln_file = run_remote_clustal(input_seqs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\fgarc\AppData\Local\Temp\ipykernel_18448\3699388797.py", line 50, in run_remote_clustal
+    response.raise_for_status()
+  File "c:\python_env\proyecto_troncal2\Lib\site-packages\requests\models.py", line 1024, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 400 Client Error: Bad Request for url: https://www.ebi.ac.uk/Tools/services/rest/clustalo/run
+2025-04-05 20:20:04,360 - INFO - Procesando archivo: C:\Users\fgarc\OneDrive\Escritorio\Doctorado\Ramos\1° Semestre\Troncal\proyecto_troncal2\results\2025-03-30_FG\identificacion_patogeno\cleaned_sequences.fasta
+2025-04-05 20:20:04,362 - INFO - Enviando secuencias a Clustal Omega remoto...
+2025-04-05 20:20:05,622 - ERROR - Error en alineamiento remoto: Error 400: <?xml version='1.0' encoding='UTF-8'?>
+<error>
+ <description>Invalid parameters: 
+Sequence -> Duplicated ID: unknown. Two sequences cannot share the same identifier</description>
+</error>
+Posibles causas:
+- Formato FASTA incorrecto
+- Secuencias demasiado largas
+- Caracteres inválidos en las secuencias
+Traceback (most recent call last):
+  File "C:\Users\fgarc\AppData\Local\Temp\ipykernel_18448\2831071403.py", line 130, in <module>
+    aln_file = run_remote_clustal(input_seqs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\fgarc\AppData\Local\Temp\ipykernel_18448\2831071403.py", line 77, in run_remote_clustal
+    raise RuntimeError(error_msg)
+RuntimeError: Error 400: <?xml version='1.0' encoding='UTF-8'?>
+<error>
+ <description>Invalid parameters: 
+Sequence -> Duplicated ID: unknown. Two sequences cannot share the same identifier</description>
+</error>
+Posibles causas:
+- Formato FASTA incorrecto
+- Secuencias demasiado largas
+- Caracteres inválidos en las secuencias

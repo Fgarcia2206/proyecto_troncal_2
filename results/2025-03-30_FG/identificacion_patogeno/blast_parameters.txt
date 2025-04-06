@@ -1,0 +1,6 @@
+program: blastn
+database: env_nt
+e_value: 0.001
+hitlist_size: 50
+word_size: 7
+gapcosts: 5 2

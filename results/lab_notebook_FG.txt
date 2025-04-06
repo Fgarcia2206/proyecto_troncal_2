@@ -262,3 +262,17 @@ def simular_epidemia(ciudad, R0, duracion_infeccion, CFR):
     Este codigo me genero unos graficos interactivos de cada ciudad, en la cual puedo modificar el R0 para poder medir la proyeccion de Infectados y Muertes a la 
     semana 10. Pero tengo que modificarlo para que me entregue el R0 real de la enfermedad.
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+2025-04-05  #IDENTIFICACION DEL PATOGENO: objetivo 3
+
+Hoy voy a trabajar en el objetivo 3 del proyecto que es la identificacion del PATOGENO
+
+Voy a utilizar los scripts de la carpeta C:\Users\fgarc\OneDrive\Escritorio\Doctorado\Ramos\1° Semestre\Troncal\proyecto_troncal2\scripts\identificacion_patogeno
+
+
+Al parecer el codigo del Preprocessing para poder limpiar los datos de las secuencias (eliminar las x) quedan en un formato FASTA pero se repiten secuencias. Debo arreglarlo
+
+Pude hacer el codigo para hacer el blast remoto y funciona ok. Quiero ver si el blastn que hace el codigo es el mismo de la pagina o si puedo hacer el Megablast (recomendado de la pagina blast)
+
+Para poder hacer el Clustal tengo que solucionar primero lo del curado de las secuencias.

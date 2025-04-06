@@ -1,0 +1,2040 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastn</BlastOutput_program>
+  <BlastOutput_version>BLASTN 2.16.1+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>env_nt</BlastOutput_db>
+  <BlastOutput_query-ID>Query_7041542</BlastOutput_query-ID>
+  <BlastOutput_query-def>unknown Cleaned version of unknown, length=407</BlastOutput_query-def>
+  <BlastOutput_query-len>407</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_expect>0.001</Parameters_expect>
+      <Parameters_sc-match>2</Parameters_sc-match>
+      <Parameters_sc-mismatch>-3</Parameters_sc-mismatch>
+      <Parameters_gap-open>5</Parameters_gap-open>
+      <Parameters_gap-extend>2</Parameters_gap-extend>
+      <Parameters_filter>L;m;</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>Query_7041542</Iteration_query-ID>
+  <Iteration_query-def>unknown Cleaned version of unknown, length=407</Iteration_query-def>
+  <Iteration_query-len>407</Iteration_query-len>
+<Iteration_hits>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>470563</Statistics_db-num>
+      <Statistics_db-len>1085290394</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.41</Statistics_kappa>
+      <Statistics_lambda>0.625</Statistics_lambda>
+      <Statistics_entropy>0.78</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>2</Iteration_iter-num>
+  <Iteration_query-ID>Query_7041543</Iteration_query-ID>
+  <Iteration_query-def>unknown_part2 Cleaned version of unknown, length=317</Iteration_query-def>
+  <Iteration_query-len>317</Iteration_query-len>
+<Iteration_hits>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>470563</Statistics_db-num>
+      <Statistics_db-len>1085290394</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.41</Statistics_kappa>
+      <Statistics_lambda>0.625</Statistics_lambda>
+      <Statistics_entropy>0.78</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>3</Iteration_iter-num>
+  <Iteration_query-ID>Query_7041544</Iteration_query-ID>
+  <Iteration_query-def>unknown Cleaned version of unknown, length=187</Iteration_query-def>
+  <Iteration_query-len>187</Iteration_query-len>
+<Iteration_hits>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>470563</Statistics_db-num>
+      <Statistics_db-len>1085290394</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.41</Statistics_kappa>
+      <Statistics_lambda>0.625</Statistics_lambda>
+      <Statistics_entropy>0.78</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>4</Iteration_iter-num>
+  <Iteration_query-ID>Query_7041545</Iteration_query-ID>
+  <Iteration_query-def>unknown_part2 Cleaned version of unknown, length=546</Iteration_query-def>
+  <Iteration_query-len>546</Iteration_query-len>
+<Iteration_hits>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>470563</Statistics_db-num>
+      <Statistics_db-len>1085290394</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.41</Statistics_kappa>
+      <Statistics_lambda>0.625</Statistics_lambda>
+      <Statistics_entropy>0.78</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>5</Iteration_iter-num>
+  <Iteration_query-ID>Query_7041546</Iteration_query-ID>
+  <Iteration_query-def>unknown Cleaned version of unknown, length=681</Iteration_query-def>
+  <Iteration_query-len>681</Iteration_query-len>
+<Iteration_hits>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>470563</Statistics_db-num>
+      <Statistics_db-len>1085290394</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.41</Statistics_kappa>
+      <Statistics_lambda>0.625</Statistics_lambda>
+      <Statistics_entropy>0.78</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>6</Iteration_iter-num>
+  <Iteration_query-ID>Query_7041547</Iteration_query-ID>
+  <Iteration_query-def>unknown_part1 Cleaned version of unknown, length=1417</Iteration_query-def>
+  <Iteration_query-len>1417</Iteration_query-len>
+<Iteration_hits>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>470563</Statistics_db-num>
+      <Statistics_db-len>1085290394</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.41</Statistics_kappa>
+      <Statistics_lambda>0.625</Statistics_lambda>
+      <Statistics_entropy>0.78</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>7</Iteration_iter-num>
+  <Iteration_query-ID>Query_7041548</Iteration_query-ID>
+  <Iteration_query-def>unknown_part4 Cleaned version of unknown, length=338</Iteration_query-def>
+  <Iteration_query-len>338</Iteration_query-len>
+<Iteration_hits>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>470563</Statistics_db-num>
+      <Statistics_db-len>1085290394</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.41</Statistics_kappa>
+      <Statistics_lambda>0.625</Statistics_lambda>
+      <Statistics_entropy>0.78</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>8</Iteration_iter-num>
+  <Iteration_query-ID>Query_7041549</Iteration_query-ID>
+  <Iteration_query-def>unknown_part5 Cleaned version of unknown, length=548</Iteration_query-def>
+  <Iteration_query-len>548</Iteration_query-len>
+<Iteration_hits>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>470563</Statistics_db-num>
+      <Statistics_db-len>1085290394</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.41</Statistics_kappa>
+      <Statistics_lambda>0.625</Statistics_lambda>
+      <Statistics_entropy>0.78</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>9</Iteration_iter-num>
+  <Iteration_query-ID>Query_7041550</Iteration_query-ID>
+  <Iteration_query-def>unknown_part1 Cleaned version of unknown, length=209</Iteration_query-def>
+  <Iteration_query-len>209</Iteration_query-len>
+<Iteration_hits>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>470563</Statistics_db-num>
+      <Statistics_db-len>1085290394</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.41</Statistics_kappa>
+      <Statistics_lambda>0.625</Statistics_lambda>
+      <Statistics_entropy>0.78</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>10</Iteration_iter-num>
+  <Iteration_query-ID>Query_7041551</Iteration_query-ID>
+  <Iteration_query-def>unknown_part2 Cleaned version of unknown, length=111</Iteration_query-def>
+  <Iteration_query-len>111</Iteration_query-len>
+<Iteration_hits>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>470563</Statistics_db-num>
+      <Statistics_db-len>1085290394</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.41</Statistics_kappa>
+      <Statistics_lambda>0.625</Statistics_lambda>
+      <Statistics_entropy>0.78</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>11</Iteration_iter-num>
+  <Iteration_query-ID>Query_7041552</Iteration_query-ID>
+  <Iteration_query-def>unknown_part4 Cleaned version of unknown, length=292</Iteration_query-def>
+  <Iteration_query-len>292</Iteration_query-len>
+<Iteration_hits>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>470563</Statistics_db-num>
+      <Statistics_db-len>1085290394</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.41</Statistics_kappa>
+      <Statistics_lambda>0.625</Statistics_lambda>
+      <Statistics_entropy>0.78</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>12</Iteration_iter-num>
+  <Iteration_query-ID>Query_7041553</Iteration_query-ID>
+  <Iteration_query-def>unknown_part2 Cleaned version of unknown, length=498</Iteration_query-def>
+  <Iteration_query-len>498</Iteration_query-len>
+<Iteration_hits>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>470563</Statistics_db-num>
+      <Statistics_db-len>1085290394</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.41</Statistics_kappa>
+      <Statistics_lambda>0.625</Statistics_lambda>
+      <Statistics_entropy>0.78</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>13</Iteration_iter-num>
+  <Iteration_query-ID>Query_7041554</Iteration_query-ID>
+  <Iteration_query-def>unknown_part3 Cleaned version of unknown, length=597</Iteration_query-def>
+  <Iteration_query-len>597</Iteration_query-len>
+<Iteration_hits>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>470563</Statistics_db-num>
+      <Statistics_db-len>1085290394</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.41</Statistics_kappa>
+      <Statistics_lambda>0.625</Statistics_lambda>
+      <Statistics_entropy>0.78</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>14</Iteration_iter-num>
+  <Iteration_query-ID>Query_7041555</Iteration_query-ID>
+  <Iteration_query-def>unknown_part3 Cleaned version of unknown, length=918</Iteration_query-def>
+  <Iteration_query-len>918</Iteration_query-len>
+<Iteration_hits>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>470563</Statistics_db-num>
+      <Statistics_db-len>1085290394</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.41</Statistics_kappa>
+      <Statistics_lambda>0.625</Statistics_lambda>
+      <Statistics_entropy>0.78</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>15</Iteration_iter-num>
+  <Iteration_query-ID>Query_7041556</Iteration_query-ID>
+  <Iteration_query-def>unknown_part4 Cleaned version of unknown, length=1879</Iteration_query-def>
+  <Iteration_query-len>1879</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|648744501|dbj|LA257266.1|</Hit_id>
+  <Hit_def>TSA: Fish metagenome RNA, contig: contig12347_scaffold8745, isolate: DFGC9, transcribed RNA sequence</Hit_def>
+  <Hit_accession>LA257266</Hit_accession>
+  <Hit_len>854</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>625.252</Hsp_bit-score>
+      <Hsp_score>692</Hsp_score>
+      <Hsp_evalue>1.19108e-176</Hsp_evalue>
+      <Hsp_query-from>51</Hsp_query-from>
+      <Hsp_query-to>652</Hsp_query-to>
+      <Hsp_hit-from>78</Hsp_hit-from>
+      <Hsp_hit-to>661</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>498</Hsp_identity>
+      <Hsp_positive>498</Hsp_positive>
+      <Hsp_gaps>18</Hsp_gaps>
+      <Hsp_align-len>602</Hsp_align-len>
+      <Hsp_qseq>TTGTGACCCGGCTTCCAGCGCGAACATGAGCGTCGGTTTCGACGTGTTGGGCGCAGCCGTCACACCCGTTGACGGCACGTTGCTGGGCGATGTGGTATCCGTTGAAGCAGCGGACCATTTCCGTCTGCATAACCTGGGGCGATTTGCCGATAAACTGCCGCCGGAGCCGCGTGAAAATATTGTTTATCAGTGCTGGGAACGTTTTTGCCACGCGATGAATGAGCACTGGGCATTGGGGAAAACCATCCCGGTGGCGATGACGCTGGAAAAAAATATGCCGATTGGTTCCGGGTTAGGGTCCAGCGCCTGTTCCGTCGTCGCCGCGCTGGTCGCGATGAATGAGCACTGCGGCAAACCGTTAAACGACACGCGTCTGTTGGCGCTGATGGGCGAGCTGGAAGGCCGTATCTCCGGCAGCATCCATTACGATAACGTCGCGCCGTGCTTTCTTGGCGGTATGCAGTTGATGATTGAAGAAAACGGCATTATTAGTCAGCAGGTGCCGGGCTTTGATGAGTGGCTATGGGTACTGGCTTATCCGGGCATTAAAGTTTCTACCGCAGAAGCACGGGCCATTTTGCCTGCGCAGTATCGCCGTCAGG</Hsp_qseq>
+      <Hsp_hseq>TTATGCCCCGGCTTCCAGCGCCAATATGAGCGTCGGGTTTGATGTGCTCGGAGCAGCGGTAACTCCGGTGGACGGTTCGCTGTTAGGCGATGTGGTATCCGTTGAGGCGGCTGACAATTTCAGCCTCAACAACCTCGGTCGCTTTGCCAATAAGCTGCCGCCTGAGCCGCGAGAAAATATTGTCTACCAGTGCTGGGAGCGATTCTGTCAGG---------AGC---------TGGGTAAAAGCGTTCCGGTGGCGATGACGCTGGAAAAAAATATGCCGATTGGCTCCGGGTTAGGCTCCAGCGCGTGTTCCGTTGTGGCGGCGCTGGTCGCCATGAACGAGCATTGCGGTAAACCGCTCAACGATACGCGCCTGTTGGCGATAATGGGTGAGCTGGAAGGGCGTATCTCCGGCAGTATTCATTACGATAACGTCGCCCCGTGCTTTTTGGGCGGTATGCAGTTAATGATCGAAGAAAACGGCATTATCAGCCAGCAGGTGCCAGGCTTTGATGAGTGGCTGTGGGTCCTCGCGTATCCGGGAATTAAAGTGTCGACGGCAGAAGCGCGGGCGATTTTACCTGCGCAGTATCGCCGTCAGG</Hsp_hseq>
+      <Hsp_midline>|| || ||||||||||||||| || ||||||||||| || || ||| | || ||||| || || || || |||||  || || | |||||||||||||||||||| || || ||| ||||| | ||  | ||||| || || |||||| |||| |||||||| |||||||| ||||||||||| || ||||||||||| || || || || |         |||         |||| |||| | | |||||||||||||||||||||||||||||||||||||| ||||||||||| |||||||| |||||||| || || ||||||||||| ||||| ||||| ||||| |||||| | ||||| ||||| ||||||||| | ||||| ||||||||||| |||||||||||||| || ||||||||||||||||| ||||||||| | |||||||||||||| ||||| ||||||||||||||||| || ||||||||||| ||||||||||||||||| ||||| || || |||||||| |||||||| || || |||||||| ||||| ||||| ||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|648786111|dbj|LA216310.1|</Hit_id>
+  <Hit_def>TSA: Fish metagenome RNA, contig: contig64667_C4606219, isolate: DFGC6, transcribed RNA sequence</Hit_def>
+  <Hit_accession>LA216310</Hit_accession>
+  <Hit_len>1329</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>526.067</Hsp_bit-score>
+      <Hsp_score>582</Hsp_score>
+      <Hsp_evalue>8.5839e-147</Hsp_evalue>
+      <Hsp_query-from>51</Hsp_query-from>
+      <Hsp_query-to>652</Hsp_query-to>
+      <Hsp_hit-from>879</Hsp_hit-from>
+      <Hsp_hit-to>296</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>475</Hsp_identity>
+      <Hsp_positive>475</Hsp_positive>
+      <Hsp_gaps>18</Hsp_gaps>
+      <Hsp_align-len>602</Hsp_align-len>
+      <Hsp_qseq>TTGTGACCCGGCTTCCAGCGCGAACATGAGCGTCGGTTTCGACGTGTTGGGCGCAGCCGTCACACCCGTTGACGGCACGTTGCTGGGCGATGTGGTATCCGTTGAAGCAGCGGACCATTTCCGTCTGCATAACCTGGGGCGATTTGCCGATAAACTGCCGCCGGAGCCGCGTGAAAATATTGTTTATCAGTGCTGGGAACGTTTTTGCCACGCGATGAATGAGCACTGGGCATTGGGGAAAACCATCCCGGTGGCGATGACGCTGGAAAAAAATATGCCGATTGGTTCCGGGTTAGGGTCCAGCGCCTGTTCCGTCGTCGCCGCGCTGGTCGCGATGAATGAGCACTGCGGCAAACCGTTAAACGACACGCGTCTGTTGGCGCTGATGGGCGAGCTGGAAGGCCGTATCTCCGGCAGCATCCATTACGATAACGTCGCGCCGTGCTTTCTTGGCGGTATGCAGTTGATGATTGAAGAAAACGGCATTATTAGTCAGCAGGTGCCGGGCTTTGATGAGTGGCTATGGGTACTGGCTTATCCGGGCATTAAAGTTTCTACCGCAGAAGCACGGGCCATTTTGCCTGCGCAGTATCGCCGTCAGG</Hsp_qseq>
+      <Hsp_hseq>TTATGCCCCGGCTTCCAGCGCGAATATGAGCGTCGGATTTGACGTGCTGGGCGCGGCGGTGACGCCGGTGGATGGTTCACTGCTGGGCGATACGGTCACGGTGGAAGCGGCAGACAGCTTCAGCCTGAACAACGTGGGCCGCTTCGCCAGCAAACTGCCGTCTGAGCCGCGCGAAAATATCGTCTATCAGTGCTGGGAACGCTTCTGTCAGGAGATC------------------GGCAAAAACGTGCCGGTTGCCATGACGCTGGAAAAAAGTATGCCGATTGGCTCGGGGCTGGGTTCCAGCGCTTGTTCGGTGGTCGCCGCGCTGGTGGCGATGAACGAGCACTGCGGCAAGCCGCTGAACAACAACCGCCTGCTGGGGTTGATGGGCGAGCTGGAAGGGCGCATCTCCGGCAGCATTCACTATGACAACGTGGCGCCGTGCTTCCTCGGCGGCATGCAGCTGATGATCGAAGAAAATGGCATCATCAGCCAGCAGGTGCCAGGGTTTGATGAGTGGCTGTGGGTGCTGGCCTATCCGGGCATTAAGGTCTCTACCGCGGAAGCGCGTGCGATCCTGCCCGCGCAGTATCGTCGCCAGG</Hsp_hseq>
+      <Hsp_midline>|| || |||||||||||||||||| ||||||||||| || |||||| ||||||| || || || || || || ||  |  |||||||||||  |||  | || ||||| || |||   ||| | ||| | ||| |||| || || |||   ||||||||| | |||||||| |||||||| || ||||||||||||||||| || || || | |||                   || |||| | | ||||| || |||||||||||||||| |||||||||||| || ||| | || |||||||| ||||| || |||||||||||||| |||||||| |||||||||||||| ||| | ||| |||  || ||| ||| | ||||||||||||||||||| || |||||||||||||| || || || ||||| ||||||||||| || ||||| |||||| ||||||| |||||||| ||||| || || ||||||||||| || |||||||||||||| ||||| ||||| |||||||||||||| || |||||||| ||||| || || ||  |||| ||||||||||| || ||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|648316583|dbj|LA020528.1|</Hit_id>
+  <Hit_def>TSA: Fish metagenome RNA, contig: contig20528_C2532700, isolate: DF3293, transcribed RNA sequence</Hit_def>
+  <Hit_accession>LA020528</Hit_accession>
+  <Hit_len>1024</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>203.264</Hsp_bit-score>
+      <Hsp_score>224</Hsp_score>
+      <Hsp_evalue>1.2796e-49</Hsp_evalue>
+      <Hsp_query-from>54</Hsp_query-from>
+      <Hsp_query-to>546</Hsp_query-to>
+      <Hsp_hit-from>495</Hsp_hit-from>
+      <Hsp_hit-to>6</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>354</Hsp_identity>
+      <Hsp_positive>354</Hsp_positive>
+      <Hsp_gaps>23</Hsp_gaps>
+      <Hsp_align-len>503</Hsp_align-len>
+      <Hsp_qseq>TGACCCGGCTTCCAGCGCGAACATGAGCGTCGGTTTCGACGTGTTGGGCGCAGCCGTCACACCCGTTGACGGCACGTTGCTGGGCGATGTGGT---ATCCGTTG-AAGCAGCGGACCATTTCCGTCTGCATAACCTGGGGCGATTTGCCGATAAACTGCCGCCGGAGCCGCGTGAAAATATTGTTTATCAGTGCTGGGAACGTTTTTGCCACGCGATGAATGAGC--ACTGGGCATTGGGGAAAACCATCCCGGTGGCGATGACGCTGGAAAAAAATATGCCGATTGGTTCCGGGTTAGGGTCCAGCGCCTGTTCCGTCGTCGCCGCGCTGGTCGCGATGAATGA---GCACTGCGGCAAACCGTTAAACGA-CACGCGTCTGTTGGCGCTGATGGGCGAGCTGGAAGGCCGTATCTCCGGCAGCATCCATTACGATAACGTCGCGCCGTGCTTTCTTGGCGGTATGCAGTTGATGATTGAAGAAAACGGCATTATTAGTCAG</Hsp_qseq>
+      <Hsp_hseq>TGCCCCGGCCTCGATTGGGAATGTGAGTGTCGGATTCGATGTGCTGGGCGCGGCGGTCAGTCCGGTGGACGGCACCTTGCTCGGGGATGTGGTCAGTGCCGAGGCTTGCAGCGAACCGTTTGAGTTGGCGT-GCCGCGGGCGGTTTGTCGATAAATTGCCGGTTAATCCGCAGGAAAATATCGTCTATCAGTGCTGGGTGCTGTTCAGTGA-GC---GCCTGCGCTTACAAGGC----GGCAAGGTCAAACCGGTGCGGCTGGTGTTGGAAAAGAACATGCCGATTGGTTCGGGGTTCGGCTCCAGTGCCTGCTCGATTGTGGCGGCGCTGGTGGCGCTCAATGAGTGGCA-TGAG--CGTCCATTTGATGAGCATGC-CATGCTGGCCATGATGGGCGAACTGGAAGGACGCATTTCGGGCAGCGTGCACTACGATAACGTGGCGCCGTGCTATTTGGGCGGCTTGCAGCTGATGCTGGAAGAGATGGGGATCATCAGTCAG</Hsp_hseq>
+      <Hsp_midline>|| |||||| || |  | |||  |||| ||||| ||||| ||| ||||||| || ||||  || || |||||||| ||||| || ||||||||     |||  |   |||||| ||| |||  ||  || |  ||  ||||| |||| ||||||| |||||    | ||||  |||||||| || |||||||||||||  |  ||  |  | ||   |  || ||  ||  |||    || ||   ||  ||||||  | ||  | ||||||| || |||||||||||||| ||||| || ||||| ||||| ||  | || || |||||||| ||| | |||||   ||| || |     || ||  | || || ||   || ||||  |||||||||| |||||||| || || || |||||| | || ||||||||||| |||||||||| | | |||||  ||||| ||||| | ||||| |  || || || ||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gi|648710079|dbj|LA301375.1|</Hit_id>
+  <Hit_def>TSA: Fish metagenome RNA, contig: contig4493_scaffold6696, isolate: YEZ, transcribed RNA sequence</Hit_def>
+  <Hit_accession>LA301375</Hit_accession>
+  <Hit_len>378</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>133.834</Hsp_bit-score>
+      <Hsp_score>147</Hsp_score>
+      <Hsp_evalue>1.90078e-28</Hsp_evalue>
+      <Hsp_query-from>432</Hsp_query-from>
+      <Hsp_query-to>652</Hsp_query-to>
+      <Hsp_hit-from>98</Hsp_hit-from>
+      <Hsp_hit-to>318</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>162</Hsp_identity>
+      <Hsp_positive>162</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>221</Hsp_align-len>
+      <Hsp_qseq>GCTGATGGGCGAGCTGGAAGGCCGTATCTCCGGCAGCATCCATTACGATAACGTCGCGCCGTGCTTTCTTGGCGGTATGCAGTTGATGATTGAAGAAAACGGCATTATTAGTCAGCAGGTGCCGGGCTTTGATGAGTGGCTATGGGTACTGGCTTATCCGGGCATTAAAGTTTCTACCGCAGAAGCACGGGCCATTTTGCCTGCGCAGTATCGCCGTCAGG</Hsp_qseq>
+      <Hsp_hseq>GCTGATGGGGGAGATGGAAGGGCGCATCTCCGGCTCCGTTCACTACGACAACGTGGCTCCCTGTTATCTGGGCGGCATGCAGCTGGTGCTGGAAGAGCACGGCGTTATCAGTCAGGGCATTCCGGTGTTCGATCAGTGGTACTGGGTGGTCTGCTACCCGGGCACAGTGGTTTCGACTGCCGCCGCACGAGCCATCTTGCCGGCCCAATATCGCCGTCAGG</Hsp_hseq>
+      <Hsp_midline>||||||||| ||| ||||||| || |||||||||  | | || ||||| ||||| || || || | ||| ||||| |||||| || || | |||||  ||||| |||| ||||||    | ||||  || ||| |||||   |||||  |    || |||||||     ||||| || || |  ||||| ||||| ||||| || || |||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gi|648727121|dbj|LA280510.1|</Hit_id>
+  <Hit_def>TSA: Fish metagenome RNA, contig: contig35591_C1989283, isolate: DFGC9, transcribed RNA sequence</Hit_def>
+  <Hit_accession>LA280510</Hit_accession>
+  <Hit_len>1218</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>123.014</Hsp_bit-score>
+      <Hsp_score>135</Hsp_score>
+      <Hsp_evalue>3.43669e-25</Hsp_evalue>
+      <Hsp_query-from>308</Hsp_query-from>
+      <Hsp_query-to>632</Hsp_query-to>
+      <Hsp_hit-from>491</Hsp_hit-from>
+      <Hsp_hit-to>815</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>222</Hsp_identity>
+      <Hsp_positive>222</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>325</Hsp_align-len>
+      <Hsp_qseq>TGACGCTGGAAAAAAATATGCCGATTGGTTCCGGGTTAGGGTCCAGCGCCTGTTCCGTCGTCGCCGCGCTGGTCGCGATGAATGAGCACTGCGGCAAACCGTTAAACGACACGCGTCTGTTGGCGCTGATGGGCGAGCTGGAAGGCCGTATCTCCGGCAGCATCCATTACGATAACGTCGCGCCGTGCTTTCTTGGCGGTATGCAGTTGATGATTGAAGAAAACGGCATTATTAGTCAGCAGGTGCCGGGCTTTGATGAGTGGCTATGGGTACTGGCTTATCCGGGCATTAAAGTTTCTACCGCAGAAGCACGGGCCATTTTGCC</Hsp_qseq>
+      <Hsp_hseq>TGACATTGGAAAAAAATATGCCAATCGGTTCAGGATTGGGTTCCAGTGCTTGTTCCATTGTTGCAGCATTGGTTTCGTTGAATAAATTTCACGACGAACCTTTTTCTAAAATGGAATTACTGGAAATGATGGGTGAGTTGGAAGGCAGAATCTCAGGCTCAATTCATTATGACAATGTAGCGCCTTGCTACTTGGGTGGTGTGCAATTAATCGTGCAGTCATTAGGCAATATTTGCCAAACGTTACCGTTTTTTGATAATTGGTATTGGGTGTTGGCTTATCCGGGAATTGAGGTTTCTACTGCAGAGGCTCGAGCGATTTTGCC</Hsp_hseq>
+      <Hsp_midline>||||  |||||||||||||||| || ||||| || || || ||||| || |||||| | || || ||  ||||  || ||||| |      || | |||| ||     | | |    |  |||   ||||||| ||| |||||||| | ||||| |||   || ||||| || || || ||||| ||||   | || ||| |||| || ||  |  |   |   |||| |||| | ||   | | |||   |||||| | |||   |||||  ||||||||||||| ||| | |||||||| ||||| || || || ||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>6</Hit_num>
+  <Hit_id>gi|648787390|dbj|LA220560.1|</Hit_id>
+  <Hit_def>TSA: Fish metagenome RNA, contig: contig68917_C4617821, isolate: DFGC6, transcribed RNA sequence</Hit_def>
+  <Hit_accession>LA220560</Hit_accession>
+  <Hit_len>2322</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>118.505</Hsp_bit-score>
+      <Hsp_score>130</Hsp_score>
+      <Hsp_evalue>4.18674e-24</Hsp_evalue>
+      <Hsp_query-from>308</Hsp_query-from>
+      <Hsp_query-to>632</Hsp_query-to>
+      <Hsp_hit-from>1600</Hsp_hit-from>
+      <Hsp_hit-to>1924</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>221</Hsp_identity>
+      <Hsp_positive>221</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>325</Hsp_align-len>
+      <Hsp_qseq>TGACGCTGGAAAAAAATATGCCGATTGGTTCCGGGTTAGGGTCCAGCGCCTGTTCCGTCGTCGCCGCGCTGGTCGCGATGAATGAGCACTGCGGCAAACCGTTAAACGACACGCGTCTGTTGGCGCTGATGGGCGAGCTGGAAGGCCGTATCTCCGGCAGCATCCATTACGATAACGTCGCGCCGTGCTTTCTTGGCGGTATGCAGTTGATGATTGAAGAAAACGGCATTATTAGTCAGCAGGTGCCGGGCTTTGATGAGTGGCTATGGGTACTGGCTTATCCGGGCATTAAAGTTTCTACCGCAGAAGCACGGGCCATTTTGCC</Hsp_qseq>
+      <Hsp_hseq>TGACATTGGAAAAAAATATGCCAATCGGTTCAGGATTGGGTTCCAGTGCTTGTTCCATTGTTGCAGCATTGGTTTCGTTGAATAAATTTCACGACGAACCTTTTTCTAAAATGGAATTACTGGAAATGATGGGTGAGTTGGAAGGCAGAATTTCAGGCTCAATTCATTATGACAATGTAGCGCCTTGCTACTTGGGTGGTGTGCAATTAATCGTGCAGTCATTAGGCAATATTTGCCAAACGTTACCGTTTTTTGATAATTGGTATTGGGTGTTGGCTTATCCGGGAATTGAGGTTTCTACTGCAGAGGCTCGAGCGATTTTGCC</Hsp_hseq>
+      <Hsp_midline>||||  |||||||||||||||| || ||||| || || || ||||| || |||||| | || || ||  ||||  || ||||| |      || | |||| ||     | | |    |  |||   ||||||| ||| |||||||| | || || |||   || ||||| || || || ||||| ||||   | || ||| |||| || ||  |  |   |   |||| |||| | ||   | | |||   |||||| | |||   |||||  ||||||||||||| ||| | |||||||| ||||| || || || ||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>7</Hit_num>
+  <Hit_id>gi|648693564|dbj|LA318150.1|</Hit_id>
+  <Hit_def>TSA: Fish metagenome RNA, contig: contig21268_C2398085, isolate: YEZ, transcribed RNA sequence</Hit_def>
+  <Hit_accession>LA318150</Hit_accession>
+  <Hit_len>654</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>118.505</Hsp_bit-score>
+      <Hsp_score>130</Hsp_score>
+      <Hsp_evalue>4.18674e-24</Hsp_evalue>
+      <Hsp_query-from>308</Hsp_query-from>
+      <Hsp_query-to>632</Hsp_query-to>
+      <Hsp_hit-from>130</Hsp_hit-from>
+      <Hsp_hit-to>454</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>221</Hsp_identity>
+      <Hsp_positive>221</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>325</Hsp_align-len>
+      <Hsp_qseq>TGACGCTGGAAAAAAATATGCCGATTGGTTCCGGGTTAGGGTCCAGCGCCTGTTCCGTCGTCGCCGCGCTGGTCGCGATGAATGAGCACTGCGGCAAACCGTTAAACGACACGCGTCTGTTGGCGCTGATGGGCGAGCTGGAAGGCCGTATCTCCGGCAGCATCCATTACGATAACGTCGCGCCGTGCTTTCTTGGCGGTATGCAGTTGATGATTGAAGAAAACGGCATTATTAGTCAGCAGGTGCCGGGCTTTGATGAGTGGCTATGGGTACTGGCTTATCCGGGCATTAAAGTTTCTACCGCAGAAGCACGGGCCATTTTGCC</Hsp_qseq>
+      <Hsp_hseq>TGACATTGGAAAAAAATATGCCAATCGGTTCAGGATTGGGTTCCAGTGCTTGTTCCATTGTTGCAGCATTGGTTTCGTTGAATAAATTTCACGACGAACCTTTTTCTAAAATGGAATTACTGGAAATGATGGGTGAGTTGGAAGGCAGAATTTCAGGCTCAATTCATTATGACAATGTAGCGCCTTGCTACTTGGGTGGTGTGCAATTAATCGTGCAGTCATTAGGCAATATTTGCCAAACGTTACCGTTTTTTGATAATTGGTATTGGGTGTTGGCTTATCCGGGAATTGAGGTTTCTACTGCAGAGGCTCGAGCGATTTTGCC</Hsp_hseq>
+      <Hsp_midline>||||  |||||||||||||||| || ||||| || || || ||||| || |||||| | || || ||  ||||  || ||||| |      || | |||| ||     | | |    |  |||   ||||||| ||| |||||||| | || || |||   || ||||| || || || ||||| ||||   | || ||| |||| || ||  |  |   |   |||| |||| | ||   | | |||   |||||| | |||   |||||  ||||||||||||| ||| | |||||||| ||||| || || || ||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>8</Hit_num>
+  <Hit_id>gi|648757368|dbj|LA244591.1|</Hit_id>
+  <Hit_def>TSA: Fish metagenome RNA, contig: contig23039_C2369904, isolate: DFGC7, transcribed RNA sequence</Hit_def>
+  <Hit_accession>LA244591</Hit_accession>
+  <Hit_len>2071</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>116.702</Hsp_bit-score>
+      <Hsp_score>128</Hsp_score>
+      <Hsp_evalue>1.46132e-23</Hsp_evalue>
+      <Hsp_query-from>314</Hsp_query-from>
+      <Hsp_query-to>632</Hsp_query-to>
+      <Hsp_hit-from>2071</Hsp_hit-from>
+      <Hsp_hit-to>1753</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>217</Hsp_identity>
+      <Hsp_positive>217</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>319</Hsp_align-len>
+      <Hsp_qseq>TGGAAAAAAATATGCCGATTGGTTCCGGGTTAGGGTCCAGCGCCTGTTCCGTCGTCGCCGCGCTGGTCGCGATGAATGAGCACTGCGGCAAACCGTTAAACGACACGCGTCTGTTGGCGCTGATGGGCGAGCTGGAAGGCCGTATCTCCGGCAGCATCCATTACGATAACGTCGCGCCGTGCTTTCTTGGCGGTATGCAGTTGATGATTGAAGAAAACGGCATTATTAGTCAGCAGGTGCCGGGCTTTGATGAGTGGCTATGGGTACTGGCTTATCCGGGCATTAAAGTTTCTACCGCAGAAGCACGGGCCATTTTGCC</Hsp_qseq>
+      <Hsp_hseq>TGGAAAAAAATATGCCAATCGGTTCAGGATTGGGTTCCAGTGCTTGTTCCATTGTTGCAGCATTGGTTTCGTTGAATAAATTTCACGACGAACCTTTTTCTAAAATGGAATTACTGGAAATGATGGGTGAGTTGGAAGGCAGAATTTCAGGCTCAATTCATTATGACAATGTAGCGCCTTGCTACTTGGGTGGTGTGCAATTAATCGTGCAGTCATTAGGCAATATTTGCCAAACGTTACCGTTTTTTGATAATTGGTATTGGGTGTTGGCTTATCCGGGAATTGAGGTTTCTACTGCAGAGGCTCGAGCGATTTTGCC</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||| || ||||| || || || ||||| || |||||| | || || ||  ||||  || ||||| |      || | |||| ||     | | |    |  |||   ||||||| ||| |||||||| | || || |||   || ||||| || || || ||||| ||||   | || ||| |||| || ||  |  |   |   |||| |||| | ||   | | |||   |||||| | |||   |||||  ||||||||||||| ||| | |||||||| ||||| || || || ||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>9</Hit_num>
+  <Hit_id>gi|648750033|dbj|LA259847.1|</Hit_id>
+  <Hit_def>TSA: Fish metagenome RNA, contig: contig14928_scaffold10041, isolate: DFGC9, transcribed RNA sequence</Hit_def>
+  <Hit_accession>LA259847</Hit_accession>
+  <Hit_len>2403</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>106.783</Hsp_bit-score>
+      <Hsp_score>117</Hsp_score>
+      <Hsp_evalue>2.64212e-20</Hsp_evalue>
+      <Hsp_query-from>312</Hsp_query-from>
+      <Hsp_query-to>647</Hsp_query-to>
+      <Hsp_hit-from>1772</Hsp_hit-from>
+      <Hsp_hit-to>2107</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>235</Hsp_identity>
+      <Hsp_positive>235</Hsp_positive>
+      <Hsp_gaps>20</Hsp_gaps>
+      <Hsp_align-len>346</Hsp_align-len>
+      <Hsp_qseq>GCTGGAAAAAAATATGCCGATTGGTTCCGGGTTAGGGTCCAGCGCCTGTTCCG---TCGTCGCCGCGCTGGTCGCGATGAATGAG---CAC--TGCGGCAAACCGTTAAACGACACGCGTCTGTTGGCGCTGATGGGCGAGCTGGAAGGCCGTATCTCCGGCAGCATCCATTACGATAACGTCGCGCCGTGCTTTCTTGGCGGTATGCAGTTGATGATTGAAGAAAACGGCATTATTAGTCAGCAGGTGCCGGGCTTTGATGAGTGG--CTATGGGTACTGGCTTATCCGGGCATTAAAGTTTCTACCGCAGAAGCACGGGCCATTTTGCCTGCGCAGTATCGCCG</Hsp_qseq>
+      <Hsp_hseq>GCTGGAAAAGAATTTGCCAATCGGTTCTGGGTTGGGCTCTAGTGC---TTCCAGTATCGTGGCAGCCCTGGAAGGGTTGAATGCATTTCACGATTACGCATTGAGT--AAGGATGAGCAGCTGTTGT---TGATGGGGGAGCTGGAAGGCAAGATCTCAGGCTCTATTCACTATGACAATGTGGCGCCATGTTATCTCGGTGGTATCCAGTTGATGATTGAAGAGAGCGGTATTATCAGCCAGTCAATTCCGGACTTCGCTGATTGGTACTGGGTGTCCTG--TTATCCCGGGATCAGTATTAGCACCGCTGAGGCTCGAGCCATACTGCCGGCACAATACCGTCG</Hsp_hseq>
+      <Hsp_midline>||||||||| ||| |||| || ||||| ||||| || || || ||   ||||    |||| || || ||||  | | ||||||     |||  |   |||    ||  || ||   ||  ||||||    ||||||| ||||||||||||   ||||| |||   || || || || || || ||||| || | ||| || ||||| ||||||||||||||||| | ||| ||||| || |||    | |||| ||| | ||| |||  ||  | || |||  |||||| || || |   ||   ||||| || || || |||||  |||| || || || || ||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>10</Hit_num>
+  <Hit_id>gi|648372787|dbj|LA178318.1|</Hit_id>
+  <Hit_def>TSA: Fish metagenome RNA, contig: contig26675_scaffold20315, isolate: DFGC6, transcribed RNA sequence</Hit_def>
+  <Hit_accession>LA178318</Hit_accession>
+  <Hit_len>471</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>103.177</Hsp_bit-score>
+      <Hsp_score>113</Hsp_score>
+      <Hsp_evalue>3.21876e-19</Hsp_evalue>
+      <Hsp_query-from>312</Hsp_query-from>
+      <Hsp_query-to>578</Hsp_query-to>
+      <Hsp_hit-from>187</Hsp_hit-from>
+      <Hsp_hit-to>453</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>185</Hsp_identity>
+      <Hsp_positive>185</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>268</Hsp_align-len>
+      <Hsp_qseq>GCTGGAAAAAAATATGCCGATTGGTTCCGGGTTAGGGTCCAGCGCCTGTTCCGTCGTCGCCGCGCTGGTCGCGATGAATGAGCACTGCGGCAAACCGTTAAACGA-CACGCGTCTGTTGGCGCTGATGGGCGAGCTGGAAGGCCGTATCTCCGGCAGCATCCATTACGATAACGTCGCGCCGTGCTTTCTTGGCGGTATGCAGTTGATGATTGAAGAAAACGGCATTATTAGTCAGCAGGTGCCGGGCTTTGATGAGTGGCTATGGGT</Hsp_qseq>
+      <Hsp_hseq>GCTGGAGAAGAACCTGCCGGTGGGCTCGGGTCTGGGTTCCAGCGCCTGCAGCGTGGTGGCGGCCCTTGAAGGGCTCAACGCCTTCCACGGCGAGCCGCTCGATGAGCACGACT-TGCTGTTGCTGATGGGGGAGATGGAAGGGCGCATCTCCGGCTCCGTTCACTACGACAATGTGGCTCCCTGTTATCTGGGCGGCATGCAGCTGGTGCTGGAAGAGCACGGCGTTATCAGTCAGGGCATTCCGGTGTTCGATCAGTGGTACTGGGT</Hsp_hseq>
+      <Hsp_midline>|||||| || ||  ||||| | || || ||  | || |||||||||||   ||| || || || || |  | | | || |    |  |||| | ||| |  | || ||||  | || ||  ||||||||| ||| ||||||| || |||||||||  | | || ||||| || || || || || | ||| ||||| |||||| || || | |||||  ||||| |||| ||||||    | ||||  || ||| |||||   |||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>11</Hit_num>
+  <Hit_id>gi|648355813|dbj|LA067560.1|</Hit_id>
+  <Hit_def>TSA: Fish metagenome RNA, contig: contig17477_C1848798, isolate: DF3298, transcribed RNA sequence</Hit_def>
+  <Hit_accession>LA067560</Hit_accession>
+  <Hit_len>510</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>60.7975</Hsp_bit-score>
+      <Hsp_score>66</Hsp_score>
+      <Hsp_evalue>9.85497e-07</Hsp_evalue>
+      <Hsp_query-from>54</Hsp_query-from>
+      <Hsp_query-to>141</Hsp_query-to>
+      <Hsp_hit-from>319</Hsp_hit-from>
+      <Hsp_hit-to>406</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>66</Hsp_identity>
+      <Hsp_positive>66</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>88</Hsp_align-len>
+      <Hsp_qseq>TGACCCGGCTTCCAGCGCGAACATGAGCGTCGGTTTCGACGTGTTGGGCGCAGCCGTCACACCCGTTGACGGCACGTTGCTGGGCGAT</Hsp_qseq>
+      <Hsp_hseq>TGCCCCCGCCTCCAGCGCCAACCTGAGCGTGGGATTCGATGTACTGGGGGCGGCGCTCGCCCCCGTTGATGGCTCCCTCTTGGGCGAT</Hsp_hseq>
+      <Hsp_midline>|| ||| || |||||||| ||| ||||||| || ||||| ||  |||| || ||  || | |||||||| ||| |  |  ||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>12</Hit_num>
+  <Hit_id>gi|648948896|dbj|LA034988.1|</Hit_id>
+  <Hit_def>TSA: Fish metagenome RNA, contig: contig12418_scaffold10963, isolate: DF3296, transcribed RNA sequence</Hit_def>
+  <Hit_accession>LA034988</Hit_accession>
+  <Hit_len>502</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>58.0924</Hsp_bit-score>
+      <Hsp_score>63</Hsp_score>
+      <Hsp_evalue>1.20058e-05</Hsp_evalue>
+      <Hsp_query-from>58</Hsp_query-from>
+      <Hsp_query-to>141</Hsp_query-to>
+      <Hsp_hit-from>110</Hsp_hit-from>
+      <Hsp_hit-to>193</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>63</Hsp_identity>
+      <Hsp_positive>63</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>84</Hsp_align-len>
+      <Hsp_qseq>CCGGCTTCCAGCGCGAACATGAGCGTCGGTTTCGACGTGTTGGGCGCAGCCGTCACACCCGTTGACGGCACGTTGCTGGGCGAT</Hsp_qseq>
+      <Hsp_hseq>CCCGCCTCCAGCGCCAACCTGAGCGTGGGATTCGATGTACTGGGGGCGGCGCTCGCCCCCGTGGATGGCTCTCTGCTCGGCGAT</Hsp_hseq>
+      <Hsp_midline>|| || |||||||| ||| ||||||| || ||||| ||  |||| || ||  || | ||||| || ||| |  |||| ||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>13</Hit_num>
+  <Hit_id>gi|648329588|dbj|LA010820.1|</Hit_id>
+  <Hit_def>TSA: Fish metagenome RNA, contig: contig10820_scaffold9889, isolate: DF3293, transcribed RNA sequence</Hit_def>
+  <Hit_accession>LA010820</Hit_accession>
+  <Hit_len>535</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>58.0924</Hsp_bit-score>
+      <Hsp_score>63</Hsp_score>
+      <Hsp_evalue>1.20058e-05</Hsp_evalue>
+      <Hsp_query-from>58</Hsp_query-from>
+      <Hsp_query-to>141</Hsp_query-to>
+      <Hsp_hit-from>188</Hsp_hit-from>
+      <Hsp_hit-to>105</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>63</Hsp_identity>
+      <Hsp_positive>63</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>84</Hsp_align-len>
+      <Hsp_qseq>CCGGCTTCCAGCGCGAACATGAGCGTCGGTTTCGACGTGTTGGGCGCAGCCGTCACACCCGTTGACGGCACGTTGCTGGGCGAT</Hsp_qseq>
+      <Hsp_hseq>CCCGCCTCCAGCGCCAACCTGAGCGTGGGATTCGATGTACTGGGGGCGGCGCTCGCCCCCGTGGATGGCTCTCTGCTCGGCGAT</Hsp_hseq>
+      <Hsp_midline>|| || |||||||| ||| ||||||| || ||||| ||  |||| || ||  || | ||||| || ||| |  |||| ||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>14</Hit_num>
+  <Hit_id>gi|2876033277|emb|OZ176288.1|</Hit_id>
+  <Hit_def>plant metagenome genome assembly, chromosome: LJR1800001</Hit_def>
+  <Hit_accession>OZ176288</Hit_accession>
+  <Hit_len>4035704</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>55.3874</Hsp_bit-score>
+      <Hsp_score>60</Hsp_score>
+      <Hsp_evalue>4.19044e-05</Hsp_evalue>
+      <Hsp_query-from>1741</Hsp_query-from>
+      <Hsp_query-to>1775</Hsp_query-to>
+      <Hsp_hit-from>2355681</Hsp_hit-from>
+      <Hsp_hit-to>2355715</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>33</Hsp_identity>
+      <Hsp_positive>33</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>35</Hsp_align-len>
+      <Hsp_qseq>CGCAGCTGTACTGGTTCACGGTGGAGTTCGGGCTG</Hsp_qseq>
+      <Hsp_hseq>CGCGGCTGTACTGGTACACGGTGGAGTTCGGGCTG</Hsp_hseq>
+      <Hsp_midline>||| ||||||||||| |||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>470563</Statistics_db-num>
+      <Statistics_db-len>1085290394</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.41</Statistics_kappa>
+      <Statistics_lambda>0.625</Statistics_lambda>
+      <Statistics_entropy>0.78</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>16</Iteration_iter-num>
+  <Iteration_query-ID>Query_7041557</Iteration_query-ID>
+  <Iteration_query-def>unknown_part5 Cleaned version of unknown, length=879</Iteration_query-def>
+  <Iteration_query-len>879</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|648744501|dbj|LA257266.1|</Hit_id>
+  <Hit_def>TSA: Fish metagenome RNA, contig: contig12347_scaffold8745, isolate: DFGC9, transcribed RNA sequence</Hit_def>
+  <Hit_accession>LA257266</Hit_accession>
+  <Hit_len>854</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>655.909</Hsp_bit-score>
+      <Hsp_score>726</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>16</Hsp_query-from>
+      <Hsp_query-to>593</Hsp_query-to>
+      <Hsp_hit-from>84</Hsp_hit-from>
+      <Hsp_hit-to>661</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>492</Hsp_identity>
+      <Hsp_positive>492</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>578</Hsp_align-len>
+      <Hsp_qseq>CCCGGCTTCCAGCGCGAACATGAGCGTCGGTTTCGACGTGTTGGGCGCAGCCGTCACACCCGTTGACGGCACGTTGCTGGGCGATGTGGTATCCGTTGAAGCAGCGGACCATTTCCGTCTGCATAACCTGGGGCGATTTGCCGATAAACTGCCGCCGGAGCCGCGTGAAAATATTGTTTATCAGTGCTGGGAACGTTTTTGCCAGGCATTGGGGAAAACCATCCCGGTGGCGATGACGCTGGAAAAAAATATGCCGATTGGTTCCGGGTTAGGGTCCAGCGCCTGTTCCGTCGTCGCCGCGCTGGTCGCGATGAATGAGCACTGCGGCAAACCGTTAAACGACACGCGTCTGTTGGCGCTGATGGGCGAGCTGGAAGGCCGTATCTCCGGCAGCATCCATTACGATAACGTCGCGCCGTGCTTTCTTGGCGGTATGCAGTTGATGATTGAAGAAAACGGCATTATTAGTCAGCAGGTGCCGGGCTTTGATGAGTGGCTATGGGTACTGGCTTATCCGGGCATTAAAGTTTCTACCGCAGAAGCACGGGCCATTTTGCCTGCGCAGTATCGCCGTCAGG</Hsp_qseq>
+      <Hsp_hseq>CCCGGCTTCCAGCGCCAATATGAGCGTCGGGTTTGATGTGCTCGGAGCAGCGGTAACTCCGGTGGACGGTTCGCTGTTAGGCGATGTGGTATCCGTTGAGGCGGCTGACAATTTCAGCCTCAACAACCTCGGTCGCTTTGCCAATAAGCTGCCGCCTGAGCCGCGAGAAAATATTGTCTACCAGTGCTGGGAGCGATTCTGTCAGGAGCTGGGTAAAAGCGTTCCGGTGGCGATGACGCTGGAAAAAAATATGCCGATTGGCTCCGGGTTAGGCTCCAGCGCGTGTTCCGTTGTGGCGGCGCTGGTCGCCATGAACGAGCATTGCGGTAAACCGCTCAACGATACGCGCCTGTTGGCGATAATGGGTGAGCTGGAAGGGCGTATCTCCGGCAGTATTCATTACGATAACGTCGCCCCGTGCTTTTTGGGCGGTATGCAGTTAATGATCGAAGAAAACGGCATTATCAGCCAGCAGGTGCCAGGCTTTGATGAGTGGCTGTGGGTCCTCGCGTATCCGGGAATTAAAGTGTCGACGGCAGAAGCGCGGGCGATTTTACCTGCGCAGTATCGCCGTCAGG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||| || ||||||||||| || || ||| | || ||||| || || || || |||||  || || | |||||||||||||||||||| || || ||| ||||| | ||  | ||||| || || |||||| |||| |||||||| |||||||| ||||||||||| || ||||||||||| || || || ||||   |||| |||| | | |||||||||||||||||||||||||||||||||||||| ||||||||||| |||||||| |||||||| || || ||||||||||| ||||| ||||| ||||| |||||| | ||||| ||||| ||||||||| | ||||| ||||||||||| |||||||||||||| || ||||||||||||||||| ||||||||| | |||||||||||||| ||||| ||||||||||||||||| || ||||||||||| ||||||||||||||||| ||||| || || |||||||| |||||||| || || |||||||| ||||| ||||| ||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|648786111|dbj|LA216310.1|</Hit_id>
+  <Hit_def>TSA: Fish metagenome RNA, contig: contig64667_C4606219, isolate: DFGC6, transcribed RNA sequence</Hit_def>
+  <Hit_accession>LA216310</Hit_accession>
+  <Hit_len>1329</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>556.724</Hsp_bit-score>
+      <Hsp_score>616</Hsp_score>
+      <Hsp_evalue>2.32686e-156</Hsp_evalue>
+      <Hsp_query-from>16</Hsp_query-from>
+      <Hsp_query-to>593</Hsp_query-to>
+      <Hsp_hit-from>873</Hsp_hit-from>
+      <Hsp_hit-to>296</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>470</Hsp_identity>
+      <Hsp_positive>470</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>578</Hsp_align-len>
+      <Hsp_qseq>CCCGGCTTCCAGCGCGAACATGAGCGTCGGTTTCGACGTGTTGGGCGCAGCCGTCACACCCGTTGACGGCACGTTGCTGGGCGATGTGGTATCCGTTGAAGCAGCGGACCATTTCCGTCTGCATAACCTGGGGCGATTTGCCGATAAACTGCCGCCGGAGCCGCGTGAAAATATTGTTTATCAGTGCTGGGAACGTTTTTGCCAGGCATTGGGGAAAACCATCCCGGTGGCGATGACGCTGGAAAAAAATATGCCGATTGGTTCCGGGTTAGGGTCCAGCGCCTGTTCCGTCGTCGCCGCGCTGGTCGCGATGAATGAGCACTGCGGCAAACCGTTAAACGACACGCGTCTGTTGGCGCTGATGGGCGAGCTGGAAGGCCGTATCTCCGGCAGCATCCATTACGATAACGTCGCGCCGTGCTTTCTTGGCGGTATGCAGTTGATGATTGAAGAAAACGGCATTATTAGTCAGCAGGTGCCGGGCTTTGATGAGTGGCTATGGGTACTGGCTTATCCGGGCATTAAAGTTTCTACCGCAGAAGCACGGGCCATTTTGCCTGCGCAGTATCGCCGTCAGG</Hsp_qseq>
+      <Hsp_hseq>CCCGGCTTCCAGCGCGAATATGAGCGTCGGATTTGACGTGCTGGGCGCGGCGGTGACGCCGGTGGATGGTTCACTGCTGGGCGATACGGTCACGGTGGAAGCGGCAGACAGCTTCAGCCTGAACAACGTGGGCCGCTTCGCCAGCAAACTGCCGTCTGAGCCGCGCGAAAATATCGTCTATCAGTGCTGGGAACGCTTCTGTCAGGAGATCGGCAAAAACGTGCCGGTTGCCATGACGCTGGAAAAAAGTATGCCGATTGGCTCGGGGCTGGGTTCCAGCGCTTGTTCGGTGGTCGCCGCGCTGGTGGCGATGAACGAGCACTGCGGCAAGCCGCTGAACAACAACCGCCTGCTGGGGTTGATGGGCGAGCTGGAAGGGCGCATCTCCGGCAGCATTCACTATGACAACGTGGCGCCGTGCTTCCTCGGCGGCATGCAGCTGATGATCGAAGAAAATGGCATCATCAGCCAGCAGGTGCCAGGGTTTGATGAGTGGCTGTGGGTGCTGGCCTATCCGGGCATTAAGGTCTCTACCGCGGAAGCGCGTGCGATCCTGCCCGCGCAGTATCGTCGCCAGG</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||| ||||||||||| || |||||| ||||||| || || || || || || ||  |  |||||||||||  |||  | || ||||| || |||   ||| | ||| | ||| |||| || || |||   ||||||||| | |||||||| |||||||| || ||||||||||||||||| || || ||||   | || |||| | | ||||| || |||||||||||||||| |||||||||||| || ||| | || |||||||| ||||| || |||||||||||||| |||||||| |||||||||||||| ||| | ||| |||  || ||| ||| | ||||||||||||||||||| || |||||||||||||| || || || ||||| ||||||||||| || ||||| |||||| ||||||| |||||||| ||||| || || ||||||||||| || |||||||||||||| ||||| ||||| |||||||||||||| || |||||||| ||||| || || ||  |||| ||||||||||| || ||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|648316583|dbj|LA020528.1|</Hit_id>
+  <Hit_def>TSA: Fish metagenome RNA, contig: contig20528_C2532700, isolate: DF3293, transcribed RNA sequence</Hit_def>
+  <Hit_accession>LA020528</Hit_accession>
+  <Hit_len>1024</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>199.657</Hsp_bit-score>
+      <Hsp_score>220</Hsp_score>
+      <Hsp_evalue>7.15573e-49</Hsp_evalue>
+      <Hsp_query-from>16</Hsp_query-from>
+      <Hsp_query-to>487</Hsp_query-to>
+      <Hsp_hit-from>492</Hsp_hit-from>
+      <Hsp_hit-to>6</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>346</Hsp_identity>
+      <Hsp_positive>346</Hsp_positive>
+      <Hsp_gaps>33</Hsp_gaps>
+      <Hsp_align-len>496</Hsp_align-len>
+      <Hsp_qseq>CCCGGCTTCCAGCGCGAACATGAGCGTCGGTTTCGACGTGTTGGGCGCAGCCGTCACACCCGTTGACGGCACGTTGCTGGGCGATGTGGT---ATCCGTTG-AAGCAGCGGACCATTTCCGTCTGCATAACCTGGGGCGATTTGCCGATAAACTGCCGCCGGAGCCGCGTGAAAATATTGTTTATCAGTGCTGGGAAC-GTT---------------TTTGCCAGGCATTGGGGAAAACCATCCCGGTGGCGATGACGCTGGAAAAAAATATGCCGATTGGTTCCGGGTTAGGGTCCAGCGCCTGTTCCGTCGTCGCCGCGCTGGTCGCGATGAATGA---GCACTGCGGCAAACCGTTAAACGA-CACGCGTCTGTTGGCGCTGATGGGCGAGCTGGAAGGCCGTATCTCCGGCAGCATCCATTACGATAACGTCGCGCCGTGCTTTCTTGGCGGTATGCAGTTGATGATTGAAGAAAACGGCATTATTAGTCAG</Hsp_qseq>
+      <Hsp_hseq>CCCGGCCTCGATTGGGAATGTGAGTGTCGGATTCGATGTGCTGGGCGCGGCGGTCAGTCCGGTGGACGGCACCTTGCTCGGGGATGTGGTCAGTGCCGAGGCTTGCAGCGAACCGTTTGAGTTGGCGT-GCCGCGGGCGGTTTGTCGATAAATTGCCGGTTAATCCGCAGGAAAATATCGTCTATCAGTGCTGGGTGCTGTTCAGTGAGCGCCTGCGCTTACAAGGC----GGCAAGGTCAAACCGGTGCGGCTGGTGTTGGAAAAGAACATGCCGATTGGTTCGGGGTTCGGCTCCAGTGCCTGCTCGATTGTGGCGGCGCTGGTGGCGCTCAATGAGTGGCA-TGAG--CGTCCATTTGATGAGCATGC-CATGCTGGCCATGATGGGCGAACTGGAAGGACGCATTTCGGGCAGCGTGCACTACGATAACGTGGCGCCGTGCTATTTGGGCGGCTTGCAGCTGATGCTGGAAGAGATGGGGATCATCAGTCAG</Hsp_hseq>
+      <Hsp_midline>|||||| || |  | |||  |||| ||||| ||||| ||| ||||||| || ||||  || || |||||||| ||||| || ||||||||     |||  |   |||||| ||| |||  ||  || |  ||  ||||| |||| ||||||| |||||    | ||||  |||||||| || |||||||||||||  | |||                || | ||||    || ||   ||  ||||||  | ||  | ||||||| || |||||||||||||| ||||| || ||||| ||||| ||  | || || |||||||| ||| | |||||   ||| || |     || ||  | || || ||   || ||||  |||||||||| |||||||| || || || |||||| | || ||||||||||| |||||||||| | | |||||  ||||| ||||| | ||||| |  || || || ||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gi|648710079|dbj|LA301375.1|</Hit_id>
+  <Hit_def>TSA: Fish metagenome RNA, contig: contig4493_scaffold6696, isolate: YEZ, transcribed RNA sequence</Hit_def>
+  <Hit_accession>LA301375</Hit_accession>
+  <Hit_len>378</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>133.834</Hsp_bit-score>
+      <Hsp_score>147</Hsp_score>
+      <Hsp_evalue>8.72517e-29</Hsp_evalue>
+      <Hsp_query-from>373</Hsp_query-from>
+      <Hsp_query-to>593</Hsp_query-to>
+      <Hsp_hit-from>98</Hsp_hit-from>
+      <Hsp_hit-to>318</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>162</Hsp_identity>
+      <Hsp_positive>162</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>221</Hsp_align-len>
+      <Hsp_qseq>GCTGATGGGCGAGCTGGAAGGCCGTATCTCCGGCAGCATCCATTACGATAACGTCGCGCCGTGCTTTCTTGGCGGTATGCAGTTGATGATTGAAGAAAACGGCATTATTAGTCAGCAGGTGCCGGGCTTTGATGAGTGGCTATGGGTACTGGCTTATCCGGGCATTAAAGTTTCTACCGCAGAAGCACGGGCCATTTTGCCTGCGCAGTATCGCCGTCAGG</Hsp_qseq>
+      <Hsp_hseq>GCTGATGGGGGAGATGGAAGGGCGCATCTCCGGCTCCGTTCACTACGACAACGTGGCTCCCTGTTATCTGGGCGGCATGCAGCTGGTGCTGGAAGAGCACGGCGTTATCAGTCAGGGCATTCCGGTGTTCGATCAGTGGTACTGGGTGGTCTGCTACCCGGGCACAGTGGTTTCGACTGCCGCCGCACGAGCCATCTTGCCGGCCCAATATCGCCGTCAGG</Hsp_hseq>
+      <Hsp_midline>||||||||| ||| ||||||| || |||||||||  | | || ||||| ||||| || || || | ||| ||||| |||||| || || | |||||  ||||| |||| ||||||    | ||||  || ||| |||||   |||||  |    || |||||||     ||||| || || |  ||||| ||||| ||||| || || |||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gi|648727121|dbj|LA280510.1|</Hit_id>
+  <Hit_def>TSA: Fish metagenome RNA, contig: contig35591_C1989283, isolate: DFGC9, transcribed RNA sequence</Hit_def>
+  <Hit_accession>LA280510</Hit_accession>
+  <Hit_len>1218</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>123.014</Hsp_bit-score>
+      <Hsp_score>135</Hsp_score>
+      <Hsp_evalue>1.57755e-25</Hsp_evalue>
+      <Hsp_query-from>249</Hsp_query-from>
+      <Hsp_query-to>573</Hsp_query-to>
+      <Hsp_hit-from>491</Hsp_hit-from>
+      <Hsp_hit-to>815</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>222</Hsp_identity>
+      <Hsp_positive>222</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>325</Hsp_align-len>
+      <Hsp_qseq>TGACGCTGGAAAAAAATATGCCGATTGGTTCCGGGTTAGGGTCCAGCGCCTGTTCCGTCGTCGCCGCGCTGGTCGCGATGAATGAGCACTGCGGCAAACCGTTAAACGACACGCGTCTGTTGGCGCTGATGGGCGAGCTGGAAGGCCGTATCTCCGGCAGCATCCATTACGATAACGTCGCGCCGTGCTTTCTTGGCGGTATGCAGTTGATGATTGAAGAAAACGGCATTATTAGTCAGCAGGTGCCGGGCTTTGATGAGTGGCTATGGGTACTGGCTTATCCGGGCATTAAAGTTTCTACCGCAGAAGCACGGGCCATTTTGCC</Hsp_qseq>
+      <Hsp_hseq>TGACATTGGAAAAAAATATGCCAATCGGTTCAGGATTGGGTTCCAGTGCTTGTTCCATTGTTGCAGCATTGGTTTCGTTGAATAAATTTCACGACGAACCTTTTTCTAAAATGGAATTACTGGAAATGATGGGTGAGTTGGAAGGCAGAATCTCAGGCTCAATTCATTATGACAATGTAGCGCCTTGCTACTTGGGTGGTGTGCAATTAATCGTGCAGTCATTAGGCAATATTTGCCAAACGTTACCGTTTTTTGATAATTGGTATTGGGTGTTGGCTTATCCGGGAATTGAGGTTTCTACTGCAGAGGCTCGAGCGATTTTGCC</Hsp_hseq>
+      <Hsp_midline>||||  |||||||||||||||| || ||||| || || || ||||| || |||||| | || || ||  ||||  || ||||| |      || | |||| ||     | | |    |  |||   ||||||| ||| |||||||| | ||||| |||   || ||||| || || || ||||| ||||   | || ||| |||| || ||  |  |   |   |||| |||| | ||   | | |||   |||||| | |||   |||||  ||||||||||||| ||| | |||||||| ||||| || || || ||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>6</Hit_num>
+  <Hit_id>gi|648787390|dbj|LA220560.1|</Hit_id>
+  <Hit_def>TSA: Fish metagenome RNA, contig: contig68917_C4617821, isolate: DFGC6, transcribed RNA sequence</Hit_def>
+  <Hit_accession>LA220560</Hit_accession>
+  <Hit_len>2322</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>118.505</Hsp_bit-score>
+      <Hsp_score>130</Hsp_score>
+      <Hsp_evalue>1.92185e-24</Hsp_evalue>
+      <Hsp_query-from>249</Hsp_query-from>
+      <Hsp_query-to>573</Hsp_query-to>
+      <Hsp_hit-from>1600</Hsp_hit-from>
+      <Hsp_hit-to>1924</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>221</Hsp_identity>
+      <Hsp_positive>221</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>325</Hsp_align-len>
+      <Hsp_qseq>TGACGCTGGAAAAAAATATGCCGATTGGTTCCGGGTTAGGGTCCAGCGCCTGTTCCGTCGTCGCCGCGCTGGTCGCGATGAATGAGCACTGCGGCAAACCGTTAAACGACACGCGTCTGTTGGCGCTGATGGGCGAGCTGGAAGGCCGTATCTCCGGCAGCATCCATTACGATAACGTCGCGCCGTGCTTTCTTGGCGGTATGCAGTTGATGATTGAAGAAAACGGCATTATTAGTCAGCAGGTGCCGGGCTTTGATGAGTGGCTATGGGTACTGGCTTATCCGGGCATTAAAGTTTCTACCGCAGAAGCACGGGCCATTTTGCC</Hsp_qseq>
+      <Hsp_hseq>TGACATTGGAAAAAAATATGCCAATCGGTTCAGGATTGGGTTCCAGTGCTTGTTCCATTGTTGCAGCATTGGTTTCGTTGAATAAATTTCACGACGAACCTTTTTCTAAAATGGAATTACTGGAAATGATGGGTGAGTTGGAAGGCAGAATTTCAGGCTCAATTCATTATGACAATGTAGCGCCTTGCTACTTGGGTGGTGTGCAATTAATCGTGCAGTCATTAGGCAATATTTGCCAAACGTTACCGTTTTTTGATAATTGGTATTGGGTGTTGGCTTATCCGGGAATTGAGGTTTCTACTGCAGAGGCTCGAGCGATTTTGCC</Hsp_hseq>
+      <Hsp_midline>||||  |||||||||||||||| || ||||| || || || ||||| || |||||| | || || ||  ||||  || ||||| |      || | |||| ||     | | |    |  |||   ||||||| ||| |||||||| | || || |||   || ||||| || || || ||||| ||||   | || ||| |||| || ||  |  |   |   |||| |||| | ||   | | |||   |||||| | |||   |||||  ||||||||||||| ||| | |||||||| ||||| || || || ||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>7</Hit_num>
+  <Hit_id>gi|648693564|dbj|LA318150.1|</Hit_id>
+  <Hit_def>TSA: Fish metagenome RNA, contig: contig21268_C2398085, isolate: YEZ, transcribed RNA sequence</Hit_def>
+  <Hit_accession>LA318150</Hit_accession>
+  <Hit_len>654</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>118.505</Hsp_bit-score>
+      <Hsp_score>130</Hsp_score>
+      <Hsp_evalue>1.92185e-24</Hsp_evalue>
+      <Hsp_query-from>249</Hsp_query-from>
+      <Hsp_query-to>573</Hsp_query-to>
+      <Hsp_hit-from>130</Hsp_hit-from>
+      <Hsp_hit-to>454</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>221</Hsp_identity>
+      <Hsp_positive>221</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>325</Hsp_align-len>
+      <Hsp_qseq>TGACGCTGGAAAAAAATATGCCGATTGGTTCCGGGTTAGGGTCCAGCGCCTGTTCCGTCGTCGCCGCGCTGGTCGCGATGAATGAGCACTGCGGCAAACCGTTAAACGACACGCGTCTGTTGGCGCTGATGGGCGAGCTGGAAGGCCGTATCTCCGGCAGCATCCATTACGATAACGTCGCGCCGTGCTTTCTTGGCGGTATGCAGTTGATGATTGAAGAAAACGGCATTATTAGTCAGCAGGTGCCGGGCTTTGATGAGTGGCTATGGGTACTGGCTTATCCGGGCATTAAAGTTTCTACCGCAGAAGCACGGGCCATTTTGCC</Hsp_qseq>
+      <Hsp_hseq>TGACATTGGAAAAAAATATGCCAATCGGTTCAGGATTGGGTTCCAGTGCTTGTTCCATTGTTGCAGCATTGGTTTCGTTGAATAAATTTCACGACGAACCTTTTTCTAAAATGGAATTACTGGAAATGATGGGTGAGTTGGAAGGCAGAATTTCAGGCTCAATTCATTATGACAATGTAGCGCCTTGCTACTTGGGTGGTGTGCAATTAATCGTGCAGTCATTAGGCAATATTTGCCAAACGTTACCGTTTTTTGATAATTGGTATTGGGTGTTGGCTTATCCGGGAATTGAGGTTTCTACTGCAGAGGCTCGAGCGATTTTGCC</Hsp_hseq>
+      <Hsp_midline>||||  |||||||||||||||| || ||||| || || || ||||| || |||||| | || || ||  ||||  || ||||| |      || | |||| ||     | | |    |  |||   ||||||| ||| |||||||| | || || |||   || ||||| || || || ||||| ||||   | || ||| |||| || ||  |  |   |   |||| |||| | ||   | | |||   |||||| | |||   |||||  ||||||||||||| ||| | |||||||| ||||| || || || ||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>8</Hit_num>
+  <Hit_id>gi|648757368|dbj|LA244591.1|</Hit_id>
+  <Hit_def>TSA: Fish metagenome RNA, contig: contig23039_C2369904, isolate: DFGC7, transcribed RNA sequence</Hit_def>
+  <Hit_accession>LA244591</Hit_accession>
+  <Hit_len>2071</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>116.702</Hsp_bit-score>
+      <Hsp_score>128</Hsp_score>
+      <Hsp_evalue>6.7079e-24</Hsp_evalue>
+      <Hsp_query-from>255</Hsp_query-from>
+      <Hsp_query-to>573</Hsp_query-to>
+      <Hsp_hit-from>2071</Hsp_hit-from>
+      <Hsp_hit-to>1753</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>217</Hsp_identity>
+      <Hsp_positive>217</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>319</Hsp_align-len>
+      <Hsp_qseq>TGGAAAAAAATATGCCGATTGGTTCCGGGTTAGGGTCCAGCGCCTGTTCCGTCGTCGCCGCGCTGGTCGCGATGAATGAGCACTGCGGCAAACCGTTAAACGACACGCGTCTGTTGGCGCTGATGGGCGAGCTGGAAGGCCGTATCTCCGGCAGCATCCATTACGATAACGTCGCGCCGTGCTTTCTTGGCGGTATGCAGTTGATGATTGAAGAAAACGGCATTATTAGTCAGCAGGTGCCGGGCTTTGATGAGTGGCTATGGGTACTGGCTTATCCGGGCATTAAAGTTTCTACCGCAGAAGCACGGGCCATTTTGCC</Hsp_qseq>
+      <Hsp_hseq>TGGAAAAAAATATGCCAATCGGTTCAGGATTGGGTTCCAGTGCTTGTTCCATTGTTGCAGCATTGGTTTCGTTGAATAAATTTCACGACGAACCTTTTTCTAAAATGGAATTACTGGAAATGATGGGTGAGTTGGAAGGCAGAATTTCAGGCTCAATTCATTATGACAATGTAGCGCCTTGCTACTTGGGTGGTGTGCAATTAATCGTGCAGTCATTAGGCAATATTTGCCAAACGTTACCGTTTTTTGATAATTGGTATTGGGTGTTGGCTTATCCGGGAATTGAGGTTTCTACTGCAGAGGCTCGAGCGATTTTGCC</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||| || ||||| || || || ||||| || |||||| | || || ||  ||||  || ||||| |      || | |||| ||     | | |    |  |||   ||||||| ||| |||||||| | || || |||   || ||||| || || || ||||| ||||   | || ||| |||| || ||  |  |   |   |||| |||| | ||   | | |||   |||||| | |||   |||||  ||||||||||||| ||| | |||||||| ||||| || || || ||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>9</Hit_num>
+  <Hit_id>gi|648750033|dbj|LA259847.1|</Hit_id>
+  <Hit_def>TSA: Fish metagenome RNA, contig: contig14928_scaffold10041, isolate: DFGC9, transcribed RNA sequence</Hit_def>
+  <Hit_accession>LA259847</Hit_accession>
+  <Hit_len>2403</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>106.783</Hsp_bit-score>
+      <Hsp_score>117</Hsp_score>
+      <Hsp_evalue>1.21282e-20</Hsp_evalue>
+      <Hsp_query-from>253</Hsp_query-from>
+      <Hsp_query-to>588</Hsp_query-to>
+      <Hsp_hit-from>1772</Hsp_hit-from>
+      <Hsp_hit-to>2107</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>235</Hsp_identity>
+      <Hsp_positive>235</Hsp_positive>
+      <Hsp_gaps>20</Hsp_gaps>
+      <Hsp_align-len>346</Hsp_align-len>
+      <Hsp_qseq>GCTGGAAAAAAATATGCCGATTGGTTCCGGGTTAGGGTCCAGCGCCTGTTCCG---TCGTCGCCGCGCTGGTCGCGATGAATGAG---CAC--TGCGGCAAACCGTTAAACGACACGCGTCTGTTGGCGCTGATGGGCGAGCTGGAAGGCCGTATCTCCGGCAGCATCCATTACGATAACGTCGCGCCGTGCTTTCTTGGCGGTATGCAGTTGATGATTGAAGAAAACGGCATTATTAGTCAGCAGGTGCCGGGCTTTGATGAGTGG--CTATGGGTACTGGCTTATCCGGGCATTAAAGTTTCTACCGCAGAAGCACGGGCCATTTTGCCTGCGCAGTATCGCCG</Hsp_qseq>
+      <Hsp_hseq>GCTGGAAAAGAATTTGCCAATCGGTTCTGGGTTGGGCTCTAGTGC---TTCCAGTATCGTGGCAGCCCTGGAAGGGTTGAATGCATTTCACGATTACGCATTGAGT--AAGGATGAGCAGCTGTTGT---TGATGGGGGAGCTGGAAGGCAAGATCTCAGGCTCTATTCACTATGACAATGTGGCGCCATGTTATCTCGGTGGTATCCAGTTGATGATTGAAGAGAGCGGTATTATCAGCCAGTCAATTCCGGACTTCGCTGATTGGTACTGGGTGTCCTG--TTATCCCGGGATCAGTATTAGCACCGCTGAGGCTCGAGCCATACTGCCGGCACAATACCGTCG</Hsp_hseq>
+      <Hsp_midline>||||||||| ||| |||| || ||||| ||||| || || || ||   ||||    |||| || || ||||  | | ||||||     |||  |   |||    ||  || ||   ||  ||||||    ||||||| ||||||||||||   ||||| |||   || || || || || || ||||| || | ||| || ||||| ||||||||||||||||| | ||| ||||| || |||    | |||| ||| | ||| |||  ||  | || |||  |||||| || || |   ||   ||||| || || || |||||  |||| || || || || ||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>10</Hit_num>
+  <Hit_id>gi|648372787|dbj|LA178318.1|</Hit_id>
+  <Hit_def>TSA: Fish metagenome RNA, contig: contig26675_scaffold20315, isolate: DFGC6, transcribed RNA sequence</Hit_def>
+  <Hit_accession>LA178318</Hit_accession>
+  <Hit_len>471</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>103.177</Hsp_bit-score>
+      <Hsp_score>113</Hsp_score>
+      <Hsp_evalue>1.47751e-19</Hsp_evalue>
+      <Hsp_query-from>253</Hsp_query-from>
+      <Hsp_query-to>519</Hsp_query-to>
+      <Hsp_hit-from>187</Hsp_hit-from>
+      <Hsp_hit-to>453</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>185</Hsp_identity>
+      <Hsp_positive>185</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>268</Hsp_align-len>
+      <Hsp_qseq>GCTGGAAAAAAATATGCCGATTGGTTCCGGGTTAGGGTCCAGCGCCTGTTCCGTCGTCGCCGCGCTGGTCGCGATGAATGAGCACTGCGGCAAACCGTTAAACGA-CACGCGTCTGTTGGCGCTGATGGGCGAGCTGGAAGGCCGTATCTCCGGCAGCATCCATTACGATAACGTCGCGCCGTGCTTTCTTGGCGGTATGCAGTTGATGATTGAAGAAAACGGCATTATTAGTCAGCAGGTGCCGGGCTTTGATGAGTGGCTATGGGT</Hsp_qseq>
+      <Hsp_hseq>GCTGGAGAAGAACCTGCCGGTGGGCTCGGGTCTGGGTTCCAGCGCCTGCAGCGTGGTGGCGGCCCTTGAAGGGCTCAACGCCTTCCACGGCGAGCCGCTCGATGAGCACGACT-TGCTGTTGCTGATGGGGGAGATGGAAGGGCGCATCTCCGGCTCCGTTCACTACGACAATGTGGCTCCCTGTTATCTGGGCGGCATGCAGCTGGTGCTGGAAGAGCACGGCGTTATCAGTCAGGGCATTCCGGTGTTCGATCAGTGGTACTGGGT</Hsp_hseq>
+      <Hsp_midline>|||||| || ||  ||||| | || || ||  | || |||||||||||   ||| || || || || |  | | | || |    |  |||| | ||| |  | || ||||  | || ||  ||||||||| ||| ||||||| || |||||||||  | | || ||||| || || || || || | ||| ||||| |||||| || || | |||||  ||||| |||| ||||||    | ||||  || ||| |||||   |||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>11</Hit_num>
+  <Hit_id>gi|648948896|dbj|LA034988.1|</Hit_id>
+  <Hit_def>TSA: Fish metagenome RNA, contig: contig12418_scaffold10963, isolate: DF3296, transcribed RNA sequence</Hit_def>
+  <Hit_accession>LA034988</Hit_accession>
+  <Hit_len>502</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>59.8958</Hsp_bit-score>
+      <Hsp_score>65</Hsp_score>
+      <Hsp_evalue>1.57894e-06</Hsp_evalue>
+      <Hsp_query-from>14</Hsp_query-from>
+      <Hsp_query-to>100</Hsp_query-to>
+      <Hsp_hit-from>108</Hsp_hit-from>
+      <Hsp_hit-to>193</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>66</Hsp_identity>
+      <Hsp_positive>66</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>87</Hsp_align-len>
+      <Hsp_qseq>CGCCCGGCTTCCAGCGCGAACATGAGCGTCGGTTTCGACGTGTTGGGCGCAGCCGTCACACCCGTTGACGGCACGTTGCTGGGCGAT</Hsp_qseq>
+      <Hsp_hseq>CGCCCGCCT-CCAGCGCCAACCTGAGCGTGGGATTCGATGTACTGGGGGCGGCGCTCGCCCCCGTGGATGGCTCTCTGCTCGGCGAT</Hsp_hseq>
+      <Hsp_midline>|||||| || ||||||| ||| ||||||| || ||||| ||  |||| || ||  || | ||||| || ||| |  |||| ||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>12</Hit_num>
+  <Hit_id>gi|648355813|dbj|LA067560.1|</Hit_id>
+  <Hit_def>TSA: Fish metagenome RNA, contig: contig17477_C1848798, isolate: DF3298, transcribed RNA sequence</Hit_def>
+  <Hit_accession>LA067560</Hit_accession>
+  <Hit_len>510</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>59.8958</Hsp_bit-score>
+      <Hsp_score>65</Hsp_score>
+      <Hsp_evalue>1.57894e-06</Hsp_evalue>
+      <Hsp_query-from>16</Hsp_query-from>
+      <Hsp_query-to>100</Hsp_query-to>
+      <Hsp_hit-from>322</Hsp_hit-from>
+      <Hsp_hit-to>406</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>64</Hsp_identity>
+      <Hsp_positive>64</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>85</Hsp_align-len>
+      <Hsp_qseq>CCCGGCTTCCAGCGCGAACATGAGCGTCGGTTTCGACGTGTTGGGCGCAGCCGTCACACCCGTTGACGGCACGTTGCTGGGCGAT</Hsp_qseq>
+      <Hsp_hseq>CCCCGCCTCCAGCGCCAACCTGAGCGTGGGATTCGATGTACTGGGGGCGGCGCTCGCCCCCGTTGATGGCTCCCTCTTGGGCGAT</Hsp_hseq>
+      <Hsp_midline>||| || |||||||| ||| ||||||| || ||||| ||  |||| || ||  || | |||||||| ||| |  |  ||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>13</Hit_num>
+  <Hit_id>gi|648329588|dbj|LA010820.1|</Hit_id>
+  <Hit_def>TSA: Fish metagenome RNA, contig: contig10820_scaffold9889, isolate: DF3293, transcribed RNA sequence</Hit_def>
+  <Hit_accession>LA010820</Hit_accession>
+  <Hit_len>535</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>59.8958</Hsp_bit-score>
+      <Hsp_score>65</Hsp_score>
+      <Hsp_evalue>1.57894e-06</Hsp_evalue>
+      <Hsp_query-from>14</Hsp_query-from>
+      <Hsp_query-to>100</Hsp_query-to>
+      <Hsp_hit-from>190</Hsp_hit-from>
+      <Hsp_hit-to>105</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>66</Hsp_identity>
+      <Hsp_positive>66</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>87</Hsp_align-len>
+      <Hsp_qseq>CGCCCGGCTTCCAGCGCGAACATGAGCGTCGGTTTCGACGTGTTGGGCGCAGCCGTCACACCCGTTGACGGCACGTTGCTGGGCGAT</Hsp_qseq>
+      <Hsp_hseq>CGCCCGCCT-CCAGCGCCAACCTGAGCGTGGGATTCGATGTACTGGGGGCGGCGCTCGCCCCCGTGGATGGCTCTCTGCTCGGCGAT</Hsp_hseq>
+      <Hsp_midline>|||||| || ||||||| ||| ||||||| || ||||| ||  |||| || ||  || | ||||| || ||| |  |||| ||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>14</Hit_num>
+  <Hit_id>gi|648710077|dbj|LA301373.1|</Hit_id>
+  <Hit_def>TSA: Fish metagenome RNA, contig: contig4491_scaffold6696, isolate: YEZ, transcribed RNA sequence</Hit_def>
+  <Hit_accession>LA301373</Hit_accession>
+  <Hit_len>168</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>50.8789</Hsp_bit-score>
+      <Hsp_score>55</Hsp_score>
+      <Hsp_evalue>0.000817912</Hsp_evalue>
+      <Hsp_query-from>14</Hsp_query-from>
+      <Hsp_query-to>100</Hsp_query-to>
+      <Hsp_hit-from>7</Hsp_hit-from>
+      <Hsp_hit-to>92</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>64</Hsp_identity>
+      <Hsp_positive>64</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>87</Hsp_align-len>
+      <Hsp_qseq>CGCCCGGCTTCCAGCGCGAACATGAGCGTCGGTTTCGACGTGTTGGGCGCAGCCGTCACACCCGTTGACGGCACGTTGCTGGGCGAT</Hsp_qseq>
+      <Hsp_hseq>CGCCCGCCT-CCAGCGCCAACCTGAGTGTGGGATTCGATGTACTGGGGGCGGCGCTTGCCCCCGTGGATGGCTCTCTGCTTGGCGAT</Hsp_hseq>
+      <Hsp_midline>|||||| || ||||||| ||| |||| || || ||||| ||  |||| || ||  |  | ||||| || ||| |  |||| ||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>15</Hit_num>
+  <Hit_id>gi|648372788|dbj|LA178319.1|</Hit_id>
+  <Hit_def>TSA: Fish metagenome RNA, contig: contig26676_scaffold20315, isolate: DFGC6, transcribed RNA sequence</Hit_def>
+  <Hit_accession>LA178319</Hit_accession>
+  <Hit_len>61</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>49.9773</Hsp_bit-score>
+      <Hsp_score>54</Hsp_score>
+      <Hsp_evalue>0.000817912</Hsp_evalue>
+      <Hsp_query-from>542</Hsp_query-from>
+      <Hsp_query-to>593</Hsp_query-to>
+      <Hsp_hit-from>5</Hsp_hit-from>
+      <Hsp_hit-to>56</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>42</Hsp_identity>
+      <Hsp_positive>42</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>52</Hsp_align-len>
+      <Hsp_qseq>GTTTCTACCGCAGAAGCACGGGCCATTTTGCCTGCGCAGTATCGCCGTCAGG</Hsp_qseq>
+      <Hsp_hseq>GTTTCGACTGCCGCTGCACGAGCCATCTTGCCGGCCCAATATCGCCGTCAGG</Hsp_hseq>
+      <Hsp_midline>||||| || || |  ||||| ||||| ||||| || || |||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>470563</Statistics_db-num>
+      <Statistics_db-len>1085290394</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.41</Statistics_kappa>
+      <Statistics_lambda>0.625</Statistics_lambda>
+      <Statistics_entropy>0.78</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>17</Iteration_iter-num>
+  <Iteration_query-ID>Query_7041558</Iteration_query-ID>
+  <Iteration_query-def>unknown_part6 Cleaned version of unknown, length=432</Iteration_query-def>
+  <Iteration_query-len>432</Iteration_query-len>
+<Iteration_hits>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>470563</Statistics_db-num>
+      <Statistics_db-len>1085290394</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.41</Statistics_kappa>
+      <Statistics_lambda>0.625</Statistics_lambda>
+      <Statistics_entropy>0.78</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>18</Iteration_iter-num>
+  <Iteration_query-ID>Query_7041559</Iteration_query-ID>
+  <Iteration_query-def>unknown_part1 Cleaned version of unknown, length=283</Iteration_query-def>
+  <Iteration_query-len>283</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|648791598|dbj|LA219823.1|</Hit_id>
+  <Hit_def>TSA: Fish metagenome RNA, contig: contig68180_C4615783, isolate: DFGC6, transcribed RNA sequence</Hit_def>
+  <Hit_accession>LA219823</Hit_accession>
+  <Hit_len>1985</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>169</Hsp_bit-score>
+      <Hsp_score>186</Hsp_score>
+      <Hsp_evalue>3.62269e-40</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>153</Hsp_query-to>
+      <Hsp_hit-from>885</Hsp_hit-from>
+      <Hsp_hit-to>1037</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>129</Hsp_identity>
+      <Hsp_positive>129</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>153</Hsp_align-len>
+      <Hsp_qseq>CGACGGTATGCGCACGCTACGCGGCATTTCAGCGAAATTCTTCGCCGCGCTGGCGCGGGCTAATATCAATATCGTGGCGATCGCTCAGGGATCTTCTGAGCGTTCTATTTCTGTGGTGGTGAATAACGACGATGCCACCACCGGCGTGCGGGT</Hsp_qseq>
+      <Hsp_hseq>CGATGGTATGCGCACGTTGCGTGGCATCTCGGCGAAATTTTTTGCCGCGCTGGCTCGCGCGAACATTAATATCGTGGCAATCGCCCAGGGCTCGTCTGAGCGTTCCATTTCGGTAGTGGTGAATAACGACGACGCGACCACTGGCGTGCGTGT</Hsp_hseq>
+      <Hsp_midline>||| |||||||||||| | || ||||| || |||||||| || ||||||||||| || || || || ||||||||||| ||||| ||||| || ||||||||||| ||||| || ||||||||||||||||| || ||||| |||||||| ||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|648381890|dbj|LA168855.1|</Hit_id>
+  <Hit_def>TSA: Fish metagenome RNA, contig: contig17212_scaffold15200, isolate: DFGC6, transcribed RNA sequence</Hit_def>
+  <Hit_accession>LA168855</Hit_accession>
+  <Hit_len>1032</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>164.491</Hsp_bit-score>
+      <Hsp_score>181</Hsp_score>
+      <Hsp_evalue>1.54041e-38</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>153</Hsp_query-to>
+      <Hsp_hit-from>625</Hsp_hit-from>
+      <Hsp_hit-to>473</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>128</Hsp_identity>
+      <Hsp_positive>128</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>153</Hsp_align-len>
+      <Hsp_qseq>CGACGGTATGCGCACGCTACGCGGCATTTCAGCGAAATTCTTCGCCGCGCTGGCGCGGGCTAATATCAATATCGTGGCGATCGCTCAGGGATCTTCTGAGCGTTCTATTTCTGTGGTGGTGAATAACGACGATGCCACCACCGGCGTGCGGGT</Hsp_qseq>
+      <Hsp_hseq>CGACGGCATGCGCACGCTGCGTGGTATTTCCGCCAAGTTCTTTGCCGCGCTGGCGCGCGCCAATATCAATATCGTGGCGATTGCCCAGGGCTCGTCAGAGCGTTCAATTTCTGTTGTCGTGGACAACGATGACGCGACCACCGGCGTACGCGT</Hsp_hseq>
+      <Hsp_midline>|||||| ||||||||||| || || ||||| || || ||||| |||||||||||||| || |||||||||||||||||||| || ||||| || || |||||||| |||||||| || ||| | ||||| || || ||||||||||| || ||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|648750033|dbj|LA259847.1|</Hit_id>
+  <Hit_def>TSA: Fish metagenome RNA, contig: contig14928_scaffold10041, isolate: DFGC9, transcribed RNA sequence</Hit_def>
+  <Hit_accession>LA259847</Hit_accession>
+  <Hit_len>2403</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>78.8312</Hsp_bit-score>
+      <Hsp_score>86</Hsp_score>
+      <Hsp_evalue>5.04006e-13</Hsp_evalue>
+      <Hsp_query-from>48</Hsp_query-from>
+      <Hsp_query-to>120</Hsp_query-to>
+      <Hsp_hit-from>294</Hsp_hit-from>
+      <Hsp_hit-to>366</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>61</Hsp_identity>
+      <Hsp_positive>61</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>73</Hsp_align-len>
+      <Hsp_qseq>CGCTGGCGCGGGCTAATATCAATATCGTGGCGATCGCTCAGGGATCTTCTGAGCGTTCTATTTCTGTGGTGGT</Hsp_qseq>
+      <Hsp_hseq>CGCTGGCCCAGGCCAATATCAATGTCGTGGCGATTGCTCAGGGCTCAAGTGAGCGTTCCATTTCTGCAGTGGT</Hsp_hseq>
+      <Hsp_midline>||||||| | ||| ||||||||| |||||||||| |||||||| ||   ||||||||| |||||||  |||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gi|648787390|dbj|LA220560.1|</Hit_id>
+  <Hit_def>TSA: Fish metagenome RNA, contig: contig68917_C4617821, isolate: DFGC6, transcribed RNA sequence</Hit_def>
+  <Hit_accession>LA220560</Hit_accession>
+  <Hit_len>2322</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>75.2244</Hsp_bit-score>
+      <Hsp_score>82</Hsp_score>
+      <Hsp_evalue>6.14005e-12</Hsp_evalue>
+      <Hsp_query-from>38</Hsp_query-from>
+      <Hsp_query-to>113</Hsp_query-to>
+      <Hsp_hit-from>120</Hsp_hit-from>
+      <Hsp_hit-to>195</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>62</Hsp_identity>
+      <Hsp_positive>62</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>76</Hsp_align-len>
+      <Hsp_qseq>TTCTTCGCCGCGCTGGCGCGGGCTAATATCAATATCGTGGCGATCGCTCAGGGATCTTCTGAGCGTTCTATTTCTG</Hsp_qseq>
+      <Hsp_hseq>TTCTTCTCTGCATTAGCGCAGGCTAATATTAGTATCGTTGCGATTGCGCAAGGCTCTTCTGAGCGTTCTATCTCTG</Hsp_hseq>
+      <Hsp_midline>|||||| | ||  | |||| ||||||||| | |||||| ||||| || || || ||||||||||||||||| ||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gi|648757523|dbj|LA244746.1|</Hit_id>
+  <Hit_def>TSA: Fish metagenome RNA, contig: contig23194_C2370256, isolate: DFGC7, transcribed RNA sequence</Hit_def>
+  <Hit_accession>LA244746</Hit_accession>
+  <Hit_len>2380</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>70.716</Hsp_bit-score>
+      <Hsp_score>77</Hsp_score>
+      <Hsp_evalue>2.61082e-10</Hsp_evalue>
+      <Hsp_query-from>53</Hsp_query-from>
+      <Hsp_query-to>113</Hsp_query-to>
+      <Hsp_hit-from>983</Hsp_hit-from>
+      <Hsp_hit-to>923</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>52</Hsp_identity>
+      <Hsp_positive>52</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>61</Hsp_align-len>
+      <Hsp_qseq>GCGCGGGCTAATATCAATATCGTGGCGATCGCTCAGGGATCTTCTGAGCGTTCTATTTCTG</Hsp_qseq>
+      <Hsp_hseq>GCGCAGGCTAATATTAGTATCGTTGCGATTGCGCAAGGCTCTTCTGAGCGTTCTATCTCTG</Hsp_hseq>
+      <Hsp_midline>|||| ||||||||| | |||||| ||||| || || || ||||||||||||||||| ||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>6</Hit_num>
+  <Hit_id>gi|648752834|dbj|LA260241.1|</Hit_id>
+  <Hit_def>TSA: Fish metagenome RNA, contig: contig15322_scaffold10220, isolate: DFGC9, transcribed RNA sequence</Hit_def>
+  <Hit_accession>LA260241</Hit_accession>
+  <Hit_len>980</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>58.9941</Hsp_bit-score>
+      <Hsp_score>64</Hsp_score>
+      <Hsp_evalue>4.72047e-07</Hsp_evalue>
+      <Hsp_query-from>62</Hsp_query-from>
+      <Hsp_query-to>113</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>52</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>44</Hsp_identity>
+      <Hsp_positive>44</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>52</Hsp_align-len>
+      <Hsp_qseq>AATATCAATATCGTGGCGATCGCTCAGGGATCTTCTGAGCGTTCTATTTCTG</Hsp_qseq>
+      <Hsp_hseq>AATATTAGTATCGTTGCGATTGCGCAAGGCTCTTCTGAGCGTTCTATCTCTG</Hsp_hseq>
+      <Hsp_midline>||||| | |||||| ||||| || || || ||||||||||||||||| ||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>7</Hit_num>
+  <Hit_id>gi|648697079|dbj|LA309603.1|</Hit_id>
+  <Hit_def>TSA: Fish metagenome RNA, contig: contig12721_scaffold13194, isolate: YEZ, transcribed RNA sequence</Hit_def>
+  <Hit_accession>LA309603</Hit_accession>
+  <Hit_len>505</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>58.0924</Hsp_bit-score>
+      <Hsp_score>63</Hsp_score>
+      <Hsp_evalue>1.6476e-06</Hsp_evalue>
+      <Hsp_query-from>38</Hsp_query-from>
+      <Hsp_query-to>121</Hsp_query-to>
+      <Hsp_hit-from>48</Hsp_hit-from>
+      <Hsp_hit-to>131</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>63</Hsp_identity>
+      <Hsp_positive>63</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>84</Hsp_align-len>
+      <Hsp_qseq>TTCTTCGCCGCGCTGGCGCGGGCTAATATCAATATCGTGGCGATCGCTCAGGGATCTTCTGAGCGTTCTATTTCTGTGGTGGTG</Hsp_qseq>
+      <Hsp_hseq>TTCTTCACCTCGCTGGCGCAAGCCTCTATCAATATTGTCGCCATTGCCCAGGGCTCCAGCGAGCGCTCCATTTCGGCGGTGGTG</Hsp_hseq>
+      <Hsp_midline>|||||| || |||||||||  ||   ||||||||| || || || || ||||| ||    ||||| || ||||| | |||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>8</Hit_num>
+  <Hit_id>gi|648308728|dbj|LA035440.1|</Hit_id>
+  <Hit_def>TSA: Fish metagenome RNA, contig: contig12870_scaffold11199, isolate: DF3296, transcribed RNA sequence</Hit_def>
+  <Hit_accession>LA035440</Hit_accession>
+  <Hit_len>1195</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>53.584</Hsp_bit-score>
+      <Hsp_score>58</Hsp_score>
+      <Hsp_evalue>2.00719e-05</Hsp_evalue>
+      <Hsp_query-from>38</Hsp_query-from>
+      <Hsp_query-to>121</Hsp_query-to>
+      <Hsp_hit-from>513</Hsp_hit-from>
+      <Hsp_hit-to>430</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>62</Hsp_identity>
+      <Hsp_positive>62</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>84</Hsp_align-len>
+      <Hsp_qseq>TTCTTCGCCGCGCTGGCGCGGGCTAATATCAATATCGTGGCGATCGCTCAGGGATCTTCTGAGCGTTCTATTTCTGTGGTGGTG</Hsp_qseq>
+      <Hsp_hseq>TTCTTCACCTCGCTGGCGCAAGCCTCCATCAACATCGTCGCCATCGCGCAGGGCTCCAGCGAGCGCTCCATCTCGGCGGTGGTG</Hsp_hseq>
+      <Hsp_midline>|||||| || |||||||||  ||    ||||| ||||| || ||||| ||||| ||    ||||| || || || | |||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>470563</Statistics_db-num>
+      <Statistics_db-len>1085290394</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.41</Statistics_kappa>
+      <Statistics_lambda>0.625</Statistics_lambda>
+      <Statistics_entropy>0.78</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>19</Iteration_iter-num>
+  <Iteration_query-ID>Query_7041560</Iteration_query-ID>
+  <Iteration_query-def>unknown_part2 Cleaned version of unknown, length=549</Iteration_query-def>
+  <Iteration_query-len>549</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|648791598|dbj|LA219823.1|</Hit_id>
+  <Hit_def>TSA: Fish metagenome RNA, contig: contig68180_C4615783, isolate: DFGC6, transcribed RNA sequence</Hit_def>
+  <Hit_accession>LA219823</Hit_accession>
+  <Hit_len>1985</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>194.247</Hsp_bit-score>
+      <Hsp_score>214</Hsp_score>
+      <Hsp_evalue>1.86164e-47</Hsp_evalue>
+      <Hsp_query-from>388</Hsp_query-from>
+      <Hsp_query-to>549</Hsp_query-to>
+      <Hsp_hit-from>1091</Hsp_hit-from>
+      <Hsp_hit-to>1252</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>140</Hsp_identity>
+      <Hsp_positive>140</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>162</Hsp_align-len>
+      <Hsp_qseq>GCGTCGGCGGCGTCGGCGGCGCGCTACTGGAACAGCTTAAACGTCAGCAAACCTGGCTGAAGAACAAGCACATCGATCTACGCGTGTGCGGCGTGGCGAACTCAAAGGCGTTGCTAACCAATGTGCATGGCCTGAATCTGGACAACTGGCAGGCGGAACTGG</Hsp_qseq>
+      <Hsp_hseq>GCGTTGGCGGCGTGGGCGGTGCGCTGCTGGAGCAGCTTAAACGTCAGCAAACCTGGCTTAAAAAGAAGCATATCGATTTGCGCGTGTGCGGTGTGGCGAACTCGAAGGCCCTGCTGACCAACGTCCATGGTCTGAATCTGGAAAACTGGCAGTCGGAGCTGG</Hsp_hseq>
+      <Hsp_midline>|||| |||||||| ||||| ||||| ||||| |||||||||||||||||||||||||| || || ||||| |||||| | ||||||||||| ||||||||||| |||||  |||| ||||| || ||||| ||||||||||| ||||||||| |||| ||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>78.8312</Hsp_bit-score>
+      <Hsp_score>86</Hsp_score>
+      <Hsp_evalue>1.03146e-12</Hsp_evalue>
+      <Hsp_query-from>92</Hsp_query-from>
+      <Hsp_query-to>144</Hsp_query-to>
+      <Hsp_hit-from>1039</Hsp_hit-from>
+      <Hsp_hit-to>1091</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>49</Hsp_identity>
+      <Hsp_positive>49</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>53</Hsp_align-len>
+      <Hsp_qseq>ACGCACCAGATGCTGTTCAATACCGATCAGGTGATTGAAGTGTTTGTCATTGG</Hsp_qseq>
+      <Hsp_hseq>ACCCATCAGATGCTGTTCAACACCGATCAGGTGATTGAAGTATTTGTCATTGG</Hsp_hseq>
+      <Hsp_midline>|| || |||||||||||||| |||||||||||||||||||| |||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|648381890|dbj|LA168855.1|</Hit_id>
+  <Hit_def>TSA: Fish metagenome RNA, contig: contig17212_scaffold15200, isolate: DFGC6, transcribed RNA sequence</Hit_def>
+  <Hit_accession>LA168855</Hit_accession>
+  <Hit_len>1032</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>144.654</Hsp_bit-score>
+      <Hsp_score>159</Hsp_score>
+      <Hsp_evalue>2.95259e-32</Hsp_evalue>
+      <Hsp_query-from>388</Hsp_query-from>
+      <Hsp_query-to>544</Hsp_query-to>
+      <Hsp_hit-from>419</Hsp_hit-from>
+      <Hsp_hit-to>263</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>126</Hsp_identity>
+      <Hsp_positive>126</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>157</Hsp_align-len>
+      <Hsp_qseq>GCGTCGGCGGCGTCGGCGGCGCGCTACTGGAACAGCTTAAACGTCAGCAAACCTGGCTGAAGAACAAGCACATCGATCTACGCGTGTGCGGCGTGGCGAACTCAAAGGCGTTGCTAACCAATGTGCATGGCCTGAATCTGGACAACTGGCAGGCGGA</Hsp_qseq>
+      <Hsp_hseq>GCGTCGGCGGTGTGGGCGGCGCGCTGCTGGAGCAGGTGAAGCGTCAGCAGGAGTGGCTGAAGAAGAAACATATCGATCTGCGCGTCTGCGGGATTGCCAACTCCAGAGCGTTGCTCACTAATGTTCACGGTCTGAACCTGGAGAACTGGCAGGCCGA</Hsp_hseq>
+      <Hsp_midline>|||||||||| || ||||||||||| ||||| ||| | || ||||||||    ||||||||||| || || |||||||| ||||| |||||  | || ||||| |  |||||||| || ||||| || || ||||| ||||| ||||||||||| ||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>55.3874</Hsp_bit-score>
+      <Hsp_score>60</Hsp_score>
+      <Hsp_evalue>1.1769e-05</Hsp_evalue>
+      <Hsp_query-from>95</Hsp_query-from>
+      <Hsp_query-to>144</Hsp_query-to>
+      <Hsp_hit-from>468</Hsp_hit-from>
+      <Hsp_hit-to>419</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>42</Hsp_identity>
+      <Hsp_positive>42</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>CACCAGATGCTGTTCAATACCGATCAGGTGATTGAAGTGTTTGTCATTGG</Hsp_qseq>
+      <Hsp_hseq>CACCAGATGCTGTTCAACACCGACCAGGTTATCGAACTGTTCCTGATTGG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||| ||||| ||||| || ||| ||||  | |||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>470563</Statistics_db-num>
+      <Statistics_db-len>1085290394</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.41</Statistics_kappa>
+      <Statistics_lambda>0.625</Statistics_lambda>
+      <Statistics_entropy>0.78</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>20</Iteration_iter-num>
+  <Iteration_query-ID>Query_7041561</Iteration_query-ID>
+  <Iteration_query-def>unknown_part3 Cleaned version of unknown, length=409</Iteration_query-def>
+  <Iteration_query-len>409</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|648791598|dbj|LA219823.1|</Hit_id>
+  <Hit_def>TSA: Fish metagenome RNA, contig: contig68180_C4615783, isolate: DFGC6, transcribed RNA sequence</Hit_def>
+  <Hit_accession>LA219823</Hit_accession>
+  <Hit_len>1985</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>154.573</Hsp_bit-score>
+      <Hsp_score>170</Hsp_score>
+      <Hsp_evalue>1.19167e-35</Hsp_evalue>
+      <Hsp_query-from>6</Hsp_query-from>
+      <Hsp_query-to>130</Hsp_query-to>
+      <Hsp_hit-from>1258</Hsp_hit-from>
+      <Hsp_hit-to>1382</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>109</Hsp_identity>
+      <Hsp_positive>109</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>125</Hsp_align-len>
+      <Hsp_qseq>GCGAACGCGCCGTTCAATCTGGGACGCTTAATTCGCCTGGTGAAAGAATATCATCTACTCAATCCGGTGATTGTTGATTGTACCTCCAGTCAGGCGGTGGCCGACCAGTATGCCGACTTCCTGCG</Hsp_qseq>
+      <Hsp_hseq>GCGAAAGAGCCTTTCAACCTGGGGCGCTTAATTCGTCTGGTGAAAGAATATCATCTGCTCAATCCGGTGATTGTCGACTGTACGTCAAGTCAGGCGGTCGCGGATCAGTATGCGGATTTCCTGCG</Hsp_hseq>
+      <Hsp_midline>||||| | ||| ||||| ||||| ||||||||||| |||||||||||||||||||| ||||||||||||||||| || ||||| || ||||||||||| || || |||||||| || ||||||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>141.949</Hsp_bit-score>
+      <Hsp_score>156</Hsp_score>
+      <Hsp_evalue>7.52026e-32</Hsp_evalue>
+      <Hsp_query-from>272</Hsp_query-from>
+      <Hsp_query-to>409</Hsp_query-to>
+      <Hsp_hit-from>1384</Hsp_hit-from>
+      <Hsp_hit-to>1521</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>114</Hsp_identity>
+      <Hsp_positive>114</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>138</Hsp_align-len>
+      <Hsp_qseq>GAAGGGTTCCATGTGGTGACGCCAAACAAGAAAGCGAACACCTCGTCAATGGACTACTACCATCAGCTACGTTTCGCCGCCGCGCAATCACGGCGCAAATTCTTGTATGACACCAACGTCGGCGCCGGTTTGCCGGTA</Hsp_qseq>
+      <Hsp_hseq>GAAGGCTTCCATGTGGTTACGCCGAATAAAAAGGCCAACACGTCGTCGATGGATTACTACCATCAGCTGCGTTTTGCTGCGGCGAAGTCTCGTCGTAAATTCCTGTACGACACCAACGTAGGCGCGGGCTTGCCGGTA</Hsp_hseq>
+      <Hsp_midline>||||| ||||||||||| ||||| || || || || ||||| ||||| ||||| |||||||||||||| ||||| || || ||| | || || || |||||| |||| ||||||||||| ||||| || |||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|648381890|dbj|LA168855.1|</Hit_id>
+  <Hit_def>TSA: Fish metagenome RNA, contig: contig17212_scaffold15200, isolate: DFGC6, transcribed RNA sequence</Hit_def>
+  <Hit_accession>LA168855</Hit_accession>
+  <Hit_len>1032</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>145.556</Hsp_bit-score>
+      <Hsp_score>160</Hsp_score>
+      <Hsp_evalue>6.173e-33</Hsp_evalue>
+      <Hsp_query-from>6</Hsp_query-from>
+      <Hsp_query-to>130</Hsp_query-to>
+      <Hsp_hit-from>252</Hsp_hit-from>
+      <Hsp_hit-to>128</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>107</Hsp_identity>
+      <Hsp_positive>107</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>125</Hsp_align-len>
+      <Hsp_qseq>GCGAACGCGCCGTTCAATCTGGGACGCTTAATTCGCCTGGTGAAAGAATATCATCTACTCAATCCGGTGATTGTTGATTGTACCTCCAGTCAGGCGGTGGCCGACCAGTATGCCGACTTCCTGCG</Hsp_qseq>
+      <Hsp_hseq>GCGAAAGAGCCGTTCAACCTGGGCCGCCTGATCCGTCTGGTGAAAGAGTATCATCTGCTTAACCCGGTGATTGTCGACTGTACCTCGAACCAGGCGGTGGCCGACCAGTACGCCGACTTCCTGCG</Hsp_hseq>
+      <Hsp_midline>||||| | ||||||||| ||||| ||| | || || ||||||||||| |||||||| || || ||||||||||| || |||||||| |  |||||||||||||||||||| ||||||||||||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>122.112</Hsp_bit-score>
+      <Hsp_score>134</Hsp_score>
+      <Hsp_evalue>7.04339e-26</Hsp_evalue>
+      <Hsp_query-from>272</Hsp_query-from>
+      <Hsp_query-to>396</Hsp_query-to>
+      <Hsp_hit-from>126</Hsp_hit-from>
+      <Hsp_hit-to>2</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>104</Hsp_identity>
+      <Hsp_positive>104</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>126</Hsp_align-len>
+      <Hsp_qseq>GAAGGGTTCCATGTGGTGACGCCAAACAAGAAAGCGAACACCTCGTCAATGGACTACTACCATCAGCTACGTTTCGCCGCCGCGCAA-TCACGGCGCAAATTCTTGTATGACACCAACGTCGGCGC</Hsp_qseq>
+      <Hsp_hseq>GAAGGGTTCCACGTGGTGACGCCGAACAAAAAGGCCAACACCTCGTCGATGGATTACTATCACCAGCTGCGTCTGGCGGC-GAGCAAGTCGCGCCGCAAGTTCCTGTACGACACCAACGTGGGCGC</Hsp_hseq>
+      <Hsp_midline>||||||||||| ||||||||||| ||||| || || ||||||||||| ||||| ||||| || ||||| ||| | || || | |||| || || ||||| ||| |||| ||||||||||| |||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|648335761|dbj|LA104026.1|</Hit_id>
+  <Hit_def>TSA: Fish metagenome RNA, contig: contig5252_scaffold4895, isolate: DF4106, transcribed RNA sequence</Hit_def>
+  <Hit_accession>LA104026</Hit_accession>
+  <Hit_len>339</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>89.6514</Hsp_bit-score>
+      <Hsp_score>98</Hsp_score>
+      <Hsp_evalue>4.16301e-16</Hsp_evalue>
+      <Hsp_query-from>275</Hsp_query-from>
+      <Hsp_query-to>408</Hsp_query-to>
+      <Hsp_hit-from>148</Hsp_hit-from>
+      <Hsp_hit-to>15</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>100</Hsp_identity>
+      <Hsp_positive>100</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>134</Hsp_align-len>
+      <Hsp_qseq>GGGTTCCATGTGGTGACGCCAAACAAGAAAGCGAACACCTCGTCAATGGACTACTACCATCAGCTACGTTTCGCCGCCGCGCAATCACGGCGCAAATTCTTGTATGACACCAACGTCGGCGCCGGTTTGCCGGT</Hsp_qseq>
+      <Hsp_hseq>GGTTTCCATGTGGTCACTCCGAACAAGAAGGCCAACACCGGCTCGCTCGATTACTACAAGGCGCTGCGCCGCACTGCCCGCCAGACTCGCCGCAAGTTCCTCTATGAAACCAACGTCGGCGCCGGTTTGCCGGT</Hsp_hseq>
+      <Hsp_midline>|| ||||||||||| || || |||||||| || ||||||   ||  | || |||||| |   ||| ||   | | |||   ||  | || ||||| ||| | ||||| ||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>71.6177</Hsp_bit-score>
+      <Hsp_score>78</Hsp_score>
+      <Hsp_evalue>1.11709e-10</Hsp_evalue>
+      <Hsp_query-from>64</Hsp_query-from>
+      <Hsp_query-to>127</Hsp_query-to>
+      <Hsp_hit-from>219</Hsp_hit-from>
+      <Hsp_hit-to>156</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>54</Hsp_identity>
+      <Hsp_positive>54</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>64</Hsp_align-len>
+      <Hsp_qseq>TCAATCCGGTGATTGTTGATTGTACCTCCAGTCAGGCGGTGGCCGACCAGTATGCCGACTTCCT</Hsp_qseq>
+      <Hsp_hseq>TCAACCCGGTGATCGTCGACTGCACCTCCTCCGAGGCGGTGGCCGTCCAGTATGCCGACTTCCT</Hsp_hseq>
+      <Hsp_midline>|||| |||||||| || || || ||||||    |||||||||||| ||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gi|648697080|dbj|LA309604.1|</Hit_id>
+  <Hit_def>TSA: Fish metagenome RNA, contig: contig12722_scaffold13194, isolate: YEZ, transcribed RNA sequence</Hit_def>
+  <Hit_accession>LA309604</Hit_accession>
+  <Hit_len>778</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>80.6345</Hsp_bit-score>
+      <Hsp_score>88</Hsp_score>
+      <Hsp_evalue>2.15649e-13</Hsp_evalue>
+      <Hsp_query-from>275</Hsp_query-from>
+      <Hsp_query-to>408</Hsp_query-to>
+      <Hsp_hit-from>8</Hsp_hit-from>
+      <Hsp_hit-to>141</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>98</Hsp_identity>
+      <Hsp_positive>98</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>134</Hsp_align-len>
+      <Hsp_qseq>GGGTTCCATGTGGTGACGCCAAACAAGAAAGCGAACACCTCGTCAATGGACTACTACCATCAGCTACGTTTCGCCGCCGCGCAATCACGGCGCAAATTCTTGTATGACACCAACGTCGGCGCCGGTTTGCCGGT</Hsp_qseq>
+      <Hsp_hseq>GGTTTCCATGTGGTCACCCCGAACAAGAAGGCCAACACCGGTTCGCTCGATTACTACAAGGCGCTGCGCCGCACCGCCCGCCAGACTCGCCGCAAGTTCCTGTACGAGACCAACGTGGGTGCCGGTCTGCCGGT</Hsp_hseq>
+      <Hsp_midline>|| ||||||||||| || || |||||||| || ||||||   ||  | || |||||| |   ||| ||   | |||||   ||  | || ||||| ||| |||| || |||||||| || |||||| |||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gi|648329853|dbj|LA010821.1|</Hit_id>
+  <Hit_def>TSA: Fish metagenome RNA, contig: contig10821_scaffold9889, isolate: DF3293, transcribed RNA sequence</Hit_def>
+  <Hit_accession>LA010821</Hit_accession>
+  <Hit_len>637</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>80.6345</Hsp_bit-score>
+      <Hsp_score>88</Hsp_score>
+      <Hsp_evalue>2.15649e-13</Hsp_evalue>
+      <Hsp_query-from>275</Hsp_query-from>
+      <Hsp_query-to>408</Hsp_query-to>
+      <Hsp_hit-from>358</Hsp_hit-from>
+      <Hsp_hit-to>225</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>98</Hsp_identity>
+      <Hsp_positive>98</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>134</Hsp_align-len>
+      <Hsp_qseq>GGGTTCCATGTGGTGACGCCAAACAAGAAAGCGAACACCTCGTCAATGGACTACTACCATCAGCTACGTTTCGCCGCCGCGCAATCACGGCGCAAATTCTTGTATGACACCAACGTCGGCGCCGGTTTGCCGGT</Hsp_qseq>
+      <Hsp_hseq>GGTTTCCATGTGGTCACCCCGAACAAGAAGGCCAACACCGGTTCGCTCGATTACTACAAGGCGCTGCGCCGCACCGCCCGCCAGACTCGCCGCAAGTTCCTGTACGAGACCAACGTCGGCGCTGGCCTGCCGGT</Hsp_hseq>
+      <Hsp_midline>|| ||||||||||| || || |||||||| || ||||||   ||  | || |||||| |   ||| ||   | |||||   ||  | || ||||| ||| |||| || |||||||||||||| ||  |||||||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>71.6177</Hsp_bit-score>
+      <Hsp_score>78</Hsp_score>
+      <Hsp_evalue>1.11709e-10</Hsp_evalue>
+      <Hsp_query-from>64</Hsp_query-from>
+      <Hsp_query-to>127</Hsp_query-to>
+      <Hsp_hit-from>429</Hsp_hit-from>
+      <Hsp_hit-to>366</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>54</Hsp_identity>
+      <Hsp_positive>54</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>64</Hsp_align-len>
+      <Hsp_qseq>TCAATCCGGTGATTGTTGATTGTACCTCCAGTCAGGCGGTGGCCGACCAGTATGCCGACTTCCT</Hsp_qseq>
+      <Hsp_hseq>TCAACCCGGTGATCGTCGACTGCACCTCCTCCGAGGCGGTGGCCGTCCAGTATGCCGACTTCCT</Hsp_hseq>
+      <Hsp_midline>|||| |||||||| || || || ||||||    |||||||||||| ||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>6</Hit_num>
+  <Hit_id>gi|648697079|dbj|LA309603.1|</Hit_id>
+  <Hit_def>TSA: Fish metagenome RNA, contig: contig12721_scaffold13194, isolate: YEZ, transcribed RNA sequence</Hit_def>
+  <Hit_accession>LA309603</Hit_accession>
+  <Hit_len>505</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>76.1261</Hsp_bit-score>
+      <Hsp_score>83</Hsp_score>
+      <Hsp_evalue>9.16964e-12</Hsp_evalue>
+      <Hsp_query-from>64</Hsp_query-from>
+      <Hsp_query-to>127</Hsp_query-to>
+      <Hsp_hit-from>442</Hsp_hit-from>
+      <Hsp_hit-to>505</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>55</Hsp_identity>
+      <Hsp_positive>55</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>64</Hsp_align-len>
+      <Hsp_qseq>TCAATCCGGTGATTGTTGATTGTACCTCCAGTCAGGCGGTGGCCGACCAGTATGCCGACTTCCT</Hsp_qseq>
+      <Hsp_hseq>TCAACCCGGTGATTGTTGACTGCACCTCCTCCGAGGCGGTGGCCGTCCAGTATGCGGACTTCCT</Hsp_hseq>
+      <Hsp_midline>|||| |||||||||||||| || ||||||    |||||||||||| ||||||||| ||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>7</Hit_num>
+  <Hit_id>gi|648308728|dbj|LA035440.1|</Hit_id>
+  <Hit_def>TSA: Fish metagenome RNA, contig: contig12870_scaffold11199, isolate: DF3296, transcribed RNA sequence</Hit_def>
+  <Hit_accession>LA035440</Hit_accession>
+  <Hit_len>1195</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>71.6177</Hsp_bit-score>
+      <Hsp_score>78</Hsp_score>
+      <Hsp_evalue>1.11709e-10</Hsp_evalue>
+      <Hsp_query-from>64</Hsp_query-from>
+      <Hsp_query-to>127</Hsp_query-to>
+      <Hsp_hit-from>119</Hsp_hit-from>
+      <Hsp_hit-to>56</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>-1</Hsp_hit-frame>
+      <Hsp_identity>54</Hsp_identity>
+      <Hsp_positive>54</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>64</Hsp_align-len>
+      <Hsp_qseq>TCAATCCGGTGATTGTTGATTGTACCTCCAGTCAGGCGGTGGCCGACCAGTATGCCGACTTCCT</Hsp_qseq>
+      <Hsp_hseq>TCAACCCGGTGATCGTCGACTGCACCTCCTCCGAGGCGGTGGCCGTCCAGTATGCCGACTTCCT</Hsp_hseq>
+      <Hsp_midline>|||| |||||||| || || || ||||||    |||||||||||| ||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>8</Hit_num>
+  <Hit_id>gi|648750033|dbj|LA259847.1|</Hit_id>
+  <Hit_def>TSA: Fish metagenome RNA, contig: contig14928_scaffold10041, isolate: DFGC9, transcribed RNA sequence</Hit_def>
+  <Hit_accession>LA259847</Hit_accession>
+  <Hit_len>2403</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>59.8958</Hsp_bit-score>
+      <Hsp_score>65</Hsp_score>
+      <Hsp_evalue>7.04961e-07</Hsp_evalue>
+      <Hsp_query-from>275</Hsp_query-from>
+      <Hsp_query-to>399</Hsp_query-to>
+      <Hsp_hit-from>749</Hsp_hit-from>
+      <Hsp_hit-to>873</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>88</Hsp_identity>
+      <Hsp_positive>88</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>125</Hsp_align-len>
+      <Hsp_qseq>GGGTTCCATGTGGTGACGCCAAACAAGAAAGCGAACACCTCGTCAATGGACTACTACCATCAGCTACGTTTCGCCGCCGCGCAATCACGGCGCAAATTCTTGTATGACACCAACGTCGGCGCCGG</Hsp_qseq>
+      <Hsp_hseq>GGTTTTCATGTCGTTACGCCGAACAAGAAAGCGAACACCAGTTCGATCGCTTACTATCGTGAACTGCGCAAGACTGCGCTGCTGACGCGTCGTAAGTTCCTGTATGAAACCAACGTCGGGGCTGG</Hsp_hseq>
+      <Hsp_midline>|| || ||||| || ||||| ||||||||||||||||||   || || |  ||||| | | | || ||     | ||   ||   | || || || ||| ||||||| ||||||||||| || ||</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>49.9773</Hsp_bit-score>
+      <Hsp_score>54</Hsp_score>
+      <Hsp_evalue>0.000365179</Hsp_evalue>
+      <Hsp_query-from>57</Hsp_query-from>
+      <Hsp_query-to>128</Hsp_query-to>
+      <Hsp_hit-from>671</Hsp_hit-from>
+      <Hsp_hit-to>742</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>54</Hsp_identity>
+      <Hsp_positive>54</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>72</Hsp_align-len>
+      <Hsp_qseq>CATCTACTCAATCCGGTGATTGTTGATTGTACCTCCAGTCAGGCGGTGGCCGACCAGTATGCCGACTTCCTG</Hsp_qseq>
+      <Hsp_hseq>CATCTGATCAATCCGGTCATTGTCGATTGCACTTCAGATGAGAACGTTGCAAACCAGTATGCCGATTTCTTG</Hsp_hseq>
+      <Hsp_midline>|||||  |||||||||| ||||| ||||| || ||   | ||   || ||  ||||||||||||| ||| ||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>9</Hit_num>
+  <Hit_id>gi|2322424514|emb|OW818678.1|</Hit_id>
+  <Hit_def>metagenome genome assembly, chromosome: 1</Hit_def>
+  <Hit_accession>OW818678</Hit_accession>
+  <Hit_len>4016313</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>51.7806</Hsp_bit-score>
+      <Hsp_score>56</Hsp_score>
+      <Hsp_evalue>0.000104626</Hsp_evalue>
+      <Hsp_query-from>275</Hsp_query-from>
+      <Hsp_query-to>408</Hsp_query-to>
+      <Hsp_hit-from>612244</Hsp_hit-from>
+      <Hsp_hit-to>612377</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>94</Hsp_identity>
+      <Hsp_positive>94</Hsp_positive>
+      <Hsp_gaps>4</Hsp_gaps>
+      <Hsp_align-len>136</Hsp_align-len>
+      <Hsp_qseq>GGGTTCCATGTGGTGACGCCAAACAAGAAAGCGAACACCTC--GTCAATGGACTACTACCATCAGCTACGTTTCGCCGCCGCGCAATCACGGCGCAAATTCTTGTATGACACCAACGTCGGCGCCGGTTTGCCGGT</Hsp_qseq>
+      <Hsp_hseq>GGTTTTCATGTGGTCACGCCGAACAAAAAAGCCAATACCGCCAGTCTCAGT--TATTACCGGCAGCTGCGTTTGGTGGCACAACAACACCGCCGTCGTTTTTTATATGAAACCACTGTAGGTGCCGGTTTGCCGGT</Hsp_hseq>
+      <Hsp_midline>|| || |||||||| ||||| ||||| ||||| || ||| |  |||   |   || ||||  ||||| ||||| |  ||    |||   || ||    || || ||||| ||||  || || ||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>470563</Statistics_db-num>
+      <Statistics_db-len>1085290394</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.41</Statistics_kappa>
+      <Statistics_lambda>0.625</Statistics_lambda>
+      <Statistics_entropy>0.78</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>21</Iteration_iter-num>
+  <Iteration_query-ID>Query_7041562</Iteration_query-ID>
+  <Iteration_query-def>unknown_part1 Cleaned version of unknown, length=326</Iteration_query-def>
+  <Iteration_query-len>326</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|400983694|gb|KA652115.1|</Hit_id>
+  <Hit_def>TSA: termite gut metagenome contig01508.Reflgut mRNA sequence</Hit_def>
+  <Hit_accession>KA652115</Hit_accession>
+  <Hit_len>1028</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>55.3874</Hsp_bit-score>
+      <Hsp_score>60</Hsp_score>
+      <Hsp_evalue>6.7281e-06</Hsp_evalue>
+      <Hsp_query-from>237</Hsp_query-from>
+      <Hsp_query-to>278</Hsp_query-to>
+      <Hsp_hit-from>241</Hsp_hit-from>
+      <Hsp_hit-to>284</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>39</Hsp_identity>
+      <Hsp_positive>39</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>44</Hsp_align-len>
+      <Hsp_qseq>CAAAAACATTTGTTGGCACACCTTATTACATGTCT--AGAAATC</Hsp_qseq>
+      <Hsp_hseq>CACAAACAATGGTTGGCACACCTTATTACATGTCTCCAGAAATC</Hsp_hseq>
+      <Hsp_midline>|| ||||| | ||||||||||||||||||||||||  |||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>470563</Statistics_db-num>
+      <Statistics_db-len>1085290394</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.41</Statistics_kappa>
+      <Statistics_lambda>0.625</Statistics_lambda>
+      <Statistics_entropy>0.78</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>22</Iteration_iter-num>
+  <Iteration_query-ID>Query_7041563</Iteration_query-ID>
+  <Iteration_query-def>unknown_part2 Cleaned version of unknown, length=201</Iteration_query-def>
+  <Iteration_query-len>201</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|648777851|dbj|LA235167.1|</Hit_id>
+  <Hit_def>TSA: Fish metagenome RNA, contig: contig13615_C2348808, isolate: DFGC7, transcribed RNA sequence</Hit_def>
+  <Hit_accession>LA235167</Hit_accession>
+  <Hit_len>657</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>54.4857</Hsp_bit-score>
+      <Hsp_score>59</Hsp_score>
+      <Hsp_evalue>1.35664e-05</Hsp_evalue>
+      <Hsp_query-from>12</Hsp_query-from>
+      <Hsp_query-to>48</Hsp_query-to>
+      <Hsp_hit-from>277</Hsp_hit-from>
+      <Hsp_hit-to>313</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>34</Hsp_identity>
+      <Hsp_positive>34</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>37</Hsp_align-len>
+      <Hsp_qseq>ATCAGATATCTGGTCATTGGGCTGCTTGCTGTATGAG</Hsp_qseq>
+      <Hsp_hseq>ATCAGACATCTGGTCCCTGGGCTGCTTGCTGTATGAG</Hsp_hseq>
+      <Hsp_midline>|||||| ||||||||  ||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|1805701973|gb|MN740374.1|</Hit_id>
+  <Hit_def>MAG: Viral metagenome isolate GVMAG-M-3300026093-6 genomic sequence</Hit_def>
+  <Hit_accession>MN740374</Hit_accession>
+  <Hit_len>66788</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>49.9773</Hsp_bit-score>
+      <Hsp_score>54</Hsp_score>
+      <Hsp_evalue>0.000165273</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>52</Hsp_query-to>
+      <Hsp_hit-from>3739</Hsp_hit-from>
+      <Hsp_hit-to>3790</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>42</Hsp_identity>
+      <Hsp_positive>42</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>52</Hsp_align-len>
+      <Hsp_qseq>TACAATGAGAAATCAGATATCTGGTCATTGGGCTGCTTGCTGTATGAGTTAT</Hsp_qseq>
+      <Hsp_hseq>TACAATGAAAAAACAGATGTTTGGTCATTAGGATGTTTTTTGTATGAATTAT</Hsp_hseq>
+      <Hsp_midline>|||||||| ||| ||||| | |||||||| || || ||  ||||||| ||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>470563</Statistics_db-num>
+      <Statistics_db-len>1085290394</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.41</Statistics_kappa>
+      <Statistics_lambda>0.625</Statistics_lambda>
+      <Statistics_entropy>0.78</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>23</Iteration_iter-num>
+  <Iteration_query-ID>Query_7041564</Iteration_query-ID>
+  <Iteration_query-def>unknown_part1 Cleaned version of unknown, length=302</Iteration_query-def>
+  <Iteration_query-len>302</Iteration_query-len>
+<Iteration_hits>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>470563</Statistics_db-num>
+      <Statistics_db-len>1085290394</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.41</Statistics_kappa>
+      <Statistics_lambda>0.625</Statistics_lambda>
+      <Statistics_entropy>0.78</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>24</Iteration_iter-num>
+  <Iteration_query-ID>Query_7041565</Iteration_query-ID>
+  <Iteration_query-def>unknown_part3 Cleaned version of unknown, length=319</Iteration_query-def>
+  <Iteration_query-len>319</Iteration_query-len>
+<Iteration_hits>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>470563</Statistics_db-num>
+      <Statistics_db-len>1085290394</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.41</Statistics_kappa>
+      <Statistics_lambda>0.625</Statistics_lambda>
+      <Statistics_entropy>0.78</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>
