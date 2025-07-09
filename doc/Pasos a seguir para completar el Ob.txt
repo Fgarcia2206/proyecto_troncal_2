@@ -1,0 +1,143 @@
+Pasos a seguir para completar el Objetivo 3 del proyecto: Identificación del patógeno
+
+
+Análisis de Identificación del Agente Patógeno
+Basado en tu progreso, aquí te guiaré en los siguientes pasos para completar el objetivo 3 de manera sistemática:
+
+1. Anotación Completa de las Secuencias
+a. Profundizar en los resultados de BLAST
+Organiza tus resultados: Crea una tabla que incluya para cada secuencia:
+
+Mejores hits (Influenza A, Ebola, Salmonella)
+
+Porcentaje de identidad
+
+E-value
+
+Longitud del alineamiento
+
+Posibles funciones (basado en genes conocidos)
+
+Análisis de dominio/función:
+
+Usa herramientas como NCBI CD-Search para identificar dominios funcionales en las secuencias
+
+Para secuencias virales, verifica si corresponden a genes estructurales (nucleoproteína, glicoproteína) o no estructurales
+
+b. Validación con otras herramientas
+BLASTx: Corre las secuencias contra la base de datos de proteínas para identificar posibles marcos de lectura abiertos (ORFs)
+
+tBLASTn: Para verificar si hay homología con secuencias codificantes en otros organismos
+
+2. Análisis de Alineamientos Múltiples
+a. Interpretación de los alineamientos CLUSTAL
+Para cada secuencia:
+
+Identifica regiones conservadas (motivos funcionales)
+
+Analiza sitios de variación (podrían ser relevantes para virulencia)
+
+Compara con secuencias de referencia de cada patógeno candidato
+
+b. Análisis filogenético (opcional pero recomendable)
+Construye árboles filogenéticos con las secuencias de referencia
+
+Usa herramientas como MEGA o PhyML
+
+Esto te ayudará a determinar la relación evolutiva de tus secuencias con los patógenos conocidos
+
+3. Determinación del Agente Patógeno
+a. Evaluación de candidatos
+Considerando tus hallazgos (Influenza A, Ebola, Salmonella), analiza:
+
+Consistencia con los síntomas:
+
+Fiebre de Norilsk: 3 etapas, alta letalidad (30-60%), sangrado mucoso
+
+Influenza aviar: Normalmente no causa sangrado difuso
+
+Ebola: Coincide con síntomas hemorrágicos y alta letalidad
+
+Salmonella: No causa síntomas hemorrágicos
+
+Origen geográfico:
+
+Permafrost siberiano: Se han encontrado virus antiguos (como pithovirus sibericum)
+
+Ebola es endémico de África, no se ha reportado en Siberia
+
+Resultados de secuenciación:
+
+Si hay mezcla de secuencias virales y bacterianas, podría indicar co-infección
+
+La presencia de nucleocápside de influenza aviar + segmentos de Ebola es inusual
+
+b. Hipótesis más plausible
+Dados los síntomas hemorrágicos severos y los alineamientos con Ebola, lo más probable es que sea:
+
+Un nuevo filovirus relacionado con Ebola Zaire, posiblemente un virus recombinante o una variante antigua liberada del permafrost.
+
+4. Próximos Pasos para Completar el Objetivo
+a. Para 3a (Anotación completa):
+Documenta todos los parámetros usados en BLAST (matriz de puntuación, filtros, e-value cutoff)
+
+Incluye imágenes de los alineamientos CLUSTAL con anotaciones de regiones clave
+
+Genera una tabla resumen de anotación funcional para cada secuencia
+
+b. Para 3b (Identificación del patógeno):
+Realiza un BLAST más específico contra la base de datos de filovirus
+
+Busca en literatura reportes de virus similares en permafrost
+
+Justifica por qué descartas Influenza y Salmonella como agentes primarios
+
+c. Para 3c (Anotación genómica):
+Descarga el genoma completo de Zaire ebolavirus (NC_002549)
+
+Usa herramientas como RAST o Prokka para anotación
+
+Identifica:
+
+Genes estructurales (NP, VP35, VP40, GP, VP30, VP24, L)
+
+Elementos regulatorios
+
+Compara con tus secuencias para ver cobertura
+
+5. Recomendaciones Adicionales
+Control de calidad: Verifica que no haya contaminación en las secuencias
+
+Análisis de recombinación: Usa herramientas como RDP4 para ver si hay evidencias de recombinación
+
+Búsqueda de huésped: Analiza si hay secuencias humanas en los datos que puedan indicar respuesta inmune
+
+Ejemplo de Justificación de Parámetros (para incluir en tu informe):
+Parámetros de BLAST utilizados:
+
+Programa: blastn (para nucleótidos)
+
+Base de datos: nr/nt (nucleótidos no redundantes)
+
+E-value cutoff: 1e-5 (balance entre sensibilidad y especificidad)
+
+Matriz de puntuación: BLOSUM62 (estándar para alineamientos)
+
+Filtro de regiones de baja complejidad: Activado
+
+Ajuste por longitud de consulta: Automático
+
+Elección del agente patógeno:
+La justificación debe incluir:
+
+Correlación síntomas-hallazgos moleculares
+
+Precedentes de virus similares en permafrost
+
+Exclusión de otros patógenos basado en:
+
+Sintomatología incompatible
+
+Distribución geográfica improbable
+
+Menor porcentaje de identidad en BLAST

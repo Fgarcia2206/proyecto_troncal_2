@@ -1,0 +1,69 @@
+🧬 ID: KY471125.1
+Organismo: Zaire ebolavirus
+Descripción: Zaire ebolavirus strain Ebola virus/cynomolgus macaque-wt/GAB/2001/1000ffu-CC089D5, complete genome
+Funciones anotadas:
+  - Gen: NP, Producto: nucleoprotein, Proteína: AQA27614.1
+  - Gen: VP35, Producto: polymerase cofactor VP35, Proteína: AQA27615.1
+  - Gen: VP40, Producto: matrix protein VP40, Proteína: AQA27616.1
+  - Gen: GP, Producto: envelope glycoprotein, Proteína: AQA27619.1
+  - Gen: sGP, Producto: small secreted glycoprotein GP, Proteína: AQA27617.1
+  - Gen: ssGP, Producto: super small secreted glycoprotein GP, Proteína: AQA27618.1
+  - Gen: VP30, Producto: minor nucleoprotein VP30, Proteína: AQA27620.1
+  - Gen: VP24, Producto: membrane-associated protein VP24, Proteína: AQA27621.1
+  - Gen: L, Producto: RNA-directed RNA polymerase L, Proteína: AQA27622.1
+
+🧬 ID: KY785939.1
+Organismo: Ebola virus
+Descripción: Ebola virus strain Ebola virus/M.fascicularis-wt/GAB/2001/100mg-CA550D5, complete genome
+Funciones anotadas:
+  - Gen: NP, Producto: nucleoprotein, Proteína: ARG43245.1
+  - Gen: VP35, Producto: polymerase cofactor VP35, Proteína: ARG43246.1
+  - Gen: VP40, Producto: matrix protein VP40, Proteína: ARG43247.1
+  - Gen: GP, Producto: envelope glycoprotein, Proteína: ARG43250.1
+  - Gen: sGP, Producto: small secreted glycoprotein GP: sGP, Proteína: ARG43248.1
+  - Gen: ssGP, Producto: super small secreted glycoprotein GP, Proteína: ARG43249.1
+  - Gen: VP30, Producto: minor nucleoprotein VP30, Proteína: ARG43251.1
+  - Gen: VP24, Producto: membrane-associated protein VP24, Proteína: ARG43252.1
+  - Gen: L, Producto: RNA-directed RNA polymerase, Proteína: ARG43253.1
+
+🧬 ID: KY785940.1
+Organismo: Ebola virus
+Descripción: Ebola virus strain Ebola virus/M.fascicularis-wt/GAB/2001/100mg-CA550D7, complete genome
+Funciones anotadas:
+  - Gen: NP, Producto: nucleoprotein, Proteína: ARG43254.1
+  - Gen: VP35, Producto: polymerase cofactor VP35, Proteína: ARG43255.1
+  - Gen: VP40, Producto: matrix protein VP40, Proteína: ARG43256.1
+  - Gen: GP, Producto: envelope glycoprotein, Proteína: ARG43259.1
+  - Gen: sGP, Producto: small secreted glycoprotein GP: sGP, Proteína: ARG43257.1
+  - Gen: ssGP, Producto: super small secreted glycoprotein GP, Proteína: ARG43258.1
+  - Gen: VP30, Producto: minor nucleoprotein VP30, Proteína: ARG43260.1
+  - Gen: VP24, Producto: membrane-associated protein VP24, Proteína: ARG43261.1
+  - Gen: L, Producto: RNA-directed RNA polymerase, Proteína: ARG43262.1
+
+🧬 ID: KY785948.1
+Organismo: Ebola virus
+Descripción: Ebola virus strain Ebola virus/M.fascicularis-wt/GAB/2001/150mg-CA899D5, complete genome
+Funciones anotadas:
+  - Gen: NP, Producto: nucleoprotein, Proteína: ARG43326.1
+  - Gen: VP35, Producto: polymerase cofactor VP35, Proteína: ARG43327.1
+  - Gen: VP40, Producto: matrix protein VP40, Proteína: ARG43328.1
+  - Gen: GP, Producto: envelope glycoprotein, Proteína: ARG43331.1
+  - Gen: sGP, Producto: small secreted glycoprotein GP: sGP, Proteína: ARG43329.1
+  - Gen: ssGP, Producto: super small secreted glycoprotein GP, Proteína: ARG43330.1
+  - Gen: VP30, Producto: minor nucleoprotein VP30, Proteína: ARG43332.1
+  - Gen: VP24, Producto: membrane-associated protein VP24, Proteína: ARG43333.1
+  - Gen: L, Producto: RNA-directed RNA polymerase, Proteína: ARG43334.1
+
+🧬 ID: KY785965.1
+Organismo: Ebola virus
+Descripción: Ebola virus strain Ebola virus/M.fascicularis-wt/GAB/2001/180mg-CAK013D3, complete genome
+Funciones anotadas:
+  - Gen: NP, Producto: nucleoprotein, Proteína: ARG43479.1
+  - Gen: VP35, Producto: polymerase cofactor VP35, Proteína: ARG43480.1
+  - Gen: VP40, Producto: matrix protein VP40, Proteína: ARG43481.1
+  - Gen: GP, Producto: envelope glycoprotein, Proteína: ARG43484.1
+  - Gen: sGP, Producto: small secreted glycoprotein GP: sGP, Proteína: ARG43482.1
+  - Gen: ssGP, Producto: super small secreted glycoprotein GP, Proteína: ARG43483.1
+  - Gen: VP30, Producto: minor nucleoprotein VP30, Proteína: ARG43485.1
+  - Gen: VP24, Producto: membrane-associated protein VP24, Proteína: ARG43486.1
+  - Gen: L, Producto: RNA-directed RNA polymerase, Proteína: ARG43487.1

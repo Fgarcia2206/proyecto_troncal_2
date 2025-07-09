@@ -1,0 +1,280 @@
+Query #2: 2 unknown sequence 2 Query ID: lcl|Query_1489434 Length: 459
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Zaire ebolavirus isolate...                                       Zaire ebolav... NA              186538     95.3   161   19%   5e-15 100.00 18532      OR084925.1       
+Zaire ebolavirus isolate...                                       Zaire ebolav... NA              186538     95.3   161   19%   5e-15 100.00 18531      OR084918.1       
+Zaire ebolavirus isolate...                                       Zaire ebolav... NA              186538     95.3   161   19%   5e-15 100.00 18532      OR084860.1       
+Zaire ebolavirus isolate...                                       Zaire ebolav... NA              186538     95.3   161   19%   5e-15 100.00 18532      OR084932.1       
+Zaire ebolavirus isolate...                                       Zaire ebolav... NA              186538     95.3   161   19%   5e-15 100.00 18532      OR084890.1       
+Zaire ebolavirus isolate...                                       Zaire ebolav... NA              186538     95.3   161   19%   5e-15 100.00 18814      OQ348597.1       
+Zaire ebolavirus isolate Ebola...                                 Zaire ebolav... NA              186538     95.3   161   19%   5e-15 100.00 18862      MT778398.1       
+Zaire ebolavirus isolate...                                       Zaire ebolav... NA              186538     95.3   161   19%   5e-15 100.00 18832      OR084889.1       
+Zaire ebolavirus isolate...                                       Zaire ebolav... NA              186538     95.3   161   19%   5e-15 100.00 18941      OR084921.1       
+Zaire ebolavirus culture BEI<USA>:NR_51690, complete genome       Zaire ebolav... NA              186538     95.3   161   19%   5e-15 100.00 18943      MT583342.1       
+
+
+Alignments:
+
+>Zaire ebolavirus isolate Ebolavirus/H.sapiens-wt/COD/2020/Mbandaka-RDCEQT002169, partial genome
+Sequence ID: OR084925.1 Length: 18532
+Range 1: 287 to 337
+
+Score:95.3 bits(51), Expect:5e-15, 
+Identities:51/51(100%),  Gaps:0/51(0%), Strand: Plus/Plus
+
+Query  28   AGGCCTTTGAAGCAGGTGTTGATTTTCAAGAGAGTGCGGACAGTTTCCTTC  78
+            |||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  287  AGGCCTTTGAAGCAGGTGTTGATTTTCAAGAGAGTGCGGACAGTTTCCTTC  337
+
+
+
+
+Range 2: 303 to 337
+
+Score:65.8 bits(35), Expect:4e-06, 
+Identities:35/35(100%),  Gaps:0/35(0%), Strand: Plus/Plus
+
+Query  361  TGTTGATTTTCAAGAGAGTGCGGACAGTTTCCTTC  395
+            |||||||||||||||||||||||||||||||||||
+Sbjct  303  TGTTGATTTTCAAGAGAGTGCGGACAGTTTCCTTC  337
+
+
+
+
+>Zaire ebolavirus isolate Ebolavirus/H.sapiens-wt/COD/2020/Mbandaka-RDCEQT003011, partial genome
+Sequence ID: OR084918.1 Length: 18531
+Range 1: 287 to 337
+
+Score:95.3 bits(51), Expect:5e-15, 
+Identities:51/51(100%),  Gaps:0/51(0%), Strand: Plus/Plus
+
+Query  28   AGGCCTTTGAAGCAGGTGTTGATTTTCAAGAGAGTGCGGACAGTTTCCTTC  78
+            |||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  287  AGGCCTTTGAAGCAGGTGTTGATTTTCAAGAGAGTGCGGACAGTTTCCTTC  337
+
+
+
+
+Range 2: 303 to 337
+
+Score:65.8 bits(35), Expect:4e-06, 
+Identities:35/35(100%),  Gaps:0/35(0%), Strand: Plus/Plus
+
+Query  361  TGTTGATTTTCAAGAGAGTGCGGACAGTTTCCTTC  395
+            |||||||||||||||||||||||||||||||||||
+Sbjct  303  TGTTGATTTTCAAGAGAGTGCGGACAGTTTCCTTC  337
+
+
+
+
+>Zaire ebolavirus isolate Ebolavirus/H.sapiens-wt/COD/2020/Mbandaka-RDCEQT000301, partial genome
+Sequence ID: OR084860.1 Length: 18532
+Range 1: 287 to 337
+
+Score:95.3 bits(51), Expect:5e-15, 
+Identities:51/51(100%),  Gaps:0/51(0%), Strand: Plus/Plus
+
+Query  28   AGGCCTTTGAAGCAGGTGTTGATTTTCAAGAGAGTGCGGACAGTTTCCTTC  78
+            |||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  287  AGGCCTTTGAAGCAGGTGTTGATTTTCAAGAGAGTGCGGACAGTTTCCTTC  337
+
+
+
+
+Range 2: 303 to 337
+
+Score:65.8 bits(35), Expect:4e-06, 
+Identities:35/35(100%),  Gaps:0/35(0%), Strand: Plus/Plus
+
+Query  361  TGTTGATTTTCAAGAGAGTGCGGACAGTTTCCTTC  395
+            |||||||||||||||||||||||||||||||||||
+Sbjct  303  TGTTGATTTTCAAGAGAGTGCGGACAGTTTCCTTC  337
+
+
+
+
+>Zaire ebolavirus isolate Ebolavirus/H.sapiens-wt/COD/2020/Makanza-rdceqt009903, partial genome
+Sequence ID: OR084932.1 Length: 18532
+Range 1: 287 to 337
+
+Score:95.3 bits(51), Expect:5e-15, 
+Identities:51/51(100%),  Gaps:0/51(0%), Strand: Plus/Plus
+
+Query  28   AGGCCTTTGAAGCAGGTGTTGATTTTCAAGAGAGTGCGGACAGTTTCCTTC  78
+            |||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  287  AGGCCTTTGAAGCAGGTGTTGATTTTCAAGAGAGTGCGGACAGTTTCCTTC  337
+
+
+
+
+Range 2: 303 to 337
+
+Score:65.8 bits(35), Expect:4e-06, 
+Identities:35/35(100%),  Gaps:0/35(0%), Strand: Plus/Plus
+
+Query  361  TGTTGATTTTCAAGAGAGTGCGGACAGTTTCCTTC  395
+            |||||||||||||||||||||||||||||||||||
+Sbjct  303  TGTTGATTTTCAAGAGAGTGCGGACAGTTTCCTTC  337
+
+
+
+
+>Zaire ebolavirus isolate Ebolavirus/H.sapiens-wt/COD/2020/Mbandaka-RDCEQT002132, partial genome
+Sequence ID: OR084890.1 Length: 18532
+Range 1: 287 to 337
+
+Score:95.3 bits(51), Expect:5e-15, 
+Identities:51/51(100%),  Gaps:0/51(0%), Strand: Plus/Plus
+
+Query  28   AGGCCTTTGAAGCAGGTGTTGATTTTCAAGAGAGTGCGGACAGTTTCCTTC  78
+            |||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  287  AGGCCTTTGAAGCAGGTGTTGATTTTCAAGAGAGTGCGGACAGTTTCCTTC  337
+
+
+
+
+Range 2: 303 to 337
+
+Score:65.8 bits(35), Expect:4e-06, 
+Identities:35/35(100%),  Gaps:0/35(0%), Strand: Plus/Plus
+
+Query  361  TGTTGATTTTCAAGAGAGTGCGGACAGTTTCCTTC  395
+            |||||||||||||||||||||||||||||||||||
+Sbjct  303  TGTTGATTTTCAAGAGAGTGCGGACAGTTTCCTTC  337
+
+
+
+
+>Zaire ebolavirus isolate Ebolavirus/H.sapiens-wt/COD/2020/Ituri-20FHV036, complete genome
+Sequence ID: OQ348597.1 Length: 18814
+Range 1: 592 to 642
+
+Score:95.3 bits(51), Expect:5e-15, 
+Identities:51/51(100%),  Gaps:0/51(0%), Strand: Plus/Plus
+
+Query  28   AGGCCTTTGAAGCAGGTGTTGATTTTCAAGAGAGTGCGGACAGTTTCCTTC  78
+            |||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  592  AGGCCTTTGAAGCAGGTGTTGATTTTCAAGAGAGTGCGGACAGTTTCCTTC  642
+
+
+
+
+Range 2: 608 to 642
+
+Score:65.8 bits(35), Expect:4e-06, 
+Identities:35/35(100%),  Gaps:0/35(0%), Strand: Plus/Plus
+
+Query  361  TGTTGATTTTCAAGAGAGTGCGGACAGTTTCCTTC  395
+            |||||||||||||||||||||||||||||||||||
+Sbjct  608  TGTTGATTTTCAAGAGAGTGCGGACAGTTTCCTTC  642
+
+
+
+
+>Zaire ebolavirus isolate Ebola virus/H.sapiens-wt/COD/2019/Ituri-BUN1349, partial genome
+Sequence ID: MT778398.1 Length: 18862
+Range 1: 549 to 599
+
+Score:95.3 bits(51), Expect:5e-15, 
+Identities:51/51(100%),  Gaps:0/51(0%), Strand: Plus/Plus
+
+Query  28   AGGCCTTTGAAGCAGGTGTTGATTTTCAAGAGAGTGCGGACAGTTTCCTTC  78
+            |||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  549  AGGCCTTTGAAGCAGGTGTTGATTTTCAAGAGAGTGCGGACAGTTTCCTTC  599
+
+
+
+
+Range 2: 565 to 599
+
+Score:65.8 bits(35), Expect:4e-06, 
+Identities:35/35(100%),  Gaps:0/35(0%), Strand: Plus/Plus
+
+Query  361  TGTTGATTTTCAAGAGAGTGCGGACAGTTTCCTTC  395
+            |||||||||||||||||||||||||||||||||||
+Sbjct  565  TGTTGATTTTCAAGAGAGTGCGGACAGTTTCCTTC  599
+
+
+
+
+>Zaire ebolavirus isolate Ebolavirus/H.sapiens-wt/COD/2020/Mbandaka-RDCEQT002130, partial genome
+Sequence ID: OR084889.1 Length: 18832
+Range 1: 587 to 637
+
+Score:95.3 bits(51), Expect:5e-15, 
+Identities:51/51(100%),  Gaps:0/51(0%), Strand: Plus/Plus
+
+Query  28   AGGCCTTTGAAGCAGGTGTTGATTTTCAAGAGAGTGCGGACAGTTTCCTTC  78
+            |||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  587  AGGCCTTTGAAGCAGGTGTTGATTTTCAAGAGAGTGCGGACAGTTTCCTTC  637
+
+
+
+
+Range 2: 603 to 637
+
+Score:65.8 bits(35), Expect:4e-06, 
+Identities:35/35(100%),  Gaps:0/35(0%), Strand: Plus/Plus
+
+Query  361  TGTTGATTTTCAAGAGAGTGCGGACAGTTTCCTTC  395
+            |||||||||||||||||||||||||||||||||||
+Sbjct  603  TGTTGATTTTCAAGAGAGTGCGGACAGTTTCCTTC  637
+
+
+
+
+>Zaire ebolavirus isolate Ebolavirus/H.sapiens-wt/COD/2020/Mbandaka-RDCEQT003018, partial genome
+Sequence ID: OR084921.1 Length: 18941
+Range 1: 631 to 681
+
+Score:95.3 bits(51), Expect:5e-15, 
+Identities:51/51(100%),  Gaps:0/51(0%), Strand: Plus/Plus
+
+Query  28   AGGCCTTTGAAGCAGGTGTTGATTTTCAAGAGAGTGCGGACAGTTTCCTTC  78
+            |||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  631  AGGCCTTTGAAGCAGGTGTTGATTTTCAAGAGAGTGCGGACAGTTTCCTTC  681
+
+
+
+
+Range 2: 647 to 681
+
+Score:65.8 bits(35), Expect:4e-06, 
+Identities:35/35(100%),  Gaps:0/35(0%), Strand: Plus/Plus
+
+Query  361  TGTTGATTTTCAAGAGAGTGCGGACAGTTTCCTTC  395
+            |||||||||||||||||||||||||||||||||||
+Sbjct  647  TGTTGATTTTCAAGAGAGTGCGGACAGTTTCCTTC  681
+
+
+
+
+>Zaire ebolavirus culture BEI&lt;USA&gt;:NR_51690, complete genome
+Sequence ID: MT583342.1 Length: 18943
+Range 1: 641 to 691
+
+Score:95.3 bits(51), Expect:5e-15, 
+Identities:51/51(100%),  Gaps:0/51(0%), Strand: Plus/Plus
+
+Query  28   AGGCCTTTGAAGCAGGTGTTGATTTTCAAGAGAGTGCGGACAGTTTCCTTC  78
+            |||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  641  AGGCCTTTGAAGCAGGTGTTGATTTTCAAGAGAGTGCGGACAGTTTCCTTC  691
+
+
+
+
+Range 2: 657 to 691
+
+Score:65.8 bits(35), Expect:4e-06, 
+Identities:35/35(100%),  Gaps:0/35(0%), Strand: Plus/Plus
+
+Query  361  TGTTGATTTTCAAGAGAGTGCGGACAGTTTCCTTC  395
+            |||||||||||||||||||||||||||||||||||
+Sbjct  657  TGTTGATTTTCAAGAGAGTGCGGACAGTTTCCTTC  691
+
+
+
+
+

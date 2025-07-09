@@ -1,0 +1,69 @@
+🧬 ID: OR084860.1
+Organismo: Zaire ebolavirus
+Descripción: Zaire ebolavirus isolate Ebolavirus/H.sapiens-wt/COD/2020/Mbandaka-RDCEQT000301, partial genome
+Funciones anotadas:
+  - Gen: ND, Producto: NP, Proteína: WWV92649.1
+  - Gen: ND, Producto: VP35, Proteína: WWV92650.1
+  - Gen: ND, Producto: VP40, Proteína: WWV92651.1
+  - Gen: ND, Producto: GP, Proteína: WWV92654.1
+  - Gen: ND, Producto: sGP, Proteína: WWV92652.1
+  - Gen: ND, Producto: ssGP, Proteína: WWV92653.1
+  - Gen: ND, Producto: VP30, Proteína: WWV92655.1
+  - Gen: ND, Producto: VP24, Proteína: WWV92656.1
+  - Gen: ND, Producto: L, Proteína: WWV92657.1
+
+🧬 ID: OR084890.1
+Organismo: Zaire ebolavirus
+Descripción: Zaire ebolavirus isolate Ebolavirus/H.sapiens-wt/COD/2020/Mbandaka-RDCEQT002132, partial genome
+Funciones anotadas:
+  - Gen: ND, Producto: NP, Proteína: WWV92919.1
+  - Gen: ND, Producto: VP35, Proteína: WWV92920.1
+  - Gen: ND, Producto: VP40, Proteína: WWV92921.1
+  - Gen: ND, Producto: GP, Proteína: WWV92924.1
+  - Gen: ND, Producto: sGP, Proteína: WWV92922.1
+  - Gen: ND, Producto: ssGP, Proteína: WWV92923.1
+  - Gen: ND, Producto: VP30, Proteína: WWV92925.1
+  - Gen: ND, Producto: VP24, Proteína: WWV92926.1
+  - Gen: ND, Producto: L, Proteína: WWV92927.1
+
+🧬 ID: OR084918.1
+Organismo: Zaire ebolavirus
+Descripción: Zaire ebolavirus isolate Ebolavirus/H.sapiens-wt/COD/2020/Mbandaka-RDCEQT003011, partial genome
+Funciones anotadas:
+  - Gen: ND, Producto: NP, Proteína: WWV93171.1
+  - Gen: ND, Producto: VP35, Proteína: WWV93172.1
+  - Gen: ND, Producto: VP40, Proteína: WWV93173.1
+  - Gen: ND, Producto: GP, Proteína: WWV93176.1
+  - Gen: ND, Producto: sGP, Proteína: WWV93174.1
+  - Gen: ND, Producto: ssGP, Proteína: WWV93175.1
+  - Gen: ND, Producto: VP30, Proteína: WWV93177.1
+  - Gen: ND, Producto: VP24, Proteína: WWV93178.1
+  - Gen: ND, Producto: L, Proteína: WWV93179.1
+
+🧬 ID: OR084925.1
+Organismo: Zaire ebolavirus
+Descripción: Zaire ebolavirus isolate Ebolavirus/H.sapiens-wt/COD/2020/Mbandaka-RDCEQT002169, partial genome
+Funciones anotadas:
+  - Gen: ND, Producto: NP, Proteína: WWV93234.1
+  - Gen: ND, Producto: VP35, Proteína: WWV93235.1
+  - Gen: ND, Producto: VP40, Proteína: WWV93236.1
+  - Gen: ND, Producto: GP, Proteína: WWV93239.1
+  - Gen: ND, Producto: sGP, Proteína: WWV93237.1
+  - Gen: ND, Producto: ssGP, Proteína: WWV93238.1
+  - Gen: ND, Producto: VP30, Proteína: WWV93240.1
+  - Gen: ND, Producto: VP24, Proteína: WWV93241.1
+  - Gen: ND, Producto: L, Proteína: WWV93242.1
+
+🧬 ID: OR084932.1
+Organismo: Zaire ebolavirus
+Descripción: Zaire ebolavirus isolate Ebolavirus/H.sapiens-wt/COD/2020/Makanza-rdceqt009903, partial genome
+Funciones anotadas:
+  - Gen: ND, Producto: NP, Proteína: WWV93297.1
+  - Gen: ND, Producto: VP35, Proteína: WWV93298.1
+  - Gen: ND, Producto: VP40, Proteína: WWV93299.1
+  - Gen: ND, Producto: GP, Proteína: WWV93302.1
+  - Gen: ND, Producto: sGP, Proteína: WWV93300.1
+  - Gen: ND, Producto: ssGP, Proteína: WWV93301.1
+  - Gen: ND, Producto: VP30, Proteína: WWV93303.1
+  - Gen: ND, Producto: VP24, Proteína: WWV93304.1
+  - Gen: ND, Producto: L, Proteína: WWV93305.1

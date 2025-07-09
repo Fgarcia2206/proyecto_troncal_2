@@ -1,0 +1,33 @@
+🧬 ID: GQ845446.1
+Organismo: human papillomavirus 124
+Descripción: Human papillomavirus type 124, complete genome
+Funciones anotadas:
+  - Gen: E6, Producto: transforming protein E6, Proteína: ADH29826.1
+  - Gen: E7, Producto: transforming protein E7, Proteína: ADH29827.1
+  - Gen: E1, Producto: replication protein E1, Proteína: ADH29828.1
+  - Gen: E2, Producto: regulatory protein E2, Proteína: ADH29829.1
+  - Gen: E4, Producto: hypothetical protein, Proteína: ADH29830.1
+  - Gen: L2, Producto: minor capsid protein L2, Proteína: ADH29831.1
+  - Gen: L1, Producto: major capsid protein L1, Proteína: ADH29832.1
+
+🧬 ID: HM748620.1
+Organismo: Human papillomavirus
+Descripción: Human papillomavirus isolate C35-CP major capsid protein L1 (L1) gene, partial cds
+Funciones anotadas:
+  - Gen: L1, Producto: major capsid protein L1, Proteína: ADX99467.1
+
+🧬 ID: U85662.1
+Organismo: Human papillomavirus
+Descripción: Human papillomavirus strain RTRX9 major capsid protein L1 gene, partial cds
+Funciones anotadas:
+  - Gen: ND, Producto: major capsid protein L1, Proteína: AAB61647.1
+
+🧬 ID: Z95967.1
+Organismo: Human papillomavirus
+Descripción: Human papillomavirus DNA for partial HPV L1 sequence, clone DL284
+Sin CDS anotados.
+
+🧬 ID: Z95969.1
+Organismo: Human papillomavirus
+Descripción: Human papillomavirus DNA for partial HPV L1 sequence, clone DL287
+Sin CDS anotados.

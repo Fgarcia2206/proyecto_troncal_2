@@ -1,0 +1,562 @@
+Query #7: 7 unknown sequence 7 Query ID: lcl|Query_1489439 Length: 1017
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E    Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value  Ident  Len        Accession        
+Dengue virus type 2 isolate DENV2_LPV polyprotein (POLY) gene,... dengue virus... NA              11060      448    694   44%   8e-121 91.99  10128      PV682585.1       
+Dengue virus type 2 isolate DENV2_YN_017, complete genome         dengue virus... NA              11060      448    694   44%   8e-121 91.99  10710      OQ652965.1       
+Dengue virus 2 isolate ML, complete genome                        dengue virus... NA              11060      448    694   44%   8e-121 91.99  10723      OM256481.1       
+Dengue virus type 2 isolate THSTI-TRC-DENV2-12 polyprotein...     dengue virus... NA              11060      448    694   44%   8e-121 91.99  10699      OP809583.1       
+Dengue virus type 2 isolate N10 polyprotein (POLY) gene,...       dengue virus... NA              11060      448    694   44%   8e-121 91.99  10563      OR838780.1       
+Dengue virus type 2 isolate DENV2/PAPUANEWGUINEA/1944/NEWGUINE... dengue virus... NA              11060      448    694   44%   8e-121 91.99  10175      MW945433.1       
+Dengue virus type 2 isolate MBC056 polyprotein (POLY) gene,...    dengue virus... NA              11060      448    694   44%   8e-121 91.99  10010      PP815632.1       
+Dengue virus type 2 isolate DENV2/Peru/1990/Yale-DH075...         dengue virus... NA              11060      448    694   44%   8e-121 91.99  10512      OR389321.1       
+Dengue virus 2 isolate 017, complete genome                       dengue virus... NA              11060      448    694   44%   8e-121 91.99  10713      OM257419.1       
+Dengue virus type 2 isolate DENV2/Senegal/Unknown/Yale-DH083...   dengue virus... NA              11060      448    694   44%   8e-121 91.99  10512      OR389326.1       
+
+
+Alignments:
+
+>Dengue virus type 2 isolate DENV2_LPV polyprotein (POLY) gene, partial cds
+Sequence ID: PV682585.1 Length: 10128
+Range 1: 3919 to 4255
+
+Score:448 bits(242), Expect:8e-121, 
+Identities:310/337(92%),  Gaps:27/337(8%), Strand: Plus/Plus
+
+Query  146   ACATCCTCACAGCAGAAAGCGGATTGGATACCATTAGCATTGACGATCAAGGGTCTCAAT  205
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  3919  ACATCCTCACAGCAGAAAGCGGATTGGATACCATTAGCATTGACGATCAAGGGTCTCAAT  3978
+
+Query  206   CCAACAGCTATTTTTCTAACAACCCTTTCAAGAACCAACAAGAAAAGGAGCTGGCCACTA  265
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  3979  CCAACAGCTATTTTTCTAACAACCCTTTCAAGAACCAACAAGAAAAGGAGCTGGCCACTA  4038
+
+Query  266   AATGAGGCTATCATGGCAGTCGGGATGGTGAGCATTTTGGCCAGTTCACTCCTAAAGAAT  325
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4039  AATGAGGCTATCATGGCAGTCGGGATGGTGAGCATTTTGGCCAGTTCACTCCTAAAGAAT  4098
+
+Query  326   GACATTCCCATGACAGGACCATTAGTGGCTG---------------------------TC  358
+             |||||||||||||||||||||||||||||||                           ||
+Sbjct  4099  GACATTCCCATGACAGGACCATTAGTGGCTGGAGGGCTCCTCACTGTGTGCTACGTGCTC  4158
+
+Query  359   ACTGGACGATCGGCCGATTTGGAACTGGAGAGAGCCGCCGATGTCAAATGGGAAGATCAG  418
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4159  ACTGGACGATCGGCCGATTTGGAACTGGAGAGAGCCGCCGATGTCAAATGGGAAGATCAG  4218
+
+Query  419   GCAGAGATATCAGGAAGCAGTCCAATCCTGTCAATAA  455
+             |||||||||||||||||||||||||||||||||||||
+Sbjct  4219  GCAGAGATATCAGGAAGCAGTCCAATCCTGTCAATAA  4255
+
+
+
+
+Range 2: 3917 to 4049
+
+Score:246 bits(133), Expect:3e-60, 
+Identities:133/133(100%),  Gaps:0/133(0%), Strand: Plus/Plus
+
+Query  850   TAACATCCTCACAGCAGAAAGCGGATTGGATACCATTAGCATTGACGATCAAGGGTCTCA  909
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  3917  TAACATCCTCACAGCAGAAAGCGGATTGGATACCATTAGCATTGACGATCAAGGGTCTCA  3976
+
+Query  910   ATCCAACAGCTATTTTTCTAACAACCCTTTCAAGAACCAACAAGAAAAGGAGCTGGCCAC  969
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  3977  ATCCAACAGCTATTTTTCTAACAACCCTTTCAAGAACCAACAAGAAAAGGAGCTGGCCAC  4036
+
+Query  970   TAAATGAGGCTAT  982
+             |||||||||||||
+Sbjct  4037  TAAATGAGGCTAT  4049
+
+
+
+
+>Dengue virus type 2 isolate DENV2_YN_017, complete genome
+Sequence ID: OQ652965.1 Length: 10710
+Range 1: 4024 to 4360
+
+Score:448 bits(242), Expect:8e-121, 
+Identities:310/337(92%),  Gaps:27/337(8%), Strand: Plus/Plus
+
+Query  146   ACATCCTCACAGCAGAAAGCGGATTGGATACCATTAGCATTGACGATCAAGGGTCTCAAT  205
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4024  ACATCCTCACAGCAGAAAGCGGATTGGATACCATTAGCATTGACGATCAAGGGTCTCAAT  4083
+
+Query  206   CCAACAGCTATTTTTCTAACAACCCTTTCAAGAACCAACAAGAAAAGGAGCTGGCCACTA  265
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4084  CCAACAGCTATTTTTCTAACAACCCTTTCAAGAACCAACAAGAAAAGGAGCTGGCCACTA  4143
+
+Query  266   AATGAGGCTATCATGGCAGTCGGGATGGTGAGCATTTTGGCCAGTTCACTCCTAAAGAAT  325
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4144  AATGAGGCTATCATGGCAGTCGGGATGGTGAGCATTTTGGCCAGTTCACTCCTAAAGAAT  4203
+
+Query  326   GACATTCCCATGACAGGACCATTAGTGGCTG---------------------------TC  358
+             |||||||||||||||||||||||||||||||                           ||
+Sbjct  4204  GACATTCCCATGACAGGACCATTAGTGGCTGGAGGGCTCCTCACTGTGTGCTACGTGCTC  4263
+
+Query  359   ACTGGACGATCGGCCGATTTGGAACTGGAGAGAGCCGCCGATGTCAAATGGGAAGATCAG  418
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4264  ACTGGACGATCGGCCGATTTGGAACTGGAGAGAGCCGCCGATGTCAAATGGGAAGATCAG  4323
+
+Query  419   GCAGAGATATCAGGAAGCAGTCCAATCCTGTCAATAA  455
+             |||||||||||||||||||||||||||||||||||||
+Sbjct  4324  GCAGAGATATCAGGAAGCAGTCCAATCCTGTCAATAA  4360
+
+
+
+
+Range 2: 4022 to 4154
+
+Score:246 bits(133), Expect:3e-60, 
+Identities:133/133(100%),  Gaps:0/133(0%), Strand: Plus/Plus
+
+Query  850   TAACATCCTCACAGCAGAAAGCGGATTGGATACCATTAGCATTGACGATCAAGGGTCTCA  909
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4022  TAACATCCTCACAGCAGAAAGCGGATTGGATACCATTAGCATTGACGATCAAGGGTCTCA  4081
+
+Query  910   ATCCAACAGCTATTTTTCTAACAACCCTTTCAAGAACCAACAAGAAAAGGAGCTGGCCAC  969
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4082  ATCCAACAGCTATTTTTCTAACAACCCTTTCAAGAACCAACAAGAAAAGGAGCTGGCCAC  4141
+
+Query  970   TAAATGAGGCTAT  982
+             |||||||||||||
+Sbjct  4142  TAAATGAGGCTAT  4154
+
+
+
+
+>Dengue virus 2 isolate ML, complete genome
+Sequence ID: OM256481.1 Length: 10723
+>Dengue virus type 2 isolate DENV2_YN_MH, complete genome
+Sequence ID: OQ652964.1 Length: 10723 
+Range 1: 4024 to 4360
+
+Score:448 bits(242), Expect:8e-121, 
+Identities:310/337(92%),  Gaps:27/337(8%), Strand: Plus/Plus
+
+Query  146   ACATCCTCACAGCAGAAAGCGGATTGGATACCATTAGCATTGACGATCAAGGGTCTCAAT  205
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4024  ACATCCTCACAGCAGAAAGCGGATTGGATACCATTAGCATTGACGATCAAGGGTCTCAAT  4083
+
+Query  206   CCAACAGCTATTTTTCTAACAACCCTTTCAAGAACCAACAAGAAAAGGAGCTGGCCACTA  265
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4084  CCAACAGCTATTTTTCTAACAACCCTTTCAAGAACCAACAAGAAAAGGAGCTGGCCACTA  4143
+
+Query  266   AATGAGGCTATCATGGCAGTCGGGATGGTGAGCATTTTGGCCAGTTCACTCCTAAAGAAT  325
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4144  AATGAGGCTATCATGGCAGTCGGGATGGTGAGCATTTTGGCCAGTTCACTCCTAAAGAAT  4203
+
+Query  326   GACATTCCCATGACAGGACCATTAGTGGCTG---------------------------TC  358
+             |||||||||||||||||||||||||||||||                           ||
+Sbjct  4204  GACATTCCCATGACAGGACCATTAGTGGCTGGAGGGCTCCTCACTGTGTGCTACGTGCTC  4263
+
+Query  359   ACTGGACGATCGGCCGATTTGGAACTGGAGAGAGCCGCCGATGTCAAATGGGAAGATCAG  418
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4264  ACTGGACGATCGGCCGATTTGGAACTGGAGAGAGCCGCCGATGTCAAATGGGAAGATCAG  4323
+
+Query  419   GCAGAGATATCAGGAAGCAGTCCAATCCTGTCAATAA  455
+             |||||||||||||||||||||||||||||||||||||
+Sbjct  4324  GCAGAGATATCAGGAAGCAGTCCAATCCTGTCAATAA  4360
+
+
+
+
+Range 2: 4022 to 4154
+
+Score:246 bits(133), Expect:3e-60, 
+Identities:133/133(100%),  Gaps:0/133(0%), Strand: Plus/Plus
+
+Query  850   TAACATCCTCACAGCAGAAAGCGGATTGGATACCATTAGCATTGACGATCAAGGGTCTCA  909
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4022  TAACATCCTCACAGCAGAAAGCGGATTGGATACCATTAGCATTGACGATCAAGGGTCTCA  4081
+
+Query  910   ATCCAACAGCTATTTTTCTAACAACCCTTTCAAGAACCAACAAGAAAAGGAGCTGGCCAC  969
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4082  ATCCAACAGCTATTTTTCTAACAACCCTTTCAAGAACCAACAAGAAAAGGAGCTGGCCAC  4141
+
+Query  970   TAAATGAGGCTAT  982
+             |||||||||||||
+Sbjct  4142  TAAATGAGGCTAT  4154
+
+
+
+
+>Dengue virus type 2 isolate THSTI-TRC-DENV2-12 polyprotein (POLY) gene, complete cds; and sfRNA1 lncRNA gene, partial sequence
+Sequence ID: OP809583.1 Length: 10699
+Range 1: 4012 to 4348
+
+Score:448 bits(242), Expect:8e-121, 
+Identities:310/337(92%),  Gaps:27/337(8%), Strand: Plus/Plus
+
+Query  146   ACATCCTCACAGCAGAAAGCGGATTGGATACCATTAGCATTGACGATCAAGGGTCTCAAT  205
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4012  ACATCCTCACAGCAGAAAGCGGATTGGATACCATTAGCATTGACGATCAAGGGTCTCAAT  4071
+
+Query  206   CCAACAGCTATTTTTCTAACAACCCTTTCAAGAACCAACAAGAAAAGGAGCTGGCCACTA  265
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4072  CCAACAGCTATTTTTCTAACAACCCTTTCAAGAACCAACAAGAAAAGGAGCTGGCCACTA  4131
+
+Query  266   AATGAGGCTATCATGGCAGTCGGGATGGTGAGCATTTTGGCCAGTTCACTCCTAAAGAAT  325
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4132  AATGAGGCTATCATGGCAGTCGGGATGGTGAGCATTTTGGCCAGTTCACTCCTAAAGAAT  4191
+
+Query  326   GACATTCCCATGACAGGACCATTAGTGGCTG---------------------------TC  358
+             |||||||||||||||||||||||||||||||                           ||
+Sbjct  4192  GACATTCCCATGACAGGACCATTAGTGGCTGGAGGGCTCCTCACTGTGTGCTACGTGCTC  4251
+
+Query  359   ACTGGACGATCGGCCGATTTGGAACTGGAGAGAGCCGCCGATGTCAAATGGGAAGATCAG  418
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4252  ACTGGACGATCGGCCGATTTGGAACTGGAGAGAGCCGCCGATGTCAAATGGGAAGATCAG  4311
+
+Query  419   GCAGAGATATCAGGAAGCAGTCCAATCCTGTCAATAA  455
+             |||||||||||||||||||||||||||||||||||||
+Sbjct  4312  GCAGAGATATCAGGAAGCAGTCCAATCCTGTCAATAA  4348
+
+
+
+
+Range 2: 4010 to 4142
+
+Score:246 bits(133), Expect:3e-60, 
+Identities:133/133(100%),  Gaps:0/133(0%), Strand: Plus/Plus
+
+Query  850   TAACATCCTCACAGCAGAAAGCGGATTGGATACCATTAGCATTGACGATCAAGGGTCTCA  909
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4010  TAACATCCTCACAGCAGAAAGCGGATTGGATACCATTAGCATTGACGATCAAGGGTCTCA  4069
+
+Query  910   ATCCAACAGCTATTTTTCTAACAACCCTTTCAAGAACCAACAAGAAAAGGAGCTGGCCAC  969
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4070  ATCCAACAGCTATTTTTCTAACAACCCTTTCAAGAACCAACAAGAAAAGGAGCTGGCCAC  4129
+
+Query  970   TAAATGAGGCTAT  982
+             |||||||||||||
+Sbjct  4130  TAAATGAGGCTAT  4142
+
+
+
+
+>Dengue virus type 2 isolate N10 polyprotein (POLY) gene, complete cds; and sfRNA1 lncRNA gene, partial sequence
+Sequence ID: OR838780.1 Length: 10563
+Range 1: 3966 to 4302
+
+Score:448 bits(242), Expect:8e-121, 
+Identities:310/337(92%),  Gaps:27/337(8%), Strand: Plus/Plus
+
+Query  146   ACATCCTCACAGCAGAAAGCGGATTGGATACCATTAGCATTGACGATCAAGGGTCTCAAT  205
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  3966  ACATCCTCACAGCAGAAAGCGGATTGGATACCATTAGCATTGACGATCAAGGGTCTCAAT  4025
+
+Query  206   CCAACAGCTATTTTTCTAACAACCCTTTCAAGAACCAACAAGAAAAGGAGCTGGCCACTA  265
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4026  CCAACAGCTATTTTTCTAACAACCCTTTCAAGAACCAACAAGAAAAGGAGCTGGCCACTA  4085
+
+Query  266   AATGAGGCTATCATGGCAGTCGGGATGGTGAGCATTTTGGCCAGTTCACTCCTAAAGAAT  325
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4086  AATGAGGCTATCATGGCAGTCGGGATGGTGAGCATTTTGGCCAGTTCACTCCTAAAGAAT  4145
+
+Query  326   GACATTCCCATGACAGGACCATTAGTGGCTG---------------------------TC  358
+             |||||||||||||||||||||||||||||||                           ||
+Sbjct  4146  GACATTCCCATGACAGGACCATTAGTGGCTGGAGGGCTCCTCACTGTGTGCTACGTGCTC  4205
+
+Query  359   ACTGGACGATCGGCCGATTTGGAACTGGAGAGAGCCGCCGATGTCAAATGGGAAGATCAG  418
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4206  ACTGGACGATCGGCCGATTTGGAACTGGAGAGAGCCGCCGATGTCAAATGGGAAGATCAG  4265
+
+Query  419   GCAGAGATATCAGGAAGCAGTCCAATCCTGTCAATAA  455
+             |||||||||||||||||||||||||||||||||||||
+Sbjct  4266  GCAGAGATATCAGGAAGCAGTCCAATCCTGTCAATAA  4302
+
+
+
+
+Range 2: 3964 to 4096
+
+Score:246 bits(133), Expect:3e-60, 
+Identities:133/133(100%),  Gaps:0/133(0%), Strand: Plus/Plus
+
+Query  850   TAACATCCTCACAGCAGAAAGCGGATTGGATACCATTAGCATTGACGATCAAGGGTCTCA  909
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  3964  TAACATCCTCACAGCAGAAAGCGGATTGGATACCATTAGCATTGACGATCAAGGGTCTCA  4023
+
+Query  910   ATCCAACAGCTATTTTTCTAACAACCCTTTCAAGAACCAACAAGAAAAGGAGCTGGCCAC  969
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4024  ATCCAACAGCTATTTTTCTAACAACCCTTTCAAGAACCAACAAGAAAAGGAGCTGGCCAC  4083
+
+Query  970   TAAATGAGGCTAT  982
+             |||||||||||||
+Sbjct  4084  TAAATGAGGCTAT  4096
+
+
+
+
+>Dengue virus type 2 isolate DENV2/PAPUANEWGUINEA/1944/NEWGUINEAC polyprotein (POLY) gene, partial cds
+Sequence ID: MW945433.1 Length: 10175
+Range 1: 3928 to 4264
+
+Score:448 bits(242), Expect:8e-121, 
+Identities:310/337(92%),  Gaps:27/337(8%), Strand: Plus/Plus
+
+Query  146   ACATCCTCACAGCAGAAAGCGGATTGGATACCATTAGCATTGACGATCAAGGGTCTCAAT  205
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  3928  ACATCCTCACAGCAGAAAGCGGATTGGATACCATTAGCATTGACGATCAAGGGTCTCAAT  3987
+
+Query  206   CCAACAGCTATTTTTCTAACAACCCTTTCAAGAACCAACAAGAAAAGGAGCTGGCCACTA  265
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  3988  CCAACAGCTATTTTTCTAACAACCCTTTCAAGAACCAACAAGAAAAGGAGCTGGCCACTA  4047
+
+Query  266   AATGAGGCTATCATGGCAGTCGGGATGGTGAGCATTTTGGCCAGTTCACTCCTAAAGAAT  325
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4048  AATGAGGCTATCATGGCAGTCGGGATGGTGAGCATTTTGGCCAGTTCACTCCTAAAGAAT  4107
+
+Query  326   GACATTCCCATGACAGGACCATTAGTGGCTG---------------------------TC  358
+             |||||||||||||||||||||||||||||||                           ||
+Sbjct  4108  GACATTCCCATGACAGGACCATTAGTGGCTGGAGGGCTCCTCACTGTGTGCTACGTGCTC  4167
+
+Query  359   ACTGGACGATCGGCCGATTTGGAACTGGAGAGAGCCGCCGATGTCAAATGGGAAGATCAG  418
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4168  ACTGGACGATCGGCCGATTTGGAACTGGAGAGAGCCGCCGATGTCAAATGGGAAGATCAG  4227
+
+Query  419   GCAGAGATATCAGGAAGCAGTCCAATCCTGTCAATAA  455
+             |||||||||||||||||||||||||||||||||||||
+Sbjct  4228  GCAGAGATATCAGGAAGCAGTCCAATCCTGTCAATAA  4264
+
+
+
+
+Range 2: 3926 to 4058
+
+Score:246 bits(133), Expect:3e-60, 
+Identities:133/133(100%),  Gaps:0/133(0%), Strand: Plus/Plus
+
+Query  850   TAACATCCTCACAGCAGAAAGCGGATTGGATACCATTAGCATTGACGATCAAGGGTCTCA  909
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  3926  TAACATCCTCACAGCAGAAAGCGGATTGGATACCATTAGCATTGACGATCAAGGGTCTCA  3985
+
+Query  910   ATCCAACAGCTATTTTTCTAACAACCCTTTCAAGAACCAACAAGAAAAGGAGCTGGCCAC  969
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  3986  ATCCAACAGCTATTTTTCTAACAACCCTTTCAAGAACCAACAAGAAAAGGAGCTGGCCAC  4045
+
+Query  970   TAAATGAGGCTAT  982
+             |||||||||||||
+Sbjct  4046  TAAATGAGGCTAT  4058
+
+
+
+
+>Dengue virus type 2 isolate MBC056 polyprotein (POLY) gene, partial cds
+Sequence ID: PP815632.1 Length: 10010
+Range 1: 3927 to 4263
+
+Score:448 bits(242), Expect:8e-121, 
+Identities:310/337(92%),  Gaps:27/337(8%), Strand: Plus/Plus
+
+Query  146   ACATCCTCACAGCAGAAAGCGGATTGGATACCATTAGCATTGACGATCAAGGGTCTCAAT  205
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  3927  ACATCCTCACAGCAGAAAGCGGATTGGATACCATTAGCATTGACGATCAAGGGTCTCAAT  3986
+
+Query  206   CCAACAGCTATTTTTCTAACAACCCTTTCAAGAACCAACAAGAAAAGGAGCTGGCCACTA  265
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  3987  CCAACAGCTATTTTTCTAACAACCCTTTCAAGAACCAACAAGAAAAGGAGCTGGCCACTA  4046
+
+Query  266   AATGAGGCTATCATGGCAGTCGGGATGGTGAGCATTTTGGCCAGTTCACTCCTAAAGAAT  325
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4047  AATGAGGCTATCATGGCAGTCGGGATGGTGAGCATTTTGGCCAGTTCACTCCTAAAGAAT  4106
+
+Query  326   GACATTCCCATGACAGGACCATTAGTGGCTG---------------------------TC  358
+             |||||||||||||||||||||||||||||||                           ||
+Sbjct  4107  GACATTCCCATGACAGGACCATTAGTGGCTGGAGGGCTCCTCACTGTGTGCTACGTGCTC  4166
+
+Query  359   ACTGGACGATCGGCCGATTTGGAACTGGAGAGAGCCGCCGATGTCAAATGGGAAGATCAG  418
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4167  ACTGGACGATCGGCCGATTTGGAACTGGAGAGAGCCGCCGATGTCAAATGGGAAGATCAG  4226
+
+Query  419   GCAGAGATATCAGGAAGCAGTCCAATCCTGTCAATAA  455
+             |||||||||||||||||||||||||||||||||||||
+Sbjct  4227  GCAGAGATATCAGGAAGCAGTCCAATCCTGTCAATAA  4263
+
+
+
+
+Range 2: 3925 to 4057
+
+Score:246 bits(133), Expect:3e-60, 
+Identities:133/133(100%),  Gaps:0/133(0%), Strand: Plus/Plus
+
+Query  850   TAACATCCTCACAGCAGAAAGCGGATTGGATACCATTAGCATTGACGATCAAGGGTCTCA  909
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  3925  TAACATCCTCACAGCAGAAAGCGGATTGGATACCATTAGCATTGACGATCAAGGGTCTCA  3984
+
+Query  910   ATCCAACAGCTATTTTTCTAACAACCCTTTCAAGAACCAACAAGAAAAGGAGCTGGCCAC  969
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  3985  ATCCAACAGCTATTTTTCTAACAACCCTTTCAAGAACCAACAAGAAAAGGAGCTGGCCAC  4044
+
+Query  970   TAAATGAGGCTAT  982
+             |||||||||||||
+Sbjct  4045  TAAATGAGGCTAT  4057
+
+
+
+
+>Dengue virus type 2 isolate DENV2/Peru/1990/Yale-DH075 polyprotein (POLY) gene, complete cds; and sfRNA1 lncRNA gene, partial sequence
+Sequence ID: OR389321.1 Length: 10512
+Range 1: 3991 to 4327
+
+Score:448 bits(242), Expect:8e-121, 
+Identities:310/337(92%),  Gaps:27/337(8%), Strand: Plus/Plus
+
+Query  146   ACATCCTCACAGCAGAAAGCGGATTGGATACCATTAGCATTGACGATCAAGGGTCTCAAT  205
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  3991  ACATCCTCACAGCAGAAAGCGGATTGGATACCATTAGCATTGACGATCAAGGGTCTCAAT  4050
+
+Query  206   CCAACAGCTATTTTTCTAACAACCCTTTCAAGAACCAACAAGAAAAGGAGCTGGCCACTA  265
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4051  CCAACAGCTATTTTTCTAACAACCCTTTCAAGAACCAACAAGAAAAGGAGCTGGCCACTA  4110
+
+Query  266   AATGAGGCTATCATGGCAGTCGGGATGGTGAGCATTTTGGCCAGTTCACTCCTAAAGAAT  325
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4111  AATGAGGCTATCATGGCAGTCGGGATGGTGAGCATTTTGGCCAGTTCACTCCTAAAGAAT  4170
+
+Query  326   GACATTCCCATGACAGGACCATTAGTGGCTG---------------------------TC  358
+             |||||||||||||||||||||||||||||||                           ||
+Sbjct  4171  GACATTCCCATGACAGGACCATTAGTGGCTGGAGGGCTCCTCACTGTGTGCTACGTGCTC  4230
+
+Query  359   ACTGGACGATCGGCCGATTTGGAACTGGAGAGAGCCGCCGATGTCAAATGGGAAGATCAG  418
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4231  ACTGGACGATCGGCCGATTTGGAACTGGAGAGAGCCGCCGATGTCAAATGGGAAGATCAG  4290
+
+Query  419   GCAGAGATATCAGGAAGCAGTCCAATCCTGTCAATAA  455
+             |||||||||||||||||||||||||||||||||||||
+Sbjct  4291  GCAGAGATATCAGGAAGCAGTCCAATCCTGTCAATAA  4327
+
+
+
+
+Range 2: 3989 to 4121
+
+Score:246 bits(133), Expect:3e-60, 
+Identities:133/133(100%),  Gaps:0/133(0%), Strand: Plus/Plus
+
+Query  850   TAACATCCTCACAGCAGAAAGCGGATTGGATACCATTAGCATTGACGATCAAGGGTCTCA  909
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  3989  TAACATCCTCACAGCAGAAAGCGGATTGGATACCATTAGCATTGACGATCAAGGGTCTCA  4048
+
+Query  910   ATCCAACAGCTATTTTTCTAACAACCCTTTCAAGAACCAACAAGAAAAGGAGCTGGCCAC  969
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4049  ATCCAACAGCTATTTTTCTAACAACCCTTTCAAGAACCAACAAGAAAAGGAGCTGGCCAC  4108
+
+Query  970   TAAATGAGGCTAT  982
+             |||||||||||||
+Sbjct  4109  TAAATGAGGCTAT  4121
+
+
+
+
+>Dengue virus 2 isolate 017, complete genome
+Sequence ID: OM257419.1 Length: 10713
+Range 1: 4024 to 4360
+
+Score:448 bits(242), Expect:8e-121, 
+Identities:310/337(92%),  Gaps:27/337(8%), Strand: Plus/Plus
+
+Query  146   ACATCCTCACAGCAGAAAGCGGATTGGATACCATTAGCATTGACGATCAAGGGTCTCAAT  205
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4024  ACATCCTCACAGCAGAAAGCGGATTGGATACCATTAGCATTGACGATCAAGGGTCTCAAT  4083
+
+Query  206   CCAACAGCTATTTTTCTAACAACCCTTTCAAGAACCAACAAGAAAAGGAGCTGGCCACTA  265
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4084  CCAACAGCTATTTTTCTAACAACCCTTTCAAGAACCAACAAGAAAAGGAGCTGGCCACTA  4143
+
+Query  266   AATGAGGCTATCATGGCAGTCGGGATGGTGAGCATTTTGGCCAGTTCACTCCTAAAGAAT  325
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4144  AATGAGGCTATCATGGCAGTCGGGATGGTGAGCATTTTGGCCAGTTCACTCCTAAAGAAT  4203
+
+Query  326   GACATTCCCATGACAGGACCATTAGTGGCTG---------------------------TC  358
+             |||||||||||||||||||||||||||||||                           ||
+Sbjct  4204  GACATTCCCATGACAGGACCATTAGTGGCTGGAGGGCTCCTCACTGTGTGCTACGTGCTC  4263
+
+Query  359   ACTGGACGATCGGCCGATTTGGAACTGGAGAGAGCCGCCGATGTCAAATGGGAAGATCAG  418
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4264  ACTGGACGATCGGCCGATTTGGAACTGGAGAGAGCCGCCGATGTCAAATGGGAAGATCAG  4323
+
+Query  419   GCAGAGATATCAGGAAGCAGTCCAATCCTGTCAATAA  455
+             |||||||||||||||||||||||||||||||||||||
+Sbjct  4324  GCAGAGATATCAGGAAGCAGTCCAATCCTGTCAATAA  4360
+
+
+
+
+Range 2: 4022 to 4154
+
+Score:246 bits(133), Expect:3e-60, 
+Identities:133/133(100%),  Gaps:0/133(0%), Strand: Plus/Plus
+
+Query  850   TAACATCCTCACAGCAGAAAGCGGATTGGATACCATTAGCATTGACGATCAAGGGTCTCA  909
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4022  TAACATCCTCACAGCAGAAAGCGGATTGGATACCATTAGCATTGACGATCAAGGGTCTCA  4081
+
+Query  910   ATCCAACAGCTATTTTTCTAACAACCCTTTCAAGAACCAACAAGAAAAGGAGCTGGCCAC  969
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4082  ATCCAACAGCTATTTTTCTAACAACCCTTTCAAGAACCAACAAGAAAAGGAGCTGGCCAC  4141
+
+Query  970   TAAATGAGGCTAT  982
+             |||||||||||||
+Sbjct  4142  TAAATGAGGCTAT  4154
+
+
+
+
+>Dengue virus type 2 isolate DENV2/Senegal/Unknown/Yale-DH083 polyprotein (POLY) gene, complete cds; and sfRNA1 lncRNA gene, partial sequence
+Sequence ID: OR389326.1 Length: 10512
+Range 1: 3991 to 4327
+
+Score:448 bits(242), Expect:8e-121, 
+Identities:310/337(92%),  Gaps:27/337(8%), Strand: Plus/Plus
+
+Query  146   ACATCCTCACAGCAGAAAGCGGATTGGATACCATTAGCATTGACGATCAAGGGTCTCAAT  205
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  3991  ACATCCTCACAGCAGAAAGCGGATTGGATACCATTAGCATTGACGATCAAGGGTCTCAAT  4050
+
+Query  206   CCAACAGCTATTTTTCTAACAACCCTTTCAAGAACCAACAAGAAAAGGAGCTGGCCACTA  265
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4051  CCAACAGCTATTTTTCTAACAACCCTTTCAAGAACCAACAAGAAAAGGAGCTGGCCACTA  4110
+
+Query  266   AATGAGGCTATCATGGCAGTCGGGATGGTGAGCATTTTGGCCAGTTCACTCCTAAAGAAT  325
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4111  AATGAGGCTATCATGGCAGTCGGGATGGTGAGCATTTTGGCCAGTTCACTCCTAAAGAAT  4170
+
+Query  326   GACATTCCCATGACAGGACCATTAGTGGCTG---------------------------TC  358
+             |||||||||||||||||||||||||||||||                           ||
+Sbjct  4171  GACATTCCCATGACAGGACCATTAGTGGCTGGAGGGCTCCTCACTGTGTGCTACGTGCTC  4230
+
+Query  359   ACTGGACGATCGGCCGATTTGGAACTGGAGAGAGCCGCCGATGTCAAATGGGAAGATCAG  418
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4231  ACTGGACGATCGGCCGATTTGGAACTGGAGAGAGCCGCCGATGTCAAATGGGAAGATCAG  4290
+
+Query  419   GCAGAGATATCAGGAAGCAGTCCAATCCTGTCAATAA  455
+             |||||||||||||||||||||||||||||||||||||
+Sbjct  4291  GCAGAGATATCAGGAAGCAGTCCAATCCTGTCAATAA  4327
+
+
+
+
+Range 2: 3989 to 4121
+
+Score:246 bits(133), Expect:3e-60, 
+Identities:133/133(100%),  Gaps:0/133(0%), Strand: Plus/Plus
+
+Query  850   TAACATCCTCACAGCAGAAAGCGGATTGGATACCATTAGCATTGACGATCAAGGGTCTCA  909
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  3989  TAACATCCTCACAGCAGAAAGCGGATTGGATACCATTAGCATTGACGATCAAGGGTCTCA  4048
+
+Query  910   ATCCAACAGCTATTTTTCTAACAACCCTTTCAAGAACCAACAAGAAAAGGAGCTGGCCAC  969
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4049  ATCCAACAGCTATTTTTCTAACAACCCTTTCAAGAACCAACAAGAAAAGGAGCTGGCCAC  4108
+
+Query  970   TAAATGAGGCTAT  982
+             |||||||||||||
+Sbjct  4109  TAAATGAGGCTAT  4121
+
+
+
+
+

@@ -1,0 +1,440 @@
+Query #4: 4 unknown sequence 4 Query ID: lcl|Query_1489436 Length: 581
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Influenza virus A (A/swine/Shandong/2/03(H5N1)) nucleoprotein...  Influenza A ... NA              287864     695    695   79%   0.0   94.78  1565       AY646426.1       
+Influenza A virus (A/environment/Qinghai/1/2008(H5N1)) segment... Influenza A ... NA              574215     695    695   79%   0.0   94.78  1520       FJ455823.1       
+Influenza A virus (A/swine/Shandong/8/2003(H9N2)) segment 5...    Influenza A ... NA              666504     689    689   79%   0.0   94.57  1476       GQ477297.1       
+Influenza A virus (A/plateau pika/Qinghai/04/2007(H5N1)) segme... Influenza A ... NA              569161     689    689   79%   0.0   94.57  1565       FJ390062.2       
+Influenza A virus (A/chicken/Nanchang/4-301/2001(H9N2)) segmen... Influenza A ... NA              215907     684    684   79%   0.0   94.35  1565       CY005521.1       
+Influenza A virus (A/chicken/China/1/02(H5N1)) nucleoprotein...   Influenza A ... NA              329266     684    684   79%   0.0   94.35  1509       DQ023146.1       
+Influenza A virus (A/chicken/Hubei/wf/2002(H5N1)) nucleoprotei... Influenza A ... NA              404146     684    684   79%   0.0   94.35  1565       DQ997089.1       
+Influenza A virus (A/chicken/Shandong/LY-1/2008(H9N2)) segment... Influenza A ... NA              1005648    684    684   79%   0.0   94.35  1565       JF795111.1       
+Influenza A virus (A/duck/Nanchang/4-361/2001(H9N2)) segment 5... Influenza A ... NA              342215     684    684   79%   0.0   94.35  1565       CY005527.1       
+Influenza A virus (A/chicken/Hubei/wn/2003(H5N1)) nucleoprotei... Influenza A ... NA              404153     662    662   79%   0.0   93.48  1565       DQ997151.1       
+
+
+Alignments:
+
+>Influenza virus A (A/swine/Shandong/2/03(H5N1)) nucleoprotein gene, complete cds
+Sequence ID: AY646426.1 Length: 1565
+Range 1: 790 to 1225
+
+Score:695 bits(376), Expect:0.0, 
+Identities:436/460(95%),  Gaps:24/460(5%), Strand: Plus/Plus
+
+Query  122   gGGAATGCTGAAATTGAAGATCTCATCTTTCTGGCACGGTCCGCACTCATTCTGAGAGGA  181
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  790   GGGAATGCTGAAATTGAAGATCTCATCTTTCTGGCACGGTCCGCACTCATTCTGAGAGGA  849
+
+Query  182   TCAATGGCCCATAAGTCCTGCCTGCCTGCTTGTGTGTACGGACTTGCCGTAGCCAGTGGA  241
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  850   TCAATGGCCCATAAGTCCTGCCTGCCTGCTTGTGTGTACGGACTTGCCGTAGCCAGTGGA  909
+
+Query  242   TATGACTTCGAGAGAGAAGGGTACTCTTTCAGCAGTCCAATCCTTCCAATCCTAGTCGGA  301
+             ||||||||||||||||||||||||||||                        ||||||||
+Sbjct  910   TATGACTTCGAGAGAGAAGGGTACTCTT------------------------TAGTCGGA  945
+
+Query  302   ATAGATCCTTTCCGTCTGCTGCAAAACAGCCAGGTCTTCAGTCTAATTAGACCAAATGAG  361
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  946   ATAGATCCTTTCCGTCTGCTGCAAAACAGCCAGGTCTTCAGTCTAATTAGACCAAATGAG  1005
+
+Query  362   AATCCAGCACATAAAAGTCAATTGGTGTGGATGGCATGCCATTCTGCAGCGTTTGAAGAT  421
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1006  AATCCAGCACATAAAAGTCAATTGGTGTGGATGGCATGCCATTCTGCAGCGTTTGAAGAT  1065
+
+Query  422   CTGAGAGTATCAAGTTTCATCAGAGGAACAAGAGTGGTCCCAAGAGGACAGCTATCTACC  481
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1066  CTGAGAGTATCAAGTTTCATCAGAGGAACAAGAGTGGTCCCAAGAGGACAGCTATCTACC  1125
+
+Query  482   AGAGGAGTTCAGATTGCTTCAAATGAGAACATGGAAACAATGGACTCCAGCACTCTTGAA  541
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1126  AGAGGAGTTCAGATTGCTTCAAATGAGAACATGGAAACAATGGACTCCAGCACTCTTGAA  1185
+
+Query  542   CTGAGAAGCAGATATTGGGCTATAAGGACCAGGAGTGGAG  581
+             ||||||||||||||||||||||||||||||||||||||||
+Sbjct  1186  CTGAGAAGCAGATATTGGGCTATAAGGACCAGGAGTGGAG  1225
+
+
+
+
+>Influenza A virus (A/environment/Qinghai/1/2008(H5N1)) segment 5 nucleocapsid protein (NP) gene, complete cds
+Sequence ID: FJ455823.1 Length: 1520
+Range 1: 745 to 1180
+
+Score:695 bits(376), Expect:0.0, 
+Identities:436/460(95%),  Gaps:24/460(5%), Strand: Plus/Plus
+
+Query  122   gGGAATGCTGAAATTGAAGATCTCATCTTTCTGGCACGGTCCGCACTCATTCTGAGAGGA  181
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  745   GGGAATGCTGAAATTGAAGATCTCATCTTTCTGGCACGGTCCGCACTCATTCTGAGAGGA  804
+
+Query  182   TCAATGGCCCATAAGTCCTGCCTGCCTGCTTGTGTGTACGGACTTGCCGTAGCCAGTGGA  241
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  805   TCAATGGCCCATAAGTCCTGCCTGCCTGCTTGTGTGTACGGACTTGCCGTAGCCAGTGGA  864
+
+Query  242   TATGACTTCGAGAGAGAAGGGTACTCTTTCAGCAGTCCAATCCTTCCAATCCTAGTCGGA  301
+             ||||||||||||||||||||||||||||                        ||||||||
+Sbjct  865   TATGACTTCGAGAGAGAAGGGTACTCTT------------------------TAGTCGGA  900
+
+Query  302   ATAGATCCTTTCCGTCTGCTGCAAAACAGCCAGGTCTTCAGTCTAATTAGACCAAATGAG  361
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  901   ATAGATCCTTTCCGTCTGCTGCAAAACAGCCAGGTCTTCAGTCTAATTAGACCAAATGAG  960
+
+Query  362   AATCCAGCACATAAAAGTCAATTGGTGTGGATGGCATGCCATTCTGCAGCGTTTGAAGAT  421
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  961   AATCCAGCACATAAAAGTCAATTGGTGTGGATGGCATGCCATTCTGCAGCGTTTGAAGAT  1020
+
+Query  422   CTGAGAGTATCAAGTTTCATCAGAGGAACAAGAGTGGTCCCAAGAGGACAGCTATCTACC  481
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1021  CTGAGAGTATCAAGTTTCATCAGAGGAACAAGAGTGGTCCCAAGAGGACAGCTATCTACC  1080
+
+Query  482   AGAGGAGTTCAGATTGCTTCAAATGAGAACATGGAAACAATGGACTCCAGCACTCTTGAA  541
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1081  AGAGGAGTTCAGATTGCTTCAAATGAGAACATGGAAACAATGGACTCCAGCACTCTTGAA  1140
+
+Query  542   CTGAGAAGCAGATATTGGGCTATAAGGACCAGGAGTGGAG  581
+             ||||||||||||||||||||||||||||||||||||||||
+Sbjct  1141  CTGAGAAGCAGATATTGGGCTATAAGGACCAGGAGTGGAG  1180
+
+
+
+
+>Influenza A virus (A/swine/Shandong/8/2003(H9N2)) segment 5 nucleocapsid protein (NP) gene, partial cds
+Sequence ID: GQ477297.1 Length: 1476
+Range 1: 745 to 1180
+
+Score:689 bits(373), Expect:0.0, 
+Identities:435/460(95%),  Gaps:24/460(5%), Strand: Plus/Plus
+
+Query  122   gGGAATGCTGAAATTGAAGATCTCATCTTTCTGGCACGGTCCGCACTCATTCTGAGAGGA  181
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  745   GGGAATGCTGAAATTGAAGATCTCATCTTTCTGGCACGGTCCGCACTCATTCTGAGAGGA  804
+
+Query  182   TCAATGGCCCATAAGTCCTGCCTGCCTGCTTGTGTGTACGGACTTGCCGTAGCCAGTGGA  241
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  805   TCAATGGCCCATAAGTCCTGCCTGCCTGCTTGTGTGTACGGACTTGCCGTAGCCAGTGGA  864
+
+Query  242   TATGACTTCGAGAGAGAAGGGTACTCTTTCAGCAGTCCAATCCTTCCAATCCTAGTCGGA  301
+             ||||||||||||||||||||||||||||                        ||||||||
+Sbjct  865   TATGACTTCGAGAGAGAAGGGTACTCTT------------------------TAGTCGGA  900
+
+Query  302   ATAGATCCTTTCCGTCTGCTGCAAAACAGCCAGGTCTTCAGTCTAATTAGACCAAATGAG  361
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  901   ATAGATCCTTTCCGTCTGCTGCAAAACAGCCAGGTCTTCAGTCTAATTAGACCAAATGAG  960
+
+Query  362   AATCCAGCACATAAAAGTCAATTGGTGTGGATGGCATGCCATTCTGCAGCGTTTGAAGAT  421
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  961   AATCCAGCACATAAAAGTCAATTGGTGTGGATGGCATGCCATTCTGCAGCGTTTGAAGAT  1020
+
+Query  422   CTGAGAGTATCAAGTTTCATCAGAGGAACAAGAGTGGTCCCAAGAGGACAGCTATCTACC  481
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1021  CTGAGAGTATCAAGTTTCATCAGAGGAACAAGAGTGGTCCCAAGAGGACAGCTATCTACC  1080
+
+Query  482   AGAGGAGTTCAGATTGCTTCAAATGAGAACATGGAAACAATGGACTCCAGCACTCTTGAA  541
+             ||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1081  AGAGGAGTTCAAATTGCTTCAAATGAGAACATGGAAACAATGGACTCCAGCACTCTTGAA  1140
+
+Query  542   CTGAGAAGCAGATATTGGGCTATAAGGACCAGGAGTGGAG  581
+             ||||||||||||||||||||||||||||||||||||||||
+Sbjct  1141  CTGAGAAGCAGATATTGGGCTATAAGGACCAGGAGTGGAG  1180
+
+
+
+
+>Influenza A virus (A/plateau pika/Qinghai/04/2007(H5N1)) segment 5 nucleocapsid protein (NP) gene, complete cds
+Sequence ID: FJ390062.2 Length: 1565
+Range 1: 790 to 1225
+
+Score:689 bits(373), Expect:0.0, 
+Identities:435/460(95%),  Gaps:24/460(5%), Strand: Plus/Plus
+
+Query  122   gGGAATGCTGAAATTGAAGATCTCATCTTTCTGGCACGGTCCGCACTCATTCTGAGAGGA  181
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  790   GGGAATGCTGAAATTGAAGATCTCATCTTTCTGGCACGGTCCGCACTCATTCTGAGAGGA  849
+
+Query  182   TCAATGGCCCATAAGTCCTGCCTGCCTGCTTGTGTGTACGGACTTGCCGTAGCCAGTGGA  241
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  850   TCAATGGCCCATAAGTCCTGCCTGCCTGCTTGTGTGTACGGACTTGCCGTAGCCAGTGGA  909
+
+Query  242   TATGACTTCGAGAGAGAAGGGTACTCTTTCAGCAGTCCAATCCTTCCAATCCTAGTCGGA  301
+             ||||||||||||||||||||||||||||                        ||||||||
+Sbjct  910   TATGACTTCGAGAGAGAAGGGTACTCTT------------------------TAGTCGGA  945
+
+Query  302   ATAGATCCTTTCCGTCTGCTGCAAAACAGCCAGGTCTTCAGTCTAATTAGACCAAATGAG  361
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  946   ATAGATCCTTTCCGTCTGCTGCAAAACAGCCAGGTCTTCAGTCTAATTAGACCAAATGAG  1005
+
+Query  362   AATCCAGCACATAAAAGTCAATTGGTGTGGATGGCATGCCATTCTGCAGCGTTTGAAGAT  421
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1006  AATCCAGCACATAAAAGTCAATTGGTGTGGATGGCATGCCATTCTGCAGCGTTTGAAGAT  1065
+
+Query  422   CTGAGAGTATCAAGTTTCATCAGAGGAACAAGAGTGGTCCCAAGAGGACAGCTATCTACC  481
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1066  CTGAGAGTATCAAGTTTCATCAGAGGAACAAGAGTGGTCCCAAGAGGACAGCTATCTACC  1125
+
+Query  482   AGAGGAGTTCAGATTGCTTCAAATGAGAACATGGAAACAATGGACTCCAGCACTCTTGAA  541
+             ||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1126  AGAGGAGTTCAAATTGCTTCAAATGAGAACATGGAAACAATGGACTCCAGCACTCTTGAA  1185
+
+Query  542   CTGAGAAGCAGATATTGGGCTATAAGGACCAGGAGTGGAG  581
+             ||||||||||||||||||||||||||||||||||||||||
+Sbjct  1186  CTGAGAAGCAGATATTGGGCTATAAGGACCAGGAGTGGAG  1225
+
+
+
+
+>Influenza A virus (A/chicken/Nanchang/4-301/2001(H9N2)) segment 5, complete sequence
+Sequence ID: CY005521.1 Length: 1565
+Range 1: 790 to 1225
+
+Score:684 bits(370), Expect:0.0, 
+Identities:434/460(94%),  Gaps:24/460(5%), Strand: Plus/Plus
+
+Query  122   gGGAATGCTGAAATTGAAGATCTCATCTTTCTGGCACGGTCCGCACTCATTCTGAGAGGA  181
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  790   GGGAATGCTGAAATTGAAGATCTCATCTTTCTGGCACGGTCCGCACTCATTCTGAGAGGA  849
+
+Query  182   TCAATGGCCCATAAGTCCTGCCTGCCTGCTTGTGTGTACGGACTTGCCGTAGCCAGTGGA  241
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  850   TCAATGGCCCATAAGTCCTGCCTGCCTGCTTGTGTGTACGGACTTGCCGTAGCCAGTGGA  909
+
+Query  242   TATGACTTCGAGAGAGAAGGGTACTCTTTCAGCAGTCCAATCCTTCCAATCCTAGTCGGA  301
+             ||||||||||| ||||||||||||||||                        ||||||||
+Sbjct  910   TATGACTTCGAAAGAGAAGGGTACTCTT------------------------TAGTCGGA  945
+
+Query  302   ATAGATCCTTTCCGTCTGCTGCAAAACAGCCAGGTCTTCAGTCTAATTAGACCAAATGAG  361
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  946   ATAGATCCTTTCCGTCTGCTGCAAAACAGCCAGGTCTTCAGTCTAATTAGACCAAATGAG  1005
+
+Query  362   AATCCAGCACATAAAAGTCAATTGGTGTGGATGGCATGCCATTCTGCAGCGTTTGAAGAT  421
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1006  AATCCAGCACATAAAAGTCAATTGGTGTGGATGGCATGCCATTCTGCAGCGTTTGAAGAT  1065
+
+Query  422   CTGAGAGTATCAAGTTTCATCAGAGGAACAAGAGTGGTCCCAAGAGGACAGCTATCTACC  481
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1066  CTGAGAGTATCAAGTTTCATCAGAGGAACAAGAGTGGTCCCAAGAGGACAGCTATCTACC  1125
+
+Query  482   AGAGGAGTTCAGATTGCTTCAAATGAGAACATGGAAACAATGGACTCCAGCACTCTTGAA  541
+             ||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1126  AGAGGAGTTCAAATTGCTTCAAATGAGAACATGGAAACAATGGACTCCAGCACTCTTGAA  1185
+
+Query  542   CTGAGAAGCAGATATTGGGCTATAAGGACCAGGAGTGGAG  581
+             ||||||||||||||||||||||||||||||||||||||||
+Sbjct  1186  CTGAGAAGCAGATATTGGGCTATAAGGACCAGGAGTGGAG  1225
+
+
+
+
+>Influenza A virus (A/chicken/China/1/02(H5N1)) nucleoprotein (NP) mRNA, complete cds
+Sequence ID: DQ023146.1 Length: 1509
+Range 1: 750 to 1185
+
+Score:684 bits(370), Expect:0.0, 
+Identities:434/460(94%),  Gaps:24/460(5%), Strand: Plus/Plus
+
+Query  122   gGGAATGCTGAAATTGAAGATCTCATCTTTCTGGCACGGTCCGCACTCATTCTGAGAGGA  181
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  750   GGGAATGCTGAAATTGAAGATCTCATCTTTCTGGCACGGTCCGCACTCATTCTGAGAGGA  809
+
+Query  182   TCAATGGCCCATAAGTCCTGCCTGCCTGCTTGTGTGTACGGACTTGCCGTAGCCAGTGGA  241
+             ||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||
+Sbjct  810   TCAATGGCCCATAAGTCCTGCCTGCCTGCTTGTGTGTACGGACCTGCCGTAGCCAGTGGA  869
+
+Query  242   TATGACTTCGAGAGAGAAGGGTACTCTTTCAGCAGTCCAATCCTTCCAATCCTAGTCGGA  301
+             ||||||||||||||||||||||||||||                        ||||||||
+Sbjct  870   TATGACTTCGAGAGAGAAGGGTACTCTT------------------------TAGTCGGA  905
+
+Query  302   ATAGATCCTTTCCGTCTGCTGCAAAACAGCCAGGTCTTCAGTCTAATTAGACCAAATGAG  361
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  906   ATAGATCCTTTCCGTCTGCTGCAAAACAGCCAGGTCTTCAGTCTAATTAGACCAAATGAG  965
+
+Query  362   AATCCAGCACATAAAAGTCAATTGGTGTGGATGGCATGCCATTCTGCAGCGTTTGAAGAT  421
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  966   AATCCAGCACATAAAAGTCAATTGGTGTGGATGGCATGCCATTCTGCAGCGTTTGAAGAT  1025
+
+Query  422   CTGAGAGTATCAAGTTTCATCAGAGGAACAAGAGTGGTCCCAAGAGGACAGCTATCTACC  481
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1026  CTGAGAGTATCAAGTTTCATCAGAGGAACAAGAGTGGTCCCAAGAGGACAGCTATCTACC  1085
+
+Query  482   AGAGGAGTTCAGATTGCTTCAAATGAGAACATGGAAACAATGGACTCCAGCACTCTTGAA  541
+             ||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1086  AGAGGAGTTCAAATTGCTTCAAATGAGAACATGGAAACAATGGACTCCAGCACTCTTGAA  1145
+
+Query  542   CTGAGAAGCAGATATTGGGCTATAAGGACCAGGAGTGGAG  581
+             ||||||||||||||||||||||||||||||||||||||||
+Sbjct  1146  CTGAGAAGCAGATATTGGGCTATAAGGACCAGGAGTGGAG  1185
+
+
+
+
+>Influenza A virus (A/chicken/Hubei/wf/2002(H5N1)) nucleoprotein (NP) gene, complete cds
+Sequence ID: DQ997089.1 Length: 1565
+Range 1: 790 to 1225
+
+Score:684 bits(370), Expect:0.0, 
+Identities:434/460(94%),  Gaps:24/460(5%), Strand: Plus/Plus
+
+Query  122   gGGAATGCTGAAATTGAAGATCTCATCTTTCTGGCACGGTCCGCACTCATTCTGAGAGGA  181
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  790   GGGAATGCTGAAATTGAAGATCTCATCTTTCTGGCACGGTCCGCACTCATTCTGAGAGGA  849
+
+Query  182   TCAATGGCCCATAAGTCCTGCCTGCCTGCTTGTGTGTACGGACTTGCCGTAGCCAGTGGA  241
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  850   TCAATGGCCCATAAGTCCTGCCTGCCTGCTTGTGTGTACGGACTTGCCGTAGCCAGTGGA  909
+
+Query  242   TATGACTTCGAGAGAGAAGGGTACTCTTTCAGCAGTCCAATCCTTCCAATCCTAGTCGGA  301
+             |||||||| |||||||||||||||||||                        ||||||||
+Sbjct  910   TATGACTTTGAGAGAGAAGGGTACTCTT------------------------TAGTCGGA  945
+
+Query  302   ATAGATCCTTTCCGTCTGCTGCAAAACAGCCAGGTCTTCAGTCTAATTAGACCAAATGAG  361
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  946   ATAGATCCTTTCCGTCTGCTGCAAAACAGCCAGGTCTTCAGTCTAATTAGACCAAATGAG  1005
+
+Query  362   AATCCAGCACATAAAAGTCAATTGGTGTGGATGGCATGCCATTCTGCAGCGTTTGAAGAT  421
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1006  AATCCAGCACATAAAAGTCAATTGGTGTGGATGGCATGCCATTCTGCAGCGTTTGAAGAT  1065
+
+Query  422   CTGAGAGTATCAAGTTTCATCAGAGGAACAAGAGTGGTCCCAAGAGGACAGCTATCTACC  481
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1066  CTGAGAGTATCAAGTTTCATCAGAGGAACAAGAGTGGTCCCAAGAGGACAGCTATCTACC  1125
+
+Query  482   AGAGGAGTTCAGATTGCTTCAAATGAGAACATGGAAACAATGGACTCCAGCACTCTTGAA  541
+             ||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1126  AGAGGAGTTCAAATTGCTTCAAATGAGAACATGGAAACAATGGACTCCAGCACTCTTGAA  1185
+
+Query  542   CTGAGAAGCAGATATTGGGCTATAAGGACCAGGAGTGGAG  581
+             ||||||||||||||||||||||||||||||||||||||||
+Sbjct  1186  CTGAGAAGCAGATATTGGGCTATAAGGACCAGGAGTGGAG  1225
+
+
+
+
+>Influenza A virus (A/chicken/Shandong/LY-1/2008(H9N2)) segment 5 nucleocapsid protein (NP) gene, complete cds
+Sequence ID: JF795111.1 Length: 1565
+Range 1: 790 to 1225
+
+Score:684 bits(370), Expect:0.0, 
+Identities:434/460(94%),  Gaps:24/460(5%), Strand: Plus/Plus
+
+Query  122   gGGAATGCTGAAATTGAAGATCTCATCTTTCTGGCACGGTCCGCACTCATTCTGAGAGGA  181
+             ||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||
+Sbjct  790   GGGAATGCTGAAATTGAAGATCTCATCTTTCTGGCACGGTCTGCACTCATTCTGAGAGGA  849
+
+Query  182   TCAATGGCCCATAAGTCCTGCCTGCCTGCTTGTGTGTACGGACTTGCCGTAGCCAGTGGA  241
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  850   TCAATGGCCCATAAGTCCTGCCTGCCTGCTTGTGTGTACGGACTTGCCGTAGCCAGTGGA  909
+
+Query  242   TATGACTTCGAGAGAGAAGGGTACTCTTTCAGCAGTCCAATCCTTCCAATCCTAGTCGGA  301
+             ||||||||||||||||||||||||||||                        ||||||||
+Sbjct  910   TATGACTTCGAGAGAGAAGGGTACTCTT------------------------TAGTCGGA  945
+
+Query  302   ATAGATCCTTTCCGTCTGCTGCAAAACAGCCAGGTCTTCAGTCTAATTAGACCAAATGAG  361
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  946   ATAGATCCTTTCCGTCTGCTGCAAAACAGCCAGGTCTTCAGTCTAATTAGACCAAATGAG  1005
+
+Query  362   AATCCAGCACATAAAAGTCAATTGGTGTGGATGGCATGCCATTCTGCAGCGTTTGAAGAT  421
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1006  AATCCAGCACATAAAAGTCAATTGGTGTGGATGGCATGCCATTCTGCAGCGTTTGAAGAT  1065
+
+Query  422   CTGAGAGTATCAAGTTTCATCAGAGGAACAAGAGTGGTCCCAAGAGGACAGCTATCTACC  481
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1066  CTGAGAGTATCAAGTTTCATCAGAGGAACAAGAGTGGTCCCAAGAGGACAGCTATCTACC  1125
+
+Query  482   AGAGGAGTTCAGATTGCTTCAAATGAGAACATGGAAACAATGGACTCCAGCACTCTTGAA  541
+             ||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1126  AGAGGAGTTCAAATTGCTTCAAATGAGAACATGGAAACAATGGACTCCAGCACTCTTGAA  1185
+
+Query  542   CTGAGAAGCAGATATTGGGCTATAAGGACCAGGAGTGGAG  581
+             ||||||||||||||||||||||||||||||||||||||||
+Sbjct  1186  CTGAGAAGCAGATATTGGGCTATAAGGACCAGGAGTGGAG  1225
+
+
+
+
+>Influenza A virus (A/duck/Nanchang/4-361/2001(H9N2)) segment 5, complete sequence
+Sequence ID: CY005527.1 Length: 1565
+Range 1: 790 to 1225
+
+Score:684 bits(370), Expect:0.0, 
+Identities:434/460(94%),  Gaps:24/460(5%), Strand: Plus/Plus
+
+Query  122   gGGAATGCTGAAATTGAAGATCTCATCTTTCTGGCACGGTCCGCACTCATTCTGAGAGGA  181
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  790   GGGAATGCTGAAATTGAAGATCTCATCTTTCTGGCACGGTCCGCACTCATTCTGAGAGGA  849
+
+Query  182   TCAATGGCCCATAAGTCCTGCCTGCCTGCTTGTGTGTACGGACTTGCCGTAGCCAGTGGA  241
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  850   TCAATGGCCCATAAGTCCTGCCTGCCTGCTTGTGTGTACGGACTTGCCGTAGCCAGTGGA  909
+
+Query  242   TATGACTTCGAGAGAGAAGGGTACTCTTTCAGCAGTCCAATCCTTCCAATCCTAGTCGGA  301
+             ||||||||||| ||||||||||||||||                        ||||||||
+Sbjct  910   TATGACTTCGAAAGAGAAGGGTACTCTT------------------------TAGTCGGA  945
+
+Query  302   ATAGATCCTTTCCGTCTGCTGCAAAACAGCCAGGTCTTCAGTCTAATTAGACCAAATGAG  361
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  946   ATAGATCCTTTCCGTCTGCTGCAAAACAGCCAGGTCTTCAGTCTAATTAGACCAAATGAG  1005
+
+Query  362   AATCCAGCACATAAAAGTCAATTGGTGTGGATGGCATGCCATTCTGCAGCGTTTGAAGAT  421
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1006  AATCCAGCACATAAAAGTCAATTGGTGTGGATGGCATGCCATTCTGCAGCGTTTGAAGAT  1065
+
+Query  422   CTGAGAGTATCAAGTTTCATCAGAGGAACAAGAGTGGTCCCAAGAGGACAGCTATCTACC  481
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1066  CTGAGAGTATCAAGTTTCATCAGAGGAACAAGAGTGGTCCCAAGAGGACAGCTATCTACC  1125
+
+Query  482   AGAGGAGTTCAGATTGCTTCAAATGAGAACATGGAAACAATGGACTCCAGCACTCTTGAA  541
+             ||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1126  AGAGGAGTTCAAATTGCTTCAAATGAGAACATGGAAACAATGGACTCCAGCACTCTTGAA  1185
+
+Query  542   CTGAGAAGCAGATATTGGGCTATAAGGACCAGGAGTGGAG  581
+             ||||||||||||||||||||||||||||||||||||||||
+Sbjct  1186  CTGAGAAGCAGATATTGGGCTATAAGGACCAGGAGTGGAG  1225
+
+
+
+
+>Influenza A virus (A/chicken/Hubei/wn/2003(H5N1)) nucleoprotein (NP) gene, complete cds
+Sequence ID: DQ997151.1 Length: 1565
+Range 1: 790 to 1225
+
+Score:662 bits(358), Expect:0.0, 
+Identities:430/460(93%),  Gaps:24/460(5%), Strand: Plus/Plus
+
+Query  122   gGGAATGCTGAAATTGAAGATCTCATCTTTCTGGCACGGTCCGCACTCATTCTGAGAGGA  181
+             ||||||||||| |||||||||||||| |||||||||||||| ||||||||||||||||||
+Sbjct  790   GGGAATGCTGAGATTGAAGATCTCATATTTCTGGCACGGTCTGCACTCATTCTGAGAGGA  849
+
+Query  182   TCAATGGCCCATAAGTCCTGCCTGCCTGCTTGTGTGTACGGACTTGCCGTAGCCAGTGGA  241
+             ||| ||||||||||||||||| ||||||||||||||||||||||||||||||||||||||
+Sbjct  850   TCAGTGGCCCATAAGTCCTGCTTGCCTGCTTGTGTGTACGGACTTGCCGTAGCCAGTGGA  909
+
+Query  242   TATGACTTCGAGAGAGAAGGGTACTCTTTCAGCAGTCCAATCCTTCCAATCCTAGTCGGA  301
+             ||||||||||||||||||||||||||||                        ||||||||
+Sbjct  910   TATGACTTCGAGAGAGAAGGGTACTCTT------------------------TAGTCGGA  945
+
+Query  302   ATAGATCCTTTCCGTCTGCTGCAAAACAGCCAGGTCTTCAGTCTAATTAGACCAAATGAG  361
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  946   ATAGATCCTTTCCGTCTGCTGCAAAACAGCCAGGTCTTCAGTCTAATTAGACCAAATGAG  1005
+
+Query  362   AATCCAGCACATAAAAGTCAATTGGTGTGGATGGCATGCCATTCTGCAGCGTTTGAAGAT  421
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1006  AATCCAGCACATAAAAGTCAATTGGTGTGGATGGCATGCCATTCTGCAGCGTTTGAAGAT  1065
+
+Query  422   CTGAGAGTATCAAGTTTCATCAGAGGAACAAGAGTGGTCCCAAGAGGACAGCTATCTACC  481
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1066  CTGAGAGTATCAAGTTTCATCAGAGGAACAAGAGTGGTCCCAAGAGGACAGCTATCTACC  1125
+
+Query  482   AGAGGAGTTCAGATTGCTTCAAATGAGAACATGGAAACAATGGACTCCAGCACTCTTGAA  541
+             ||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1126  AGAGGAGTTCAAATTGCTTCAAATGAGAACATGGAAACAATGGACTCCAGCACTCTTGAA  1185
+
+Query  542   CTGAGAAGCAGATATTGGGCTATAAGGACCAGGAGTGGAG  581
+             ||||||||||||||||||||||||||||||||||||||||
+Sbjct  1186  CTGAGAAGCAGATATTGGGCTATAAGGACCAGGAGTGGAG  1225
+
+
+
+
+

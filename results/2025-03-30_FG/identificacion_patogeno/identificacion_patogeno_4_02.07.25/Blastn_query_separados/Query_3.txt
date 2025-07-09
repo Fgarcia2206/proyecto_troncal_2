@@ -1,0 +1,242 @@
+Query #3: 3 unknown sequence 3 Query ID: lcl|Query_1489435 Length: 187
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Human papillomavirus DNA for partial HPV L1 sequence, clone DL284 Human papill... NA              10566      283    283   82%   4e-72 100.00 389        Z95967.1         
+Human papillomavirus isolate C35-CP major capsid protein L1 (L... Human papill... NA              10566      261    261   82%   2e-65 97.39  349        HM748620.1       
+Human papillomavirus strain RTRX9 major capsid protein L1 gene... Human papill... NA              10566      259    259   81%   6e-65 97.37  349        U85662.1         
+Human papillomavirus type 124, complete genome                    human papill... NA              765056     259    259   81%   6e-65 97.37  7489       GQ845446.1       
+Human papillomavirus DNA for partial HPV L1 sequence, clone DL287 Human papill... NA              10566      158    158   81%   2e-34 85.43  467        Z95969.1         
+Human papillomavirus partial L1 gene for major capsid L1...       Human papill... NA              10566      156    156   82%   8e-34 84.97  349        LN609273.1       
+Human papillomavirus partial L1 gene for major capsid protein,... Human papill... NA              10566      156    156   82%   8e-34 84.97  379        HG326198.1       
+MAG: Human papillomavirus isolate HPV-mSK_163, partial genome     Human papill... NA              10566      156    156   82%   8e-34 84.97  7590       MH777305.2       
+Betapapillomavirus 1 isolate Beta01_m292c10, complete genome      Betapapillom... NA              337051     156    156   82%   8e-34 84.97  7483       MF588678.1       
+Human papillomavirus type 196 isolate ACS058, complete genome     Human papill... NA              1851221    156    156   82%   8e-34 84.97  7500       KR816183.1       
+
+
+Alignments:
+
+>Human papillomavirus DNA for partial HPV L1 sequence, clone DL284
+Sequence ID: Z95967.1 Length: 389
+Range 1: 85 to 237
+
+Score:283 bits(153), Expect:4e-72, 
+Identities:153/153(100%),  Gaps:0/153(0%), Strand: Plus/Plus
+
+Query  15   GAAATACAAAATTATGATTCTGCAAAGTTTAATGAATTTCAGAGACATGTTGAAGAATAT  74
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  85   GAAATACAAAATTATGATTCTGCAAAGTTTAATGAATTTCAGAGACATGTTGAAGAATAT  144
+
+Query  75   GAAGTTTCTCTCATTTTACAATTGTGTAAAATTCCATTGAAAGCTGAGGTTCTTGCACAG  134
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  145  GAAGTTTCTCTCATTTTACAATTGTGTAAAATTCCATTGAAAGCTGAGGTTCTTGCACAG  204
+
+Query  135  ATTAATGCAATGAACTCCGATATTTTAGAAAAT  167
+            |||||||||||||||||||||||||||||||||
+Sbjct  205  ATTAATGCAATGAACTCCGATATTTTAGAAAAT  237
+
+
+
+
+>Human papillomavirus isolate C35-CP major capsid protein L1 (L1) gene, partial cds
+Sequence ID: HM748620.1 Length: 349
+>Human papillomavirus isolate B49-CP major capsid protein L1 (L1) gene, partial cds
+Sequence ID: HM748621.1 Length: 349 
+Range 1: 65 to 217
+
+Score:261 bits(141), Expect:2e-65, 
+Identities:149/153(97%),  Gaps:0/153(0%), Strand: Plus/Plus
+
+Query  15   GAAATACAAAATTATGATTCTGCAAAGTTTAATGAATTTCAGAGACATGTTGAAGAATAT  74
+            |||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  65   GAAATAGAAAATTATGATTCTGCAAAGTTTAATGAATTTCAGAGACATGTTGAAGAATAT  124
+
+Query  75   GAAGTTTCTCTCATTTTACAATTGTGTAAAATTCCATTGAAAGCTGAGGTTCTTGCACAG  134
+            |||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||
+Sbjct  125  GAAGTTTCTCTCATTTTACAATTGTGTAAAATTCCATTGAAAGCTGAGGTCCTTGCACAG  184
+
+Query  135  ATTAATGCAATGAACTCCGATATTTTAGAAAAT  167
+            ||||||||||||||||||||||| || ||||||
+Sbjct  185  ATTAATGCAATGAACTCCGATATCTTGGAAAAT  217
+
+
+
+
+>Human papillomavirus strain RTRX9 major capsid protein L1 gene, partial cds
+Sequence ID: U85662.1 Length: 349
+Range 1: 65 to 216
+
+Score:259 bits(140), Expect:6e-65, 
+Identities:148/152(97%),  Gaps:0/152(0%), Strand: Plus/Plus
+
+Query  15   GAAATACAAAATTATGATTCTGCAAAGTTTAATGAATTTCAGAGACATGTTGAAGAATAT  74
+            ||||||||||||||||||||||||||||||||||||||||| ||||||||||| ||||||
+Sbjct  65   GAAATACAAAATTATGATTCTGCAAAGTTTAATGAATTTCAAAGACATGTTGAGGAATAT  124
+
+Query  75   GAAGTTTCTCTCATTTTACAATTGTGTAAAATTCCATTGAAAGCTGAGGTTCTTGCACAG  134
+            ||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  125  GAAGTGTCTCTCATTTTACAATTGTGTAAAATTCCATTGAAAGCTGAGGTTCTTGCACAG  184
+
+Query  135  ATTAATGCAATGAACTCCGATATTTTAGAAAA  166
+            ||||||||||||||||| ||||||||||||||
+Sbjct  185  ATTAATGCAATGAACTCTGATATTTTAGAAAA  216
+
+
+
+
+>Human papillomavirus type 124, complete genome
+Sequence ID: GQ845446.1 Length: 7489
+Range 1: 6672 to 6823
+
+Score:259 bits(140), Expect:6e-65, 
+Identities:148/152(97%),  Gaps:0/152(0%), Strand: Plus/Plus
+
+Query  15    GAAATACAAAATTATGATTCTGCAAAGTTTAATGAATTTCAGAGACATGTTGAAGAATAT  74
+             ||||||||||||||||||||||||||||||||||||||||| ||||||||||| ||||||
+Sbjct  6672  GAAATACAAAATTATGATTCTGCAAAGTTTAATGAATTTCAAAGACATGTTGAGGAATAT  6731
+
+Query  75    GAAGTTTCTCTCATTTTACAATTGTGTAAAATTCCATTGAAAGCTGAGGTTCTTGCACAG  134
+             ||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6732  GAAGTGTCTCTCATTTTACAATTGTGTAAAATTCCATTGAAAGCTGAGGTTCTTGCACAG  6791
+
+Query  135   ATTAATGCAATGAACTCCGATATTTTAGAAAA  166
+             ||||||||||||||||| ||||||||||||||
+Sbjct  6792  ATTAATGCAATGAACTCTGATATTTTAGAAAA  6823
+
+
+
+
+>Human papillomavirus DNA for partial HPV L1 sequence, clone DL287
+Sequence ID: Z95969.1 Length: 467
+Range 1: 115 to 265
+
+Score:158 bits(85), Expect:2e-34, 
+Identities:129/151(85%),  Gaps:0/151(0%), Strand: Plus/Plus
+
+Query  15   GAAATACAAAATTATGATTCTGCAAAGTTTAATGAATTTCAGAGACATGTTGAAGAATAT  74
+            |||||||| | ||| |||||| | |||||||||||||| || |||||||| |||||||||
+Sbjct  115  GAAATACAGAGTTACGATTCTACCAAGTTTAATGAATTCCAAAGACATGTGGAAGAATAT  174
+
+Query  75   GAAGTTTCTCTCATTTTACAATTGTGTAAAATTCCATTGAAAGCTGAGGTTCTTGCACAG  134
+            ||||| || || ||| ||||  | |||||||||||| | ||||||||||| || ||||||
+Sbjct  175  GAAGTATCACTTATTCTACAGCTTTGTAAAATTCCACTAAAAGCTGAGGTGCTAGCACAG  234
+
+Query  135  ATTAATGCAATGAACTCCGATATTTTAGAAA  165
+            ||||||||||||||||| || ||||| ||||
+Sbjct  235  ATTAATGCAATGAACTCTGACATTTTGGAAA  265
+
+
+
+
+>Human papillomavirus partial L1 gene for major capsid L1 protein, isolate 225
+Sequence ID: LN609273.1 Length: 349
+Range 1: 65 to 217
+
+Score:156 bits(84), Expect:8e-34, 
+Identities:130/153(85%),  Gaps:0/153(0%), Strand: Plus/Plus
+
+Query  15   GAAATACAAAATTATGATTCTGCAAAGTTTAATGAATTTCAGAGACATGTTGAAGAATAT  74
+            || ||| ||| |||||||||  |||| |||||||||||||| ||||||||||| ||||||
+Sbjct  65   GATATAGAAAGTTATGATTCCACAAAATTTAATGAATTTCAAAGACATGTTGAGGAATAT  124
+
+Query  75   GAAGTTTCTCTCATTTTACAATTGTGTAAAATTCCATTGAAAGCTGAGGTTCTTGCACAG  134
+            ||||| || || ||||| ||  | |||||||||||||| ||||| ||||| |||||||||
+Sbjct  125  GAAGTATCACTTATTTTGCAGCTTTGTAAAATTCCATTAAAAGCAGAGGTCCTTGCACAG  184
+
+Query  135  ATTAATGCAATGAACTCCGATATTTTAGAAAAT  167
+            |||||||||||||| || ||||| || || |||
+Sbjct  185  ATTAATGCAATGAATTCAGATATATTGGAGAAT  217
+
+
+
+
+>Human papillomavirus partial L1 gene for major capsid protein, isolate SIBX18
+Sequence ID: HG326198.1 Length: 379
+Range 1: 92 to 244
+
+Score:156 bits(84), Expect:8e-34, 
+Identities:130/153(85%),  Gaps:0/153(0%), Strand: Plus/Plus
+
+Query  15   GAAATACAAAATTATGATTCTGCAAAGTTTAATGAATTTCAGAGACATGTTGAAGAATAT  74
+            || ||| ||| |||||||||  |||| |||||||||||||| ||||||||||| ||||||
+Sbjct  92   GATATAGAAAGTTATGATTCCACAAAATTTAATGAATTTCAAAGACATGTTGAGGAATAT  151
+
+Query  75   GAAGTTTCTCTCATTTTACAATTGTGTAAAATTCCATTGAAAGCTGAGGTTCTTGCACAG  134
+            ||||| || || ||||| ||  | |||||||||||||| ||||| ||||| |||||||||
+Sbjct  152  GAAGTATCACTTATTTTGCAGCTTTGTAAAATTCCATTAAAAGCAGAGGTCCTTGCACAG  211
+
+Query  135  ATTAATGCAATGAACTCCGATATTTTAGAAAAT  167
+            |||||||||||||| || ||||| || || |||
+Sbjct  212  ATTAATGCAATGAATTCAGATATATTGGAGAAT  244
+
+
+
+
+>MAG: Human papillomavirus isolate HPV-mSK_163, partial genome
+Sequence ID: MH777305.2 Length: 7590
+Range 1: 6654 to 6806
+
+Score:156 bits(84), Expect:8e-34, 
+Identities:130/153(85%),  Gaps:0/153(0%), Strand: Plus/Plus
+
+Query  15    GAAATACAAAATTATGATTCTGCAAAGTTTAATGAATTTCAGAGACATGTTGAAGAATAT  74
+             || ||| ||| |||||||||  |||| |||||||||||||| ||||||||||| ||||||
+Sbjct  6654  GATATAGAAAGTTATGATTCCACAAAATTTAATGAATTTCAAAGACATGTTGAGGAATAT  6713
+
+Query  75    GAAGTTTCTCTCATTTTACAATTGTGTAAAATTCCATTGAAAGCTGAGGTTCTTGCACAG  134
+             ||||| || || ||||| ||  | |||||||||||||| ||||| ||||| |||||||||
+Sbjct  6714  GAAGTATCACTTATTTTGCAGCTTTGTAAAATTCCATTAAAAGCAGAGGTCCTTGCACAG  6773
+
+Query  135   ATTAATGCAATGAACTCCGATATTTTAGAAAAT  167
+             |||||||||||||| || ||||| || || |||
+Sbjct  6774  ATTAATGCAATGAATTCAGATATATTGGAGAAT  6806
+
+
+
+
+>Betapapillomavirus 1 isolate Beta01_m292c10, complete genome
+Sequence ID: MF588678.1 Length: 7483
+Range 1: 6654 to 6806
+
+Score:156 bits(84), Expect:8e-34, 
+Identities:130/153(85%),  Gaps:0/153(0%), Strand: Plus/Plus
+
+Query  15    GAAATACAAAATTATGATTCTGCAAAGTTTAATGAATTTCAGAGACATGTTGAAGAATAT  74
+             || ||| ||| |||||||||  |||| |||||||||||||| ||||||||||| ||||||
+Sbjct  6654  GATATAGAAAGTTATGATTCCACAAAATTTAATGAATTTCAAAGACATGTTGAGGAATAT  6713
+
+Query  75    GAAGTTTCTCTCATTTTACAATTGTGTAAAATTCCATTGAAAGCTGAGGTTCTTGCACAG  134
+             ||||| || || ||||| ||  | |||||||||||||| ||||| ||||| |||||||||
+Sbjct  6714  GAAGTATCACTTATTTTGCAGCTTTGTAAAATTCCATTAAAAGCAGAGGTCCTTGCACAG  6773
+
+Query  135   ATTAATGCAATGAACTCCGATATTTTAGAAAAT  167
+             |||||||||||||| || ||||| || || |||
+Sbjct  6774  ATTAATGCAATGAATTCAGATATATTGGAGAAT  6806
+
+
+
+
+>Human papillomavirus type 196 isolate ACS058, complete genome
+Sequence ID: KR816183.1 Length: 7500
+Range 1: 6651 to 6803
+
+Score:156 bits(84), Expect:8e-34, 
+Identities:130/153(85%),  Gaps:0/153(0%), Strand: Plus/Plus
+
+Query  15    GAAATACAAAATTATGATTCTGCAAAGTTTAATGAATTTCAGAGACATGTTGAAGAATAT  74
+             || ||| ||| |||||||||  |||| |||||||||||||| ||||||||||| ||||||
+Sbjct  6651  GATATAGAAAGTTATGATTCCACAAAATTTAATGAATTTCAAAGACATGTTGAGGAATAT  6710
+
+Query  75    GAAGTTTCTCTCATTTTACAATTGTGTAAAATTCCATTGAAAGCTGAGGTTCTTGCACAG  134
+             ||||| || || ||||| ||  | |||||||||||||| ||||| ||||| |||||||||
+Sbjct  6711  GAAGTATCACTTATTTTGCAGCTTTGTAAAATTCCATTAAAAGCAGAGGTCCTTGCACAG  6770
+
+Query  135   ATTAATGCAATGAACTCCGATATTTTAGAAAAT  167
+             |||||||||||||| || ||||| || || |||
+Sbjct  6771  ATTAATGCAATGAATTCAGATATATTGGAGAAT  6803
+
+
+
+
+

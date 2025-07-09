@@ -1,0 +1,29 @@
+🧬 ID: AY646426.1
+Organismo: Influenza A virus (A/swine/Shandong/2/03(H5N1))
+Descripción: Influenza virus A (A/swine/Shandong/2/03(H5N1)) nucleoprotein gene, complete cds
+Funciones anotadas:
+  - Gen: ND, Producto: nucleoprotein, Proteína: AAT72507.1
+
+🧬 ID: CY005521.1
+Organismo: Influenza A virus (A/chicken/Nanchang/4-301/2001(H9N2))
+Descripción: Influenza A virus (A/chicken/Nanchang/4-301/2001(H9N2)) segment 5, complete sequence
+Funciones anotadas:
+  - Gen: NP, Producto: nucleocapsid protein, Proteína: ABB90218.1
+
+🧬 ID: FJ390062.2
+Organismo: Influenza A virus (A/plateau pika/Qinghai/04/2007(H5N1))
+Descripción: Influenza A virus (A/plateau pika/Qinghai/04/2007(H5N1)) segment 5 nucleocapsid protein (NP) gene, complete cds
+Funciones anotadas:
+  - Gen: NP, Producto: nucleocapsid protein, Proteína: ACK38043.2
+
+🧬 ID: FJ455823.1
+Organismo: Influenza A virus (A/environment/Qinghai/1/2008(H5N1))
+Descripción: Influenza A virus (A/environment/Qinghai/1/2008(H5N1)) segment 5 nucleocapsid protein (NP) gene, complete cds
+Funciones anotadas:
+  - Gen: NP, Producto: nucleocapsid protein, Proteína: ACJ47910.1
+
+🧬 ID: GQ477297.1
+Organismo: Influenza A virus (A/swine/Shandong/8/2003(H9N2))
+Descripción: Influenza A virus (A/swine/Shandong/8/2003(H9N2)) segment 5 nucleocapsid protein (NP) gene, partial cds
+Funciones anotadas:
+  - Gen: NP, Producto: nucleocapsid protein, Proteína: ACV74292.1

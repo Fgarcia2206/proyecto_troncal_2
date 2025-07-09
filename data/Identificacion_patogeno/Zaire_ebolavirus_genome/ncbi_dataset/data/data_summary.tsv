@@ -1,0 +1,3 @@
+Organism Scientific Name	Organism Common Name	Organism Qualifier	Taxonomy id	Assembly Name	Assembly Accession	Source	Annotation	Level	Contig N50	Size	Submission Date	Gene Count	BioProject	BioSample
+Ebola virus - Mayinga, Zaire, 1976		strain: Mayinga	128952	ViralProj14703	GCA_000848505.1	GenBank	Annotation submitted by Institute of Virology, Philipps-University Marburg	Complete Genome	18959	18959	2000-09-15	7		
+Zaire ebolavirus		isolate: Ebola virus/H.sapiens-tc/COD/1976/Yambuku-Mayinga	186538	ViralProj14703	GCF_000848505.1	RefSeq	Annotation submitted by NCBI RefSeq	Complete Genome	18959	18959	2000-09-27	7		

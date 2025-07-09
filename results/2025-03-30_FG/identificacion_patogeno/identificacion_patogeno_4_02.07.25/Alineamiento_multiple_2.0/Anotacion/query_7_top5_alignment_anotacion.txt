@@ -1,0 +1,29 @@
+🧬 ID: OM256481.1
+Organismo: dengue virus type 2
+Descripción: Dengue virus 2 isolate ML, complete genome
+Funciones anotadas:
+  - Gen: POLY, Producto: polyprotein, Proteína: UIU05507.1
+
+🧬 ID: OP809583.1
+Organismo: dengue virus type 2
+Descripción: Dengue virus type 2 isolate THSTI-TRC-DENV2-12 polyprotein (POLY) gene, complete cds; and sfRNA1 lncRNA gene, partial sequence
+Funciones anotadas:
+  - Gen: POLY, Producto: polyprotein, Proteína: UZI17952.1
+
+🧬 ID: OQ652965.1
+Organismo: dengue virus type 2
+Descripción: Dengue virus type 2 isolate DENV2_YN_017, complete genome
+Funciones anotadas:
+  - Gen: POLY, Producto: polyprotein, Proteína: WER06548.1
+
+🧬 ID: OR838780.1
+Organismo: dengue virus type 2
+Descripción: Dengue virus type 2 isolate N10 polyprotein (POLY) gene, complete cds; and sfRNA1 lncRNA gene, partial sequence
+Funciones anotadas:
+  - Gen: POLY, Producto: polyprotein, Proteína: WPK32965.1
+
+🧬 ID: PV682585.1
+Organismo: dengue virus type 2
+Descripción: Dengue virus type 2 isolate DENV2_LPV polyprotein (POLY) gene, partial cds
+Funciones anotadas:
+  - Gen: POLY, Producto: polyprotein, Proteína: XUB19298.1

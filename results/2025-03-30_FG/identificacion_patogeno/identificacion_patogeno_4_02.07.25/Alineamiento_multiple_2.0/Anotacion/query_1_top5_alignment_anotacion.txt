@@ -1,0 +1,29 @@
+🧬 ID: CY206857.1
+Organismo: Influenza A virus (A/mallard/Southcentral Alaska/15ML00407/2015(H11N9))
+Descripción: Influenza A virus (A/mallard/Southcentral Alaska/15ML00407/2015(H11N9)) nucleocapsid protein (NP) gene, complete cds
+Funciones anotadas:
+  - Gen: NP, Producto: nucleocapsid protein, Proteína: ANE05873.1
+
+🧬 ID: KJ907496.1
+Organismo: Influenza A virus (A/baikal teal/Xianghai/XH-28C/2012(H3N1))
+Descripción: Influenza A virus (A/baikal teal/Xianghai/XH-28C/2012(H3N1)) segment 5 nucleocapsid protein (NP) gene, complete cds
+Funciones anotadas:
+  - Gen: NP, Producto: nucleocapsid protein, Proteína: AID48407.1
+
+🧬 ID: MN511812.1
+Organismo: Influenza A virus
+Descripción: Influenza A virus (A/wild duck/South Korea/KNU18-102/2018(H2N9)) segment 5 nucleocapsid protein (NP) gene, complete cds
+Funciones anotadas:
+  - Gen: NP, Producto: nucleocapsid protein, Proteína: QEU52588.1
+
+🧬 ID: MW935576.1
+Organismo: Influenza A virus
+Descripción: Influenza A virus (A/Muscovy duck/Vietnam/HN5257/2019(H4N8)) segment 5 nucleocapsid protein (NP) gene, complete cds
+Funciones anotadas:
+  - Gen: NP, Producto: nucleocapsid protein, Proteína: QTW94630.1
+
+🧬 ID: MW936018.1
+Organismo: Influenza A virus
+Descripción: Influenza A virus (A/Muscovy duck/Vietnam/HN5184/2018(H6N6)) segment 5 nucleocapsid protein (NP) gene, complete cds
+Funciones anotadas:
+  - Gen: NP, Producto: nucleocapsid protein, Proteína: QTW96903.1

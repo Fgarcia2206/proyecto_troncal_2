@@ -1,0 +1,57 @@
+CLUSTAL O(1.2.2) multiple sequence alignment
+
+
+KY785949.1:4368-4717        ----ATGAAGATTAAGAAAAACCTACCTCGACTGAGAGAGTGTTTTTCCATTAACCTTCATCTTGTAAACGTTGAGCAAA
+KY785949.1:4219-4372        --------------------------------------------------------------------------------
+KY785949.1:12619-12688      ATTGATAAGGCTGGAGATGACGCCACAACAACTTTGTGAGCTATTTTCCATTCAAAAACACT------------------
+KY785969.1:4368-4717        ----ATGAAGATTAAGAAAAACCTACCTCGACTGAGAGAGTGTTTTTCCATTAACCTTCATCTTGTAAACGTTGAGCAAA
+KY785969.1:4219-4372        --------------------------------------------------------------------------------
+KY785969.1:12619-12688      ATTGATAAGGCTGGAGATGACGCCACAACAACTTTGTGAGCTATTTTCCATTCAAAAACACT------------------
+KY786027.1:4368-4717        ----ATGAAGATTAAGAAAAACCTACCTCGACTGAGAGAGTGTTTTTCCATTAACCTTCATCTTGTAAACGTTGAGCAAA
+KY786027.1:4219-4372        --------------------------------------------------------------------------------
+KY786027.1:12619-12688      ATTGATAAGGCTGGAGATGACGCCACAACAACTTTGTGAGCTATTTTCCATTCAAAAACACT------------------
+                                                                                                            
+
+KY785949.1:4368-4717        ATTGTTAAGAATATGAGGCGGGTTATATTGCCTACTGCTCCTCCTGAATATATGGAGGCCATATACCCTGTCAGGTCAAA
+KY785949.1:4219-4372        --------GAGTAT---------------------CAGCCCTAGATAATA---TAAGTCAATTAAACGACCAAGCCAAAA
+KY785949.1:12619-12688      -----------------------------------------------------GGGGG-CAT------------------
+KY785969.1:4368-4717        ATTGTTAAGAATATGAGGCGGGTTATATTGCCTACTGCTCCTCCTGAATATATGGAGGCCATATACCCTGTCAGGTCAAA
+KY785969.1:4219-4372        --------GAGTAT---------------------CAGCCCTAGATAATA---TAAGTCAATTAAACGACCAAGCCAAAA
+KY785969.1:12619-12688      -----------------------------------------------------GGGGG-CAT------------------
+KY786027.1:4368-4717        ATTGTTAAGAATATGAGGCGGGTTATATTGCCTACTGCTCCTCCTGAATATATGGAGGCCATATACCCTGTCAGGTCAAA
+KY786027.1:4219-4372        --------GAGTAT---------------------CAGCCCTAGATAATA---TAAGTCAATTAAACGACCAAGCCAAAA
+KY786027.1:12619-12688      -----------------------------------------------------GGGGG-CAT------------------
+                                                                                    *   **                  
+
+KY785949.1:4368-4717        TTCAACAATTGCTAGGGGTGGCAACAACAATACAGGCTTCCTGACACCGGAGTCAGTCAATGGAGACACTCCATCGAATC
+KY785949.1:4219-4372        TTGTTCATATCCCGCTAGCAGCTTAAAATAT-------AAATGAAATAGGAGCTATA-------------TCTCTGACAG
+KY785949.1:12619-12688      --------------------------------------------------------------------------------
+KY785969.1:4368-4717        TTCAACAATTGCTAGGGGTGGCAACAACAATACAGGCTTCCTGACACCGGAGTCAGTCAATGGAGACACTCCATCGAATC
+KY785969.1:4219-4372        TTGTTCATATCCCGCTAGCAGCTTAAAATAT-------AAATGAAATAGGAGCTATA-------------TCTCTGACAG
+KY785969.1:12619-12688      --------------------------------------------------------------------------------
+KY786027.1:4368-4717        TTCAACAATTGCTAGGGGTGGCAACAACAATACAGGCTTCCTGACACCGGAGTCAGTCAATGGAGACACTCCATCGAATC
+KY786027.1:4219-4372        TTGTTCATATCCCGCTAGCAGCTTAAAATAT-------AAATGAAATAGGAGCTATA-------------TCTCTGACAG
+KY786027.1:12619-12688      --------------------------------------------------------------------------------
+                                                                                                            
+
+KY785949.1:4368-4717        CACTCAGGCCAATTGCTGATGACACCATCGACCATGCTAGCCACACACCAGGCAGTGTGTCATCAGCATTCATCCTTGAA
+KY785949.1:4219-4372        TATTATAATCAATTGTTATTA-----------------------------------------------------------
+KY785949.1:12619-12688      --------------------------------------------------------------------------------
+KY785969.1:4368-4717        CACTCAGGCCAATTGCTGATGACACCATCGACCATGCTAGCCACACACCAGGCAGTGTGTCATCAGCATTCATCCTTGAA
+KY785969.1:4219-4372        TATTATAATCAATTGTTATTA-----------------------------------------------------------
+KY785969.1:12619-12688      --------------------------------------------------------------------------------
+KY786027.1:4368-4717        CACTCAGGCCAATTGCTGATGACACCATCGACCATGCTAGCCACACACCAGGCAGTGTGTCATCAGCATTCATCCTTGAA
+KY786027.1:4219-4372        TATTATAATCAATTGTTATTA-----------------------------------------------------------
+KY786027.1:12619-12688      --------------------------------------------------------------------------------
+                                                                                                            
+
+KY785949.1:4368-4717        GCTATGGTGAATGTCATATCGGGCCCCAAAGTGC----
+KY785949.1:4219-4372        -------------AGTAACCCAAACCAAAAATGATGAA
+KY785949.1:12619-12688      --------------------------------------
+KY785969.1:4368-4717        GCTATGGTGAATGTCATATCGGGCCCCAAAGTGC----
+KY785969.1:4219-4372        -------------AGTAACCCAAACCAAAAATGATGAA
+KY785969.1:12619-12688      --------------------------------------
+KY786027.1:4368-4717        GCTATGGTGAATGTCATATCGGGCCCCAAAGTGC----
+KY786027.1:4219-4372        -------------AGTAACCCAAACCAAAAATGATGAA
+KY786027.1:12619-12688      --------------------------------------
+                                                                  

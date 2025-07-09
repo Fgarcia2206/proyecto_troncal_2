@@ -1,0 +1,200 @@
+Query #1: 1 unknown sequence 1 Query ID: lcl|Query_1489433 Length: 407
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Influenza A virus (A/wild duck/South Korea/KNU18-102/2018(H2N9... Influenza A ... NA              11320      121    121   16%   7e-23 100.00 1497       MN511812.1       
+Influenza A virus (A/Muscovy duck/Vietnam/HN5257/2019(H4N8))...   Influenza A ... NA              11320      117    117   15%   9e-22 100.00 1565       MW935576.1       
+Influenza A virus (A/Muscovy duck/Vietnam/HN5184/2018(H6N6))...   Influenza A ... NA              11320      117    117   15%   9e-22 100.00 1565       MW936018.1       
+Influenza A virus (A/mallard/Southcentral...                      Influenza A ... NA              1821095    117    117   15%   9e-22 100.00 1540       CY206857.1       
+Influenza A virus (A/baikal teal/Xianghai/XH-28C/2012(H3N1))...   Influenza A ... NA              1503689    117    117   15%   9e-22 100.00 1497       KJ907496.1       
+Influenza A virus (A/Muscovy duck/Vietnam/HN5188/2018(H4N8))...   Influenza A ... NA              11320      117    117   15%   9e-22 100.00 1565       MW935524.1       
+Influenza A virus (A/duck/Mongolia/123/2014(H10N8)) segment 5...  Influenza A ... NA              11320      117    117   15%   9e-22 100.00 1508       MK978913.1       
+Influenza A virus (A/mallard/Southcentral...                      Influenza A ... NA              1821134    117    117   15%   9e-22 100.00 1540       CY206849.1       
+Influenza A virus (A/mallard/Southcentral...                      Influenza A ... NA              1821133    117    117   15%   9e-22 100.00 1540       CY206841.1       
+Influenza A virus (A/baikal teal/Xianghai/XH-15F/2012(H3N8))...   Influenza A ... NA              1503688    117    117   15%   9e-22 100.00 1497       KJ907552.1       
+
+
+Alignments:
+
+>Influenza A virus (A/wild duck/South Korea/KNU18-102/2018(H2N9)) segment 5 nucleocapsid protein (NP) gene, complete cds
+Sequence ID: MN511812.1 Length: 1497
+Range 1: 1086 to 1150
+
+Score:121 bits(65), Expect:7e-23, 
+Identities:65/65(100%),  Gaps:0/65(0%), Strand: Plus/Plus
+
+Query  226   AGTTCAGATTGCTTCAAATGAGAACATGGAAACAATGGACTCCAGCACTCTTGAACTGAG  285
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1086  AGTTCAGATTGCTTCAAATGAGAACATGGAAACAATGGACTCCAGCACTCTTGAACTGAG  1145
+
+Query  286   GAGTA  290
+             |||||
+Sbjct  1146  GAGTA  1150
+
+
+
+
+>Influenza A virus (A/Muscovy duck/Vietnam/HN5257/2019(H4N8)) segment 5 nucleocapsid protein (NP) gene, complete cds
+Sequence ID: MW935576.1 Length: 1565
+Range 1: 1131 to 1193
+
+Score:117 bits(63), Expect:9e-22, 
+Identities:63/63(100%),  Gaps:0/63(0%), Strand: Plus/Plus
+
+Query  226   AGTTCAGATTGCTTCAAATGAGAACATGGAAACAATGGACTCCAGCACTCTTGAACTGAG  285
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1131  AGTTCAGATTGCTTCAAATGAGAACATGGAAACAATGGACTCCAGCACTCTTGAACTGAG  1190
+
+Query  286   GAG  288
+             |||
+Sbjct  1191  GAG  1193
+
+
+
+
+>Influenza A virus (A/Muscovy duck/Vietnam/HN5184/2018(H6N6)) segment 5 nucleocapsid protein (NP) gene, complete cds
+Sequence ID: MW936018.1 Length: 1565
+Range 1: 1131 to 1193
+
+Score:117 bits(63), Expect:9e-22, 
+Identities:63/63(100%),  Gaps:0/63(0%), Strand: Plus/Plus
+
+Query  226   AGTTCAGATTGCTTCAAATGAGAACATGGAAACAATGGACTCCAGCACTCTTGAACTGAG  285
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1131  AGTTCAGATTGCTTCAAATGAGAACATGGAAACAATGGACTCCAGCACTCTTGAACTGAG  1190
+
+Query  286   GAG  288
+             |||
+Sbjct  1191  GAG  1193
+
+
+
+
+>Influenza A virus (A/mallard/Southcentral Alaska/15ML00407/2015(H11N9)) nucleocapsid protein (NP) gene, complete cds
+Sequence ID: CY206857.1 Length: 1540
+Range 1: 1119 to 1181
+
+Score:117 bits(63), Expect:9e-22, 
+Identities:63/63(100%),  Gaps:0/63(0%), Strand: Plus/Plus
+
+Query  226   AGTTCAGATTGCTTCAAATGAGAACATGGAAACAATGGACTCCAGCACTCTTGAACTGAG  285
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1119  AGTTCAGATTGCTTCAAATGAGAACATGGAAACAATGGACTCCAGCACTCTTGAACTGAG  1178
+
+Query  286   GAG  288
+             |||
+Sbjct  1179  GAG  1181
+
+
+
+
+>Influenza A virus (A/baikal teal/Xianghai/XH-28C/2012(H3N1)) segment 5 nucleocapsid protein (NP) gene, complete cds
+Sequence ID: KJ907496.1 Length: 1497
+Range 1: 1086 to 1148
+
+Score:117 bits(63), Expect:9e-22, 
+Identities:63/63(100%),  Gaps:0/63(0%), Strand: Plus/Plus
+
+Query  226   AGTTCAGATTGCTTCAAATGAGAACATGGAAACAATGGACTCCAGCACTCTTGAACTGAG  285
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1086  AGTTCAGATTGCTTCAAATGAGAACATGGAAACAATGGACTCCAGCACTCTTGAACTGAG  1145
+
+Query  286   GAG  288
+             |||
+Sbjct  1146  GAG  1148
+
+
+
+
+>Influenza A virus (A/Muscovy duck/Vietnam/HN5188/2018(H4N8)) segment 5 nucleocapsid protein (NP) gene, complete cds
+Sequence ID: MW935524.1 Length: 1565
+Range 1: 1131 to 1193
+
+Score:117 bits(63), Expect:9e-22, 
+Identities:63/63(100%),  Gaps:0/63(0%), Strand: Plus/Plus
+
+Query  226   AGTTCAGATTGCTTCAAATGAGAACATGGAAACAATGGACTCCAGCACTCTTGAACTGAG  285
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1131  AGTTCAGATTGCTTCAAATGAGAACATGGAAACAATGGACTCCAGCACTCTTGAACTGAG  1190
+
+Query  286   GAG  288
+             |||
+Sbjct  1191  GAG  1193
+
+
+
+
+>Influenza A virus (A/duck/Mongolia/123/2014(H10N8)) segment 5 nucleocapsid protein (NP) gene, complete cds
+Sequence ID: MK978913.1 Length: 1508
+Range 1: 1086 to 1148
+
+Score:117 bits(63), Expect:9e-22, 
+Identities:63/63(100%),  Gaps:0/63(0%), Strand: Plus/Plus
+
+Query  226   AGTTCAGATTGCTTCAAATGAGAACATGGAAACAATGGACTCCAGCACTCTTGAACTGAG  285
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1086  AGTTCAGATTGCTTCAAATGAGAACATGGAAACAATGGACTCCAGCACTCTTGAACTGAG  1145
+
+Query  286   GAG  288
+             |||
+Sbjct  1146  GAG  1148
+
+
+
+
+>Influenza A virus (A/mallard/Southcentral Alaska/15ML00267/2015(H7N3)) nucleocapsid protein (NP) gene, complete cds
+Sequence ID: CY206849.1 Length: 1540
+Range 1: 1119 to 1181
+
+Score:117 bits(63), Expect:9e-22, 
+Identities:63/63(100%),  Gaps:0/63(0%), Strand: Plus/Plus
+
+Query  226   AGTTCAGATTGCTTCAAATGAGAACATGGAAACAATGGACTCCAGCACTCTTGAACTGAG  285
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1119  AGTTCAGATTGCTTCAAATGAGAACATGGAAACAATGGACTCCAGCACTCTTGAACTGAG  1178
+
+Query  286   GAG  288
+             |||
+Sbjct  1179  GAG  1181
+
+
+
+
+>Influenza A virus (A/mallard/Southcentral Alaska/15ML00249/2015(H7N3)) nucleocapsid protein (NP) gene, complete cds
+Sequence ID: CY206841.1 Length: 1540
+Range 1: 1119 to 1181
+
+Score:117 bits(63), Expect:9e-22, 
+Identities:63/63(100%),  Gaps:0/63(0%), Strand: Plus/Plus
+
+Query  226   AGTTCAGATTGCTTCAAATGAGAACATGGAAACAATGGACTCCAGCACTCTTGAACTGAG  285
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1119  AGTTCAGATTGCTTCAAATGAGAACATGGAAACAATGGACTCCAGCACTCTTGAACTGAG  1178
+
+Query  286   GAG  288
+             |||
+Sbjct  1179  GAG  1181
+
+
+
+
+>Influenza A virus (A/baikal teal/Xianghai/XH-15F/2012(H3N8)) segment 5 nucleocapsid protein (NP) gene, complete cds
+Sequence ID: KJ907552.1 Length: 1497
+Range 1: 1086 to 1148
+
+Score:117 bits(63), Expect:9e-22, 
+Identities:63/63(100%),  Gaps:0/63(0%), Strand: Plus/Plus
+
+Query  226   AGTTCAGATTGCTTCAAATGAGAACATGGAAACAATGGACTCCAGCACTCTTGAACTGAG  285
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1086  AGTTCAGATTGCTTCAAATGAGAACATGGAAACAATGGACTCCAGCACTCTTGAACTGAG  1145
+
+Query  286   GAG  288
+             |||
+Sbjct  1146  GAG  1148
+
+
+
+
+

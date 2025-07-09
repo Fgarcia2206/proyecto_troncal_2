@@ -1,0 +1,15 @@
+55d6e7c534861f6519e0a70883d9b3ff  ncbi_dataset/data/data_summary.tsv
+81d111c593a01486b827f1597c06ca36  ncbi_dataset/data/assembly_data_report.jsonl
+269ca0798fe1471687bf950f5e449b0b  ncbi_dataset/data/GCA_000848505.1/cds_from_genomic.fna
+4af7c85e666a0dec2cd2b455171b4a06  ncbi_dataset/data/GCA_000848505.1/genomic.gbff
+e44670d9f5bb25656a6417430fc5248a  ncbi_dataset/data/GCA_000848505.1/GCA_000848505.1_ViralProj14703_genomic.fna
+ff336842a3a368acc5a69c7b1d1cc668  ncbi_dataset/data/GCA_000848505.1/genomic.gff
+4db30f636d07bc5005e117c8a3062b2b  ncbi_dataset/data/GCA_000848505.1/genomic.gtf
+3e30591e2cc3045edd6bdcf4004bb361  ncbi_dataset/data/GCA_000848505.1/protein.faa
+5dd1416d82458dbeff8375dec666a3a4  ncbi_dataset/data/GCF_000848505.1/cds_from_genomic.fna
+bcc3c688b5d8499ef63afec75981aef0  ncbi_dataset/data/GCF_000848505.1/genomic.gbff
+783a7d25c6030a2de069ffbfbfbd854c  ncbi_dataset/data/GCF_000848505.1/GCF_000848505.1_ViralProj14703_genomic.fna
+6a71de93ab88fb20d337dd675cc8eaad  ncbi_dataset/data/GCF_000848505.1/genomic.gff
+9382fbfba4a89e919aa9bcec28ca8e1d  ncbi_dataset/data/GCF_000848505.1/genomic.gtf
+6ec77f2d353fc3792111b21ac9b76e80  ncbi_dataset/data/GCF_000848505.1/protein.faa
+b8e1727c4587e734cde981a0191edd0a  ncbi_dataset/data/dataset_catalog.json

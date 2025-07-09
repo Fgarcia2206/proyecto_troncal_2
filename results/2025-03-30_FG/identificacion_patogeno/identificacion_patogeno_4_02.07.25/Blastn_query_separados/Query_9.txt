@@ -1,0 +1,684 @@
+Query #9: 9 unknown sequence 9 Query ID: lcl|Query_1489441 Length: 1139
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E    Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value  Ident  Len        Accession        
+Ebola virus strain Ebola...                                       Ebola virus     NA              1570291    401    928   44%   7e-107 100.00 18871      KY785940.1       
+Zaire ebolavirus strain Ebola virus/cynomolgus...                 Zaire ebolav... NA              186538     401    928   44%   7e-107 100.00 18871      KY471125.1       
+Ebola virus strain Ebola...                                       Ebola virus     NA              1570291    401    928   44%   7e-107 100.00 18871      KY785948.1       
+Ebola virus strain Ebola...                                       Ebola virus     NA              1570291    401    928   44%   7e-107 100.00 18871      KY785939.1       
+Ebola virus strain Ebola...                                       Ebola virus     NA              1570291    401    928   44%   7e-107 100.00 18871      KY785965.1       
+Ebola virus strain Ebola...                                       Ebola virus     NA              1570291    401    928   44%   7e-107 100.00 18871      KY785969.1       
+Ebola virus strain Ebola...                                       Ebola virus     NA              1570291    401    928   44%   7e-107 100.00 18871      KY785947.1       
+Ebola virus strain Ebola...                                       Ebola virus     NA              1570291    401    928   44%   7e-107 100.00 18871      KY786017.1       
+Ebola virus strain Ebola...                                       Ebola virus     NA              1570291    401    928   44%   7e-107 100.00 18871      KY785949.1       
+Ebola virus strain Ebola...                                       Ebola virus     NA              1570291    401    928   44%   7e-107 100.00 18871      KY785970.1       
+
+
+Alignments:
+
+>Ebola virus strain Ebola virus/M.fascicularis-wt/GAB/2001/100mg-CA550D7, complete genome
+Sequence ID: KY785940.1 Length: 18871
+Range 1: 4425 to 4641
+
+Score:401 bits(217), Expect:7e-107, 
+Identities:217/217(100%),  Gaps:0/217(0%), Strand: Plus/Plus
+
+Query  486   CTTGTAAACGTTGAGCAAAATTGTTAAGAATATGAGGCGGGTTATATTGCCTACTGCTCC  545
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4425  CTTGTAAACGTTGAGCAAAATTGTTAAGAATATGAGGCGGGTTATATTGCCTACTGCTCC  4484
+
+Query  546   TCCTGAATATATGGAGGCCATATACCCTGTCAGGTCAAATTCAACAATTGCTAGGGGTGG  605
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4485  TCCTGAATATATGGAGGCCATATACCCTGTCAGGTCAAATTCAACAATTGCTAGGGGTGG  4544
+
+Query  606   CAACAACAATACAGGCTTCCTGACACCGGAGTCAGTCAATGGAGACACTCCATCGAATCC  665
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4545  CAACAACAATACAGGCTTCCTGACACCGGAGTCAGTCAATGGAGACACTCCATCGAATCC  4604
+
+Query  666   ACTCAGGCCAATTGCTGATGACACCATCGACCATGCT  702
+             |||||||||||||||||||||||||||||||||||||
+Sbjct  4605  ACTCAGGCCAATTGCTGATGACACCATCGACCATGCT  4641
+
+
+
+
+Range 2: 4217 to 4424
+
+Score:385 bits(208), Expect:7e-102, 
+Identities:208/208(100%),  Gaps:0/208(0%), Strand: Plus/Plus
+
+Query  34    gTGAGTATCAGCCCTAGATAATATAAGTCAATTAAACGACCAAGCCAAAATTGTTCATAT  93
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4217  GTGAGTATCAGCCCTAGATAATATAAGTCAATTAAACGACCAAGCCAAAATTGTTCATAT  4276
+
+Query  94    CCCGCTAGCAGCTTAAAATATAAATGAAATAGGAGCTATATCTCTGACAGTATTATAATC  153
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4277  CCCGCTAGCAGCTTAAAATATAAATGAAATAGGAGCTATATCTCTGACAGTATTATAATC  4336
+
+Query  154   AATTGTTATTAAGTAACCCAAACCAAAAATGATGAAGATTAAGAAAAACCTACCTCGACT  213
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4337  AATTGTTATTAAGTAACCCAAACCAAAAATGATGAAGATTAAGAAAAACCTACCTCGACT  4396
+
+Query  214   GAGAGAGTGTTTTTCCATTAACCTTCAT  241
+             ||||||||||||||||||||||||||||
+Sbjct  4397  GAGAGAGTGTTTTTCCATTAACCTTCAT  4424
+
+
+
+
+Range 3: 4642 to 4717
+
+Score:141 bits(76), Expect:2e-28, 
+Identities:76/76(100%),  Gaps:0/76(0%), Strand: Plus/Plus
+
+Query  1064  AGCCACACACCAGGCAGTGTGTCATCAGCATTCATCCTTGAAGCTATGGTGAATGTCATA  1123
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4642  AGCCACACACCAGGCAGTGTGTCATCAGCATTCATCCTTGAAGCTATGGTGAATGTCATA  4701
+
+Query  1124  TCGGGCCCCAAAGTGC  1139
+             ||||||||||||||||
+Sbjct  4702  TCGGGCCCCAAAGTGC  4717
+
+
+
+
+>Zaire ebolavirus strain Ebola virus/cynomolgus macaque-wt/GAB/2001/1000ffu-CC089D5, complete genome
+Sequence ID: KY471125.1 Length: 18871
+Range 1: 4425 to 4641
+
+Score:401 bits(217), Expect:7e-107, 
+Identities:217/217(100%),  Gaps:0/217(0%), Strand: Plus/Plus
+
+Query  486   CTTGTAAACGTTGAGCAAAATTGTTAAGAATATGAGGCGGGTTATATTGCCTACTGCTCC  545
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4425  CTTGTAAACGTTGAGCAAAATTGTTAAGAATATGAGGCGGGTTATATTGCCTACTGCTCC  4484
+
+Query  546   TCCTGAATATATGGAGGCCATATACCCTGTCAGGTCAAATTCAACAATTGCTAGGGGTGG  605
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4485  TCCTGAATATATGGAGGCCATATACCCTGTCAGGTCAAATTCAACAATTGCTAGGGGTGG  4544
+
+Query  606   CAACAACAATACAGGCTTCCTGACACCGGAGTCAGTCAATGGAGACACTCCATCGAATCC  665
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4545  CAACAACAATACAGGCTTCCTGACACCGGAGTCAGTCAATGGAGACACTCCATCGAATCC  4604
+
+Query  666   ACTCAGGCCAATTGCTGATGACACCATCGACCATGCT  702
+             |||||||||||||||||||||||||||||||||||||
+Sbjct  4605  ACTCAGGCCAATTGCTGATGACACCATCGACCATGCT  4641
+
+
+
+
+Range 2: 4217 to 4424
+
+Score:385 bits(208), Expect:7e-102, 
+Identities:208/208(100%),  Gaps:0/208(0%), Strand: Plus/Plus
+
+Query  34    gTGAGTATCAGCCCTAGATAATATAAGTCAATTAAACGACCAAGCCAAAATTGTTCATAT  93
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4217  GTGAGTATCAGCCCTAGATAATATAAGTCAATTAAACGACCAAGCCAAAATTGTTCATAT  4276
+
+Query  94    CCCGCTAGCAGCTTAAAATATAAATGAAATAGGAGCTATATCTCTGACAGTATTATAATC  153
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4277  CCCGCTAGCAGCTTAAAATATAAATGAAATAGGAGCTATATCTCTGACAGTATTATAATC  4336
+
+Query  154   AATTGTTATTAAGTAACCCAAACCAAAAATGATGAAGATTAAGAAAAACCTACCTCGACT  213
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4337  AATTGTTATTAAGTAACCCAAACCAAAAATGATGAAGATTAAGAAAAACCTACCTCGACT  4396
+
+Query  214   GAGAGAGTGTTTTTCCATTAACCTTCAT  241
+             ||||||||||||||||||||||||||||
+Sbjct  4397  GAGAGAGTGTTTTTCCATTAACCTTCAT  4424
+
+
+
+
+Range 3: 4642 to 4717
+
+Score:141 bits(76), Expect:2e-28, 
+Identities:76/76(100%),  Gaps:0/76(0%), Strand: Plus/Plus
+
+Query  1064  AGCCACACACCAGGCAGTGTGTCATCAGCATTCATCCTTGAAGCTATGGTGAATGTCATA  1123
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4642  AGCCACACACCAGGCAGTGTGTCATCAGCATTCATCCTTGAAGCTATGGTGAATGTCATA  4701
+
+Query  1124  TCGGGCCCCAAAGTGC  1139
+             ||||||||||||||||
+Sbjct  4702  TCGGGCCCCAAAGTGC  4717
+
+
+
+
+>Ebola virus strain Ebola virus/M.fascicularis-wt/GAB/2001/150mg-CA899D5, complete genome
+Sequence ID: KY785948.1 Length: 18871
+Range 1: 4425 to 4641
+
+Score:401 bits(217), Expect:7e-107, 
+Identities:217/217(100%),  Gaps:0/217(0%), Strand: Plus/Plus
+
+Query  486   CTTGTAAACGTTGAGCAAAATTGTTAAGAATATGAGGCGGGTTATATTGCCTACTGCTCC  545
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4425  CTTGTAAACGTTGAGCAAAATTGTTAAGAATATGAGGCGGGTTATATTGCCTACTGCTCC  4484
+
+Query  546   TCCTGAATATATGGAGGCCATATACCCTGTCAGGTCAAATTCAACAATTGCTAGGGGTGG  605
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4485  TCCTGAATATATGGAGGCCATATACCCTGTCAGGTCAAATTCAACAATTGCTAGGGGTGG  4544
+
+Query  606   CAACAACAATACAGGCTTCCTGACACCGGAGTCAGTCAATGGAGACACTCCATCGAATCC  665
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4545  CAACAACAATACAGGCTTCCTGACACCGGAGTCAGTCAATGGAGACACTCCATCGAATCC  4604
+
+Query  666   ACTCAGGCCAATTGCTGATGACACCATCGACCATGCT  702
+             |||||||||||||||||||||||||||||||||||||
+Sbjct  4605  ACTCAGGCCAATTGCTGATGACACCATCGACCATGCT  4641
+
+
+
+
+Range 2: 4217 to 4424
+
+Score:385 bits(208), Expect:7e-102, 
+Identities:208/208(100%),  Gaps:0/208(0%), Strand: Plus/Plus
+
+Query  34    gTGAGTATCAGCCCTAGATAATATAAGTCAATTAAACGACCAAGCCAAAATTGTTCATAT  93
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4217  GTGAGTATCAGCCCTAGATAATATAAGTCAATTAAACGACCAAGCCAAAATTGTTCATAT  4276
+
+Query  94    CCCGCTAGCAGCTTAAAATATAAATGAAATAGGAGCTATATCTCTGACAGTATTATAATC  153
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4277  CCCGCTAGCAGCTTAAAATATAAATGAAATAGGAGCTATATCTCTGACAGTATTATAATC  4336
+
+Query  154   AATTGTTATTAAGTAACCCAAACCAAAAATGATGAAGATTAAGAAAAACCTACCTCGACT  213
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4337  AATTGTTATTAAGTAACCCAAACCAAAAATGATGAAGATTAAGAAAAACCTACCTCGACT  4396
+
+Query  214   GAGAGAGTGTTTTTCCATTAACCTTCAT  241
+             ||||||||||||||||||||||||||||
+Sbjct  4397  GAGAGAGTGTTTTTCCATTAACCTTCAT  4424
+
+
+
+
+Range 3: 4642 to 4717
+
+Score:141 bits(76), Expect:2e-28, 
+Identities:76/76(100%),  Gaps:0/76(0%), Strand: Plus/Plus
+
+Query  1064  AGCCACACACCAGGCAGTGTGTCATCAGCATTCATCCTTGAAGCTATGGTGAATGTCATA  1123
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4642  AGCCACACACCAGGCAGTGTGTCATCAGCATTCATCCTTGAAGCTATGGTGAATGTCATA  4701
+
+Query  1124  TCGGGCCCCAAAGTGC  1139
+             ||||||||||||||||
+Sbjct  4702  TCGGGCCCCAAAGTGC  4717
+
+
+
+
+>Ebola virus strain Ebola virus/M.fascicularis-wt/GAB/2001/100mg-CA550D5, complete genome
+Sequence ID: KY785939.1 Length: 18871
+Range 1: 4425 to 4641
+
+Score:401 bits(217), Expect:7e-107, 
+Identities:217/217(100%),  Gaps:0/217(0%), Strand: Plus/Plus
+
+Query  486   CTTGTAAACGTTGAGCAAAATTGTTAAGAATATGAGGCGGGTTATATTGCCTACTGCTCC  545
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4425  CTTGTAAACGTTGAGCAAAATTGTTAAGAATATGAGGCGGGTTATATTGCCTACTGCTCC  4484
+
+Query  546   TCCTGAATATATGGAGGCCATATACCCTGTCAGGTCAAATTCAACAATTGCTAGGGGTGG  605
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4485  TCCTGAATATATGGAGGCCATATACCCTGTCAGGTCAAATTCAACAATTGCTAGGGGTGG  4544
+
+Query  606   CAACAACAATACAGGCTTCCTGACACCGGAGTCAGTCAATGGAGACACTCCATCGAATCC  665
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4545  CAACAACAATACAGGCTTCCTGACACCGGAGTCAGTCAATGGAGACACTCCATCGAATCC  4604
+
+Query  666   ACTCAGGCCAATTGCTGATGACACCATCGACCATGCT  702
+             |||||||||||||||||||||||||||||||||||||
+Sbjct  4605  ACTCAGGCCAATTGCTGATGACACCATCGACCATGCT  4641
+
+
+
+
+Range 2: 4217 to 4424
+
+Score:385 bits(208), Expect:7e-102, 
+Identities:208/208(100%),  Gaps:0/208(0%), Strand: Plus/Plus
+
+Query  34    gTGAGTATCAGCCCTAGATAATATAAGTCAATTAAACGACCAAGCCAAAATTGTTCATAT  93
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4217  GTGAGTATCAGCCCTAGATAATATAAGTCAATTAAACGACCAAGCCAAAATTGTTCATAT  4276
+
+Query  94    CCCGCTAGCAGCTTAAAATATAAATGAAATAGGAGCTATATCTCTGACAGTATTATAATC  153
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4277  CCCGCTAGCAGCTTAAAATATAAATGAAATAGGAGCTATATCTCTGACAGTATTATAATC  4336
+
+Query  154   AATTGTTATTAAGTAACCCAAACCAAAAATGATGAAGATTAAGAAAAACCTACCTCGACT  213
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4337  AATTGTTATTAAGTAACCCAAACCAAAAATGATGAAGATTAAGAAAAACCTACCTCGACT  4396
+
+Query  214   GAGAGAGTGTTTTTCCATTAACCTTCAT  241
+             ||||||||||||||||||||||||||||
+Sbjct  4397  GAGAGAGTGTTTTTCCATTAACCTTCAT  4424
+
+
+
+
+Range 3: 4642 to 4717
+
+Score:141 bits(76), Expect:2e-28, 
+Identities:76/76(100%),  Gaps:0/76(0%), Strand: Plus/Plus
+
+Query  1064  AGCCACACACCAGGCAGTGTGTCATCAGCATTCATCCTTGAAGCTATGGTGAATGTCATA  1123
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4642  AGCCACACACCAGGCAGTGTGTCATCAGCATTCATCCTTGAAGCTATGGTGAATGTCATA  4701
+
+Query  1124  TCGGGCCCCAAAGTGC  1139
+             ||||||||||||||||
+Sbjct  4702  TCGGGCCCCAAAGTGC  4717
+
+
+
+
+>Ebola virus strain Ebola virus/M.fascicularis-wt/GAB/2001/180mg-CAK013D3, complete genome
+Sequence ID: KY785965.1 Length: 18871
+Range 1: 4425 to 4641
+
+Score:401 bits(217), Expect:7e-107, 
+Identities:217/217(100%),  Gaps:0/217(0%), Strand: Plus/Plus
+
+Query  486   CTTGTAAACGTTGAGCAAAATTGTTAAGAATATGAGGCGGGTTATATTGCCTACTGCTCC  545
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4425  CTTGTAAACGTTGAGCAAAATTGTTAAGAATATGAGGCGGGTTATATTGCCTACTGCTCC  4484
+
+Query  546   TCCTGAATATATGGAGGCCATATACCCTGTCAGGTCAAATTCAACAATTGCTAGGGGTGG  605
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4485  TCCTGAATATATGGAGGCCATATACCCTGTCAGGTCAAATTCAACAATTGCTAGGGGTGG  4544
+
+Query  606   CAACAACAATACAGGCTTCCTGACACCGGAGTCAGTCAATGGAGACACTCCATCGAATCC  665
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4545  CAACAACAATACAGGCTTCCTGACACCGGAGTCAGTCAATGGAGACACTCCATCGAATCC  4604
+
+Query  666   ACTCAGGCCAATTGCTGATGACACCATCGACCATGCT  702
+             |||||||||||||||||||||||||||||||||||||
+Sbjct  4605  ACTCAGGCCAATTGCTGATGACACCATCGACCATGCT  4641
+
+
+
+
+Range 2: 4217 to 4424
+
+Score:385 bits(208), Expect:7e-102, 
+Identities:208/208(100%),  Gaps:0/208(0%), Strand: Plus/Plus
+
+Query  34    gTGAGTATCAGCCCTAGATAATATAAGTCAATTAAACGACCAAGCCAAAATTGTTCATAT  93
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4217  GTGAGTATCAGCCCTAGATAATATAAGTCAATTAAACGACCAAGCCAAAATTGTTCATAT  4276
+
+Query  94    CCCGCTAGCAGCTTAAAATATAAATGAAATAGGAGCTATATCTCTGACAGTATTATAATC  153
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4277  CCCGCTAGCAGCTTAAAATATAAATGAAATAGGAGCTATATCTCTGACAGTATTATAATC  4336
+
+Query  154   AATTGTTATTAAGTAACCCAAACCAAAAATGATGAAGATTAAGAAAAACCTACCTCGACT  213
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4337  AATTGTTATTAAGTAACCCAAACCAAAAATGATGAAGATTAAGAAAAACCTACCTCGACT  4396
+
+Query  214   GAGAGAGTGTTTTTCCATTAACCTTCAT  241
+             ||||||||||||||||||||||||||||
+Sbjct  4397  GAGAGAGTGTTTTTCCATTAACCTTCAT  4424
+
+
+
+
+Range 3: 4642 to 4717
+
+Score:141 bits(76), Expect:2e-28, 
+Identities:76/76(100%),  Gaps:0/76(0%), Strand: Plus/Plus
+
+Query  1064  AGCCACACACCAGGCAGTGTGTCATCAGCATTCATCCTTGAAGCTATGGTGAATGTCATA  1123
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4642  AGCCACACACCAGGCAGTGTGTCATCAGCATTCATCCTTGAAGCTATGGTGAATGTCATA  4701
+
+Query  1124  TCGGGCCCCAAAGTGC  1139
+             ||||||||||||||||
+Sbjct  4702  TCGGGCCCCAAAGTGC  4717
+
+
+
+
+>Ebola virus strain Ebola virus/M.fascicularis-wt/GAB/2001/180mg-CBD021D12, complete genome
+Sequence ID: KY785969.1 Length: 18871
+Range 1: 4425 to 4641
+
+Score:401 bits(217), Expect:7e-107, 
+Identities:217/217(100%),  Gaps:0/217(0%), Strand: Plus/Plus
+
+Query  486   CTTGTAAACGTTGAGCAAAATTGTTAAGAATATGAGGCGGGTTATATTGCCTACTGCTCC  545
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4425  CTTGTAAACGTTGAGCAAAATTGTTAAGAATATGAGGCGGGTTATATTGCCTACTGCTCC  4484
+
+Query  546   TCCTGAATATATGGAGGCCATATACCCTGTCAGGTCAAATTCAACAATTGCTAGGGGTGG  605
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4485  TCCTGAATATATGGAGGCCATATACCCTGTCAGGTCAAATTCAACAATTGCTAGGGGTGG  4544
+
+Query  606   CAACAACAATACAGGCTTCCTGACACCGGAGTCAGTCAATGGAGACACTCCATCGAATCC  665
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4545  CAACAACAATACAGGCTTCCTGACACCGGAGTCAGTCAATGGAGACACTCCATCGAATCC  4604
+
+Query  666   ACTCAGGCCAATTGCTGATGACACCATCGACCATGCT  702
+             |||||||||||||||||||||||||||||||||||||
+Sbjct  4605  ACTCAGGCCAATTGCTGATGACACCATCGACCATGCT  4641
+
+
+
+
+Range 2: 4217 to 4424
+
+Score:385 bits(208), Expect:7e-102, 
+Identities:208/208(100%),  Gaps:0/208(0%), Strand: Plus/Plus
+
+Query  34    gTGAGTATCAGCCCTAGATAATATAAGTCAATTAAACGACCAAGCCAAAATTGTTCATAT  93
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4217  GTGAGTATCAGCCCTAGATAATATAAGTCAATTAAACGACCAAGCCAAAATTGTTCATAT  4276
+
+Query  94    CCCGCTAGCAGCTTAAAATATAAATGAAATAGGAGCTATATCTCTGACAGTATTATAATC  153
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4277  CCCGCTAGCAGCTTAAAATATAAATGAAATAGGAGCTATATCTCTGACAGTATTATAATC  4336
+
+Query  154   AATTGTTATTAAGTAACCCAAACCAAAAATGATGAAGATTAAGAAAAACCTACCTCGACT  213
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4337  AATTGTTATTAAGTAACCCAAACCAAAAATGATGAAGATTAAGAAAAACCTACCTCGACT  4396
+
+Query  214   GAGAGAGTGTTTTTCCATTAACCTTCAT  241
+             ||||||||||||||||||||||||||||
+Sbjct  4397  GAGAGAGTGTTTTTCCATTAACCTTCAT  4424
+
+
+
+
+Range 3: 4642 to 4717
+
+Score:141 bits(76), Expect:2e-28, 
+Identities:76/76(100%),  Gaps:0/76(0%), Strand: Plus/Plus
+
+Query  1064  AGCCACACACCAGGCAGTGTGTCATCAGCATTCATCCTTGAAGCTATGGTGAATGTCATA  1123
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4642  AGCCACACACCAGGCAGTGTGTCATCAGCATTCATCCTTGAAGCTATGGTGAATGTCATA  4701
+
+Query  1124  TCGGGCCCCAAAGTGC  1139
+             ||||||||||||||||
+Sbjct  4702  TCGGGCCCCAAAGTGC  4717
+
+
+
+
+>Ebola virus strain Ebola virus/M.fascicularis-wt/GAB/2001/150mg-CA899D17, complete genome
+Sequence ID: KY785947.1 Length: 18871
+>Ebola virus strain Ebola virus/M.fascicularis-wt/GAB/2001/180mg-CBD021D10, complete genome
+Sequence ID: KY785968.1 Length: 18871 
+Range 1: 4425 to 4641
+
+Score:401 bits(217), Expect:7e-107, 
+Identities:217/217(100%),  Gaps:0/217(0%), Strand: Plus/Plus
+
+Query  486   CTTGTAAACGTTGAGCAAAATTGTTAAGAATATGAGGCGGGTTATATTGCCTACTGCTCC  545
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4425  CTTGTAAACGTTGAGCAAAATTGTTAAGAATATGAGGCGGGTTATATTGCCTACTGCTCC  4484
+
+Query  546   TCCTGAATATATGGAGGCCATATACCCTGTCAGGTCAAATTCAACAATTGCTAGGGGTGG  605
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4485  TCCTGAATATATGGAGGCCATATACCCTGTCAGGTCAAATTCAACAATTGCTAGGGGTGG  4544
+
+Query  606   CAACAACAATACAGGCTTCCTGACACCGGAGTCAGTCAATGGAGACACTCCATCGAATCC  665
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4545  CAACAACAATACAGGCTTCCTGACACCGGAGTCAGTCAATGGAGACACTCCATCGAATCC  4604
+
+Query  666   ACTCAGGCCAATTGCTGATGACACCATCGACCATGCT  702
+             |||||||||||||||||||||||||||||||||||||
+Sbjct  4605  ACTCAGGCCAATTGCTGATGACACCATCGACCATGCT  4641
+
+
+
+
+Range 2: 4217 to 4424
+
+Score:385 bits(208), Expect:7e-102, 
+Identities:208/208(100%),  Gaps:0/208(0%), Strand: Plus/Plus
+
+Query  34    gTGAGTATCAGCCCTAGATAATATAAGTCAATTAAACGACCAAGCCAAAATTGTTCATAT  93
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4217  GTGAGTATCAGCCCTAGATAATATAAGTCAATTAAACGACCAAGCCAAAATTGTTCATAT  4276
+
+Query  94    CCCGCTAGCAGCTTAAAATATAAATGAAATAGGAGCTATATCTCTGACAGTATTATAATC  153
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4277  CCCGCTAGCAGCTTAAAATATAAATGAAATAGGAGCTATATCTCTGACAGTATTATAATC  4336
+
+Query  154   AATTGTTATTAAGTAACCCAAACCAAAAATGATGAAGATTAAGAAAAACCTACCTCGACT  213
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4337  AATTGTTATTAAGTAACCCAAACCAAAAATGATGAAGATTAAGAAAAACCTACCTCGACT  4396
+
+Query  214   GAGAGAGTGTTTTTCCATTAACCTTCAT  241
+             ||||||||||||||||||||||||||||
+Sbjct  4397  GAGAGAGTGTTTTTCCATTAACCTTCAT  4424
+
+
+
+
+Range 3: 4642 to 4717
+
+Score:141 bits(76), Expect:2e-28, 
+Identities:76/76(100%),  Gaps:0/76(0%), Strand: Plus/Plus
+
+Query  1064  AGCCACACACCAGGCAGTGTGTCATCAGCATTCATCCTTGAAGCTATGGTGAATGTCATA  1123
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4642  AGCCACACACCAGGCAGTGTGTCATCAGCATTCATCCTTGAAGCTATGGTGAATGTCATA  4701
+
+Query  1124  TCGGGCCCCAAAGTGC  1139
+             ||||||||||||||||
+Sbjct  4702  TCGGGCCCCAAAGTGC  4717
+
+
+
+
+>Ebola virus strain Ebola virus/M.fascicularis-wt/GAB/2001/untreated-CCE006D7, complete genome
+Sequence ID: KY786017.1 Length: 18871
+>Ebola virus strain Ebola virus/M.fascicularis-wt/GAB/2001/untreated-CCE006D8, complete genome
+Sequence ID: KY786018.1 Length: 18871 
+Range 1: 4425 to 4641
+
+Score:401 bits(217), Expect:7e-107, 
+Identities:217/217(100%),  Gaps:0/217(0%), Strand: Plus/Plus
+
+Query  486   CTTGTAAACGTTGAGCAAAATTGTTAAGAATATGAGGCGGGTTATATTGCCTACTGCTCC  545
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4425  CTTGTAAACGTTGAGCAAAATTGTTAAGAATATGAGGCGGGTTATATTGCCTACTGCTCC  4484
+
+Query  546   TCCTGAATATATGGAGGCCATATACCCTGTCAGGTCAAATTCAACAATTGCTAGGGGTGG  605
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4485  TCCTGAATATATGGAGGCCATATACCCTGTCAGGTCAAATTCAACAATTGCTAGGGGTGG  4544
+
+Query  606   CAACAACAATACAGGCTTCCTGACACCGGAGTCAGTCAATGGAGACACTCCATCGAATCC  665
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4545  CAACAACAATACAGGCTTCCTGACACCGGAGTCAGTCAATGGAGACACTCCATCGAATCC  4604
+
+Query  666   ACTCAGGCCAATTGCTGATGACACCATCGACCATGCT  702
+             |||||||||||||||||||||||||||||||||||||
+Sbjct  4605  ACTCAGGCCAATTGCTGATGACACCATCGACCATGCT  4641
+
+
+
+
+Range 2: 4217 to 4424
+
+Score:385 bits(208), Expect:7e-102, 
+Identities:208/208(100%),  Gaps:0/208(0%), Strand: Plus/Plus
+
+Query  34    gTGAGTATCAGCCCTAGATAATATAAGTCAATTAAACGACCAAGCCAAAATTGTTCATAT  93
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4217  GTGAGTATCAGCCCTAGATAATATAAGTCAATTAAACGACCAAGCCAAAATTGTTCATAT  4276
+
+Query  94    CCCGCTAGCAGCTTAAAATATAAATGAAATAGGAGCTATATCTCTGACAGTATTATAATC  153
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4277  CCCGCTAGCAGCTTAAAATATAAATGAAATAGGAGCTATATCTCTGACAGTATTATAATC  4336
+
+Query  154   AATTGTTATTAAGTAACCCAAACCAAAAATGATGAAGATTAAGAAAAACCTACCTCGACT  213
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4337  AATTGTTATTAAGTAACCCAAACCAAAAATGATGAAGATTAAGAAAAACCTACCTCGACT  4396
+
+Query  214   GAGAGAGTGTTTTTCCATTAACCTTCAT  241
+             ||||||||||||||||||||||||||||
+Sbjct  4397  GAGAGAGTGTTTTTCCATTAACCTTCAT  4424
+
+
+
+
+Range 3: 4642 to 4717
+
+Score:141 bits(76), Expect:2e-28, 
+Identities:76/76(100%),  Gaps:0/76(0%), Strand: Plus/Plus
+
+Query  1064  AGCCACACACCAGGCAGTGTGTCATCAGCATTCATCCTTGAAGCTATGGTGAATGTCATA  1123
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4642  AGCCACACACCAGGCAGTGTGTCATCAGCATTCATCCTTGAAGCTATGGTGAATGTCATA  4701
+
+Query  1124  TCGGGCCCCAAAGTGC  1139
+             ||||||||||||||||
+Sbjct  4702  TCGGGCCCCAAAGTGC  4717
+
+
+
+
+>Ebola virus strain Ebola virus/M.fascicularis-wt/GAB/2001/150mg-CA899D7, complete genome
+Sequence ID: KY785949.1 Length: 18871
+Range 1: 4425 to 4641
+
+Score:401 bits(217), Expect:7e-107, 
+Identities:217/217(100%),  Gaps:0/217(0%), Strand: Plus/Plus
+
+Query  486   CTTGTAAACGTTGAGCAAAATTGTTAAGAATATGAGGCGGGTTATATTGCCTACTGCTCC  545
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4425  CTTGTAAACGTTGAGCAAAATTGTTAAGAATATGAGGCGGGTTATATTGCCTACTGCTCC  4484
+
+Query  546   TCCTGAATATATGGAGGCCATATACCCTGTCAGGTCAAATTCAACAATTGCTAGGGGTGG  605
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4485  TCCTGAATATATGGAGGCCATATACCCTGTCAGGTCAAATTCAACAATTGCTAGGGGTGG  4544
+
+Query  606   CAACAACAATACAGGCTTCCTGACACCGGAGTCAGTCAATGGAGACACTCCATCGAATCC  665
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4545  CAACAACAATACAGGCTTCCTGACACCGGAGTCAGTCAATGGAGACACTCCATCGAATCC  4604
+
+Query  666   ACTCAGGCCAATTGCTGATGACACCATCGACCATGCT  702
+             |||||||||||||||||||||||||||||||||||||
+Sbjct  4605  ACTCAGGCCAATTGCTGATGACACCATCGACCATGCT  4641
+
+
+
+
+Range 2: 4217 to 4424
+
+Score:385 bits(208), Expect:7e-102, 
+Identities:208/208(100%),  Gaps:0/208(0%), Strand: Plus/Plus
+
+Query  34    gTGAGTATCAGCCCTAGATAATATAAGTCAATTAAACGACCAAGCCAAAATTGTTCATAT  93
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4217  GTGAGTATCAGCCCTAGATAATATAAGTCAATTAAACGACCAAGCCAAAATTGTTCATAT  4276
+
+Query  94    CCCGCTAGCAGCTTAAAATATAAATGAAATAGGAGCTATATCTCTGACAGTATTATAATC  153
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4277  CCCGCTAGCAGCTTAAAATATAAATGAAATAGGAGCTATATCTCTGACAGTATTATAATC  4336
+
+Query  154   AATTGTTATTAAGTAACCCAAACCAAAAATGATGAAGATTAAGAAAAACCTACCTCGACT  213
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4337  AATTGTTATTAAGTAACCCAAACCAAAAATGATGAAGATTAAGAAAAACCTACCTCGACT  4396
+
+Query  214   GAGAGAGTGTTTTTCCATTAACCTTCAT  241
+             ||||||||||||||||||||||||||||
+Sbjct  4397  GAGAGAGTGTTTTTCCATTAACCTTCAT  4424
+
+
+
+
+Range 3: 4642 to 4717
+
+Score:141 bits(76), Expect:2e-28, 
+Identities:76/76(100%),  Gaps:0/76(0%), Strand: Plus/Plus
+
+Query  1064  AGCCACACACCAGGCAGTGTGTCATCAGCATTCATCCTTGAAGCTATGGTGAATGTCATA  1123
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4642  AGCCACACACCAGGCAGTGTGTCATCAGCATTCATCCTTGAAGCTATGGTGAATGTCATA  4701
+
+Query  1124  TCGGGCCCCAAAGTGC  1139
+             ||||||||||||||||
+Sbjct  4702  TCGGGCCCCAAAGTGC  4717
+
+
+
+
+>Ebola virus strain Ebola virus/M.fascicularis-wt/GAB/2001/180mg-CBD021D5, complete genome
+Sequence ID: KY785970.1 Length: 18871
+Range 1: 4425 to 4641
+
+Score:401 bits(217), Expect:7e-107, 
+Identities:217/217(100%),  Gaps:0/217(0%), Strand: Plus/Plus
+
+Query  486   CTTGTAAACGTTGAGCAAAATTGTTAAGAATATGAGGCGGGTTATATTGCCTACTGCTCC  545
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4425  CTTGTAAACGTTGAGCAAAATTGTTAAGAATATGAGGCGGGTTATATTGCCTACTGCTCC  4484
+
+Query  546   TCCTGAATATATGGAGGCCATATACCCTGTCAGGTCAAATTCAACAATTGCTAGGGGTGG  605
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4485  TCCTGAATATATGGAGGCCATATACCCTGTCAGGTCAAATTCAACAATTGCTAGGGGTGG  4544
+
+Query  606   CAACAACAATACAGGCTTCCTGACACCGGAGTCAGTCAATGGAGACACTCCATCGAATCC  665
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4545  CAACAACAATACAGGCTTCCTGACACCGGAGTCAGTCAATGGAGACACTCCATCGAATCC  4604
+
+Query  666   ACTCAGGCCAATTGCTGATGACACCATCGACCATGCT  702
+             |||||||||||||||||||||||||||||||||||||
+Sbjct  4605  ACTCAGGCCAATTGCTGATGACACCATCGACCATGCT  4641
+
+
+
+
+Range 2: 4217 to 4424
+
+Score:385 bits(208), Expect:7e-102, 
+Identities:208/208(100%),  Gaps:0/208(0%), Strand: Plus/Plus
+
+Query  34    gTGAGTATCAGCCCTAGATAATATAAGTCAATTAAACGACCAAGCCAAAATTGTTCATAT  93
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4217  GTGAGTATCAGCCCTAGATAATATAAGTCAATTAAACGACCAAGCCAAAATTGTTCATAT  4276
+
+Query  94    CCCGCTAGCAGCTTAAAATATAAATGAAATAGGAGCTATATCTCTGACAGTATTATAATC  153
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4277  CCCGCTAGCAGCTTAAAATATAAATGAAATAGGAGCTATATCTCTGACAGTATTATAATC  4336
+
+Query  154   AATTGTTATTAAGTAACCCAAACCAAAAATGATGAAGATTAAGAAAAACCTACCTCGACT  213
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4337  AATTGTTATTAAGTAACCCAAACCAAAAATGATGAAGATTAAGAAAAACCTACCTCGACT  4396
+
+Query  214   GAGAGAGTGTTTTTCCATTAACCTTCAT  241
+             ||||||||||||||||||||||||||||
+Sbjct  4397  GAGAGAGTGTTTTTCCATTAACCTTCAT  4424
+
+
+
+
+Range 3: 4642 to 4717
+
+Score:141 bits(76), Expect:2e-28, 
+Identities:76/76(100%),  Gaps:0/76(0%), Strand: Plus/Plus
+
+Query  1064  AGCCACACACCAGGCAGTGTGTCATCAGCATTCATCCTTGAAGCTATGGTGAATGTCATA  1123
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4642  AGCCACACACCAGGCAGTGTGTCATCAGCATTCATCCTTGAAGCTATGGTGAATGTCATA  4701
+
+Query  1124  TCGGGCCCCAAAGTGC  1139
+             ||||||||||||||||
+Sbjct  4702  TCGGGCCCCAAAGTGC  4717
+
+
+
+
+

@@ -1,0 +1,840 @@
+Query #11: 11 unknown sequence 11 Query ID: lcl|Query_1489443 Length: 1241
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E    Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value  Ident  Len        Accession        
+Salmonella enterica subsp. enterica serovar Bareilly strain...    Salmonella e... NA              58096      544    1169  52%   1e-149 99.66  4724863    CP176685.1       
+Salmonella enterica subsp. enterica strain Z01320SL0026...        Salmonella e... NA              59201      544    1175  52%   1e-149 99.66  4844485    CP087533.1       
+Salmonella enterica subsp. enterica strain CSSelangor...          Salmonella e... NA              59201      544    1175  52%   1e-149 99.66  4853274    CP130151.1       
+Salmonella enterica subsp. enterica serovar Typhimurium strain... Salmonella e... NA              90371      544    1186  52%   1e-149 99.66  4933608    CP176561.1       
+Salmonella enterica subsp. enterica strain Z01319SL0010...        Salmonella e... NA              59201      544    1175  52%   1e-149 99.66  4809485    CP087538.1       
+Salmonella enterica subsp. enterica serovar Bareilly strain...    Salmonella e... NA              58096      544    1169  52%   1e-149 99.66  4726541    CP176707.1       
+Salmonella enterica subsp. enterica serovar Typhimurium strain... Salmonella e... NA              90371      544    1186  52%   1e-149 99.66  5000338    CP104805.1       
+Salmonella enterica strain SA88 chromosome, complete genome       Salmonella e... NA              28901      544    1175  52%   1e-149 99.66  3216946    CP169338.1       
+Salmonella enterica strain SA67 chromosome, complete genome       Salmonella e... NA              28901      544    1169  52%   1e-149 99.66  4930408    CP169348.1       
+Salmonella enterica strain SA92 chromosome, complete genome       Salmonella e... NA              28901      544    1153  52%   1e-149 99.66  4825106    CP168931.1       
+
+
+Alignments:
+
+>Salmonella enterica subsp. enterica serovar Bareilly strain GTVSS-001 chromosome, complete genome
+Sequence ID: CP176685.1 Length: 4724863
+Range 1: 757665 to 757961
+
+Score:544 bits(294), Expect:1e-149, 
+Identities:297/298(99%),  Gaps:1/298(0%), Strand: Plus/Plus
+
+Query  671     GCGTCGGCGGCGTCGGCGGCGCGCTACTGGAACAGCTTAAACGTCAGCAAACCTGGCTGA  730
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  757665  GCGTCGGCGGCGTCGGCGGCGCGCTACTGGAACAGCTTAAACGTCAGCAAACCTGGCTGA  757724
+
+Query  731     AGAACAAGCACATCGATCTACGCGTGTGCGGCGTGGCGAACTCAAAGGCGTTGCTAACCA  790
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  757725  AGAACAAGCACATCGATCTACGCGTGTGCGGCGTGGCGAACTCAAAGGCGTTGCTAACCA  757784
+
+Query  791     ATGTGCATGGCCTGAATCTGGACAACTGGCAGGCGGAACTGGCGCAAGCGAACGCGCCGT  850
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  757785  ATGTGCATGGCCTGAATCTGGACAACTGGCAGGCGGAACTGGCGCAAGCGAACGCGCCGT  757844
+
+Query  851     TCAATCTGGGACGCTTAATTCGCCTGGTGAAAGAATATCATCTACTCAATCCGGTGATTG  910
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  757845  TCAATCTGGGACGCTTAATTCGCCTGGTGAAAGAATATCATCTACTCAATCCGGTGATTG  757904
+
+Query  911     TTGATTGTACCTCCAGTCAGGCGGTGGCCGACCAGTATGCCGACTTCCTGCGTGGAAG  968
+               |||||||||||||||||||||||||||||||||||||||||||||||||||||| |||
+Sbjct  757905  TTGATTGTACCTCCAGTCAGGCGGTGGCCGACCAGTATGCCGACTTCCTGCGTG-AAG  757961
+
+
+
+
+Range 2: 757459 to 757611
+
+Score:278 bits(150), Expect:1e-69, 
+Identities:152/153(99%),  Gaps:0/153(0%), Strand: Plus/Plus
+
+Query  1       CGACGGTATGCGCACGCTACGCGGCATTTCAGCGAAATTCTTCGCCGCGCTGGCGCGGGC  60
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  757459  CGACGGTATGCGCACGCTACGCGGCATTTCAGCGAAATTCTTCGCCGCGCTGGCGCGGGC  757518
+
+Query  61      TAATATCAATATCGTGGCGATCGCTCAGGGATCTTCTGAGCGTTCTATTTCTGTGGTGGT  120
+               ||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||
+Sbjct  757519  TAATATCAATATCGTGGCGATCGCTCAGGGATCTTCTGAGCGTTCCATTTCTGTGGTGGT  757578
+
+Query  121     GAATAACGACGATGCCACCACCGGCGTGCGGGT  153
+               |||||||||||||||||||||||||||||||||
+Sbjct  757579  GAATAACGACGATGCCACCACCGGCGTGCGGGT  757611
+
+
+
+
+Range 3: 757958 to 758095
+
+Score:244 bits(132), Expect:1e-59, 
+Identities:136/138(99%),  Gaps:0/138(0%), Strand: Plus/Plus
+
+Query  1104    GAAGGGTTCCATGTGGTGACGCCAAACAAGAAAGCGAACACCTCGTCAATGGACTACTAC  1163
+               ||||||||||||||||||||||| ||||||||||||||||||||||| ||||||||||||
+Sbjct  757958  GAAGGGTTCCATGTGGTGACGCCGAACAAGAAAGCGAACACCTCGTCGATGGACTACTAC  758017
+
+Query  1164    CATCAGCTACGTTTCGCCGCCGCGCAATCACGGCGCAAATTCTTGTATGACACCAACGTC  1223
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  758018  CATCAGCTACGTTTCGCCGCCGCGCAATCACGGCGCAAATTCTTGTATGACACCAACGTC  758077
+
+Query  1224    GGCGCCGGTTTGCCGGTA  1241
+               ||||||||||||||||||
+Sbjct  758078  GGCGCCGGTTTGCCGGTA  758095
+
+
+
+
+Range 4: 757611 to 757665
+
+Score:102 bits(55), Expect:9e-17, 
+Identities:55/55(100%),  Gaps:0/55(0%), Strand: Plus/Plus
+
+Query  373     TAACGCACCAGATGCTGTTCAATACCGATCAGGTGATTGAAGTGTTTGTCATTGG  427
+               |||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  757611  TAACGCACCAGATGCTGTTCAATACCGATCAGGTGATTGAAGTGTTTGTCATTGG  757665
+
+
+
+
+>Salmonella enterica subsp. enterica strain Z01320SL0026 chromosome, complete genome
+Sequence ID: CP087533.1 Length: 4844485
+Range 1: 3660324 to 3660620
+
+Score:544 bits(294), Expect:1e-149, 
+Identities:297/298(99%),  Gaps:1/298(0%), Strand: Plus/Minus
+
+Query  671      GCGTCGGCGGCGTCGGCGGCGCGCTACTGGAACAGCTTAAACGTCAGCAAACCTGGCTGA  730
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  3660620  GCGTCGGCGGCGTCGGCGGCGCGCTACTGGAACAGCTTAAACGTCAGCAAACCTGGCTGA  3660561
+
+Query  731      AGAACAAGCACATCGATCTACGCGTGTGCGGCGTGGCGAACTCAAAGGCGTTGCTAACCA  790
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  3660560  AGAACAAGCACATCGATCTACGCGTGTGCGGCGTGGCGAACTCAAAGGCGTTGCTAACCA  3660501
+
+Query  791      ATGTGCATGGCCTGAATCTGGACAACTGGCAGGCGGAACTGGCGCAAGCGAACGCGCCGT  850
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  3660500  ATGTGCATGGCCTGAATCTGGACAACTGGCAGGCGGAACTGGCGCAAGCGAACGCGCCGT  3660441
+
+Query  851      TCAATCTGGGACGCTTAATTCGCCTGGTGAAAGAATATCATCTACTCAATCCGGTGATTG  910
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  3660440  TCAATCTGGGACGCTTAATTCGCCTGGTGAAAGAATATCATCTACTCAATCCGGTGATTG  3660381
+
+Query  911      TTGATTGTACCTCCAGTCAGGCGGTGGCCGACCAGTATGCCGACTTCCTGCGTGGAAG  968
+                |||||||||||||||||||||||||||||||||||||||||||||||||||||| |||
+Sbjct  3660380  TTGATTGTACCTCCAGTCAGGCGGTGGCCGACCAGTATGCCGACTTCCTGCGTG-AAG  3660324
+
+
+
+
+Range 2: 3660674 to 3660826
+
+Score:278 bits(150), Expect:1e-69, 
+Identities:152/153(99%),  Gaps:0/153(0%), Strand: Plus/Minus
+
+Query  1        CGACGGTATGCGCACGCTACGCGGCATTTCAGCGAAATTCTTCGCCGCGCTGGCGCGGGC  60
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  3660826  CGACGGTATGCGCACGCTACGCGGCATTTCAGCGAAATTCTTCGCCGCGCTGGCGCGGGC  3660767
+
+Query  61       TAATATCAATATCGTGGCGATCGCTCAGGGATCTTCTGAGCGTTCTATTTCTGTGGTGGT  120
+                ||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||
+Sbjct  3660766  TAATATCAATATCGTGGCGATCGCTCAGGGATCTTCTGAGCGTTCCATTTCTGTGGTGGT  3660707
+
+Query  121      GAATAACGACGATGCCACCACCGGCGTGCGGGT  153
+                |||||||||||||||||||||||||||||||||
+Sbjct  3660706  GAATAACGACGATGCCACCACCGGCGTGCGGGT  3660674
+
+
+
+
+Range 3: 3660190 to 3660327
+
+Score:250 bits(135), Expect:3e-61, 
+Identities:137/138(99%),  Gaps:0/138(0%), Strand: Plus/Minus
+
+Query  1104     GAAGGGTTCCATGTGGTGACGCCAAACAAGAAAGCGAACACCTCGTCAATGGACTACTAC  1163
+                ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  3660327  GAAGGGTTCCATGTGGTGACGCCAAACAAGAAAGCGAACACCTCGTCGATGGACTACTAC  3660268
+
+Query  1164     CATCAGCTACGTTTCGCCGCCGCGCAATCACGGCGCAAATTCTTGTATGACACCAACGTC  1223
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  3660267  CATCAGCTACGTTTCGCCGCCGCGCAATCACGGCGCAAATTCTTGTATGACACCAACGTC  3660208
+
+Query  1224     GGCGCCGGTTTGCCGGTA  1241
+                ||||||||||||||||||
+Sbjct  3660207  GGCGCCGGTTTGCCGGTA  3660190
+
+
+
+
+Range 4: 3660620 to 3660674
+
+Score:102 bits(55), Expect:9e-17, 
+Identities:55/55(100%),  Gaps:0/55(0%), Strand: Plus/Minus
+
+Query  373      TAACGCACCAGATGCTGTTCAATACCGATCAGGTGATTGAAGTGTTTGTCATTGG  427
+                |||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  3660674  TAACGCACCAGATGCTGTTCAATACCGATCAGGTGATTGAAGTGTTTGTCATTGG  3660620
+
+
+
+
+>Salmonella enterica subsp. enterica strain CSSelangor chromosome, complete genome
+Sequence ID: CP130151.1 Length: 4853274
+Range 1: 4352710 to 4353006
+
+Score:544 bits(294), Expect:1e-149, 
+Identities:297/298(99%),  Gaps:1/298(0%), Strand: Plus/Minus
+
+Query  671      GCGTCGGCGGCGTCGGCGGCGCGCTACTGGAACAGCTTAAACGTCAGCAAACCTGGCTGA  730
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4353006  GCGTCGGCGGCGTCGGCGGCGCGCTACTGGAACAGCTTAAACGTCAGCAAACCTGGCTGA  4352947
+
+Query  731      AGAACAAGCACATCGATCTACGCGTGTGCGGCGTGGCGAACTCAAAGGCGTTGCTAACCA  790
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4352946  AGAACAAGCACATCGATCTACGCGTGTGCGGCGTGGCGAACTCAAAGGCGTTGCTAACCA  4352887
+
+Query  791      ATGTGCATGGCCTGAATCTGGACAACTGGCAGGCGGAACTGGCGCAAGCGAACGCGCCGT  850
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4352886  ATGTGCATGGCCTGAATCTGGACAACTGGCAGGCGGAACTGGCGCAAGCGAACGCGCCGT  4352827
+
+Query  851      TCAATCTGGGACGCTTAATTCGCCTGGTGAAAGAATATCATCTACTCAATCCGGTGATTG  910
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4352826  TCAATCTGGGACGCTTAATTCGCCTGGTGAAAGAATATCATCTACTCAATCCGGTGATTG  4352767
+
+Query  911      TTGATTGTACCTCCAGTCAGGCGGTGGCCGACCAGTATGCCGACTTCCTGCGTGGAAG  968
+                |||||||||||||||||||||||||||||||||||||||||||||||||||||| |||
+Sbjct  4352766  TTGATTGTACCTCCAGTCAGGCGGTGGCCGACCAGTATGCCGACTTCCTGCGTG-AAG  4352710
+
+
+
+
+Range 2: 4353060 to 4353212
+
+Score:278 bits(150), Expect:1e-69, 
+Identities:152/153(99%),  Gaps:0/153(0%), Strand: Plus/Minus
+
+Query  1        CGACGGTATGCGCACGCTACGCGGCATTTCAGCGAAATTCTTCGCCGCGCTGGCGCGGGC  60
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4353212  CGACGGTATGCGCACGCTACGCGGCATTTCAGCGAAATTCTTCGCCGCGCTGGCGCGGGC  4353153
+
+Query  61       TAATATCAATATCGTGGCGATCGCTCAGGGATCTTCTGAGCGTTCTATTTCTGTGGTGGT  120
+                ||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||
+Sbjct  4353152  TAATATCAATATCGTGGCGATCGCTCAGGGATCTTCTGAGCGTTCCATTTCTGTGGTGGT  4353093
+
+Query  121      GAATAACGACGATGCCACCACCGGCGTGCGGGT  153
+                |||||||||||||||||||||||||||||||||
+Sbjct  4353092  GAATAACGACGATGCCACCACCGGCGTGCGGGT  4353060
+
+
+
+
+Range 3: 4352576 to 4352713
+
+Score:250 bits(135), Expect:3e-61, 
+Identities:137/138(99%),  Gaps:0/138(0%), Strand: Plus/Minus
+
+Query  1104     GAAGGGTTCCATGTGGTGACGCCAAACAAGAAAGCGAACACCTCGTCAATGGACTACTAC  1163
+                ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  4352713  GAAGGGTTCCATGTGGTGACGCCAAACAAGAAAGCGAACACCTCGTCGATGGACTACTAC  4352654
+
+Query  1164     CATCAGCTACGTTTCGCCGCCGCGCAATCACGGCGCAAATTCTTGTATGACACCAACGTC  1223
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4352653  CATCAGCTACGTTTCGCCGCCGCGCAATCACGGCGCAAATTCTTGTATGACACCAACGTC  4352594
+
+Query  1224     GGCGCCGGTTTGCCGGTA  1241
+                ||||||||||||||||||
+Sbjct  4352593  GGCGCCGGTTTGCCGGTA  4352576
+
+
+
+
+Range 4: 4353006 to 4353060
+
+Score:102 bits(55), Expect:9e-17, 
+Identities:55/55(100%),  Gaps:0/55(0%), Strand: Plus/Minus
+
+Query  373      TAACGCACCAGATGCTGTTCAATACCGATCAGGTGATTGAAGTGTTTGTCATTGG  427
+                |||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4353060  TAACGCACCAGATGCTGTTCAATACCGATCAGGTGATTGAAGTGTTTGTCATTGG  4353006
+
+
+
+
+>Salmonella enterica subsp. enterica serovar Typhimurium strain SP11_LEON chromosome, complete genome
+Sequence ID: CP176561.1 Length: 4933608
+Range 1: 4076838 to 4077134
+
+Score:544 bits(294), Expect:1e-149, 
+Identities:297/298(99%),  Gaps:1/298(0%), Strand: Plus/Minus
+
+Query  671      GCGTCGGCGGCGTCGGCGGCGCGCTACTGGAACAGCTTAAACGTCAGCAAACCTGGCTGA  730
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4077134  GCGTCGGCGGCGTCGGCGGCGCGCTACTGGAACAGCTTAAACGTCAGCAAACCTGGCTGA  4077075
+
+Query  731      AGAACAAGCACATCGATCTACGCGTGTGCGGCGTGGCGAACTCAAAGGCGTTGCTAACCA  790
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4077074  AGAACAAGCACATCGATCTACGCGTGTGCGGCGTGGCGAACTCAAAGGCGTTGCTAACCA  4077015
+
+Query  791      ATGTGCATGGCCTGAATCTGGACAACTGGCAGGCGGAACTGGCGCAAGCGAACGCGCCGT  850
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4077014  ATGTGCATGGCCTGAATCTGGACAACTGGCAGGCGGAACTGGCGCAAGCGAACGCGCCGT  4076955
+
+Query  851      TCAATCTGGGACGCTTAATTCGCCTGGTGAAAGAATATCATCTACTCAATCCGGTGATTG  910
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4076954  TCAATCTGGGACGCTTAATTCGCCTGGTGAAAGAATATCATCTACTCAATCCGGTGATTG  4076895
+
+Query  911      TTGATTGTACCTCCAGTCAGGCGGTGGCCGACCAGTATGCCGACTTCCTGCGTGGAAG  968
+                |||||||||||||||||||||||||||||||||||||||||||||||||||||| |||
+Sbjct  4076894  TTGATTGTACCTCCAGTCAGGCGGTGGCCGACCAGTATGCCGACTTCCTGCGTG-AAG  4076838
+
+
+
+
+Range 2: 4077188 to 4077340
+
+Score:283 bits(153), Expect:3e-71, 
+Identities:153/153(100%),  Gaps:0/153(0%), Strand: Plus/Minus
+
+Query  1        CGACGGTATGCGCACGCTACGCGGCATTTCAGCGAAATTCTTCGCCGCGCTGGCGCGGGC  60
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4077340  CGACGGTATGCGCACGCTACGCGGCATTTCAGCGAAATTCTTCGCCGCGCTGGCGCGGGC  4077281
+
+Query  61       TAATATCAATATCGTGGCGATCGCTCAGGGATCTTCTGAGCGTTCTATTTCTGTGGTGGT  120
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4077280  TAATATCAATATCGTGGCGATCGCTCAGGGATCTTCTGAGCGTTCTATTTCTGTGGTGGT  4077221
+
+Query  121      GAATAACGACGATGCCACCACCGGCGTGCGGGT  153
+                |||||||||||||||||||||||||||||||||
+Sbjct  4077220  GAATAACGACGATGCCACCACCGGCGTGCGGGT  4077188
+
+
+
+
+Range 3: 4076704 to 4076841
+
+Score:255 bits(138), Expect:6e-63, 
+Identities:138/138(100%),  Gaps:0/138(0%), Strand: Plus/Minus
+
+Query  1104     GAAGGGTTCCATGTGGTGACGCCAAACAAGAAAGCGAACACCTCGTCAATGGACTACTAC  1163
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4076841  GAAGGGTTCCATGTGGTGACGCCAAACAAGAAAGCGAACACCTCGTCAATGGACTACTAC  4076782
+
+Query  1164     CATCAGCTACGTTTCGCCGCCGCGCAATCACGGCGCAAATTCTTGTATGACACCAACGTC  1223
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4076781  CATCAGCTACGTTTCGCCGCCGCGCAATCACGGCGCAAATTCTTGTATGACACCAACGTC  4076722
+
+Query  1224     GGCGCCGGTTTGCCGGTA  1241
+                ||||||||||||||||||
+Sbjct  4076721  GGCGCCGGTTTGCCGGTA  4076704
+
+
+
+
+Range 4: 4077134 to 4077188
+
+Score:102 bits(55), Expect:9e-17, 
+Identities:55/55(100%),  Gaps:0/55(0%), Strand: Plus/Minus
+
+Query  373      TAACGCACCAGATGCTGTTCAATACCGATCAGGTGATTGAAGTGTTTGTCATTGG  427
+                |||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4077188  TAACGCACCAGATGCTGTTCAATACCGATCAGGTGATTGAAGTGTTTGTCATTGG  4077134
+
+
+
+
+>Salmonella enterica subsp. enterica strain Z01319SL0010 chromosome, complete genome
+Sequence ID: CP087538.1 Length: 4809485
+Range 1: 2588198 to 2588494
+
+Score:544 bits(294), Expect:1e-149, 
+Identities:297/298(99%),  Gaps:1/298(0%), Strand: Plus/Minus
+
+Query  671      GCGTCGGCGGCGTCGGCGGCGCGCTACTGGAACAGCTTAAACGTCAGCAAACCTGGCTGA  730
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2588494  GCGTCGGCGGCGTCGGCGGCGCGCTACTGGAACAGCTTAAACGTCAGCAAACCTGGCTGA  2588435
+
+Query  731      AGAACAAGCACATCGATCTACGCGTGTGCGGCGTGGCGAACTCAAAGGCGTTGCTAACCA  790
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2588434  AGAACAAGCACATCGATCTACGCGTGTGCGGCGTGGCGAACTCAAAGGCGTTGCTAACCA  2588375
+
+Query  791      ATGTGCATGGCCTGAATCTGGACAACTGGCAGGCGGAACTGGCGCAAGCGAACGCGCCGT  850
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2588374  ATGTGCATGGCCTGAATCTGGACAACTGGCAGGCGGAACTGGCGCAAGCGAACGCGCCGT  2588315
+
+Query  851      TCAATCTGGGACGCTTAATTCGCCTGGTGAAAGAATATCATCTACTCAATCCGGTGATTG  910
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2588314  TCAATCTGGGACGCTTAATTCGCCTGGTGAAAGAATATCATCTACTCAATCCGGTGATTG  2588255
+
+Query  911      TTGATTGTACCTCCAGTCAGGCGGTGGCCGACCAGTATGCCGACTTCCTGCGTGGAAG  968
+                |||||||||||||||||||||||||||||||||||||||||||||||||||||| |||
+Sbjct  2588254  TTGATTGTACCTCCAGTCAGGCGGTGGCCGACCAGTATGCCGACTTCCTGCGTG-AAG  2588198
+
+
+
+
+Range 2: 2588548 to 2588700
+
+Score:278 bits(150), Expect:1e-69, 
+Identities:152/153(99%),  Gaps:0/153(0%), Strand: Plus/Minus
+
+Query  1        CGACGGTATGCGCACGCTACGCGGCATTTCAGCGAAATTCTTCGCCGCGCTGGCGCGGGC  60
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2588700  CGACGGTATGCGCACGCTACGCGGCATTTCAGCGAAATTCTTCGCCGCGCTGGCGCGGGC  2588641
+
+Query  61       TAATATCAATATCGTGGCGATCGCTCAGGGATCTTCTGAGCGTTCTATTTCTGTGGTGGT  120
+                ||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||
+Sbjct  2588640  TAATATCAATATCGTGGCGATCGCTCAGGGATCTTCTGAGCGTTCCATTTCTGTGGTGGT  2588581
+
+Query  121      GAATAACGACGATGCCACCACCGGCGTGCGGGT  153
+                |||||||||||||||||||||||||||||||||
+Sbjct  2588580  GAATAACGACGATGCCACCACCGGCGTGCGGGT  2588548
+
+
+
+
+Range 3: 2588064 to 2588201
+
+Score:250 bits(135), Expect:3e-61, 
+Identities:137/138(99%),  Gaps:0/138(0%), Strand: Plus/Minus
+
+Query  1104     GAAGGGTTCCATGTGGTGACGCCAAACAAGAAAGCGAACACCTCGTCAATGGACTACTAC  1163
+                ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  2588201  GAAGGGTTCCATGTGGTGACGCCAAACAAGAAAGCGAACACCTCGTCGATGGACTACTAC  2588142
+
+Query  1164     CATCAGCTACGTTTCGCCGCCGCGCAATCACGGCGCAAATTCTTGTATGACACCAACGTC  1223
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2588141  CATCAGCTACGTTTCGCCGCCGCGCAATCACGGCGCAAATTCTTGTATGACACCAACGTC  2588082
+
+Query  1224     GGCGCCGGTTTGCCGGTA  1241
+                ||||||||||||||||||
+Sbjct  2588081  GGCGCCGGTTTGCCGGTA  2588064
+
+
+
+
+Range 4: 2588494 to 2588548
+
+Score:102 bits(55), Expect:9e-17, 
+Identities:55/55(100%),  Gaps:0/55(0%), Strand: Plus/Minus
+
+Query  373      TAACGCACCAGATGCTGTTCAATACCGATCAGGTGATTGAAGTGTTTGTCATTGG  427
+                |||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2588548  TAACGCACCAGATGCTGTTCAATACCGATCAGGTGATTGAAGTGTTTGTCATTGG  2588494
+
+
+
+
+>Salmonella enterica subsp. enterica serovar Bareilly strain GTVSS-003 chromosome, complete genome
+Sequence ID: CP176707.1 Length: 4726541
+Range 1: 757585 to 757881
+
+Score:544 bits(294), Expect:1e-149, 
+Identities:297/298(99%),  Gaps:1/298(0%), Strand: Plus/Plus
+
+Query  671     GCGTCGGCGGCGTCGGCGGCGCGCTACTGGAACAGCTTAAACGTCAGCAAACCTGGCTGA  730
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  757585  GCGTCGGCGGCGTCGGCGGCGCGCTACTGGAACAGCTTAAACGTCAGCAAACCTGGCTGA  757644
+
+Query  731     AGAACAAGCACATCGATCTACGCGTGTGCGGCGTGGCGAACTCAAAGGCGTTGCTAACCA  790
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  757645  AGAACAAGCACATCGATCTACGCGTGTGCGGCGTGGCGAACTCAAAGGCGTTGCTAACCA  757704
+
+Query  791     ATGTGCATGGCCTGAATCTGGACAACTGGCAGGCGGAACTGGCGCAAGCGAACGCGCCGT  850
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  757705  ATGTGCATGGCCTGAATCTGGACAACTGGCAGGCGGAACTGGCGCAAGCGAACGCGCCGT  757764
+
+Query  851     TCAATCTGGGACGCTTAATTCGCCTGGTGAAAGAATATCATCTACTCAATCCGGTGATTG  910
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  757765  TCAATCTGGGACGCTTAATTCGCCTGGTGAAAGAATATCATCTACTCAATCCGGTGATTG  757824
+
+Query  911     TTGATTGTACCTCCAGTCAGGCGGTGGCCGACCAGTATGCCGACTTCCTGCGTGGAAG  968
+               |||||||||||||||||||||||||||||||||||||||||||||||||||||| |||
+Sbjct  757825  TTGATTGTACCTCCAGTCAGGCGGTGGCCGACCAGTATGCCGACTTCCTGCGTG-AAG  757881
+
+
+
+
+Range 2: 757379 to 757531
+
+Score:278 bits(150), Expect:1e-69, 
+Identities:152/153(99%),  Gaps:0/153(0%), Strand: Plus/Plus
+
+Query  1       CGACGGTATGCGCACGCTACGCGGCATTTCAGCGAAATTCTTCGCCGCGCTGGCGCGGGC  60
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  757379  CGACGGTATGCGCACGCTACGCGGCATTTCAGCGAAATTCTTCGCCGCGCTGGCGCGGGC  757438
+
+Query  61      TAATATCAATATCGTGGCGATCGCTCAGGGATCTTCTGAGCGTTCTATTTCTGTGGTGGT  120
+               ||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||
+Sbjct  757439  TAATATCAATATCGTGGCGATCGCTCAGGGATCTTCTGAGCGTTCCATTTCTGTGGTGGT  757498
+
+Query  121     GAATAACGACGATGCCACCACCGGCGTGCGGGT  153
+               |||||||||||||||||||||||||||||||||
+Sbjct  757499  GAATAACGACGATGCCACCACCGGCGTGCGGGT  757531
+
+
+
+
+Range 3: 757878 to 758015
+
+Score:244 bits(132), Expect:1e-59, 
+Identities:136/138(99%),  Gaps:0/138(0%), Strand: Plus/Plus
+
+Query  1104    GAAGGGTTCCATGTGGTGACGCCAAACAAGAAAGCGAACACCTCGTCAATGGACTACTAC  1163
+               ||||||||||||||||||||||| ||||||||||||||||||||||| ||||||||||||
+Sbjct  757878  GAAGGGTTCCATGTGGTGACGCCGAACAAGAAAGCGAACACCTCGTCGATGGACTACTAC  757937
+
+Query  1164    CATCAGCTACGTTTCGCCGCCGCGCAATCACGGCGCAAATTCTTGTATGACACCAACGTC  1223
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  757938  CATCAGCTACGTTTCGCCGCCGCGCAATCACGGCGCAAATTCTTGTATGACACCAACGTC  757997
+
+Query  1224    GGCGCCGGTTTGCCGGTA  1241
+               ||||||||||||||||||
+Sbjct  757998  GGCGCCGGTTTGCCGGTA  758015
+
+
+
+
+Range 4: 757531 to 757585
+
+Score:102 bits(55), Expect:9e-17, 
+Identities:55/55(100%),  Gaps:0/55(0%), Strand: Plus/Plus
+
+Query  373     TAACGCACCAGATGCTGTTCAATACCGATCAGGTGATTGAAGTGTTTGTCATTGG  427
+               |||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  757531  TAACGCACCAGATGCTGTTCAATACCGATCAGGTGATTGAAGTGTTTGTCATTGG  757585
+
+
+
+
+>Salmonella enterica subsp. enterica serovar Typhimurium strain STMC246 chromosome, complete genome
+Sequence ID: CP104805.1 Length: 5000338
+Range 1: 4063592 to 4063888
+
+Score:544 bits(294), Expect:1e-149, 
+Identities:297/298(99%),  Gaps:1/298(0%), Strand: Plus/Minus
+
+Query  671      GCGTCGGCGGCGTCGGCGGCGCGCTACTGGAACAGCTTAAACGTCAGCAAACCTGGCTGA  730
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4063888  GCGTCGGCGGCGTCGGCGGCGCGCTACTGGAACAGCTTAAACGTCAGCAAACCTGGCTGA  4063829
+
+Query  731      AGAACAAGCACATCGATCTACGCGTGTGCGGCGTGGCGAACTCAAAGGCGTTGCTAACCA  790
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4063828  AGAACAAGCACATCGATCTACGCGTGTGCGGCGTGGCGAACTCAAAGGCGTTGCTAACCA  4063769
+
+Query  791      ATGTGCATGGCCTGAATCTGGACAACTGGCAGGCGGAACTGGCGCAAGCGAACGCGCCGT  850
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4063768  ATGTGCATGGCCTGAATCTGGACAACTGGCAGGCGGAACTGGCGCAAGCGAACGCGCCGT  4063709
+
+Query  851      TCAATCTGGGACGCTTAATTCGCCTGGTGAAAGAATATCATCTACTCAATCCGGTGATTG  910
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4063708  TCAATCTGGGACGCTTAATTCGCCTGGTGAAAGAATATCATCTACTCAATCCGGTGATTG  4063649
+
+Query  911      TTGATTGTACCTCCAGTCAGGCGGTGGCCGACCAGTATGCCGACTTCCTGCGTGGAAG  968
+                |||||||||||||||||||||||||||||||||||||||||||||||||||||| |||
+Sbjct  4063648  TTGATTGTACCTCCAGTCAGGCGGTGGCCGACCAGTATGCCGACTTCCTGCGTG-AAG  4063592
+
+
+
+
+Range 2: 4063942 to 4064094
+
+Score:283 bits(153), Expect:3e-71, 
+Identities:153/153(100%),  Gaps:0/153(0%), Strand: Plus/Minus
+
+Query  1        CGACGGTATGCGCACGCTACGCGGCATTTCAGCGAAATTCTTCGCCGCGCTGGCGCGGGC  60
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4064094  CGACGGTATGCGCACGCTACGCGGCATTTCAGCGAAATTCTTCGCCGCGCTGGCGCGGGC  4064035
+
+Query  61       TAATATCAATATCGTGGCGATCGCTCAGGGATCTTCTGAGCGTTCTATTTCTGTGGTGGT  120
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4064034  TAATATCAATATCGTGGCGATCGCTCAGGGATCTTCTGAGCGTTCTATTTCTGTGGTGGT  4063975
+
+Query  121      GAATAACGACGATGCCACCACCGGCGTGCGGGT  153
+                |||||||||||||||||||||||||||||||||
+Sbjct  4063974  GAATAACGACGATGCCACCACCGGCGTGCGGGT  4063942
+
+
+
+
+Range 3: 4063458 to 4063595
+
+Score:255 bits(138), Expect:6e-63, 
+Identities:138/138(100%),  Gaps:0/138(0%), Strand: Plus/Minus
+
+Query  1104     GAAGGGTTCCATGTGGTGACGCCAAACAAGAAAGCGAACACCTCGTCAATGGACTACTAC  1163
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4063595  GAAGGGTTCCATGTGGTGACGCCAAACAAGAAAGCGAACACCTCGTCAATGGACTACTAC  4063536
+
+Query  1164     CATCAGCTACGTTTCGCCGCCGCGCAATCACGGCGCAAATTCTTGTATGACACCAACGTC  1223
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4063535  CATCAGCTACGTTTCGCCGCCGCGCAATCACGGCGCAAATTCTTGTATGACACCAACGTC  4063476
+
+Query  1224     GGCGCCGGTTTGCCGGTA  1241
+                ||||||||||||||||||
+Sbjct  4063475  GGCGCCGGTTTGCCGGTA  4063458
+
+
+
+
+Range 4: 4063888 to 4063942
+
+Score:102 bits(55), Expect:9e-17, 
+Identities:55/55(100%),  Gaps:0/55(0%), Strand: Plus/Minus
+
+Query  373      TAACGCACCAGATGCTGTTCAATACCGATCAGGTGATTGAAGTGTTTGTCATTGG  427
+                |||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4063942  TAACGCACCAGATGCTGTTCAATACCGATCAGGTGATTGAAGTGTTTGTCATTGG  4063888
+
+
+
+
+>Salmonella enterica strain SA88 chromosome, complete genome
+Sequence ID: CP169338.1 Length: 3216946
+Range 1: 1028984 to 1029280
+
+Score:544 bits(294), Expect:1e-149, 
+Identities:297/298(99%),  Gaps:1/298(0%), Strand: Plus/Minus
+
+Query  671      GCGTCGGCGGCGTCGGCGGCGCGCTACTGGAACAGCTTAAACGTCAGCAAACCTGGCTGA  730
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1029280  GCGTCGGCGGCGTCGGCGGCGCGCTACTGGAACAGCTTAAACGTCAGCAAACCTGGCTGA  1029221
+
+Query  731      AGAACAAGCACATCGATCTACGCGTGTGCGGCGTGGCGAACTCAAAGGCGTTGCTAACCA  790
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1029220  AGAACAAGCACATCGATCTACGCGTGTGCGGCGTGGCGAACTCAAAGGCGTTGCTAACCA  1029161
+
+Query  791      ATGTGCATGGCCTGAATCTGGACAACTGGCAGGCGGAACTGGCGCAAGCGAACGCGCCGT  850
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1029160  ATGTGCATGGCCTGAATCTGGACAACTGGCAGGCGGAACTGGCGCAAGCGAACGCGCCGT  1029101
+
+Query  851      TCAATCTGGGACGCTTAATTCGCCTGGTGAAAGAATATCATCTACTCAATCCGGTGATTG  910
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1029100  TCAATCTGGGACGCTTAATTCGCCTGGTGAAAGAATATCATCTACTCAATCCGGTGATTG  1029041
+
+Query  911      TTGATTGTACCTCCAGTCAGGCGGTGGCCGACCAGTATGCCGACTTCCTGCGTGGAAG  968
+                |||||||||||||||||||||||||||||||||||||||||||||||||||||| |||
+Sbjct  1029040  TTGATTGTACCTCCAGTCAGGCGGTGGCCGACCAGTATGCCGACTTCCTGCGTG-AAG  1028984
+
+
+
+
+Range 2: 1029334 to 1029486
+
+Score:278 bits(150), Expect:1e-69, 
+Identities:152/153(99%),  Gaps:0/153(0%), Strand: Plus/Minus
+
+Query  1        CGACGGTATGCGCACGCTACGCGGCATTTCAGCGAAATTCTTCGCCGCGCTGGCGCGGGC  60
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1029486  CGACGGTATGCGCACGCTACGCGGCATTTCAGCGAAATTCTTCGCCGCGCTGGCGCGGGC  1029427
+
+Query  61       TAATATCAATATCGTGGCGATCGCTCAGGGATCTTCTGAGCGTTCTATTTCTGTGGTGGT  120
+                ||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||
+Sbjct  1029426  TAATATCAATATCGTGGCGATCGCTCAGGGATCTTCTGAGCGTTCCATTTCTGTGGTGGT  1029367
+
+Query  121      GAATAACGACGATGCCACCACCGGCGTGCGGGT  153
+                |||||||||||||||||||||||||||||||||
+Sbjct  1029366  GAATAACGACGATGCCACCACCGGCGTGCGGGT  1029334
+
+
+
+
+Range 3: 1028850 to 1028987
+
+Score:250 bits(135), Expect:3e-61, 
+Identities:137/138(99%),  Gaps:0/138(0%), Strand: Plus/Minus
+
+Query  1104     GAAGGGTTCCATGTGGTGACGCCAAACAAGAAAGCGAACACCTCGTCAATGGACTACTAC  1163
+                ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  1028987  GAAGGGTTCCATGTGGTGACGCCAAACAAGAAAGCGAACACCTCGTCGATGGACTACTAC  1028928
+
+Query  1164     CATCAGCTACGTTTCGCCGCCGCGCAATCACGGCGCAAATTCTTGTATGACACCAACGTC  1223
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1028927  CATCAGCTACGTTTCGCCGCCGCGCAATCACGGCGCAAATTCTTGTATGACACCAACGTC  1028868
+
+Query  1224     GGCGCCGGTTTGCCGGTA  1241
+                ||||||||||||||||||
+Sbjct  1028867  GGCGCCGGTTTGCCGGTA  1028850
+
+
+
+
+Range 4: 1029280 to 1029334
+
+Score:102 bits(55), Expect:9e-17, 
+Identities:55/55(100%),  Gaps:0/55(0%), Strand: Plus/Minus
+
+Query  373      TAACGCACCAGATGCTGTTCAATACCGATCAGGTGATTGAAGTGTTTGTCATTGG  427
+                |||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1029334  TAACGCACCAGATGCTGTTCAATACCGATCAGGTGATTGAAGTGTTTGTCATTGG  1029280
+
+
+
+
+>Salmonella enterica strain SA67 chromosome, complete genome
+Sequence ID: CP169348.1 Length: 4930408
+Range 1: 4053332 to 4053628
+
+Score:544 bits(294), Expect:1e-149, 
+Identities:297/298(99%),  Gaps:1/298(0%), Strand: Plus/Minus
+
+Query  671      GCGTCGGCGGCGTCGGCGGCGCGCTACTGGAACAGCTTAAACGTCAGCAAACCTGGCTGA  730
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4053628  GCGTCGGCGGCGTCGGCGGCGCGCTACTGGAACAGCTTAAACGTCAGCAAACCTGGCTGA  4053569
+
+Query  731      AGAACAAGCACATCGATCTACGCGTGTGCGGCGTGGCGAACTCAAAGGCGTTGCTAACCA  790
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4053568  AGAACAAGCACATCGATCTACGCGTGTGCGGCGTGGCGAACTCAAAGGCGTTGCTAACCA  4053509
+
+Query  791      ATGTGCATGGCCTGAATCTGGACAACTGGCAGGCGGAACTGGCGCAAGCGAACGCGCCGT  850
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4053508  ATGTGCATGGCCTGAATCTGGACAACTGGCAGGCGGAACTGGCGCAAGCGAACGCGCCGT  4053449
+
+Query  851      TCAATCTGGGACGCTTAATTCGCCTGGTGAAAGAATATCATCTACTCAATCCGGTGATTG  910
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4053448  TCAATCTGGGACGCTTAATTCGCCTGGTGAAAGAATATCATCTACTCAATCCGGTGATTG  4053389
+
+Query  911      TTGATTGTACCTCCAGTCAGGCGGTGGCCGACCAGTATGCCGACTTCCTGCGTGGAAG  968
+                |||||||||||||||||||||||||||||||||||||||||||||||||||||| |||
+Sbjct  4053388  TTGATTGTACCTCCAGTCAGGCGGTGGCCGACCAGTATGCCGACTTCCTGCGTG-AAG  4053332
+
+
+
+
+Range 2: 4053682 to 4053834
+
+Score:278 bits(150), Expect:1e-69, 
+Identities:152/153(99%),  Gaps:0/153(0%), Strand: Plus/Minus
+
+Query  1        CGACGGTATGCGCACGCTACGCGGCATTTCAGCGAAATTCTTCGCCGCGCTGGCGCGGGC  60
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4053834  CGACGGTATGCGCACGCTACGCGGCATTTCAGCGAAATTCTTCGCCGCGCTGGCGCGGGC  4053775
+
+Query  61       TAATATCAATATCGTGGCGATCGCTCAGGGATCTTCTGAGCGTTCTATTTCTGTGGTGGT  120
+                ||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||
+Sbjct  4053774  TAATATCAATATCGTGGCGATCGCTCAGGGATCTTCTGAGCGTTCCATTTCTGTGGTGGT  4053715
+
+Query  121      GAATAACGACGATGCCACCACCGGCGTGCGGGT  153
+                |||||||||||||||||||||||||||||||||
+Sbjct  4053714  GAATAACGACGATGCCACCACCGGCGTGCGGGT  4053682
+
+
+
+
+Range 3: 4053198 to 4053335
+
+Score:244 bits(132), Expect:1e-59, 
+Identities:136/138(99%),  Gaps:0/138(0%), Strand: Plus/Minus
+
+Query  1104     GAAGGGTTCCATGTGGTGACGCCAAACAAGAAAGCGAACACCTCGTCAATGGACTACTAC  1163
+                ||||| ||||||||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  4053335  GAAGGATTCCATGTGGTGACGCCAAACAAGAAAGCGAACACCTCGTCGATGGACTACTAC  4053276
+
+Query  1164     CATCAGCTACGTTTCGCCGCCGCGCAATCACGGCGCAAATTCTTGTATGACACCAACGTC  1223
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4053275  CATCAGCTACGTTTCGCCGCCGCGCAATCACGGCGCAAATTCTTGTATGACACCAACGTC  4053216
+
+Query  1224     GGCGCCGGTTTGCCGGTA  1241
+                ||||||||||||||||||
+Sbjct  4053215  GGCGCCGGTTTGCCGGTA  4053198
+
+
+
+
+Range 4: 4053628 to 4053682
+
+Score:102 bits(55), Expect:9e-17, 
+Identities:55/55(100%),  Gaps:0/55(0%), Strand: Plus/Minus
+
+Query  373      TAACGCACCAGATGCTGTTCAATACCGATCAGGTGATTGAAGTGTTTGTCATTGG  427
+                |||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4053682  TAACGCACCAGATGCTGTTCAATACCGATCAGGTGATTGAAGTGTTTGTCATTGG  4053628
+
+
+
+
+>Salmonella enterica strain SA92 chromosome, complete genome
+Sequence ID: CP168931.1 Length: 4825106
+Range 1: 4066362 to 4066658
+
+Score:544 bits(294), Expect:1e-149, 
+Identities:297/298(99%),  Gaps:1/298(0%), Strand: Plus/Minus
+
+Query  671      GCGTCGGCGGCGTCGGCGGCGCGCTACTGGAACAGCTTAAACGTCAGCAAACCTGGCTGA  730
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4066658  GCGTCGGCGGCGTCGGCGGCGCGCTACTGGAACAGCTTAAACGTCAGCAAACCTGGCTGA  4066599
+
+Query  731      AGAACAAGCACATCGATCTACGCGTGTGCGGCGTGGCGAACTCAAAGGCGTTGCTAACCA  790
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4066598  AGAACAAGCACATCGATCTACGCGTGTGCGGCGTGGCGAACTCAAAGGCGTTGCTAACCA  4066539
+
+Query  791      ATGTGCATGGCCTGAATCTGGACAACTGGCAGGCGGAACTGGCGCAAGCGAACGCGCCGT  850
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4066538  ATGTGCATGGCCTGAATCTGGACAACTGGCAGGCGGAACTGGCGCAAGCGAACGCGCCGT  4066479
+
+Query  851      TCAATCTGGGACGCTTAATTCGCCTGGTGAAAGAATATCATCTACTCAATCCGGTGATTG  910
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4066478  TCAATCTGGGACGCTTAATTCGCCTGGTGAAAGAATATCATCTACTCAATCCGGTGATTG  4066419
+
+Query  911      TTGATTGTACCTCCAGTCAGGCGGTGGCCGACCAGTATGCCGACTTCCTGCGTGGAAG  968
+                |||||||||||||||||||||||||||||||||||||||||||||||||||||| |||
+Sbjct  4066418  TTGATTGTACCTCCAGTCAGGCGGTGGCCGACCAGTATGCCGACTTCCTGCGTG-AAG  4066362
+
+
+
+
+Range 2: 4066712 to 4066864
+
+Score:272 bits(147), Expect:6e-68, 
+Identities:151/153(99%),  Gaps:0/153(0%), Strand: Plus/Minus
+
+Query  1        CGACGGTATGCGCACGCTACGCGGCATTTCAGCGAAATTCTTCGCCGCGCTGGCGCGGGC  60
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4066864  CGACGGTATGCGCACGCTACGCGGCATTTCAGCGAAATTCTTCGCCGCGCTGGCGCGGGC  4066805
+
+Query  61       TAATATCAATATCGTGGCGATCGCTCAGGGATCTTCTGAGCGTTCTATTTCTGTGGTGGT  120
+                 |||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||
+Sbjct  4066804  CAATATCAATATCGTGGCGATCGCTCAGGGATCTTCTGAGCGTTCCATTTCTGTGGTGGT  4066745
+
+Query  121      GAATAACGACGATGCCACCACCGGCGTGCGGGT  153
+                |||||||||||||||||||||||||||||||||
+Sbjct  4066744  GAATAACGACGATGCCACCACCGGCGTGCGGGT  4066712
+
+
+
+
+Range 3: 4066228 to 4066365
+
+Score:233 bits(126), Expect:3e-56, 
+Identities:134/138(97%),  Gaps:0/138(0%), Strand: Plus/Minus
+
+Query  1104     GAAGGGTTCCATGTGGTGACGCCAAACAAGAAAGCGAACACCTCGTCAATGGACTACTAC  1163
+                ||||| ||||||||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  4066365  GAAGGATTCCATGTGGTGACGCCAAACAAGAAAGCGAACACCTCGTCGATGGACTACTAC  4066306
+
+Query  1164     CATCAGCTACGTTTCGCCGCCGCGCAATCACGGCGCAAATTCTTGTATGACACCAACGTC  1223
+                ||||||||||||||||||||||||||||||||||| |||||||||||||| |||||||||
+Sbjct  4066305  CATCAGCTACGTTTCGCCGCCGCGCAATCACGGCGAAAATTCTTGTATGATACCAACGTC  4066246
+
+Query  1224     GGCGCCGGTTTGCCGGTA  1241
+                ||||||||||||||||||
+Sbjct  4066245  GGCGCCGGTTTGCCGGTA  4066228
+
+
+
+
+Range 4: 4066658 to 4066712
+
+Score:102 bits(55), Expect:9e-17, 
+Identities:55/55(100%),  Gaps:0/55(0%), Strand: Plus/Minus
+
+Query  373      TAACGCACCAGATGCTGTTCAATACCGATCAGGTGATTGAAGTGTTTGTCATTGG  427
+                |||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4066712  TAACGCACCAGATGCTGTTCAATACCGATCAGGTGATTGAAGTGTTTGTCATTGG  4066658
+
+
+
+
+
