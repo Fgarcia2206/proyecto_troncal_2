@@ -1,0 +1,25 @@
+##gff-version 3
+#!gff-spec-version 1.21
+#!processor NCBI annotwriter
+##sequence-region MH481611.2 1 18898
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=186538
+MH481611.2	Genbank	region	1	18898	.	+	.	ID=MH481611.2:1..18898;Dbxref=taxon:186538;collection-date=07-May-2017;country=Democratic Republic of the Congo: Likati;gbkey=Src;genome=genomic;isolation-source=blood;mol_type=viral cRNA;nat-host=Homo sapiens;strain=Ebola_virus/DRC/Likati/Human/2017/1
+MH481611.2	Genbank	gene	436	2655	.	+	.	ID=gene-NP;Name=NP;gbkey=Gene;gene=NP;gene_biotype=protein_coding
+MH481611.2	Genbank	CDS	436	2655	.	+	0	ID=cds-AWU50984.2;Parent=gene-NP;Dbxref=NCBI_GP:AWU50984.2;Name=AWU50984.2;gbkey=CDS;gene=NP;product=nucleoprotein;protein_id=AWU50984.2
+MH481611.2	Genbank	gene	3095	4117	.	+	.	ID=gene-VP35;Name=VP35;gbkey=Gene;gene=VP35;gene_biotype=protein_coding
+MH481611.2	Genbank	CDS	3095	4117	.	+	0	ID=cds-AWU50985.2;Parent=gene-VP35;Dbxref=NCBI_GP:AWU50985.2;Name=AWU50985.2;gbkey=CDS;gene=VP35;product=polymerase cofactor VP35;protein_id=AWU50985.2
+MH481611.2	Genbank	gene	4445	5425	.	+	.	ID=gene-VP40;Name=VP40;gbkey=Gene;gene=VP40;gene_biotype=protein_coding
+MH481611.2	Genbank	CDS	4445	5425	.	+	0	ID=cds-AWU50986.2;Parent=gene-VP40;Dbxref=NCBI_GP:AWU50986.2;Name=AWU50986.2;gbkey=CDS;gene=VP40;product=matrix protein VP40;protein_id=AWU50986.2
+MH481611.2	Genbank	gene	6005	8034	.	+	.	ID=gene-GP;Name=GP;gbkey=Gene;gene=GP;gene_biotype=protein_coding
+MH481611.2	Genbank	CDS	6005	6889	.	+	0	ID=cds-AWU50990.2;Parent=gene-GP;Dbxref=NCBI_GP:AWU50990.2;Name=AWU50990.2;Note=results from transcriptional editing that leads to an additional A residue and a +1 reading-frame shift;exception=ribosomal slippage;gbkey=CDS;gene=GP;product=spike glycoprotein;protein_id=AWU50990.2
+MH481611.2	Genbank	CDS	6889	8034	.	+	0	ID=cds-AWU50990.2;Parent=gene-GP;Dbxref=NCBI_GP:AWU50990.2;Name=AWU50990.2;Note=results from transcriptional editing that leads to an additional A residue and a +1 reading-frame shift;exception=ribosomal slippage;gbkey=CDS;gene=GP;product=spike glycoprotein;protein_id=AWU50990.2
+MH481611.2	Genbank	CDS	6005	7099	.	+	0	ID=cds-AWU50991.2;Parent=gene-GP;Dbxref=NCBI_GP:AWU50991.2;Name=AWU50991.2;gbkey=CDS;gene=GP;product=sGP;protein_id=AWU50991.2
+MH481611.2	Genbank	CDS	6005	6888	.	+	0	ID=cds-AWU50992.2;Parent=gene-GP;Dbxref=NCBI_GP:AWU50992.2;Name=AWU50992.2;Note=results from transcriptional editing that leads to two additional A residues and a +2 reading-frame shift;exception=ribosomal slippage;gbkey=CDS;gene=GP;product=second secreted glycoprotein;protein_id=AWU50992.2
+MH481611.2	Genbank	CDS	6890	6899	.	+	1	ID=cds-AWU50992.2;Parent=gene-GP;Dbxref=NCBI_GP:AWU50992.2;Name=AWU50992.2;Note=results from transcriptional editing that leads to two additional A residues and a +2 reading-frame shift;exception=ribosomal slippage;gbkey=CDS;gene=GP;product=second secreted glycoprotein;protein_id=AWU50992.2
+MH481611.2	Genbank	gene	8475	9341	.	+	.	ID=gene-VP30;Name=VP30;gbkey=Gene;gene=VP30;gene_biotype=protein_coding
+MH481611.2	Genbank	CDS	8475	9341	.	+	0	ID=cds-AWU50988.1;Parent=gene-VP30;Dbxref=NCBI_GP:AWU50988.1;Name=AWU50988.1;gbkey=CDS;gene=VP30;product=minor nucleoprotein;protein_id=AWU50988.1
+MH481611.2	Genbank	gene	10311	11066	.	+	.	ID=gene-VP24;Name=VP24;gbkey=Gene;gene=VP24;gene_biotype=protein_coding
+MH481611.2	Genbank	CDS	10311	11066	.	+	0	ID=cds-AWU50989.1;Parent=gene-VP24;Dbxref=NCBI_GP:AWU50989.1;Name=AWU50989.1;gbkey=CDS;gene=VP24;product=membrane-associated protein VP24;protein_id=AWU50989.1
+MH481611.2	Genbank	gene	11547	18185	.	+	.	ID=gene-L;Name=L;gbkey=Gene;gene=L;gene_biotype=protein_coding
+MH481611.2	Genbank	CDS	11547	18185	.	+	0	ID=cds-AWU50987.2;Parent=gene-L;Dbxref=NCBI_GP:AWU50987.2;Name=AWU50987.2;gbkey=CDS;gene=L;product=polymerase;protein_id=AWU50987.2
+

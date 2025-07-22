@@ -1,0 +1,200 @@
+CLUSTAL O(1.2.2) multiple sequence alignment
+
+
+11_frame_1      ------------------------------------------------------------
+11_frame_2      ------------------------------------------------------------
+11_frame_3      --------TVCARYA----------------AFQRNSSPRWRGLISISWRSLRDL-----
+BAM76345.1      ------------------QTAAQRAMMDQVRESRNPGNAEIEDLIFLARSALILRGSVAH
+AGG12534.1      ----------------------QRAMMDQVRESRNPGNAEIEDLIFLARSALILRGSVAH
+QDX47957.1      ------------------------------------------------------------
+AFC17984.1      ------------------------------------------------------------
+QMS42569.1      ------------------------------------------------------------
+XPC21872.1      ------------------------------------------------------------
+AAW78294.1      -----------------FQTAAQRAMMDQVRESRNPGNAEIEDLIFLARSALILRGSVAH
+AMQ46498.1      RRTRIAYERMCNILKGKFQTAAQRAMMDQVRESRNPGNAEIEDLIFLARSALILRGSVAH
+QMS42563.1      ------------------------------------------------------------
+QDX48031.1      ------------------------------------------------------------
+QDX47896.1      ------------------------------------------------------------
+QDX47895.1      ------------------------------------------------------------
+ACZ46735.1      --------------------------------SRNPGNAEVEDLIFLARSALILRGSVAH
+                                                                            
+
+11_frame_1      --------RRYAHATRHFSEILRRAGAG*YQYRGDRSGIF*AFYFCGGE*RRCHHR---R
+11_frame_2      --------------------------DGMRTLRGISAKFFAALARANIN--IVAIAQGSS
+11_frame_3      ---------LSVLFLWW*ITTMPPPACGLDPFRLLQNSQVFSLIRPNEN--PAHK-----
+BAM76345.1      KSCLPACVYGLAVASGYDFEREGYSLVGIDPFRLLQNSQVFSLIRPNEN--PAHK-----
+AGG12534.1      KSCLPACVYGLAVASGYDFEREGYSLVGIDPFRLLQNSQVFSLIRPNEN--PAHK-----
+QDX47957.1      -SCLPACVYGLAVASGYDFEREGYSLVGIDPFRLLQNSQVFSLIRPNEN--PAHK-----
+AFC17984.1      -------VYGLAVASGYDFEREGYSLVGIDPFRLLQNSQVFSLIRPNEN--PAHK-----
+QMS42569.1      ----------------------GYSLVGIDPFRLLQNSQVFSLIRPNEN--PAHK-----
+XPC21872.1      ------------------FEREGYSLVGIDPFRLLQNSQVFSLIRPNEN--PAHK-----
+AAW78294.1      KSCLPACVYGLAVASGYDFEREGYSLVGIDPFRLLQNSQVFSLIRPNEN--PAHK-----
+AMQ46498.1      KSCLPACVYGLAVASGYDFEREGYSLVGIDPFRLLQNSQVFSLIRPNEN--PAHK-----
+QMS42563.1      ----------------------GYSLVGIDPFRLLQNSQVFSLIRPNEN--PAHK-----
+QDX48031.1      -------------------EREGYSLVGIDPFRLLQNSQVFSLIRPNEN--PAHK-----
+QDX47896.1      ----------------------GYSLVGIDPFRLLQNSQVFSLIRPNEN--PAHK-----
+QDX47895.1      ----------------------GYSLVGIDPFRLLQNSQVFSLIRPNEN--PAHK-----
+ACZ46735.1      KSCLPACVYGLAVASGYDFEREGYSLVGIDPFRLLQNSQVFSLIRPNEN--PAHK-----
+                                           *    *      . ::     :           
+
+11_frame_1      AG*I-LSVCCKTARSSV*LDQ----MRIQHIKVNWCGWHA-ILQRLKI*EYQVSSEEQEW
+11_frame_2      ERSISVVVNNDDATTGVRVRSFPSAAKQPGLQSN*TK*ESST*KSIGVDGMPFCSV*RSE
+11_frame_3      -SQLVWMACHSAAFEDLRVSSFIRGTRVVP------------RGQLSTRGVQIASNENME
+BAM76345.1      -SQLVWMACHSAAFEDLRVSSFIRGTRVVP------------RGQLSTRGVQIASNENME
+AGG12534.1      -SQLVWMACHSAAFEDLRVSSFIRGTRVVP------------RGQLSTRGVQIASNENME
+QDX47957.1      -SQLVWMACHSAAFEDLRVSSFIRGTRVVP------------RGQLSTRGVQIASNENME
+AFC17984.1      -SQLVWMACHSAAFEDLRVSSFIRGTRVIP------------RGQLSTRGVQIASNENME
+QMS42569.1      -SQLVWMACHSAAFEDLRVSSFIRGTRVVP------------RGQLSTRGVQIASNENME
+XPC21872.1      -SQLVWMACHSAAFEDLRVSSFIRGTRVVP------------RGQLSTRGVQIASNENME
+AAW78294.1      -SQLVWMACHSAAFEDLRVSSFIRGTRVVP------------RGQLSTRGVQIASNENME
+AMQ46498.1      -SQLVWMACHSAAFEDLRVSSFIRGTRVVP------------RGQLSTRGVQIASNENME
+QMS42563.1      -SQLVWMACHSAAFEDLRVSSFIRGTRVVP------------RGQLSTRGVQIASNENME
+QDX48031.1      -SQLVWMACHSAAFEDLRVSSFIRGTRVVP------------RGQLSTRGVQIASNENME
+QDX47896.1      -SQLVWMACHSAAFEDLRVSSFIRGTRVVP------------RGQLSTRGVQIASNENME
+QDX47895.1      -SQLVWMACHSAAFEDLRVSSFIRGTRVVP------------RGQLSTRGVQIASNENME
+ACZ46735.1      -SQLVWMACHSAAFEDLRVSSFIRGTRVVP------------RGQLSTRGVQIASNENME
+                   :   .  . *   : : .     :                  :      ..*  .  
+
+11_frame_1      SQEDSYLPEE------FRLLQMR---TWKQ*RTRCCSIPIR*L---KCLSLGCCPPTGSS
+11_frame_2      SIKFHQRNK-----------SGPKRTAIYQRSSDCFK*EHGNNNAPDAVQYRSGD*SVCH
+11_frame_3      TITHQMLFNTDQVIEVFVIGLLSSYGELLVRVSPCCSPQQRGRAGGRCREG-----TGSQ
+BAM76345.1      TMDSSTLELR------------SRYWAIRTRSGGNTN-QQRA--------------SAGQ
+AGG12534.1      TMDSSTLELR------------SRYWAIRTRSGGNTN-QQRA--------------SAGQ
+QDX47957.1      TMDSSTLELR------------SRYWAIRTRSGGNTN-QQRA--------------SAGQ
+AFC17984.1      TMDSSTLELR------------SRYWAIRTRSGGNTN-QQRA--------------SAGQ
+QMS42569.1      TMDSSTLELR------------SRYWAIRTRSGGNTN-QQRA--------------SAGQ
+XPC21872.1      TMDSSTLELR------------SRYWAIRTRSGGTTN-QQRA--------------SAGQ
+AAW78294.1      TMDSSTLELR------------SRYWAIRTRSGGNTN-QQRA--------------SAGQ
+AMQ46498.1      TMDSSTLELR------------SRYWAIRTRSGGNTN-QQRA--------------SAGQ
+QMS42563.1      TMDSSTLELR------------SRYWAIRTRSGGNTN-QQRA--------------SAGQ
+QDX48031.1      TMDSSTLELR------------SRYWAIRTRSGGNTN-QQRA--------------SAGQ
+QDX47896.1      TMDSSTLELR------------SRYWAIRTRSGGNTN-QQRA--------------SAGQ
+QDX47895.1      TMDSSTLELR------------SRYWAIRTRSGGNTN-QQRA--------------SAGQ
+ACZ46735.1      TMDSSTLELR------------SRYWAIRTRSGGNTN-QQRA--------------SAGQ
+                :                                   .                   :   
+
+11_frame_1      W*ESLLAAA----------PSRGAGLGDGAGRGQAPSGRKLRPGPPGLRLCLGEGLSLPS
+11_frame_2      WAAVLLRGAPGESLSLLQPPAEGQGWGTVQGGDRLPVGGN*GLDLQDS----GSVWEKAC
+11_frame_3      WEETEAWTS----------------------RTQALFGRR---------------LVSAQ
+BAM76345.1      ISVQPTFSV----------------------QRNLPFERA---------------TIMAA
+AGG12534.1      ISVQPTFSV----------------------QRNLPFERA---------------TIMAA
+QDX47957.1      ISVQPTFSV----------------------QRNLPFERA---------------TIMAA
+AFC17984.1      ISVQPTFSV----------------------QRNLPFERA---------------TIMAA
+QMS42569.1      ISVQPTFSV----------------------QRNLPFERA---------------TIMAA
+XPC21872.1      ISVQPTFSV----------------------QRNLPFERA---------------TIMAA
+AAW78294.1      ISVQPTFSV----------------------QRNLPFERA---------------TIMAA
+AMQ46498.1      ISVQPTFSV----------------------QRNLPFERA---------------TIMAA
+QMS42563.1      ISVQPTFSV----------------------QRNLPFERA---------------TIMAA
+QDX48031.1      ISVQPTFSV----------------------QRNLPFERA---------------TIMAA
+QDX47896.1      ISVQPTFSV----------------------QRNLPFERA---------------TIMAA
+QDX47895.1      ISVQPTFSV----------------------QRNLPFERA---------------TIMAA
+ACZ46735.1      ISVQPTFSV----------------------QRNLPFERA---------------TIMAT
+                                                 .                          
+
+11_frame_1      PHPIIPGLRRPGGGDGGDSTQGSVGGVGGALLEQL-------------------------
+11_frame_2      LCPVLTPLSQASEGPAGE--------MGVTLPKEA-------------------------
+11_frame_3      SSPHYPRPPKARRGRWG*--------LYPRKRRR-RRRRATGTA*---TSANLAEEQAHR
+BAM76345.1      FT-------GNTEGRTSD--------MRTEIIRMMESARPEDVSFQGRGVFELSDEKATN
+AGG12534.1      FT-------GNTEGRTSD--------MRTEIIRMMESARPEDVSFQGRGVFELSDEKATN
+QDX47957.1      FT-------GNTEGRTSD--------MRTEIIRMMENARPEDVSFQGRGVFELSDEKATN
+AFC17984.1      FA-------GNTEGRTSD--------MRTEIIKMMENAKPEDVSFQGRGVFELSDEKATN
+QMS42569.1      FT-------GNTEGRTSD--------MRTEIIRMMENARPEDVSFQGRGVFELSDEKATN
+XPC21872.1      FT-------GNTEGRTSD--------MRTEIIRMMESARPEDVSFQGRGVFELSDEKATN
+AAW78294.1      FT-------GNTEGRTSD--------MRTEIIRMMESARPEDVSFQGRGVFELSDEKATN
+AMQ46498.1      FT-------GNTEGRTSD--------MRTEIIRTMENARPEDVSFQGRGVFELSDEKATN
+QMS42563.1      FT-------GNTEGRTSD--------MRTEIIRMMENARPEDVSFQGRGVFELSDEKATN
+QDX48031.1      FT-------GNTEGRTSD--------MRTEIIRMMENARPEDVSFQGRGVFELSDEKATN
+QDX47896.1      FT-------GNTEGRTSD--------MRTEIIRMMENARPEDVSFQGRGVFELSDEKATN
+QDX47895.1      FT-------GNTEGRTSD--------MRTEIIRMMENARPEDVSFQGRGVFELSDEKATN
+ACZ46735.1      FT-------GSTEGRTSD--------MRTEIIRMMESAKPEDVSFQGRGVFELSDEKATN
+                             *  .         :     .                           
+
+11_frame_1      ------------KRQQTWLKNK--------------------------HIDLRVCGVANS
+11_frame_2      --------------------------SAASAARYWNSLNVSKPG*RTS-TSIYACAAWRT
+11_frame_3      STRVRRGELKGVANQCAWPESGQLAGGTGASERAVQSGTLNSPGERISSTQSGDC*LYLQ
+BAM76345.1      ----------PIVPSFDMSNEGSYFFGDNAEEYDN-------------------------
+AGG12534.1      ----------PIVPSFDMSNEGSYFFGDNAEEYDN-------------------------
+QDX47957.1      ----------PIVPSFDMSNEGSYF-----------------------------------
+AFC17984.1      ----------PIVPSFDMSNEGSYF-----------------------------------
+QMS42569.1      ----------P-------------------------------------------------
+XPC21872.1      ----------PIVPSFDMSNEGSYFFGDNAEEYDN-------------------------
+AAW78294.1      ----------PIVPSFDMSNEGSYFFGDNAEEYDN-------------------------
+AMQ46498.1      ------------------------------------------------------------
+QMS42563.1      ----------P-------------------------------------------------
+QDX48031.1      ----------PIVPSFDMSNEGS-------------------------------------
+QDX47896.1      ----------P-------------------------------------------------
+QDX47895.1      ----------P-------------------------------------------------
+ACZ46735.1      ----------PIVPSFDMSNEGSYFFGDNAEEYDN-------------------------
+                                                                            
+
+11_frame_1      -----KALLTNVHGLNLDNWQAELAQA--NAPFNLGRLIRLVKEYHLLNPVIVDCTSSQA
+11_frame_2      QRRC*PMCMA*IWTTGRRNWRKRTRRSIWDA*FAW*KNIIYSIR*LLIVPPVRRWPT--S
+11_frame_3      SGGGRPVCRLPAWKSGG*TE----------------------------------------
+BAM76345.1      ------------------------------------------------------------
+AGG12534.1      ------------------------------------------------------------
+QDX47957.1      ------------------------------------------------------------
+AFC17984.1      ------------------------------------------------------------
+QMS42569.1      ------------------------------------------------------------
+XPC21872.1      ------------------------------------------------------------
+AAW78294.1      ------------------------------------------------------------
+AMQ46498.1      ------------------------------------------------------------
+QMS42563.1      ------------------------------------------------------------
+QDX48031.1      ------------------------------------------------------------
+QDX47896.1      ------------------------------------------------------------
+QDX47895.1      ------------------------------------------------------------
+ACZ46735.1      ------------------------------------------------------------
+                                                                            
+
+11_frame_1      VADQYADFLRGSQGDRQREIRYRNQI*KSDIEIRYSRWGTGREWGPQGWGPLVQ*PEKGS
+11_frame_2      MPTSCVEVRGIDREKSDIEIRYRNQI*KSDIQGGG--------------QGGSGVPRAGG
+11_frame_3      ---------RNQI*KSDIEIRYRNQIFKVGDR------------------AGVGSPGLGA
+BAM76345.1      ------------------------------------------------------------
+AGG12534.1      ------------------------------------------------------------
+QDX47957.1      ------------------------------------------------------------
+AFC17984.1      ------------------------------------------------------------
+QMS42569.1      ------------------------------------------------------------
+XPC21872.1      ------------------------------------------------------------
+AAW78294.1      ------------------------------------------------------------
+AMQ46498.1      ------------------------------------------------------------
+QMS42563.1      ------------------------------------------------------------
+QDX48031.1      ------------------------------------------------------------
+QDX47896.1      ------------------------------------------------------------
+QDX47895.1      ------------------------------------------------------------
+ACZ46735.1      ------------------------------------------------------------
+                                                                            
+
+11_frame_1      MW*RQTRKRT---PRQW--TTTISYVSPPR---N------------------HGANSCMT
+11_frame_2      LWCSDQRRV----PCGDAKQESEHLVNGLLPSATFRRRAITAQILV*HQRRRRFAG----
+11_frame_3      FGAVTREGFHVVTPNKKANTSSMDYYHQLR--------------FAAAQSRRKFLYDTNV
+BAM76345.1      ------------------------------------------------------------
+AGG12534.1      ------------------------------------------------------------
+QDX47957.1      ------------------------------------------------------------
+AFC17984.1      ------------------------------------------------------------
+QMS42569.1      ------------------------------------------------------------
+XPC21872.1      ------------------------------------------------------------
+AAW78294.1      ------------------------------------------------------------
+AMQ46498.1      ------------------------------------------------------------
+QMS42563.1      ------------------------------------------------------------
+QDX48031.1      ------------------------------------------------------------
+QDX47896.1      ------------------------------------------------------------
+QDX47895.1      ------------------------------------------------------------
+ACZ46735.1      ------------------------------------------------------------
+                                                                            
+
+11_frame_1      PTSAPVCR
+11_frame_2      --------
+11_frame_3      GAGLPV--
+BAM76345.1      --------
+AGG12534.1      --------
+QDX47957.1      --------
+AFC17984.1      --------
+QMS42569.1      --------
+XPC21872.1      --------
+AAW78294.1      --------
+AMQ46498.1      --------
+QMS42563.1      --------
+QDX48031.1      --------
+QDX47896.1      --------
+QDX47895.1      --------
+ACZ46735.1      --------
+                        

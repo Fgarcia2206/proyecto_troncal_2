@@ -1,0 +1,10 @@
+>11_translation_report
+Best frame: 1
+Protein length: 66 aa
+Protein sequence:
+DGMRTLRGISAKFFAALARANINIVAIAQGSSERSISVVVNNDDATTGVRVRSFPSAAKQPGLQSN
+
+All frames analysis:
+Frame 0: 20 aa | STOP positions: [20, 32, 41, 51, 65, 91, 124, 135, 152, 337, 365, 373]
+Frame 1: 66 aa | STOP positions: [66, 69, 74, 88, 118, 136, 181, 242, 261, 267, 288, 292, 301, 341, 403]
+Frame 2: 39 aa | STOP positions: [39, 217, 235, 303, 325, 332]

@@ -1,0 +1,346 @@
+Query #7: 7 unknown sequence 7 Query ID: lcl|Query_3932111 Length: 1017
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+polyprotein, partial [dengue virus type 2]                        dengue virus... NA              11060      181    276   42%   6e-53 88.46  348        XFZ89268.1       
+polyprotein, partial [dengue virus type 2]                        dengue virus... NA              11060      180    275   42%   2e-52 88.46  375        QOV28491.1       
+polyprotein, partial [dengue virus type 2]                        dengue virus... NA              11060      180    275   42%   2e-52 88.46  375        QOV28490.1       
+nonstructural protein 1, partial [dengue virus type 2]            dengue virus... NA              11060      179    272   41%   1e-48 90.20  886        AAA66406.1       
+polyprotein, partial [dengue virus type 2]                        dengue virus... NA              11060      178    271   41%   2e-47 90.20  3336       XAX02478.1       
+polyprotein [dengue virus type 2]                                 dengue virus... NA              11060      178    271   42%   2e-47 89.42  3391       ADK37484.1       
+polyprotein [dengue virus type 2]                                 dengue virus... NA              11060      178    271   42%   2e-47 89.42  3391       ACA48901.1       
+polyprotein [dengue virus type 2]                                 dengue virus... NA              11060      178    271   42%   2e-47 89.42  3391       ARO52692.1       
+polyprotein [dengue virus type 2]                                 dengue virus... NA              11060      178    271   42%   2e-47 89.42  3391       UVK35471.1       
+polyprotein, partial [dengue virus type 2]                        dengue virus... NA              11060      177    271   42%   3e-47 88.46  3254       WJZ47410.1       
+
+
+Alignments:
+
+>polyprotein, partial [dengue virus type 2]
+Sequence ID: XFZ89268.1 Length: 348
+Range 1: 181 to 284
+
+Score:181 bits(628), Expect:6e-53, 
+Method:Compositional matrix adjust., 
+Identities:92/104(88%), Positives:94/104(90%), Gaps:9/104(8%)
+
+Query  140  LPTSSQQKADWIPLALTIKGLNPTAIFLTTLSRTNKKRSWPLNEAIMAVGMVSILASSLL  319
+            L TSSQQKADWIPLALTIKGLNPTAIFLTTLSRTNKKRSWPLNEAIMAVGMVSILASSLL
+Sbjct  181  LLTSSQQKADWIPLALTIKGLNPTAIFLTTLSRTNKKRSWPLNEAIMAVGMVSILASSLL  240
+
+Query  320  KNDIPMTGPLVA---------VTGRSADLELERAADVKWEDQAE  424
+            KNDIPMTGPLVA         +TGRSADLELERAADV+WEDQAE
+Sbjct  241  KNDIPMTGPLVAGGLLTVCYVLTGRSADLELERAADVRWEDQAE  284
+
+
+
+
+Range 2: 181 to 228
+
+Score:95.3 bits(321), Expect:5e-20, 
+Method:Compositional matrix adjust., 
+Identities:44/48(92%), Positives:47/48(97%), Gaps:0/48(0%)
+
+Query  846  VVTSSQQKADWIPLALTIKGLNPTAIFLTTLSRTNKKRSWPLNEAMEA  989
+            ++TSSQQKADWIPLALTIKGLNPTAIFLTTLSRTNKKRSWPLNEA+ A
+Sbjct  181  LLTSSQQKADWIPLALTIKGLNPTAIFLTTLSRTNKKRSWPLNEAIMA  228
+
+
+
+
+>polyprotein, partial [dengue virus type 2]
+Sequence ID: QOV28491.1 Length: 375
+>polyprotein, partial [dengue virus type 2]
+Sequence ID: QOV28492.1 Length: 375 
+Range 1: 216 to 319
+
+Score:180 bits(625), Expect:2e-52, 
+Method:Compositional matrix adjust., 
+Identities:92/104(88%), Positives:94/104(90%), Gaps:9/104(8%)
+
+Query  140  LPTSSQQKADWIPLALTIKGLNPTAIFLTTLSRTNKKRSWPLNEAIMAVGMVSILASSLL  319
+            L TSSQQKADWIPLALTIKGLNPTAIFLTTLSRTNKKRSWPLNEAIMAVGMVSILASSLL
+Sbjct  216  LLTSSQQKADWIPLALTIKGLNPTAIFLTTLSRTNKKRSWPLNEAIMAVGMVSILASSLL  275
+
+Query  320  KNDIPMTGPLVA---------VTGRSADLELERAADVKWEDQAE  424
+            KNDIPMTGPLVA         +TGRSADLELERAADV+WEDQAE
+Sbjct  276  KNDIPMTGPLVAGGLLTVCYVLTGRSADLELERAADVRWEDQAE  319
+
+
+
+
+Range 2: 216 to 263
+
+Score:95.0 bits(320), Expect:1e-19, 
+Method:Compositional matrix adjust., 
+Identities:44/48(92%), Positives:47/48(97%), Gaps:0/48(0%)
+
+Query  846  VVTSSQQKADWIPLALTIKGLNPTAIFLTTLSRTNKKRSWPLNEAMEA  989
+            ++TSSQQKADWIPLALTIKGLNPTAIFLTTLSRTNKKRSWPLNEA+ A
+Sbjct  216  LLTSSQQKADWIPLALTIKGLNPTAIFLTTLSRTNKKRSWPLNEAIMA  263
+
+
+
+
+>polyprotein, partial [dengue virus type 2]
+Sequence ID: QOV28490.1 Length: 375
+>polyprotein, partial [dengue virus type 2]
+Sequence ID: QOV28493.1 Length: 375 
+Range 1: 216 to 319
+
+Score:180 bits(625), Expect:2e-52, 
+Method:Compositional matrix adjust., 
+Identities:92/104(88%), Positives:94/104(90%), Gaps:9/104(8%)
+
+Query  140  LPTSSQQKADWIPLALTIKGLNPTAIFLTTLSRTNKKRSWPLNEAIMAVGMVSILASSLL  319
+            L TSSQQKADWIPLALTIKGLNPTAIFLTTLSRTNKKRSWPLNEAIMAVGMVSILASSLL
+Sbjct  216  LLTSSQQKADWIPLALTIKGLNPTAIFLTTLSRTNKKRSWPLNEAIMAVGMVSILASSLL  275
+
+Query  320  KNDIPMTGPLVA---------VTGRSADLELERAADVKWEDQAE  424
+            KNDIPMTGPLVA         +TGRSADLELERAADV+WEDQAE
+Sbjct  276  KNDIPMTGPLVAGGLLTVCYVLTGRSADLELERAADVRWEDQAE  319
+
+
+
+
+Range 2: 216 to 263
+
+Score:95.0 bits(320), Expect:1e-19, 
+Method:Compositional matrix adjust., 
+Identities:44/48(92%), Positives:47/48(97%), Gaps:0/48(0%)
+
+Query  846  VVTSSQQKADWIPLALTIKGLNPTAIFLTTLSRTNKKRSWPLNEAMEA  989
+            ++TSSQQKADWIPLALTIKGLNPTAIFLTTLSRTNKKRSWPLNEA+ A
+Sbjct  216  LLTSSQQKADWIPLALTIKGLNPTAIFLTTLSRTNKKRSWPLNEAIMA  263
+
+
+
+
+>nonstructural protein 1, partial [dengue virus type 2]
+Sequence ID: AAA66406.1 Length: 886
+Range 1: 267 to 368
+
+Score:179 bits(619), Expect:1e-48, 
+Method:Compositional matrix adjust., 
+Identities:92/102(90%), Positives:93/102(91%), Gaps:9/102(8%)
+
+Query  146  TSSQQKADWIPLALTIKGLNPTAIFLTTLSRTNKKRSWPLNEAIMAVGMVSILASSLLKN  325
+            TSSQQKADWIPLALTIKGLNPTAIFLTTLSRTNKKRSWPLNEAIMAVGMVSILASSLLKN
+Sbjct  267  TSSQQKADWIPLALTIKGLNPTAIFLTTLSRTNKKRSWPLNEAIMAVGMVSILASSLLKN  326
+
+Query  326  DIPMTGPLVA---------VTGRSADLELERAADVKWEDQAE  424
+            DIPMTGPLVA         +TGRSADLELERAADVKWEDQAE
+Sbjct  327  DIPMTGPLVAGGLLTVCYVLTGRSADLELERAADVKWEDQAE  368
+
+
+
+
+Range 2: 266 to 312
+
+Score:93.3 bits(314), Expect:4e-18, 
+Method:Compositional matrix adjust., 
+Identities:44/47(94%), Positives:46/47(97%), Gaps:0/47(0%)
+
+Query  849  VTSSQQKADWIPLALTIKGLNPTAIFLTTLSRTNKKRSWPLNEAMEA  989
+            +TSSQQKADWIPLALTIKGLNPTAIFLTTLSRTNKKRSWPLNEA+ A
+Sbjct  266  LTSSQQKADWIPLALTIKGLNPTAIFLTTLSRTNKKRSWPLNEAIMA  312
+
+
+
+
+>polyprotein, partial [dengue virus type 2]
+Sequence ID: XAX02478.1 Length: 3336
+Range 1: 1309 to 1410
+
+Score:178 bits(617), Expect:2e-47, 
+Method:Compositional matrix adjust., 
+Identities:92/102(90%), Positives:93/102(91%), Gaps:9/102(8%)
+
+Query  146   TSSQQKADWIPLALTIKGLNPTAIFLTTLSRTNKKRSWPLNEAIMAVGMVSILASSLLKN  325
+             TSSQQKADWIPLALTIKGLNPTAIFLTTLSRTNKKRSWPLNEAIMAVGMVSILASSLLKN
+Sbjct  1309  TSSQQKADWIPLALTIKGLNPTAIFLTTLSRTNKKRSWPLNEAIMAVGMVSILASSLLKN  1368
+
+Query  326   DIPMTGPLVA---------VTGRSADLELERAADVKWEDQAE  424
+             DIPMTGPLVA         +TGRSADLELERAADVKWEDQAE
+Sbjct  1369  DIPMTGPLVAGGLLTVCYVLTGRSADLELERAADVKWEDQAE  1410
+
+
+
+
+Range 2: 1308 to 1354
+
+Score:92.7 bits(312), Expect:8e-18, 
+Method:Compositional matrix adjust., 
+Identities:44/47(94%), Positives:46/47(97%), Gaps:0/47(0%)
+
+Query  849   VTSSQQKADWIPLALTIKGLNPTAIFLTTLSRTNKKRSWPLNEAMEA  989
+             +TSSQQKADWIPLALTIKGLNPTAIFLTTLSRTNKKRSWPLNEA+ A
+Sbjct  1308  LTSSQQKADWIPLALTIKGLNPTAIFLTTLSRTNKKRSWPLNEAIMA  1354
+
+
+
+
+>polyprotein [dengue virus type 2]
+Sequence ID: ADK37484.1 Length: 3391
+Range 1: 1308 to 1411
+
+Score:178 bits(617), Expect:2e-47, 
+Method:Compositional matrix adjust., 
+Identities:93/104(89%), Positives:94/104(90%), Gaps:9/104(8%)
+
+Query  140   LPTSSQQKADWIPLALTIKGLNPTAIFLTTLSRTNKKRSWPLNEAIMAVGMVSILASSLL  319
+             L TSSQQKADWIPLALTIKGLNPTAIFLTTLSRTNKKRSWPLNEAIMAVGMVSILASSLL
+Sbjct  1308  LLTSSQQKADWIPLALTIKGLNPTAIFLTTLSRTNKKRSWPLNEAIMAVGMVSILASSLL  1367
+
+Query  320   KNDIPMTGPLVA---------VTGRSADLELERAADVKWEDQAE  424
+             KNDIPMTGPLVA         +TGRSADLELERAADVKWEDQAE
+Sbjct  1368  KNDIPMTGPLVAGGLLTVCYVLTGRSADLELERAADVKWEDQAE  1411
+
+
+
+
+Range 2: 1308 to 1355
+
+Score:93.0 bits(313), Expect:6e-18, 
+Method:Compositional matrix adjust., 
+Identities:44/48(92%), Positives:47/48(97%), Gaps:0/48(0%)
+
+Query  846   VVTSSQQKADWIPLALTIKGLNPTAIFLTTLSRTNKKRSWPLNEAMEA  989
+             ++TSSQQKADWIPLALTIKGLNPTAIFLTTLSRTNKKRSWPLNEA+ A
+Sbjct  1308  LLTSSQQKADWIPLALTIKGLNPTAIFLTTLSRTNKKRSWPLNEAIMA  1355
+
+
+
+
+>polyprotein [dengue virus type 2]
+Sequence ID: ACA48901.1 Length: 3391
+>polyprotein [dengue virus type 2]
+Sequence ID: ACA48956.1 Length: 3391 
+Range 1: 1308 to 1411
+
+Score:178 bits(617), Expect:2e-47, 
+Method:Compositional matrix adjust., 
+Identities:93/104(89%), Positives:94/104(90%), Gaps:9/104(8%)
+
+Query  140   LPTSSQQKADWIPLALTIKGLNPTAIFLTTLSRTNKKRSWPLNEAIMAVGMVSILASSLL  319
+             L TSSQQKADWIPLALTIKGLNPTAIFLTTLSRTNKKRSWPLNEAIMAVGMVSILASSLL
+Sbjct  1308  LLTSSQQKADWIPLALTIKGLNPTAIFLTTLSRTNKKRSWPLNEAIMAVGMVSILASSLL  1367
+
+Query  320   KNDIPMTGPLVA---------VTGRSADLELERAADVKWEDQAE  424
+             KNDIPMTGPLVA         +TGRSADLELERAADVKWEDQAE
+Sbjct  1368  KNDIPMTGPLVAGGLLTVCYVLTGRSADLELERAADVKWEDQAE  1411
+
+
+
+
+Range 2: 1308 to 1355
+
+Score:93.0 bits(313), Expect:6e-18, 
+Method:Compositional matrix adjust., 
+Identities:44/48(92%), Positives:47/48(97%), Gaps:0/48(0%)
+
+Query  846   VVTSSQQKADWIPLALTIKGLNPTAIFLTTLSRTNKKRSWPLNEAMEA  989
+             ++TSSQQKADWIPLALTIKGLNPTAIFLTTLSRTNKKRSWPLNEA+ A
+Sbjct  1308  LLTSSQQKADWIPLALTIKGLNPTAIFLTTLSRTNKKRSWPLNEAIMA  1355
+
+
+
+
+>polyprotein [dengue virus type 2]
+Sequence ID: ARO52692.1 Length: 3391
+Range 1: 1308 to 1411
+
+Score:178 bits(617), Expect:2e-47, 
+Method:Compositional matrix adjust., 
+Identities:93/104(89%), Positives:94/104(90%), Gaps:9/104(8%)
+
+Query  140   LPTSSQQKADWIPLALTIKGLNPTAIFLTTLSRTNKKRSWPLNEAIMAVGMVSILASSLL  319
+             L TSSQQKADWIPLALTIKGLNPTAIFLTTLSRTNKKRSWPLNEAIMAVGMVSILASSLL
+Sbjct  1308  LLTSSQQKADWIPLALTIKGLNPTAIFLTTLSRTNKKRSWPLNEAIMAVGMVSILASSLL  1367
+
+Query  320   KNDIPMTGPLVA---------VTGRSADLELERAADVKWEDQAE  424
+             KNDIPMTGPLVA         +TGRSADLELERAADVKWEDQAE
+Sbjct  1368  KNDIPMTGPLVAGGLLTVCYVLTGRSADLELERAADVKWEDQAE  1411
+
+
+
+
+Range 2: 1308 to 1355
+
+Score:93.0 bits(313), Expect:6e-18, 
+Method:Compositional matrix adjust., 
+Identities:44/48(92%), Positives:47/48(97%), Gaps:0/48(0%)
+
+Query  846   VVTSSQQKADWIPLALTIKGLNPTAIFLTTLSRTNKKRSWPLNEAMEA  989
+             ++TSSQQKADWIPLALTIKGLNPTAIFLTTLSRTNKKRSWPLNEA+ A
+Sbjct  1308  LLTSSQQKADWIPLALTIKGLNPTAIFLTTLSRTNKKRSWPLNEAIMA  1355
+
+
+
+
+>polyprotein [dengue virus type 2]
+Sequence ID: UVK35471.1 Length: 3391
+Range 1: 1308 to 1411
+
+Score:178 bits(616), Expect:2e-47, 
+Method:Compositional matrix adjust., 
+Identities:93/104(89%), Positives:94/104(90%), Gaps:9/104(8%)
+
+Query  140   LPTSSQQKADWIPLALTIKGLNPTAIFLTTLSRTNKKRSWPLNEAIMAVGMVSILASSLL  319
+             L TSSQQKADWIPLALTIKGLNPTAIFLTTLSRTNKKRSWPLNEAIMAVGMVSILASSLL
+Sbjct  1308  LLTSSQQKADWIPLALTIKGLNPTAIFLTTLSRTNKKRSWPLNEAIMAVGMVSILASSLL  1367
+
+Query  320   KNDIPMTGPLVA---------VTGRSADLELERAADVKWEDQAE  424
+             KNDIPMTGPLVA         +TGRSADLELERAADVKWEDQAE
+Sbjct  1368  KNDIPMTGPLVAGGLLTVCYVLTGRSADLELERAADVKWEDQAE  1411
+
+
+
+
+Range 2: 1308 to 1355
+
+Score:93.0 bits(313), Expect:6e-18, 
+Method:Compositional matrix adjust., 
+Identities:44/48(92%), Positives:47/48(97%), Gaps:0/48(0%)
+
+Query  846   VVTSSQQKADWIPLALTIKGLNPTAIFLTTLSRTNKKRSWPLNEAMEA  989
+             ++TSSQQKADWIPLALTIKGLNPTAIFLTTLSRTNKKRSWPLNEA+ A
+Sbjct  1308  LLTSSQQKADWIPLALTIKGLNPTAIFLTTLSRTNKKRSWPLNEAIMA  1355
+
+
+
+
+>polyprotein, partial [dengue virus type 2]
+Sequence ID: WJZ47410.1 Length: 3254
+Range 1: 1288 to 1391
+
+Score:177 bits(615), Expect:3e-47, 
+Method:Compositional matrix adjust., 
+Identities:92/104(88%), Positives:94/104(90%), Gaps:9/104(8%)
+
+Query  140   LPTSSQQKADWIPLALTIKGLNPTAIFLTTLSRTNKKRSWPLNEAIMAVGMVSILASSLL  319
+             L TSSQQKADWIPLALTIKGLNPTAIFLTTLSRTNKKRSWPLNEAIMAVGMVSILASSLL
+Sbjct  1288  LLTSSQQKADWIPLALTIKGLNPTAIFLTTLSRTNKKRSWPLNEAIMAVGMVSILASSLL  1347
+
+Query  320   KNDIPMTGPLVA---------VTGRSADLELERAADVKWEDQAE  424
+             KNDIPMTGPLVA         +TGRSADLELERAADV+WEDQAE
+Sbjct  1348  KNDIPMTGPLVAGGLLTVCYVLTGRSADLELERAADVRWEDQAE  1391
+
+
+
+
+Range 2: 1288 to 1335
+
+Score:93.3 bits(314), Expect:6e-18, 
+Method:Compositional matrix adjust., 
+Identities:44/48(92%), Positives:47/48(97%), Gaps:0/48(0%)
+
+Query  846   VVTSSQQKADWIPLALTIKGLNPTAIFLTTLSRTNKKRSWPLNEAMEA  989
+             ++TSSQQKADWIPLALTIKGLNPTAIFLTTLSRTNKKRSWPLNEA+ A
+Sbjct  1288  LLTSSQQKADWIPLALTIKGLNPTAIFLTTLSRTNKKRSWPLNEAIMA  1335
+
+
+
+
+

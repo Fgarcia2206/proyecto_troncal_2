@@ -1,0 +1,362 @@
+Query #9: 9 unknown sequence 9 Query ID: lcl|Query_3932113 Length: 1139
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+VP40, partial [Zaire ebolavirus]                                  Zaire ebolav... NA              186538     132    185   31%   5e-34 90.14  292        WWV92822.1       
+VP40 [Zaire ebolavirus]                                           Zaire ebolav... NA              186538     132    186   31%   5e-34 91.55  326        AGB56829.1       
+matrix protein, partial [Zaire ebolavirus]                        Zaire ebolav... NA              186538     132    185   31%   6e-34 90.14  297        QNL24357.1       
+matrix protein, partial [Zaire ebolavirus]                        Zaire ebolav... NA              186538     129    183   31%   7e-34 88.73  202        QYR86863.1       
+matrix protein [Zaire ebolavirus]                                 Zaire ebolav... NA              186538     131    184   31%   2e-33 90.14  326        QNL27237.1       
+VP40 [Zaire ebolavirus]                                           Zaire ebolav... NA              186538     131    184   31%   2e-33 90.14  326        WWV92552.1       
+matrix protein, partial [Zaire ebolavirus]                        Zaire ebolav... NA              186538     130    184   31%   2e-33 90.14  316        QYR85756.1       
+RecName: Full=Matrix protein VP40; AltName: Full=Ebola VP40;...   Ebola virus ... NA              128947     131    184   31%   2e-33 90.14  326        Q2PDK5.1         
+matrix protein [Zaire ebolavirus]                                 Zaire ebolav... NA              186538     131    184   31%   2e-33 90.14  326        QNL26265.1       
+VP40 [Zaire ebolavirus]                                           Zaire ebolav... NA              186538     130    184   31%   2e-33 90.14  326        WWV92561.1       
+
+
+Alignments:
+
+>VP40, partial [Zaire ebolavirus]
+Sequence ID: WWV92822.1 Length: 292
+>VP40, partial [Zaire ebolavirus]
+Sequence ID: WWV92930.1 Length: 292
+>VP40, partial [Zaire ebolavirus]
+Sequence ID: WWV93299.1 Length: 292 
+Range 1: 1 to 71
+
+Score:132 bits(452), Expect:5e-34, 
+Method:Compositional matrix adjust., 
+Identities:64/71(90%), Positives:66/71(92%), Gaps:0/71(0%)
+
+Query  517  MRRVILPTAPPEYMEAIYPVRSNSTIARGGNNNTGFLTPESVNGDTPSNPLRPIADDTID  696
+            MRRVILPTAPPEYMEAIYPVRSNSTIARGGN+NTGFLTPESVNGDTPSNPLRPIADDTID
+Sbjct  1    MRRVILPTAPPEYMEAIYPVRSNSTIARGGNSNTGFLTPESVNGDTPSNPLRPIADDTID  60
+
+Query  697  HAGCCPPTGSS  729
+            HA   P + SS
+Sbjct  61   HASHTPGSVSS  71
+
+
+
+
+Range 2: 36 to 87
+
+Score:53.6 bits(173), Expect:5e-05, 
+Method:Compositional matrix adjust., 
+Identities:31/52(60%), Positives:35/52(67%), Gaps:4/52(7%)
+
+Query  995   VLTPLSQASEGPAGEM----GVTLPKESHTPGSVSSAFILEAMVNVISGPKV  1138
+              LTP S   + P+  +      T+   SHTPGSVSSAFILEAMVNVISGPKV
+Sbjct  36    FLTPESVNGDTPSNPLRPIADDTIDHASHTPGSVSSAFILEAMVNVISGPKV  87
+
+
+
+
+>VP40 [Zaire ebolavirus]
+Sequence ID: AGB56829.1 Length: 326
+>matrix protein VP40 [Ebola virus]
+Sequence ID: ARG43220.1 Length: 326
+>VP40 protein [Zaire ebolavirus]
+Sequence ID: AJT59736.1 Length: 326
+>VP40 protein [Zaire ebolavirus]
+Sequence ID: AJT59742.1 Length: 326
+>matrix protein VP40 [Zaire ebolavirus]
+Sequence ID: AQA27301.1 Length: 326 
+Range 1: 1 to 71
+
+Score:132 bits(455), Expect:5e-34, 
+Method:Compositional matrix adjust., 
+Identities:65/71(92%), Positives:66/71(92%), Gaps:0/71(0%)
+
+Query  517  MRRVILPTAPPEYMEAIYPVRSNSTIARGGNNNTGFLTPESVNGDTPSNPLRPIADDTID  696
+            MRRVILPTAPPEYMEAIYPVRSNSTIARGGNNNTGFLTPESVNGDTPSNPLRPIADDTID
+Sbjct  1    MRRVILPTAPPEYMEAIYPVRSNSTIARGGNNNTGFLTPESVNGDTPSNPLRPIADDTID  60
+
+Query  697  HAGCCPPTGSS  729
+            HA   P + SS
+Sbjct  61   HASHTPGSVSS  71
+
+
+
+
+Range 2: 37 to 87
+
+Score:53.4 bits(172), Expect:7e-05, 
+Method:Compositional matrix adjust., 
+Identities:31/51(61%), Positives:35/51(68%), Gaps:4/51(7%)
+
+Query  998   LTPLSQASEGPAGEM----GVTLPKESHTPGSVSSAFILEAMVNVISGPKV  1138
+             LTP S   + P+  +      T+   SHTPGSVSSAFILEAMVNVISGPKV
+Sbjct  37    LTPESVNGDTPSNPLRPIADDTIDHASHTPGSVSSAFILEAMVNVISGPKV  87
+
+
+
+
+>matrix protein, partial [Zaire ebolavirus]
+Sequence ID: QNL24357.1 Length: 297
+Range 1: 1 to 71
+
+Score:132 bits(452), Expect:6e-34, 
+Method:Compositional matrix adjust., 
+Identities:64/71(90%), Positives:66/71(92%), Gaps:0/71(0%)
+
+Query  517  MRRVILPTAPPEYMEAIYPVRSNSTIARGGNNNTGFLTPESVNGDTPSNPLRPIADDTID  696
+            MRRVILPTAPPEYMEAIYPVRSNSTIARGGN+NTGFLTPESVNGDTPSNPLRPIADDTID
+Sbjct  1    MRRVILPTAPPEYMEAIYPVRSNSTIARGGNSNTGFLTPESVNGDTPSNPLRPIADDTID  60
+
+Query  697  HAGCCPPTGSS  729
+            HA   P + SS
+Sbjct  61   HASHTPGSVSS  71
+
+
+
+
+Range 2: 37 to 87
+
+Score:53.6 bits(173), Expect:5e-05, 
+Method:Compositional matrix adjust., 
+Identities:31/51(61%), Positives:35/51(68%), Gaps:4/51(7%)
+
+Query  998   LTPLSQASEGPAGEM----GVTLPKESHTPGSVSSAFILEAMVNVISGPKV  1138
+             LTP S   + P+  +      T+   SHTPGSVSSAFILEAMVNVISGPKV
+Sbjct  37    LTPESVNGDTPSNPLRPIADDTIDHASHTPGSVSSAFILEAMVNVISGPKV  87
+
+
+
+
+>matrix protein, partial [Zaire ebolavirus]
+Sequence ID: QYR86863.1 Length: 202
+Range 1: 1 to 71
+
+Score:129 bits(444), Expect:7e-34, 
+Method:Compositional matrix adjust., 
+Identities:63/71(89%), Positives:65/71(91%), Gaps:0/71(0%)
+
+Query  517  MRRVILPTAPPEYMEAIYPVRSNSTIARGGNNNTGFLTPESVNGDTPSNPLRPIADDTID  696
+            MRRVILPTAPPEYMEAIYPVRSNSTIAR GN+NTGFLTPESVNGDTPSNPLRPIADDTID
+Sbjct  1    MRRVILPTAPPEYMEAIYPVRSNSTIARSGNSNTGFLTPESVNGDTPSNPLRPIADDTID  60
+
+Query  697  HAGCCPPTGSS  729
+            HA   P + SS
+Sbjct  61   HASHTPGSVSS  71
+
+
+
+
+Range 2: 36 to 87
+
+Score:53.9 bits(174), Expect:1e-05, 
+Method:Compositional matrix adjust., 
+Identities:31/52(60%), Positives:35/52(67%), Gaps:4/52(7%)
+
+Query  995   VLTPLSQASEGPAGEM----GVTLPKESHTPGSVSSAFILEAMVNVISGPKV  1138
+              LTP S   + P+  +      T+   SHTPGSVSSAFILEAMVNVISGPKV
+Sbjct  36    FLTPESVNGDTPSNPLRPIADDTIDHASHTPGSVSSAFILEAMVNVISGPKV  87
+
+
+
+
+>matrix protein [Zaire ebolavirus]
+Sequence ID: QNL27237.1 Length: 326
+Range 1: 1 to 71
+
+Score:131 bits(449), Expect:2e-33, 
+Method:Compositional matrix adjust., 
+Identities:64/71(90%), Positives:66/71(92%), Gaps:0/71(0%)
+
+Query  517  MRRVILPTAPPEYMEAIYPVRSNSTIARGGNNNTGFLTPESVNGDTPSNPLRPIADDTID  696
+            MRRVILPTAPPEYMEAIYPVRSNSTIARGGN+NTGFLTPESVNGDTPSNPLRPIADDTID
+Sbjct  1    MRRVILPTAPPEYMEAIYPVRSNSTIARGGNSNTGFLTPESVNGDTPSNPLRPIADDTID  60
+
+Query  697  HAGCCPPTGSS  729
+            HA   P + SS
+Sbjct  61   HASHTPGSVSS  71
+
+
+
+
+Range 2: 36 to 87
+
+Score:53.6 bits(173), Expect:6e-05, 
+Method:Compositional matrix adjust., 
+Identities:31/52(60%), Positives:35/52(67%), Gaps:4/52(7%)
+
+Query  995   VLTPLSQASEGPAGEM----GVTLPKESHTPGSVSSAFILEAMVNVISGPKV  1138
+              LTP S   + P+  +      T+   SHTPGSVSSAFILEAMVNVISGPKV
+Sbjct  36    FLTPESVNGDTPSNPLRPIADDTIDHASHTPGSVSSAFILEAMVNVISGPKV  87
+
+
+
+
+>VP40 [Zaire ebolavirus]
+Sequence ID: WWV92552.1 Length: 326
+Range 1: 1 to 71
+
+Score:131 bits(449), Expect:2e-33, 
+Method:Compositional matrix adjust., 
+Identities:64/71(90%), Positives:66/71(92%), Gaps:0/71(0%)
+
+Query  517  MRRVILPTAPPEYMEAIYPVRSNSTIARGGNNNTGFLTPESVNGDTPSNPLRPIADDTID  696
+            MRRVILPTAPPEYMEAIYPVRSNSTIARGGN+NTGFLTPESVNGDTPSNPLRPIADDTID
+Sbjct  1    MRRVILPTAPPEYMEAIYPVRSNSTIARGGNSNTGFLTPESVNGDTPSNPLRPIADDTID  60
+
+Query  697  HAGCCPPTGSS  729
+            HA   P + SS
+Sbjct  61   HASHTPGSVSS  71
+
+
+
+
+Range 2: 37 to 87
+
+Score:53.4 bits(172), Expect:7e-05, 
+Method:Compositional matrix adjust., 
+Identities:31/51(61%), Positives:35/51(68%), Gaps:4/51(7%)
+
+Query  998   LTPLSQASEGPAGEM----GVTLPKESHTPGSVSSAFILEAMVNVISGPKV  1138
+             LTP S   + P+  +      T+   SHTPGSVSSAFILEAMVNVISGPKV
+Sbjct  37    LTPESVNGDTPSNPLRPIADDTIDHASHTPGSVSSAFILEAMVNVISGPKV  87
+
+
+
+
+>matrix protein, partial [Zaire ebolavirus]
+Sequence ID: QYR85756.1 Length: 316
+Range 1: 1 to 71
+
+Score:130 bits(448), Expect:2e-33, 
+Method:Compositional matrix adjust., 
+Identities:64/71(90%), Positives:66/71(92%), Gaps:0/71(0%)
+
+Query  517  MRRVILPTAPPEYMEAIYPVRSNSTIARGGNNNTGFLTPESVNGDTPSNPLRPIADDTID  696
+            MRRVILPTAPPEYMEAIYPVRSNSTIARGGN+NTGFLTPESVNGDTPSNPLRPIADDTID
+Sbjct  1    MRRVILPTAPPEYMEAIYPVRSNSTIARGGNSNTGFLTPESVNGDTPSNPLRPIADDTID  60
+
+Query  697  HAGCCPPTGSS  729
+            HA   P + SS
+Sbjct  61   HASHTPGSVSS  71
+
+
+
+
+Range 2: 37 to 87
+
+Score:53.6 bits(173), Expect:6e-05, 
+Method:Compositional matrix adjust., 
+Identities:31/51(61%), Positives:35/51(68%), Gaps:4/51(7%)
+
+Query  998   LTPLSQASEGPAGEM----GVTLPKESHTPGSVSSAFILEAMVNVISGPKV  1138
+             LTP S   + P+  +      T+   SHTPGSVSSAFILEAMVNVISGPKV
+Sbjct  37    LTPESVNGDTPSNPLRPIADDTIDHASHTPGSVSSAFILEAMVNVISGPKV  87
+
+
+
+
+>RecName: Full=Matrix protein VP40; AltName: Full=Ebola VP40; Short=eVP40; AltName: Full=Membrane-associated protein VP40 [Ebola virus - Gabon (1994-1997)]
+Sequence ID: Q2PDK5.1 Length: 326
+>VP40 protein [Ebola virus - Gabon (1994-1997)]
+Sequence ID: CAC79598.1 Length: 326 
+Range 1: 1 to 71
+
+Score:131 bits(449), Expect:2e-33, 
+Method:Compositional matrix adjust., 
+Identities:64/71(90%), Positives:66/71(92%), Gaps:0/71(0%)
+
+Query  517  MRRVILPTAPPEYMEAIYPVRSNSTIARGGNNNTGFLTPESVNGDTPSNPLRPIADDTID  696
+            MRRVILPTAPPEYMEAIYPVRSNSTIARGGN+NTGFLTPESVNGDTPSNPLRPIADDTID
+Sbjct  1    MRRVILPTAPPEYMEAIYPVRSNSTIARGGNSNTGFLTPESVNGDTPSNPLRPIADDTID  60
+
+Query  697  HAGCCPPTGSS  729
+            HA   P + SS
+Sbjct  61   HASHTPGSVSS  71
+
+
+
+
+Range 2: 37 to 87
+
+Score:53.4 bits(172), Expect:7e-05, 
+Method:Compositional matrix adjust., 
+Identities:31/51(61%), Positives:35/51(68%), Gaps:4/51(7%)
+
+Query  998   LTPLSQASEGPAGEM----GVTLPKESHTPGSVSSAFILEAMVNVISGPKV  1138
+             LTP S   + P+  +      T+   SHTPGSVSSAFILEAMVNVISGPKV
+Sbjct  37    LTPESVNGDTPSNPLRPIADDTIDHASHTPGSVSSAFILEAMVNVISGPKV  87
+
+
+
+
+>matrix protein [Zaire ebolavirus]
+Sequence ID: QNL26265.1 Length: 326
+Range 1: 1 to 71
+
+Score:131 bits(449), Expect:2e-33, 
+Method:Compositional matrix adjust., 
+Identities:64/71(90%), Positives:66/71(92%), Gaps:0/71(0%)
+
+Query  517  MRRVILPTAPPEYMEAIYPVRSNSTIARGGNNNTGFLTPESVNGDTPSNPLRPIADDTID  696
+            MRRVILPTAPPEYMEAIYPVRSNSTIARGGN+NTGFLTPESVNGDTPSNPLRPIADDTID
+Sbjct  1    MRRVILPTAPPEYMEAIYPVRSNSTIARGGNSNTGFLTPESVNGDTPSNPLRPIADDTID  60
+
+Query  697  HAGCCPPTGSS  729
+            HA   P + SS
+Sbjct  61   HASHTPGSVSS  71
+
+
+
+
+Range 2: 36 to 87
+
+Score:53.6 bits(173), Expect:6e-05, 
+Method:Compositional matrix adjust., 
+Identities:31/52(60%), Positives:35/52(67%), Gaps:4/52(7%)
+
+Query  995   VLTPLSQASEGPAGEM----GVTLPKESHTPGSVSSAFILEAMVNVISGPKV  1138
+              LTP S   + P+  +      T+   SHTPGSVSSAFILEAMVNVISGPKV
+Sbjct  36    FLTPESVNGDTPSNPLRPIADDTIDHASHTPGSVSSAFILEAMVNVISGPKV  87
+
+
+
+
+>VP40 [Zaire ebolavirus]
+Sequence ID: WWV92561.1 Length: 326
+>VP40 [Zaire ebolavirus]
+Sequence ID: WWV92570.1 Length: 326
+>VP40 [Zaire ebolavirus]
+Sequence ID: WWV92579.1 Length: 326
+>VP40 [Zaire ebolavirus]
+Sequence ID: WWV92588.1 Length: 326
+>VP40 [Zaire ebolavirus]
+Sequence ID: WWV92597.1 Length: 326 
+Range 1: 1 to 71
+
+Score:130 bits(448), Expect:2e-33, 
+Method:Compositional matrix adjust., 
+Identities:64/71(90%), Positives:66/71(92%), Gaps:0/71(0%)
+
+Query  517  MRRVILPTAPPEYMEAIYPVRSNSTIARGGNNNTGFLTPESVNGDTPSNPLRPIADDTID  696
+            MRRVILPTAPPEYMEAIYPVRSNSTIARGGN+NTGFLTPESVNGDTPSNPLRPIADDTID
+Sbjct  1    MRRVILPTAPPEYMEAIYPVRSNSTIARGGNSNTGFLTPESVNGDTPSNPLRPIADDTID  60
+
+Query  697  HAGCCPPTGSS  729
+            HA   P + SS
+Sbjct  61   HASHTPGSVSS  71
+
+
+
+
+Range 2: 37 to 87
+
+Score:53.4 bits(172), Expect:7e-05, 
+Method:Compositional matrix adjust., 
+Identities:31/51(61%), Positives:35/51(68%), Gaps:4/51(7%)
+
+Query  998   LTPLSQASEGPAGEM----GVTLPKESHTPGSVSSAFILEAMVNVISGPKV  1138
+             LTP S   + P+  +      T+   SHTPGSVSSAFILEAMVNVISGPKV
+Sbjct  37    LTPESVNGDTPSNPLRPIADDTIDHASHTPGSVSSAFILEAMVNVISGPKV  87
+
+
+
+
+

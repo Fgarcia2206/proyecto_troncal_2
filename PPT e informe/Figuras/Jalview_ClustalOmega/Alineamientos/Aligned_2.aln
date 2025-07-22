@@ -1,0 +1,22 @@
+CLUSTAL O(1.2.2) multiple sequence alignment
+
+
+2_frame_1      KLSYKFGGGRPLKQVLIFKRVRTVSFEAFEAGESLSFVR-TSCGTCPGPLPWDGEKSGG*
+2_frame_2      NYHTNLGGGGL*SRC*FSRECGQFPSRPLKQVRA*AL*G-RPVEPVPAPCPGMGRSQG--
+2_frame_3      -IIIQIWGGEAFEAGVDFQES------------ADSFLRGL*SR*EPELC----EDVLWN
+                   :: **   .     :.             : ::         *       ..    
+
+2_frame_1      TESSPILRWGTGRE---------------WGPQGWGPLVQ*PECQERGAKP---------
+2_frame_2      DRQSPVQS*GGGQGG--------------SGVPRAGGLWCSDQSVRRGEQS---------
+2_frame_3      LSRPPALGWGEVRGIDRVQSNPKVGDRAGVGSPGLGAFGAVTRVSGEGSKAL*PHPHKRS
+                   *    *  :                 *    * :    .   .* :          
+
+2_frame_1      ----SSLILIKGL----II------FPPASYALGIIMLCC*FSRECGQFPSRPLKQVRA*
+2_frame_2      -PLASSS*KVSSF----SL------QPLM--HWGSSCFVVDFQESADSFLR---------
+2_frame_3      HHFPSSLLCTGDHHALLLIFKRVRTVSFEAFEAGES--LSFVRTSCGTCPG---------
+                   **            :              *       .  ..              
+
+2_frame_1      AL*GRPVEPVPA-----------
+2_frame_2      ---GL*SR*EPELCEDVLWNLSR
+2_frame_3      -----------------------
+                                      

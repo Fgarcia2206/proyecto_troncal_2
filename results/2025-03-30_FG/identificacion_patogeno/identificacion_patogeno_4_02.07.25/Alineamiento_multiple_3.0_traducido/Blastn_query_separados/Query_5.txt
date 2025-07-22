@@ -1,0 +1,210 @@
+Query #5: 5 unknown sequence 5 Query ID: lcl|Query_3932109 Length: 681
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+nucleoprotein, partial [Influenza A virus...                      Influenza A ... NA              402529     198    198   46%   8e-63 95.19  135        AAK01103.1       
+nucleoprotein, partial [Influenza A virus...                      Influenza A ... NA              680730     198    198   46%   9e-63 95.19  127        AAK01104.1       
+nucleocapsid protein, partial [Influenza A virus...               Influenza A ... NA              397548     198    198   46%   1e-62 95.19  147        ABI17555.1       
+nucleocapsid protein, partial [Influenza A virus (A/Anas...       Influenza A ... NA              538406     198    198   46%   1e-62 95.19  132        ACE78967.1       
+nucleocapsid protein, partial [Influenza A virus (A/Anas...       Influenza A ... NA              538404     198    198   46%   1e-62 95.19  132        ACE78968.1       
+nucleoprotein, partial [Influenza A virus...                      Influenza A ... NA              442531     197    197   46%   1e-62 95.19  130        AAK01106.1       
+nucleocapsid protein, partial [Influenza A virus...               Influenza A ... NA              397550     198    198   46%   1e-62 95.19  147        ABI17556.1       
+nucleoprotein, partial [Influenza A virus...                      Influenza A ... NA              649449     197    197   46%   1e-62 95.19  141        CAF21871.1       
+nucleoprotein, partial [Influenza A virus...                      Influenza A ... NA              150096     197    197   46%   2e-62 94.23  121        AAK01105.1       
+nucleoprotein, partial [Influenza A virus...                      Influenza A ... NA              512979     198    198   46%   3e-62 95.19  177        BAG16720.1       
+
+
+Alignments:
+
+>nucleoprotein, partial [Influenza A virus (A/chicken/Italy/312/1997(H5N2))]
+Sequence ID: AAK01103.1 Length: 135
+Range 1: 28 to 127
+
+Score:198 bits(688), Expect:8e-63, 
+Method:Compositional matrix adjust., 
+Identities:99/104(95%), Positives:100/104(96%), Gaps:4/104(3%)
+
+Query  167  VQIASNENMETMDSSTLELRSRYWAIRTRSGGNTNQQRASAGQISVQPTFSVQRNLPFER  346
+            VQIASNENMETMDSSTLELRSRYWAIRTRSGGNTNQQRASAGQISVQPTFSVQRNLPFER
+Sbjct  28   VQIASNENMETMDSSTLELRSRYWAIRTRSGGNTNQQRASAGQISVQPTFSVQRNLPFER  87
+
+Query  347  ATIMAAFTGNTEGRTQSNPSDMRTEIIRMMESAKPEDVSFQGRG  478
+            ATIMAAFTGNTEGRT    SDMRTEIIRMMESA+PEDVSFQGRG
+Sbjct  88   ATIMAAFTGNTEGRT----SDMRTEIIRMMESARPEDVSFQGRG  127
+
+
+
+
+>nucleoprotein, partial [Influenza A virus (A/chicken/Italy/330/1997(H5N2))]
+Sequence ID: AAK01104.1 Length: 127
+Range 1: 23 to 122
+
+Score:198 bits(687), Expect:9e-63, 
+Method:Compositional matrix adjust., 
+Identities:99/104(95%), Positives:100/104(96%), Gaps:4/104(3%)
+
+Query  167  VQIASNENMETMDSSTLELRSRYWAIRTRSGGNTNQQRASAGQISVQPTFSVQRNLPFER  346
+            VQIASNENMETMDSSTLELRSRYWAIRTRSGGNTNQQRASAGQISVQPTFSVQRNLPFER
+Sbjct  23   VQIASNENMETMDSSTLELRSRYWAIRTRSGGNTNQQRASAGQISVQPTFSVQRNLPFER  82
+
+Query  347  ATIMAAFTGNTEGRTQSNPSDMRTEIIRMMESAKPEDVSFQGRG  478
+            ATIMAAFTGNTEGRT    SDMRTEIIRMMESA+PEDVSFQGRG
+Sbjct  83   ATIMAAFTGNTEGRT----SDMRTEIIRMMESARPEDVSFQGRG  122
+
+
+
+
+>nucleocapsid protein, partial [Influenza A virus (A/duck/Primorie/3672/02(H4N2))]
+Sequence ID: ABI17555.1 Length: 147
+Range 1: 43 to 142
+
+Score:198 bits(688), Expect:1e-62, 
+Method:Compositional matrix adjust., 
+Identities:99/104(95%), Positives:100/104(96%), Gaps:4/104(3%)
+
+Query  167  VQIASNENMETMDSSTLELRSRYWAIRTRSGGNTNQQRASAGQISVQPTFSVQRNLPFER  346
+            VQIASNENMETMDSSTLELRSRYWAIRTRSGGNTNQQRASAGQISVQPTFSVQRNLPFER
+Sbjct  43   VQIASNENMETMDSSTLELRSRYWAIRTRSGGNTNQQRASAGQISVQPTFSVQRNLPFER  102
+
+Query  347  ATIMAAFTGNTEGRTQSNPSDMRTEIIRMMESAKPEDVSFQGRG  478
+            ATIMAAFTGNTEGRT    SDMRTEIIRMMESA+PEDVSFQGRG
+Sbjct  103  ATIMAAFTGNTEGRT----SDMRTEIIRMMESARPEDVSFQGRG  142
+
+
+
+
+>nucleocapsid protein, partial [Influenza A virus (A/Anas querquedula/Kyrgyzstan/1047/1987(H4N6))]
+Sequence ID: ACE78967.1 Length: 132
+Range 1: 27 to 126
+
+Score:198 bits(687), Expect:1e-62, 
+Method:Compositional matrix adjust., 
+Identities:99/104(95%), Positives:100/104(96%), Gaps:4/104(3%)
+
+Query  167  VQIASNENMETMDSSTLELRSRYWAIRTRSGGNTNQQRASAGQISVQPTFSVQRNLPFER  346
+            VQIASNENMETMDSSTLELRSRYWAIRTRSGGNTNQQRASAGQISVQPTFSVQRNLPFER
+Sbjct  27   VQIASNENMETMDSSTLELRSRYWAIRTRSGGNTNQQRASAGQISVQPTFSVQRNLPFER  86
+
+Query  347  ATIMAAFTGNTEGRTQSNPSDMRTEIIRMMESAKPEDVSFQGRG  478
+            ATIMAAFTGNTEGRT    SDMRTEIIRMMESA+PEDVSFQGRG
+Sbjct  87   ATIMAAFTGNTEGRT----SDMRTEIIRMMESARPEDVSFQGRG  126
+
+
+
+
+>nucleocapsid protein, partial [Influenza A virus (A/Anas crecca/Astrakhan/646/1987(H4N3))]
+Sequence ID: ACE78968.1 Length: 132
+Range 1: 27 to 126
+
+Score:198 bits(687), Expect:1e-62, 
+Method:Compositional matrix adjust., 
+Identities:99/104(95%), Positives:100/104(96%), Gaps:4/104(3%)
+
+Query  167  VQIASNENMETMDSSTLELRSRYWAIRTRSGGNTNQQRASAGQISVQPTFSVQRNLPFER  346
+            VQIASNENMETMDSSTLELRSRYWAIRTRSGGNTNQQRASAGQISVQPTFSVQRNLPFER
+Sbjct  27   VQIASNENMETMDSSTLELRSRYWAIRTRSGGNTNQQRASAGQISVQPTFSVQRNLPFER  86
+
+Query  347  ATIMAAFTGNTEGRTQSNPSDMRTEIIRMMESAKPEDVSFQGRG  478
+            ATIMAAFTGNTEGRT    SDMRTEIIRMMESA+PEDVSFQGRG
+Sbjct  87   ATIMAAFTGNTEGRT----SDMRTEIIRMMESARPEDVSFQGRG  126
+
+
+
+
+>nucleoprotein, partial [Influenza A virus (A/chicken/Italy/9097/1997(H5N9))]
+Sequence ID: AAK01106.1 Length: 130
+Range 1: 25 to 124
+
+Score:197 bits(686), Expect:1e-62, 
+Method:Compositional matrix adjust., 
+Identities:99/104(95%), Positives:100/104(96%), Gaps:4/104(3%)
+
+Query  167  VQIASNENMETMDSSTLELRSRYWAIRTRSGGNTNQQRASAGQISVQPTFSVQRNLPFER  346
+            VQIASNENMETMDSSTLELRSRYWAIRTRSGGNTNQQRASAGQISVQPTFSVQRNLPFER
+Sbjct  25   VQIASNENMETMDSSTLELRSRYWAIRTRSGGNTNQQRASAGQISVQPTFSVQRNLPFER  84
+
+Query  347  ATIMAAFTGNTEGRTQSNPSDMRTEIIRMMESAKPEDVSFQGRG  478
+            ATIMAAFTGNTEGRT    SDMRTEIIRMMESA+PEDVSFQGRG
+Sbjct  85   ATIMAAFTGNTEGRT----SDMRTEIIRMMESARPEDVSFQGRG  124
+
+
+
+
+>nucleocapsid protein, partial [Influenza A virus (A/duck/Primorie/3691/02(H12N2))]
+Sequence ID: ABI17556.1 Length: 147
+Range 1: 43 to 142
+
+Score:198 bits(687), Expect:1e-62, 
+Method:Compositional matrix adjust., 
+Identities:99/104(95%), Positives:100/104(96%), Gaps:4/104(3%)
+
+Query  167  VQIASNENMETMDSSTLELRSRYWAIRTRSGGNTNQQRASAGQISVQPTFSVQRNLPFER  346
+            VQIASNENMETMDSSTLELRSRYWAIRTRSGGNTNQQRASAGQISVQPTFSVQRNLPFER
+Sbjct  43   VQIASNENMETMDSSTLELRSRYWAIRTRSGGNTNQQRASAGQISVQPTFSVQRNLPFER  102
+
+Query  347  ATIMAAFTGNTEGRTQSNPSDMRTEIIRMMESAKPEDVSFQGRG  478
+            ATIMAAFTGNTEGRT    SDMRTEIIRMMESA+PEDVSFQGRG
+Sbjct  103  ATIMAAFTGNTEGRT----SDMRTEIIRMMESARPEDVSFQGRG  142
+
+
+
+
+>nucleoprotein, partial [Influenza A virus (A/duck/Primorie/2633/2001(H5N3))]
+Sequence ID: CAF21871.1 Length: 141
+Range 1: 36 to 135
+
+Score:197 bits(686), Expect:1e-62, 
+Method:Compositional matrix adjust., 
+Identities:99/104(95%), Positives:100/104(96%), Gaps:4/104(3%)
+
+Query  167  VQIASNENMETMDSSTLELRSRYWAIRTRSGGNTNQQRASAGQISVQPTFSVQRNLPFER  346
+            VQIASNENMETMDSSTLELRSRYWAIRTRSGGNTNQQRASAGQISVQPTFSVQRNLPFER
+Sbjct  36   VQIASNENMETMDSSTLELRSRYWAIRTRSGGNTNQQRASAGQISVQPTFSVQRNLPFER  95
+
+Query  347  ATIMAAFTGNTEGRTQSNPSDMRTEIIRMMESAKPEDVSFQGRG  478
+            ATIMAAFTGNTEGRT    SDMRTEIIRMMESA+PEDVSFQGRG
+Sbjct  96   ATIMAAFTGNTEGRT----SDMRTEIIRMMESARPEDVSFQGRG  135
+
+
+
+
+>nucleoprotein, partial [Influenza A virus (A/chicken/Italy/367/97(H5N2))]
+Sequence ID: AAK01105.1 Length: 121
+Range 1: 21 to 120
+
+Score:197 bits(683), Expect:2e-62, 
+Method:Compositional matrix adjust., 
+Identities:98/104(94%), Positives:100/104(96%), Gaps:4/104(3%)
+
+Query  167  VQIASNENMETMDSSTLELRSRYWAIRTRSGGNTNQQRASAGQISVQPTFSVQRNLPFER  346
+            VQIASNENMETMDS+TLELRSRYWAIRTRSGGNTNQQRASAGQISVQPTFSVQRNLPFER
+Sbjct  21   VQIASNENMETMDSTTLELRSRYWAIRTRSGGNTNQQRASAGQISVQPTFSVQRNLPFER  80
+
+Query  347  ATIMAAFTGNTEGRTQSNPSDMRTEIIRMMESAKPEDVSFQGRG  478
+            ATIMAAFTGNTEGRT    SDMRTEIIRMMESA+PEDVSFQGRG
+Sbjct  81   ATIMAAFTGNTEGRT----SDMRTEIIRMMESARPEDVSFQGRG  120
+
+
+
+
+>nucleoprotein, partial [Influenza A virus (A/duck/Hokkaido/W95/2006(H10N8))]
+Sequence ID: BAG16720.1 Length: 177
+Range 1: 42 to 141
+
+Score:198 bits(687), Expect:3e-62, 
+Method:Compositional matrix adjust., 
+Identities:99/104(95%), Positives:100/104(96%), Gaps:4/104(3%)
+
+Query  167  VQIASNENMETMDSSTLELRSRYWAIRTRSGGNTNQQRASAGQISVQPTFSVQRNLPFER  346
+            VQIASNENMETMDSSTLELRSRYWAIRTRSGGNTNQQRASAGQISVQPTFSVQRNLPFER
+Sbjct  42   VQIASNENMETMDSSTLELRSRYWAIRTRSGGNTNQQRASAGQISVQPTFSVQRNLPFER  101
+
+Query  347  ATIMAAFTGNTEGRTQSNPSDMRTEIIRMMESAKPEDVSFQGRG  478
+            ATIMAAFTGNTEGRT    SDMRTEIIRMMESA+PEDVSFQGRG
+Sbjct  102  ATIMAAFTGNTEGRT----SDMRTEIIRMMESARPEDVSFQGRG  141
+
+
+
+
+
