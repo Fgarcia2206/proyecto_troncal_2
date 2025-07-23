@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Query,Hit,% Identidad
 7_frame_1,7_frame_2,52.69
 7_frame_1,7_frame_3,0.00
@@ -14,3 +15,21 @@ Query,Hit,% Identidad
 7_frame_1,ADK37484.1,16.42
 7_frame_1,UVK35471.1,16.79
 7_frame_1,QOV28490.1,0.00
+=======
+Query,Hit,% Identidad
+7_frame_1,7_frame_2,52.69
+7_frame_1,7_frame_3,0.00
+7_frame_1,ACA48901.1,16.79
+7_frame_1,WJZ47410.1,16.42
+7_frame_1,XAX02478.1,16.42
+7_frame_1,XFZ89268.1,0.00
+7_frame_1,QOV28493.1,0.00
+7_frame_1,ARO52692.1,16.79
+7_frame_1,QOV28492.1,0.00
+7_frame_1,ACA48956.1,16.79
+7_frame_1,QOV28491.1,0.00
+7_frame_1,AAA66406.1,16.06
+7_frame_1,ADK37484.1,16.42
+7_frame_1,UVK35471.1,16.79
+7_frame_1,QOV28490.1,0.00
+>>>>>>> ae3718c133dd8466dc1b873d7a0feda592eee197

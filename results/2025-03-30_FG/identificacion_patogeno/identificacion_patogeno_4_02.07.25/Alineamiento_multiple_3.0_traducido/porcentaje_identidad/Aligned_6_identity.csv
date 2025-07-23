@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Query,Hit,% Identidad
 6_frame_1,6_frame_2,25.75
 6_frame_1,6_frame_3,25.27
@@ -18,3 +19,25 @@ Query,Hit,% Identidad
 6_frame_1,WWV93299.1,46.44
 6_frame_1,WWV92552.1,45.87
 6_frame_1,WWV92930.1,46.44
+=======
+Query,Hit,% Identidad
+6_frame_1,6_frame_2,25.75
+6_frame_1,6_frame_3,25.27
+6_frame_1,QNL24357.1,43.80
+6_frame_1,CAC79598.1,45.87
+6_frame_1,AGB56829.1,46.28
+6_frame_1,QNL27237.1,45.45
+6_frame_1,ARG43220.1,46.28
+6_frame_1,AJT59736.1,46.28
+6_frame_1,WWV92822.1,46.44
+6_frame_1,AAB81003.1,45.87
+6_frame_1,QNL26760.1,44.40
+6_frame_1,AJT59742.1,46.28
+6_frame_1,QYR85756.1,45.87
+6_frame_1,QYR86863.1,56.73
+6_frame_1,AQA27301.1,46.28
+6_frame_1,AAD14583.1,45.87
+6_frame_1,WWV93299.1,46.44
+6_frame_1,WWV92552.1,45.87
+6_frame_1,WWV92930.1,46.44
+>>>>>>> ae3718c133dd8466dc1b873d7a0feda592eee197

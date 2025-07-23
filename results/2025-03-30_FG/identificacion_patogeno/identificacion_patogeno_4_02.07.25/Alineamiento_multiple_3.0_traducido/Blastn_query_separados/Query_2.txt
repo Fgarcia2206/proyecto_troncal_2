@@ -1,6 +1,15 @@
+<<<<<<< HEAD
 Query #2: 2 unknown sequence 2 Query ID: lcl|Query_3932106 Length: 459
 
 No significant similarity found.
 
 
 
+=======
+Query #2: 2 unknown sequence 2 Query ID: lcl|Query_3932106 Length: 459
+
+No significant similarity found.
+
+
+
+>>>>>>> ae3718c133dd8466dc1b873d7a0feda592eee197

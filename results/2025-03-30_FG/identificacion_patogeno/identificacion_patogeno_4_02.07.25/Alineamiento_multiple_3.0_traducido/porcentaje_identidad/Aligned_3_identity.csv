@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Query,Hit,% Identidad
 3_frame_1,3_frame_2,9.09
 3_frame_1,3_frame_3,21.43
@@ -12,3 +13,19 @@ Query,Hit,% Identidad
 3_frame_1,AAB71549.1,16.95
 3_frame_1,WJL93791.1,14.52
 3_frame_1,CDG15349.1,16.13
+=======
+Query,Hit,% Identidad
+3_frame_1,3_frame_2,9.09
+3_frame_1,3_frame_3,21.43
+3_frame_1,AAA74313.1,22.22
+3_frame_1,AAC78137.1,20.00
+3_frame_1,AAB61647.1,16.13
+3_frame_1,ADX99468.1,16.13
+3_frame_1,AAC12652.1,13.33
+3_frame_1,WJL93792.1,14.52
+3_frame_1,ADX99467.1,16.13
+3_frame_1,CEF52502.1,16.13
+3_frame_1,AAB71549.1,16.95
+3_frame_1,WJL93791.1,14.52
+3_frame_1,CDG15349.1,16.13
+>>>>>>> ae3718c133dd8466dc1b873d7a0feda592eee197

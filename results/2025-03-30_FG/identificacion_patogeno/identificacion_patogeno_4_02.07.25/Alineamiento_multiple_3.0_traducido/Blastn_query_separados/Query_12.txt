@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Query #12: 12 unknown sequence 12 Query ID: lcl|Query_3932116 Length: 527
 
 Sequences producing significant alignments:
@@ -456,3 +457,463 @@ Sbjct  250  RMLNLKDYHR  259
 
 
 
+=======
+Query #12: 12 unknown sequence 12 Query ID: lcl|Query_3932116 Length: 527
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+unnamed protein product [Homo sapiens]                            Homo sapiens    human           9606       197    347   93%   1e-86 96.81  402        BAG64202.1       
+serine/threonine-protein kinase Nek2 isoform 1 [Homo sapiens]     Homo sapiens    human           9606       196    346   93%   3e-86 96.81  445        NP_002488.1      
+NIMA (never in mitosis gene a)-related kinase 2 variant, parti... Homo sapiens    human           9606       196    346   93%   3e-86 96.81  445        BAD97073.1       
+Chain S, Serine/threonine-protein kinase Nek2 [Homo sapiens]      Homo sapiens    human           9606       196    346   93%   3e-86 96.81  445        6TM5_S           
+serine/threonine-protein kinase Nek2 isoform 3 [Homo sapiens]     Homo sapiens    human           9606       195    343   93%   2e-85 96.81  388        NP_001191111.1   
+serine/threonine-protein kinase Nek2 isoform 2 [Homo sapiens]     Homo sapiens    human           9606       195    343   93%   2e-85 96.81  384        NP_001191112.1   
+NEK2 protein, partial [Homo sapiens]                              Homo sapiens    human           9606       195    343   93%   2e-85 96.81  326        AAH52807.1       
+Chain A, SERINE/THREONINE-PROTEIN KINASE NEK2 [Homo sapiens]      Homo sapiens    human           9606       194    341   93%   8e-85 96.81  279        2W5A_A           
+Chain A, SERINE/THREONINE-PROTEIN KINASE NEK2 [Homo sapiens]      Homo sapiens    human           9606       192    339   93%   2e-84 95.74  279        2JAV_A           
+Chain A, SERINE/THREONINE-PROTEIN KINASE NEK2 [Homo sapiens]      Homo sapiens    human           9606       188    335   93%   6e-83 93.62  279        4A4X_A           
+
+
+Alignments:
+
+>unnamed protein product [Homo sapiens]
+Sequence ID: BAG64202.1 Length: 402
+Range 1: 52 to 145
+
+Score:197 bits(683), Expect:1e-86, 
+Method:Compositional matrix adjust., 
+Identities:91/94(97%), Positives:92/94(97%), Gaps:0/94(0%)
+
+Query  2    ASVITKGTKERQYLDEEFVLRVMTQLTLALKECHRRSDGGHTVLHRDLKPANVFLDGKQN  181
+            ASVITKGTKERQYLDEEFVLRVMTQLTLALKECHRRSDGGHTVLHRDLKPANVFLDGKQN
+Sbjct  52   ASVITKGTKERQYLDEEFVLRVMTQLTLALKECHRRSDGGHTVLHRDLKPANVFLDGKQN  111
+
+Query  182  VKLGDFGLARILNHDTSFAKTFVGTPYYMSRNQI  283
+            VKLGDFGLARILNHDTSFAKTFVGTPYYMS  Q+
+Sbjct  112  VKLGDFGLARILNHDTSFAKTFVGTPYYMSPEQM  145
+
+
+
+
+Range 2: 147 to 216
+
+Score:150 bits(517), Expect:1e-86, 
+Method:Compositional matrix adjust., 
+Identities:68/70(97%), Positives:68/70(97%), Gaps:0/70(0%)
+
+Query  318  RYPYNEKSDIWSLGCLLYELCALMPPFTAFSQKELAGKIREGKFRRIPYRYSDELNEIIT  497
+            R  YNEKSDIWSLGCLLYELCALMPPFTAFSQKELAGKIREGKFRRIPYRYSDELNEIIT
+Sbjct  147  RMSYNEKSDIWSLGCLLYELCALMPPFTAFSQKELAGKIREGKFRRIPYRYSDELNEIIT  206
+
+Query  498  RMLNLKDYHR  527
+            RMLNLKDYHR
+Sbjct  207  RMLNLKDYHR  216
+
+
+
+
+>serine/threonine-protein kinase Nek2 isoform 1 [Homo sapiens]
+Sequence ID: NP_002488.1 Length: 445
+>RecName: Full=Serine/threonine-protein kinase Nek2; AltName: Full=HSPK 21; AltName: Full=Never in mitosis A-related kinase 2; Short=NimA-related protein kinase 2; AltName: Full=NimA-like protein kinase 1 [Homo sapiens]
+Sequence ID: P51955.1 Length: 445
+>Chain Q, Serine/threonine-protein kinase Nek2 [Homo sapiens]
+Sequence ID: 6TM5_Q Length: 445
+>NIMA-like protein kinase 1 [Homo sapiens]
+Sequence ID: AAA19558.1 Length: 445
+>NIMA (never in mitosis gene a)-related kinase 2 [Homo sapiens]
+Sequence ID: AAH43502.2 Length: 445
+>NIMA (never in mitosis gene a)-related kinase 2 [Homo sapiens]
+Sequence ID: AAV38534.1 Length: 445
+>NIMA (never in mitosis gene a)-related kinase 2, isoform CRA_b [Homo sapiens]
+Sequence ID: EAW93411.1 Length: 445 
+Range 1: 95 to 188
+
+Score:196 bits(682), Expect:3e-86, 
+Method:Compositional matrix adjust., 
+Identities:91/94(97%), Positives:92/94(97%), Gaps:0/94(0%)
+
+Query  2    ASVITKGTKERQYLDEEFVLRVMTQLTLALKECHRRSDGGHTVLHRDLKPANVFLDGKQN  181
+            ASVITKGTKERQYLDEEFVLRVMTQLTLALKECHRRSDGGHTVLHRDLKPANVFLDGKQN
+Sbjct  95   ASVITKGTKERQYLDEEFVLRVMTQLTLALKECHRRSDGGHTVLHRDLKPANVFLDGKQN  154
+
+Query  182  VKLGDFGLARILNHDTSFAKTFVGTPYYMSRNQI  283
+            VKLGDFGLARILNHDTSFAKTFVGTPYYMS  Q+
+Sbjct  155  VKLGDFGLARILNHDTSFAKTFVGTPYYMSPEQM  188
+
+
+
+
+Range 2: 190 to 259
+
+Score:149 bits(514), Expect:3e-86, 
+Method:Compositional matrix adjust., 
+Identities:68/70(97%), Positives:68/70(97%), Gaps:0/70(0%)
+
+Query  318  RYPYNEKSDIWSLGCLLYELCALMPPFTAFSQKELAGKIREGKFRRIPYRYSDELNEIIT  497
+            R  YNEKSDIWSLGCLLYELCALMPPFTAFSQKELAGKIREGKFRRIPYRYSDELNEIIT
+Sbjct  190  RMSYNEKSDIWSLGCLLYELCALMPPFTAFSQKELAGKIREGKFRRIPYRYSDELNEIIT  249
+
+Query  498  RMLNLKDYHR  527
+            RMLNLKDYHR
+Sbjct  250  RMLNLKDYHR  259
+
+
+
+
+>NIMA (never in mitosis gene a)-related kinase 2 variant, partial [Homo sapiens]
+Sequence ID: BAD97073.1 Length: 445
+Range 1: 95 to 188
+
+Score:196 bits(682), Expect:3e-86, 
+Method:Compositional matrix adjust., 
+Identities:91/94(97%), Positives:92/94(97%), Gaps:0/94(0%)
+
+Query  2    ASVITKGTKERQYLDEEFVLRVMTQLTLALKECHRRSDGGHTVLHRDLKPANVFLDGKQN  181
+            ASVITKGTKERQYLDEEFVLRVMTQLTLALKECHRRSDGGHTVLHRDLKPANVFLDGKQN
+Sbjct  95   ASVITKGTKERQYLDEEFVLRVMTQLTLALKECHRRSDGGHTVLHRDLKPANVFLDGKQN  154
+
+Query  182  VKLGDFGLARILNHDTSFAKTFVGTPYYMSRNQI  283
+            VKLGDFGLARILNHDTSFAKTFVGTPYYMS  Q+
+Sbjct  155  VKLGDFGLARILNHDTSFAKTFVGTPYYMSPEQM  188
+
+
+
+
+Range 2: 190 to 259
+
+Score:149 bits(514), Expect:3e-86, 
+Method:Compositional matrix adjust., 
+Identities:68/70(97%), Positives:68/70(97%), Gaps:0/70(0%)
+
+Query  318  RYPYNEKSDIWSLGCLLYELCALMPPFTAFSQKELAGKIREGKFRRIPYRYSDELNEIIT  497
+            R  YNEKSDIWSLGCLLYELCALMPPFTAFSQKELAGKIREGKFRRIPYRYSDELNEIIT
+Sbjct  190  RMSYNEKSDIWSLGCLLYELCALMPPFTAFSQKELAGKIREGKFRRIPYRYSDELNEIIT  249
+
+Query  498  RMLNLKDYHR  527
+            RMLNLKDYHR
+Sbjct  250  RMLNLKDYHR  259
+
+
+
+
+>Chain S, Serine/threonine-protein kinase Nek2 [Homo sapiens]
+Sequence ID: 6TM5_S Length: 445
+Range 1: 95 to 188
+
+Score:196 bits(682), Expect:3e-86, 
+Method:Compositional matrix adjust., 
+Identities:91/94(97%), Positives:92/94(97%), Gaps:0/94(0%)
+
+Query  2    ASVITKGTKERQYLDEEFVLRVMTQLTLALKECHRRSDGGHTVLHRDLKPANVFLDGKQN  181
+            ASVITKGTKERQYLDEEFVLRVMTQLTLALKECHRRSDGGHTVLHRDLKPANVFLDGKQN
+Sbjct  95   ASVITKGTKERQYLDEEFVLRVMTQLTLALKECHRRSDGGHTVLHRDLKPANVFLDGKQN  154
+
+Query  182  VKLGDFGLARILNHDTSFAKTFVGTPYYMSRNQI  283
+            VKLGDFGLARILNHDTSFAKTFVGTPYYMS  Q+
+Sbjct  155  VKLGDFGLARILNHDTSFAKTFVGTPYYMSPEQM  188
+
+
+
+
+Range 2: 190 to 259
+
+Score:149 bits(514), Expect:3e-86, 
+Method:Compositional matrix adjust., 
+Identities:68/70(97%), Positives:68/70(97%), Gaps:0/70(0%)
+
+Query  318  RYPYNEKSDIWSLGCLLYELCALMPPFTAFSQKELAGKIREGKFRRIPYRYSDELNEIIT  497
+            R  YNEKSDIWSLGCLLYELCALMPPFTAFSQKELAGKIREGKFRRIPYRYSDELNEIIT
+Sbjct  190  RMSYNEKSDIWSLGCLLYELCALMPPFTAFSQKELAGKIREGKFRRIPYRYSDELNEIIT  249
+
+Query  498  RMLNLKDYHR  527
+            RMLNLKDYHR
+Sbjct  250  RMLNLKDYHR  259
+
+
+
+
+>serine/threonine-protein kinase Nek2 isoform 3 [Homo sapiens]
+Sequence ID: NP_001191111.1 Length: 388
+>NIMA related kinase 2 [Homo sapiens]
+Sequence ID: KAI2521359.1 Length: 388
+>NIMA related kinase 2 [Homo sapiens]
+Sequence ID: KAI4084878.1 Length: 388 
+Range 1: 95 to 188
+
+Score:195 bits(678), Expect:2e-85, 
+Method:Compositional matrix adjust., 
+Identities:91/94(97%), Positives:92/94(97%), Gaps:0/94(0%)
+
+Query  2    ASVITKGTKERQYLDEEFVLRVMTQLTLALKECHRRSDGGHTVLHRDLKPANVFLDGKQN  181
+            ASVITKGTKERQYLDEEFVLRVMTQLTLALKECHRRSDGGHTVLHRDLKPANVFLDGKQN
+Sbjct  95   ASVITKGTKERQYLDEEFVLRVMTQLTLALKECHRRSDGGHTVLHRDLKPANVFLDGKQN  154
+
+Query  182  VKLGDFGLARILNHDTSFAKTFVGTPYYMSRNQI  283
+            VKLGDFGLARILNHDTSFAKTFVGTPYYMS  Q+
+Sbjct  155  VKLGDFGLARILNHDTSFAKTFVGTPYYMSPEQM  188
+
+
+
+
+Range 2: 190 to 259
+
+Score:148 bits(509), Expect:2e-85, 
+Method:Compositional matrix adjust., 
+Identities:68/70(97%), Positives:68/70(97%), Gaps:0/70(0%)
+
+Query  318  RYPYNEKSDIWSLGCLLYELCALMPPFTAFSQKELAGKIREGKFRRIPYRYSDELNEIIT  497
+            R  YNEKSDIWSLGCLLYELCALMPPFTAFSQKELAGKIREGKFRRIPYRYSDELNEIIT
+Sbjct  190  RMSYNEKSDIWSLGCLLYELCALMPPFTAFSQKELAGKIREGKFRRIPYRYSDELNEIIT  249
+
+Query  498  RMLNLKDYHR  527
+            RMLNLKDYHR
+Sbjct  250  RMLNLKDYHR  259
+
+
+
+
+>serine/threonine-protein kinase Nek2 isoform 2 [Homo sapiens]
+Sequence ID: NP_001191112.1 Length: 384
+>NEK2B protein kinase [Homo sapiens]
+Sequence ID: AAK92212.1 Length: 384
+>NIMA (never in mitosis gene a)-related kinase 2, isoform CRA_a, partial [Homo sapiens]
+Sequence ID: EAW93410.1 Length: 384
+>NIMA related kinase 2 [Homo sapiens]
+Sequence ID: KAI2521361.1 Length: 384
+>NIMA related kinase 2 [Homo sapiens]
+Sequence ID: KAI4084880.1 Length: 384 
+Range 1: 95 to 188
+
+Score:195 bits(678), Expect:2e-85, 
+Method:Compositional matrix adjust., 
+Identities:91/94(97%), Positives:92/94(97%), Gaps:0/94(0%)
+
+Query  2    ASVITKGTKERQYLDEEFVLRVMTQLTLALKECHRRSDGGHTVLHRDLKPANVFLDGKQN  181
+            ASVITKGTKERQYLDEEFVLRVMTQLTLALKECHRRSDGGHTVLHRDLKPANVFLDGKQN
+Sbjct  95   ASVITKGTKERQYLDEEFVLRVMTQLTLALKECHRRSDGGHTVLHRDLKPANVFLDGKQN  154
+
+Query  182  VKLGDFGLARILNHDTSFAKTFVGTPYYMSRNQI  283
+            VKLGDFGLARILNHDTSFAKTFVGTPYYMS  Q+
+Sbjct  155  VKLGDFGLARILNHDTSFAKTFVGTPYYMSPEQM  188
+
+
+
+
+Range 2: 190 to 259
+
+Score:147 bits(508), Expect:2e-85, 
+Method:Compositional matrix adjust., 
+Identities:68/70(97%), Positives:68/70(97%), Gaps:0/70(0%)
+
+Query  318  RYPYNEKSDIWSLGCLLYELCALMPPFTAFSQKELAGKIREGKFRRIPYRYSDELNEIIT  497
+            R  YNEKSDIWSLGCLLYELCALMPPFTAFSQKELAGKIREGKFRRIPYRYSDELNEIIT
+Sbjct  190  RMSYNEKSDIWSLGCLLYELCALMPPFTAFSQKELAGKIREGKFRRIPYRYSDELNEIIT  249
+
+Query  498  RMLNLKDYHR  527
+            RMLNLKDYHR
+Sbjct  250  RMLNLKDYHR  259
+
+
+
+
+>NEK2 protein, partial [Homo sapiens]
+Sequence ID: AAH52807.1 Length: 326
+Range 1: 95 to 188
+
+Score:195 bits(676), Expect:2e-85, 
+Method:Compositional matrix adjust., 
+Identities:91/94(97%), Positives:92/94(97%), Gaps:0/94(0%)
+
+Query  2    ASVITKGTKERQYLDEEFVLRVMTQLTLALKECHRRSDGGHTVLHRDLKPANVFLDGKQN  181
+            ASVITKGTKERQYLDEEFVLRVMTQLTLALKECHRRSDGGHTVLHRDLKPANVFLDGKQN
+Sbjct  95   ASVITKGTKERQYLDEEFVLRVMTQLTLALKECHRRSDGGHTVLHRDLKPANVFLDGKQN  154
+
+Query  182  VKLGDFGLARILNHDTSFAKTFVGTPYYMSRNQI  283
+            VKLGDFGLARILNHDTSFAKTFVGTPYYMS  Q+
+Sbjct  155  VKLGDFGLARILNHDTSFAKTFVGTPYYMSPEQM  188
+
+
+
+
+Range 2: 190 to 259
+
+Score:148 bits(509), Expect:2e-85, 
+Method:Compositional matrix adjust., 
+Identities:68/70(97%), Positives:68/70(97%), Gaps:0/70(0%)
+
+Query  318  RYPYNEKSDIWSLGCLLYELCALMPPFTAFSQKELAGKIREGKFRRIPYRYSDELNEIIT  497
+            R  YNEKSDIWSLGCLLYELCALMPPFTAFSQKELAGKIREGKFRRIPYRYSDELNEIIT
+Sbjct  190  RMSYNEKSDIWSLGCLLYELCALMPPFTAFSQKELAGKIREGKFRRIPYRYSDELNEIIT  249
+
+Query  498  RMLNLKDYHR  527
+            RMLNLKDYHR
+Sbjct  250  RMLNLKDYHR  259
+
+
+
+
+>Chain A, SERINE/THREONINE-PROTEIN KINASE NEK2 [Homo sapiens]
+Sequence ID: 2W5A_A Length: 279
+>Chain A, SERINE/THREONINE-PROTEIN KINASE NEK2 [Homo sapiens]
+Sequence ID: 2WQO_A Length: 279
+>Chain A, SERINE/THREONINE-PROTEIN KINASE NEK2 [Homo sapiens]
+Sequence ID: 2XK3_A Length: 279
+>Chain A, SERINE/THREONINE-PROTEIN KINASE NEK2 [Homo sapiens]
+Sequence ID: 2XK4_A Length: 279
+>Chain A, SERINE/THREONINE-PROTEIN KINASE NEK2 [Homo sapiens]
+Sequence ID: 2XK6_A Length: 279
+>Chain A, SERINE/THREONINE-PROTEIN KINASE NEK2 [Homo sapiens]
+Sequence ID: 2XK7_A Length: 279
+>Chain A, SERINE/THREONINE-PROTEIN KINASE NEK2 [Homo sapiens]
+Sequence ID: 2XK8_A Length: 279
+>Chain A, SERINE/THREONINE-PROTEIN KINASE NEK2 [Homo sapiens]
+Sequence ID: 2XKC_A Length: 279
+>Chain A, SERINE/THREONINE-PROTEIN KINASE NEK2 [Homo sapiens]
+Sequence ID: 2XKD_A Length: 279
+>Chain A, SERINE/THREONINE-PROTEIN KINASE NEK2 [Homo sapiens]
+Sequence ID: 2XKE_A Length: 279
+>Chain A, SERINE/THREONINE-PROTEIN KINASE NEK2 [Homo sapiens]
+Sequence ID: 2XKF_A Length: 279
+>Chain A, SERINE/THREONINE-PROTEIN KINASE NEK2 [Homo sapiens]
+Sequence ID: 2XNM_A Length: 279
+>Chain A, SERINE/THREONINE-PROTEIN KINASE NEK2 [Homo sapiens]
+Sequence ID: 2XNN_A Length: 279
+>Chain A, SERINE/THREONINE-PROTEIN KINASE NEK2 [Homo sapiens]
+Sequence ID: 2XNO_A Length: 279
+>Chain A, SERINE/THREONINE-PROTEIN KINASE NEK2 [Homo sapiens]
+Sequence ID: 2XNP_A Length: 279
+>Chain A, SERINE/THREONINE-PROTEIN KINASE NEK2 [Homo sapiens]
+Sequence ID: 4AFE_A Length: 279
+>Chain A, Serine/threonine-protein kinase Nek2 [Homo sapiens]
+Sequence ID: 5M51_A Length: 279
+>Chain A, Serine/threonine-protein kinase Nek2 [Homo sapiens]
+Sequence ID: 5M55_A Length: 279
+>Chain A, Serine/threonine-protein kinase Nek2 [Homo sapiens]
+Sequence ID: 6H0O_A Length: 279
+>Chain A, Serine/threonine-protein kinase Nek2 [Homo sapiens]
+Sequence ID: 6SGD_A Length: 279
+>Chain A, Serine/threonine-protein kinase Nek2 [Homo sapiens]
+Sequence ID: 6SGH_A Length: 279
+>Chain A, Serine/threonine-protein kinase Nek2 [Homo sapiens]
+Sequence ID: 6SGI_A Length: 279
+>Chain A, Serine/threonine-protein kinase Nek2 [Homo sapiens]
+Sequence ID: 6SGK_A Length: 279
+>Chain A, Serine/threonine-protein kinase Nek2 [Homo sapiens]
+Sequence ID: 6SK9_A Length: 279 
+Range 1: 95 to 188
+
+Score:194 bits(673), Expect:8e-85, 
+Method:Compositional matrix adjust., 
+Identities:91/94(97%), Positives:92/94(97%), Gaps:0/94(0%)
+
+Query  2    ASVITKGTKERQYLDEEFVLRVMTQLTLALKECHRRSDGGHTVLHRDLKPANVFLDGKQN  181
+            ASVITKGTKERQYLDEEFVLRVMTQLTLALKECHRRSDGGHTVLHRDLKPANVFLDGKQN
+Sbjct  95   ASVITKGTKERQYLDEEFVLRVMTQLTLALKECHRRSDGGHTVLHRDLKPANVFLDGKQN  154
+
+Query  182  VKLGDFGLARILNHDTSFAKTFVGTPYYMSRNQI  283
+            VKLGDFGLARILNHDTSFAKTFVGTPYYMS  Q+
+Sbjct  155  VKLGDFGLARILNHDTSFAKTFVGTPYYMSPEQM  188
+
+
+
+
+Range 2: 190 to 259
+
+Score:147 bits(506), Expect:8e-85, 
+Method:Compositional matrix adjust., 
+Identities:68/70(97%), Positives:68/70(97%), Gaps:0/70(0%)
+
+Query  318  RYPYNEKSDIWSLGCLLYELCALMPPFTAFSQKELAGKIREGKFRRIPYRYSDELNEIIT  497
+            R  YNEKSDIWSLGCLLYELCALMPPFTAFSQKELAGKIREGKFRRIPYRYSDELNEIIT
+Sbjct  190  RMSYNEKSDIWSLGCLLYELCALMPPFTAFSQKELAGKIREGKFRRIPYRYSDELNEIIT  249
+
+Query  498  RMLNLKDYHR  527
+            RMLNLKDYHR
+Sbjct  250  RMLNLKDYHR  259
+
+
+
+
+>Chain A, SERINE/THREONINE-PROTEIN KINASE NEK2 [Homo sapiens]
+Sequence ID: 2JAV_A Length: 279
+>Chain A, SERINE/THREONINE-PROTEIN KINASE NEK2 [Homo sapiens]
+Sequence ID: 2W5B_A Length: 279
+>Chain A, SERINE/THREONINE-PROTEIN KINASE NEK2 [Homo sapiens]
+Sequence ID: 2W5H_A Length: 279
+>Chain A, Serine/threonine-protein kinase Nek2 [Homo sapiens]
+Sequence ID: 5M53_A Length: 279
+>Chain A, Serine/threonine-protein kinase Nek2 [Homo sapiens]
+Sequence ID: 5M57_A Length: 279 
+Range 1: 95 to 188
+
+Score:192 bits(667), Expect:2e-84, 
+Method:Compositional matrix adjust., 
+Identities:90/94(96%), Positives:91/94(96%), Gaps:0/94(0%)
+
+Query  2    ASVITKGTKERQYLDEEFVLRVMTQLTLALKECHRRSDGGHTVLHRDLKPANVFLDGKQN  181
+            ASVITKGTKERQYLDEEFVLRVMTQLTLALKECHRRSDGGHTVLHRDLKPANVFLDGKQN
+Sbjct  95   ASVITKGTKERQYLDEEFVLRVMTQLTLALKECHRRSDGGHTVLHRDLKPANVFLDGKQN  154
+
+Query  182  VKLGDFGLARILNHDTSFAKTFVGTPYYMSRNQI  283
+            VKLGDFGLARILNHDTSFAK FVGTPYYMS  Q+
+Sbjct  155  VKLGDFGLARILNHDTSFAKAFVGTPYYMSPEQM  188
+
+
+
+
+Range 2: 190 to 259
+
+Score:147 bits(506), Expect:2e-84, 
+Method:Compositional matrix adjust., 
+Identities:68/70(97%), Positives:68/70(97%), Gaps:0/70(0%)
+
+Query  318  RYPYNEKSDIWSLGCLLYELCALMPPFTAFSQKELAGKIREGKFRRIPYRYSDELNEIIT  497
+            R  YNEKSDIWSLGCLLYELCALMPPFTAFSQKELAGKIREGKFRRIPYRYSDELNEIIT
+Sbjct  190  RMSYNEKSDIWSLGCLLYELCALMPPFTAFSQKELAGKIREGKFRRIPYRYSDELNEIIT  249
+
+Query  498  RMLNLKDYHR  527
+            RMLNLKDYHR
+Sbjct  250  RMLNLKDYHR  259
+
+
+
+
+>Chain A, SERINE/THREONINE-PROTEIN KINASE NEK2 [Homo sapiens]
+Sequence ID: 4A4X_A Length: 279
+Range 1: 95 to 188
+
+Score:188 bits(652), Expect:6e-83, 
+Method:Compositional matrix adjust., 
+Identities:88/94(94%), Positives:89/94(94%), Gaps:0/94(0%)
+
+Query  2    ASVITKGTKERQYLDEEFVLRVMTQLTLALKECHRRSDGGHTVLHRDLKPANVFLDGKQN  181
+            ASVITKGTKERQYLDEEFVLRVMTQLTLALKECHRRSDGGHTVLHRDLKPANVFLDGKQN
+Sbjct  95   ASVITKGTKERQYLDEEFVLRVMTQLTLALKECHRRSDGGHTVLHRDLKPANVFLDGKQN  154
+
+Query  182  VKLGDFGLARILNHDTSFAKTFVGTPYYMSRNQI  283
+            VKLGDFGLARILNHD  FAK FVGTPYYMS  Q+
+Sbjct  155  VKLGDFGLARILNHDEDFAKEFVGTPYYMSPEQM  188
+
+
+
+
+Range 2: 190 to 259
+
+Score:147 bits(505), Expect:6e-83, 
+Method:Compositional matrix adjust., 
+Identities:68/70(97%), Positives:68/70(97%), Gaps:0/70(0%)
+
+Query  318  RYPYNEKSDIWSLGCLLYELCALMPPFTAFSQKELAGKIREGKFRRIPYRYSDELNEIIT  497
+            R  YNEKSDIWSLGCLLYELCALMPPFTAFSQKELAGKIREGKFRRIPYRYSDELNEIIT
+Sbjct  190  RMSYNEKSDIWSLGCLLYELCALMPPFTAFSQKELAGKIREGKFRRIPYRYSDELNEIIT  249
+
+Query  498  RMLNLKDYHR  527
+            RMLNLKDYHR
+Sbjct  250  RMLNLKDYHR  259
+
+
+
+
+
+>>>>>>> ae3718c133dd8466dc1b873d7a0feda592eee197

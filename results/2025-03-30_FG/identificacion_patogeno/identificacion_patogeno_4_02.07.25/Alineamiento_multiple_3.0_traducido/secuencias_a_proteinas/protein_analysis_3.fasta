@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 >3_translation_report
 Best frame: 2
 Protein length: 61 aa
@@ -8,3 +9,15 @@ All frames analysis:
 Frame 0: 37 aa | STOP positions: [37, 48, 53]
 Frame 1: 9 aa | STOP positions: [9, 14, 15, 21, 24, 33, 39, 45]
 Frame 2: 61 aa | STOP positions: []
+=======
+>3_translation_report
+Best frame: 2
+Protein length: 61 aa
+Protein sequence:
+CFVFEIQNYDSAKFNEFQRHVEEYEVSLILQLCKIPLKAEVLAQINAMNSDILENHAYQGI
+
+All frames analysis:
+Frame 0: 37 aa | STOP positions: [37, 48, 53]
+Frame 1: 9 aa | STOP positions: [9, 14, 15, 21, 24, 33, 39, 45]
+Frame 2: 61 aa | STOP positions: []
+>>>>>>> ae3718c133dd8466dc1b873d7a0feda592eee197

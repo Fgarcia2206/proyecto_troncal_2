@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Query #13: 13 unknown sequence 13 Query ID: lcl|Query_3932117 Length: 682
 
 Sequences producing significant alignments:
@@ -375,3 +376,382 @@ Sbjct  172  LXSGXHTFPAVLQSSG  187
 		
 
 
+=======
+Query #13: 13 unknown sequence 13 Query ID: lcl|Query_3932117 Length: 682
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Ig heavy chain variable region, partial [Homo sapiens]            Homo sapiens    human           9606       170    213   48%   4e-51 97.75  213        AAC51251.1       
+unnamed protein product [Homo sapiens]                            Homo sapiens    human           9606       169    214   48%   2e-50 97.73  236        BAC85239.1       
+immunoglobulin variable region, partial [Homo sapiens]            Homo sapiens    human           9606       162    306   68%   2e-47 94.94  275        QRG33657.1       
+IgG H chain [Homo sapiens]                                        Homo sapiens    human           9606       161    303   68%   5e-47 93.67  300        BAN63146.1       
+Chain H, Heavy chain of BD-218 [Homo sapiens]                     Homo sapiens    human           9606       162    300   68%   6e-47 94.94  321        8GNH_H           
+IgG H chain [Homo sapiens]                                        Homo sapiens    human           9606       161    305   68%   8e-47 93.67  300        BAN63137.1       
+immunoglobulin variable region, partial [Homo sapiens]            Homo sapiens    human           9606       161    305   68%   1e-46 93.67  311        QRG33861.1       
+IgG H chain [Homo sapiens]                                        Homo sapiens    human           9606       161    304   67%   1e-46 93.67  300        BAN63125.1       
+IgG H chain [Homo sapiens]                                        Homo sapiens    human           9606       161    303   67%   1e-46 93.67  311        BAN63133.1       
+immunoglobulin variable region, partial [Homo sapiens]            Homo sapiens    human           9606       160    296   68%   2e-46 94.94  293        QRG34636.1       
+
+
+Alignments:
+
+>Ig heavy chain variable region, partial [Homo sapiens]
+Sequence ID: AAC51251.1 Length: 213
+Range 1: 103 to 191
+
+Score:170 bits(589), Expect:4e-51, 
+Method:Compositional matrix adjust., 
+Identities:87/89(98%), Positives:87/89(97%), Gaps:0/89(0%)
+
+Query  7    LLGPRNPGHRLLSLHQGPIGLPPGTLLQEHLWGHSSPGLPGQGLLPRTGDGVVELRRPDQ  186
+            LLGP NPGHRLLSLHQGPIGLPPGTLLQEHLWGHS PGLPGQGLLPRTGDGVVELRRPDQ
+Sbjct  103  LLGPGNPGHRLLSLHQGPIGLPPGTLLQEHLWGHSGPGLPGQGLLPRTGDGVVELRRPDQ  162
+
+Query  187  RRAHLPGCPTVLRTLLPQQRGDRALQQLG  273
+            RRAHLPGCPTVLRTLLPQQRGDRALQQLG
+Sbjct  163  RRAHLPGCPTVLRTLLPQQRGDRALQQLG  191
+
+
+
+
+Range 2: 192 to 211
+
+Score:43.2 bits(136), Expect:0.030, 
+Method:Compositional matrix adjust., 
+Identities:20/20(100%), Positives:20/20(100%), Gaps:0/20(0%)
+
+Query  456  HPDLHLQRESQAQQHQGGQE  515
+            HPDLHLQRESQAQQHQGGQE
+Sbjct  192  HPDLHLQRESQAQQHQGGQE  211
+
+
+
+
+>unnamed protein product [Homo sapiens]
+Sequence ID: BAC85239.1 Length: 236
+Range 1: 128 to 215
+
+Score:169 bits(584), Expect:2e-50, 
+Method:Compositional matrix adjust., 
+Identities:86/88(98%), Positives:86/88(97%), Gaps:0/88(0%)
+
+Query  10   LGPRNPGHRLLSLHQGPIGLPPGTLLQEHLWGHSSPGLPGQGLLPRTGDGVVELRRPDQR  189
+            LGP NPGHRLLSLHQGPIGLPPGTLLQEHLWGHS PGLPGQGLLPRTGDGVVELRRPDQR
+Sbjct  128  LGPGNPGHRLLSLHQGPIGLPPGTLLQEHLWGHSGPGLPGQGLLPRTGDGVVELRRPDQR  187
+
+Query  190  RAHLPGCPTVLRTLLPQQRGDRALQQLG  273
+            RAHLPGCPTVLRTLLPQQRGDRALQQLG
+Sbjct  188  RAHLPGCPTVLRTLLPQQRGDRALQQLG  215
+
+
+
+
+Range 2: 216 to 236
+
+Score:44.9 bits(142), Expect:0.008, 
+Method:Compositional matrix adjust., 
+Identities:21/21(100%), Positives:21/21(100%), Gaps:0/21(0%)
+
+Query  456  HPDLHLQRESQAQQHQGGQES  518
+            HPDLHLQRESQAQQHQGGQES
+Sbjct  216  HPDLHLQRESQAQQHQGGQES  236
+
+
+
+
+>immunoglobulin variable region, partial [Homo sapiens]
+Sequence ID: QRG33657.1 Length: 275
+Range 1: 195 to 273
+
+Score:162 bits(559), Expect:2e-47, 
+Method:Compositional matrix adjust., 
+Identities:75/79(95%), Positives:77/79(97%), Gaps:0/79(0%)
+
+Query  445  NQIYTQTYICNVNHKPSNTKVDKKVEPKSCDKTHTCPPCPAPELLGGPSVFLFPPKPKDT  624
+            + + TQTYICNVNHKPSNTKVDKKVEPKSCDKTHTCPPCPAPELLGGPSVFLFPPKPKDT
+Sbjct  195  SSLGTQTYICNVNHKPSNTKVDKKVEPKSCDKTHTCPPCPAPELLGGPSVFLFPPKPKDT  254
+
+Query  625  LMISRTPEVTCVVVDVSHE  681
+            LMISRTPEVTCVVVDVSHE
+Sbjct  255  LMISRTPEVTCVVVDVSHE  273
+
+
+
+
+Range 2: 108 to 182
+
+Score:143 bits(494), Expect:4e-40, 
+Method:Compositional matrix adjust., 
+Identities:72/75(96%), Positives:73/75(97%), Gaps:0/75(0%)
+
+Query  2    FDYWGRGTRVTVSSASTKGPSVFPLAPSSKSTSGGTAALGCLVKDYFPEPVTVSWNSGAL  181
+            FD WG+GT VTVSSASTKGPSVFPLAPSSKSTSGGTAALGCLVKDYFPEPVTVSWNSGAL
+Sbjct  108  FDIWGQGTMVTVSSASTKGPSVFPLAPSSKSTSGGTAALGCLVKDYFPEPVTVSWNSGAL  167
+
+Query  182  TSGVHTFPAVLQSSG  226
+            TSGVHTFPAVLQSSG
+Sbjct  168  TSGVHTFPAVLQSSG  182
+
+
+
+
+>IgG H chain [Homo sapiens]
+Sequence ID: BAN63146.1 Length: 300
+Range 1: 218 to 296
+
+Score:161 bits(558), Expect:5e-47, 
+Method:Compositional matrix adjust., 
+Identities:74/79(94%), Positives:77/79(97%), Gaps:0/79(0%)
+
+Query  445  NQIYTQTYICNVNHKPSNTKVDKKVEPKSCDKTHTCPPCPAPELLGGPSVFLFPPKPKDT  624
+            + + TQTYICNVNHKPSNTKVDK+VEPKSCDKTHTCPPCPAPELLGGPSVFLFPPKPKDT
+Sbjct  218  SSLGTQTYICNVNHKPSNTKVDKRVEPKSCDKTHTCPPCPAPELLGGPSVFLFPPKPKDT  277
+
+Query  625  LMISRTPEVTCVVVDVSHE  681
+            LMISRTPEVTCVVVDVSHE
+Sbjct  278  LMISRTPEVTCVVVDVSHE  296
+
+
+
+
+Range 2: 131 to 205
+
+Score:141 bits(484), Expect:7e-39, 
+Method:Compositional matrix adjust., 
+Identities:71/75(95%), Positives:72/75(96%), Gaps:0/75(0%)
+
+Query  2    FDYWGRGTRVTVSSASTKGPSVFPLAPSSKSTSGGTAALGCLVKDYFPEPVTVSWNSGAL  181
+             D WG+GT VTVSSASTKGPSVFPLAPSSKSTSGGTAALGCLVKDYFPEPVTVSWNSGAL
+Sbjct  131  MDVWGQGTTVTVSSASTKGPSVFPLAPSSKSTSGGTAALGCLVKDYFPEPVTVSWNSGAL  190
+
+Query  182  TSGVHTFPAVLQSSG  226
+            TSGVHTFPAVLQSSG
+Sbjct  191  TSGVHTFPAVLQSSG  205
+
+
+
+
+>Chain H, Heavy chain of BD-218 [Homo sapiens]
+Sequence ID: 8GNH_H Length: 321
+Range 1: 213 to 291
+
+Score:162 bits(559), Expect:6e-47, 
+Method:Compositional matrix adjust., 
+Identities:75/79(95%), Positives:77/79(97%), Gaps:0/79(0%)
+
+Query  445  NQIYTQTYICNVNHKPSNTKVDKKVEPKSCDKTHTCPPCPAPELLGGPSVFLFPPKPKDT  624
+            + + TQTYICNVNHKPSNTKVDKKVEPKSCDKTHTCPPCPAPELLGGPSVFLFPPKPKDT
+Sbjct  213  SSLGTQTYICNVNHKPSNTKVDKKVEPKSCDKTHTCPPCPAPELLGGPSVFLFPPKPKDT  272
+
+Query  625  LMISRTPEVTCVVVDVSHE  681
+            LMISRTPEVTCVVVDVSHE
+Sbjct  273  LMISRTPEVTCVVVDVSHE  291
+
+
+
+
+Range 2: 126 to 200
+
+Score:138 bits(475), Expect:1e-37, 
+Method:Compositional matrix adjust., 
+Identities:71/75(95%), Positives:72/75(96%), Gaps:0/75(0%)
+
+Query  2    FDYWGRGTRVTVSSASTKGPSVFPLAPSSKSTSGGTAALGCLVKDYFPEPVTVSWNSGAL  181
+            F  WG+GT VTVSSASTKGPSVFPLAPSSKSTSGGTAALGCLVKDYFPEPVTVSWNSGAL
+Sbjct  126  FGEWGQGTLVTVSSASTKGPSVFPLAPSSKSTSGGTAALGCLVKDYFPEPVTVSWNSGAL  185
+
+Query  182  TSGVHTFPAVLQSSG  226
+            TSGVHTFPAVLQSSG
+Sbjct  186  TSGVHTFPAVLQSSG  200
+
+
+
+
+>IgG H chain [Homo sapiens]
+Sequence ID: BAN63137.1 Length: 300
+Range 1: 213 to 291
+
+Score:161 bits(557), Expect:8e-47, 
+Method:Compositional matrix adjust., 
+Identities:74/79(94%), Positives:77/79(97%), Gaps:0/79(0%)
+
+Query  445  NQIYTQTYICNVNHKPSNTKVDKKVEPKSCDKTHTCPPCPAPELLGGPSVFLFPPKPKDT  624
+            + + TQTYICNVNHKPSNTKVDK+VEPKSCDKTHTCPPCPAPELLGGPSVFLFPPKPKDT
+Sbjct  213  SSLGTQTYICNVNHKPSNTKVDKRVEPKSCDKTHTCPPCPAPELLGGPSVFLFPPKPKDT  272
+
+Query  625  LMISRTPEVTCVVVDVSHE  681
+            LMISRTPEVTCVVVDVSHE
+Sbjct  273  LMISRTPEVTCVVVDVSHE  291
+
+
+
+
+Range 2: 126 to 200
+
+Score:144 bits(495), Expect:5e-40, 
+Method:Compositional matrix adjust., 
+Identities:73/75(97%), Positives:73/75(97%), Gaps:0/75(0%)
+
+Query  2    FDYWGRGTRVTVSSASTKGPSVFPLAPSSKSTSGGTAALGCLVKDYFPEPVTVSWNSGAL  181
+            FD WGRGT VTVSSASTKGPSVFPLAPSSKSTSGGTAALGCLVKDYFPEPVTVSWNSGAL
+Sbjct  126  FDNWGRGTLVTVSSASTKGPSVFPLAPSSKSTSGGTAALGCLVKDYFPEPVTVSWNSGAL  185
+
+Query  182  TSGVHTFPAVLQSSG  226
+            TSGVHTFPAVLQSSG
+Sbjct  186  TSGVHTFPAVLQSSG  200
+
+
+
+
+>immunoglobulin variable region, partial [Homo sapiens]
+Sequence ID: QRG33861.1 Length: 311
+Range 1: 195 to 273
+
+Score:161 bits(557), Expect:1e-46, 
+Method:Compositional matrix adjust., 
+Identities:74/79(94%), Positives:77/79(97%), Gaps:0/79(0%)
+
+Query  445  NQIYTQTYICNVNHKPSNTKVDKKVEPKSCDKTHTCPPCPAPELLGGPSVFLFPPKPKDT  624
+            + + TQTYICNVNHKPSNTKVDK+VEPKSCDKTHTCPPCPAPELLGGPSVFLFPPKPKDT
+Sbjct  195  SSLGTQTYICNVNHKPSNTKVDKRVEPKSCDKTHTCPPCPAPELLGGPSVFLFPPKPKDT  254
+
+Query  625  LMISRTPEVTCVVVDVSHE  681
+            LMISRTPEVTCVVVDVSHE
+Sbjct  255  LMISRTPEVTCVVVDVSHE  273
+
+
+
+
+Range 2: 108 to 182
+
+Score:144 bits(495), Expect:5e-40, 
+Method:Compositional matrix adjust., 
+Identities:72/75(96%), Positives:73/75(97%), Gaps:0/75(0%)
+
+Query  2    FDYWGRGTRVTVSSASTKGPSVFPLAPSSKSTSGGTAALGCLVKDYFPEPVTVSWNSGAL  181
+            FD WG+GT VTVSSASTKGPSVFPLAPSSKSTSGGTAALGCLVKDYFPEPVTVSWNSGAL
+Sbjct  108  FDIWGQGTMVTVSSASTKGPSVFPLAPSSKSTSGGTAALGCLVKDYFPEPVTVSWNSGAL  167
+
+Query  182  TSGVHTFPAVLQSSG  226
+            TSGVHTFPAVLQSSG
+Sbjct  168  TSGVHTFPAVLQSSG  182
+
+
+
+
+>IgG H chain [Homo sapiens]
+Sequence ID: BAN63125.1 Length: 300
+Range 1: 214 to 292
+
+Score:161 bits(556), Expect:1e-46, 
+Method:Compositional matrix adjust., 
+Identities:74/79(94%), Positives:77/79(97%), Gaps:0/79(0%)
+
+Query  445  NQIYTQTYICNVNHKPSNTKVDKKVEPKSCDKTHTCPPCPAPELLGGPSVFLFPPKPKDT  624
+            + + TQTYICNVNHKPSNTKVDK+VEPKSCDKTHTCPPCPAPELLGGPSVFLFPPKPKDT
+Sbjct  214  SSLGTQTYICNVNHKPSNTKVDKRVEPKSCDKTHTCPPCPAPELLGGPSVFLFPPKPKDT  273
+
+Query  625  LMISRTPEVTCVVVDVSHE  681
+            LMISRTPEVTCVVVDVSHE
+Sbjct  274  LMISRTPEVTCVVVDVSHE  292
+
+
+
+
+Range 2: 128 to 201
+
+Score:142 bits(490), Expect:2e-39, 
+Method:Compositional matrix adjust., 
+Identities:72/74(97%), Positives:73/74(98%), Gaps:0/74(0%)
+
+Query  5    DYWGRGTRVTVSSASTKGPSVFPLAPSSKSTSGGTAALGCLVKDYFPEPVTVSWNSGALT  184
+            DYWG+GT VTVSSASTKGPSVFPLAPSSKSTSGGTAALGCLVKDYFPEPVTVSWNSGALT
+Sbjct  128  DYWGQGTLVTVSSASTKGPSVFPLAPSSKSTSGGTAALGCLVKDYFPEPVTVSWNSGALT  187
+
+Query  185  SGVHTFPAVLQSSG  226
+            SGVHTFPAVLQSSG
+Sbjct  188  SGVHTFPAVLQSSG  201
+
+
+
+
+>IgG H chain [Homo sapiens]
+Sequence ID: BAN63133.1 Length: 311
+Range 1: 210 to 288
+
+Score:161 bits(556), Expect:1e-46, 
+Method:Compositional matrix adjust., 
+Identities:74/79(94%), Positives:77/79(97%), Gaps:0/79(0%)
+
+Query  445  NQIYTQTYICNVNHKPSNTKVDKKVEPKSCDKTHTCPPCPAPELLGGPSVFLFPPKPKDT  624
+            + + TQTYICNVNHKPSNTKVDK+VEPKSCDKTHTCPPCPAPELLGGPSVFLFPPKPKDT
+Sbjct  210  SSLGTQTYICNVNHKPSNTKVDKRVEPKSCDKTHTCPPCPAPELLGGPSVFLFPPKPKDT  269
+
+Query  625  LMISRTPEVTCVVVDVSHE  681
+            LMISRTPEVTCVVVDVSHE
+Sbjct  270  LMISRTPEVTCVVVDVSHE  288
+
+
+
+
+Range 2: 124 to 197
+
+Score:142 bits(489), Expect:2e-39, 
+Method:Compositional matrix adjust., 
+Identities:72/74(97%), Positives:73/74(98%), Gaps:0/74(0%)
+
+Query  5    DYWGRGTRVTVSSASTKGPSVFPLAPSSKSTSGGTAALGCLVKDYFPEPVTVSWNSGALT  184
+            DYWG+GT VTVSSASTKGPSVFPLAPSSKSTSGGTAALGCLVKDYFPEPVTVSWNSGALT
+Sbjct  124  DYWGQGTVVTVSSASTKGPSVFPLAPSSKSTSGGTAALGCLVKDYFPEPVTVSWNSGALT  183
+
+Query  185  SGVHTFPAVLQSSG  226
+            SGVHTFPAVLQSSG
+Sbjct  184  SGVHTFPAVLQSSG  197
+
+
+
+
+>immunoglobulin variable region, partial [Homo sapiens]
+Sequence ID: QRG34636.1 Length: 293
+Range 1: 200 to 278
+
+Score:160 bits(553), Expect:2e-46, 
+Method:Compositional matrix adjust., 
+Identities:75/79(95%), Positives:77/79(97%), Gaps:0/79(0%)
+
+Query  445  NQIYTQTYICNVNHKPSNTKVDKKVEPKSCDKTHTCPPCPAPELLGGPSVFLFPPKPKDT  624
+            + + TQTYICNVNHKPSNTKVDKKVEPKSCDKTHTCPPCPAPELLGGPSVFLFPPKPKDT
+Sbjct  200  SSLGTQTYICNVNHKPSNTKVDKKVEPKSCDKTHTCPPCPAPELLGGPSVFLFPPKPKDT  259
+
+Query  625  LMISRTPEVTCVVVDVSHE  681
+            LMISRTPEVTCVVVDVSHE
+Sbjct  260  LMISRTPEVTCVVVDVSHE  278
+
+
+
+
+Range 2: 112 to 187
+
+Score:135 bits(465), Expect:8e-37, 
+Method:Compositional matrix adjust., 
+Identities:70/76(92%), Positives:71/76(93%), Gaps:1/76(1%)
+
+Query  2    FDYWGRGTRVTVSSA-STKGPSVFPLAPSSKSTSGGTAALGCLVKDYFPEPVTVSWNSGA  178
+            FD WG+GT VTVSSA STKGPSVFPLAPSSKSTSGGTAALGCLVKDYFPEPVTVSWNSGA
+Sbjct  112  FDIWGQGTMVTVSSAASTKGPSVFPLAPSSKSTSGGTAALGCLVKDYFPEPVTVSWNSGA  171
+
+Query  179  LTSGVHTFPAVLQSSG  226
+            L SG HTFPAVLQSSG
+Sbjct  172  LXSGXHTFPAVLQSSG  187
+
+
+
+
+
+
+
+		
+
+
+>>>>>>> ae3718c133dd8466dc1b873d7a0feda592eee197

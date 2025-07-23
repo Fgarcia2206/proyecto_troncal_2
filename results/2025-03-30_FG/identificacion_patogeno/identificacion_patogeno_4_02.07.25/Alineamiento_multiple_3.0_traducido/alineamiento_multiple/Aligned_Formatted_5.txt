@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 5_frame_1       APFARREREEPELCEDVLWNLSRPPALGWGEVRGI-----------DRVKVGDRAGVGSP
 5_frame_2       -LL-SPEEREKSLSFVRTSCGTCPGPLPWDGEKSGG*TE---SRWGTGREWGPQG-WGPL
 5_frame_3       -SF-RPKRERRA*AL*GRPVEPVPAPCPGMGRSQ-------------GDRQSQGGGQGGS
@@ -82,3 +83,89 @@ ACE78968.1      ----
 ABI17555.1      ----
 ABI17556.1      ----
 
+=======
+5_frame_1       APFARREREEPELCEDVLWNLSRPPALGWGEVRGI-----------DRVKVGDRAGVGSP
+5_frame_2       -LL-SPEEREKSLSFVRTSCGTCPGPLPWDGEKSGG*TE---SRWGTGREWGPQG-WGPL
+5_frame_3       -SF-RPKRERRA*AL*GRPVEPVPAPCPGMGRSQ-------------GDRQSQGGGQGGS
+AAK01103.1      ----------------------------------AAFEDLRVSSFIRGTRVVPRGQLSTR
+CAF21871.1      --------------------------LVWMACHSAAFEDLRVSSFIRGTRVVPRGQLSTR
+ACE78967.1      -----------------------------------AFEDLRVSSFIRGTRVVPRGQLSTR
+AAK01104.1      ---------------------------------------LRVSSFIRGTRVVPRGQLSTR
+AAK01105.1      -----------------------------------------VSSFIRGTRVVPRGQLSTR
+BAG16720.1      --------------------PAHKSQLVWMACHSAAFEDLRVSSFIRGTRVVPRGQLSTR
+AAK01106.1      -------------------------------------EDLRVSSFIRGTRVVPRGQLSTR
+ACE78968.1      -----------------------------------AFEDLRVSSFIRGTRVIPRGQLSTR
+ABI17555.1      -------------------NPAHKSQLVWMACHSAAFEDLRVSSFIRGTRVVPRGQLSTR
+ABI17556.1      -------------------NPAHKSQLVWMACHSAAFEDLRVSSFIRGTRVVPRGQXSTR
+
+5_frame_1       GLGAFGSSDCFK*EHGNNGLQHS*TEKQILGYKDQEWRKHQPAESICRT-----------
+5_frame_2       VVQIASNENM------------ETMDSSTLELRSRYWAIRTRSGGNTNQ-----------
+5_frame_3       GVPRAGGLW------------------*FRLLQMRTWKQWTPALLN*EADIGL*GPGVEE
+AAK01103.1      GVQIASNENM------------ETMDSSTLELRSRYWAIRTRSGGNTNQ-----------
+CAF21871.1      GVQIASNENM------------ETMDSSTLELRSRYWAIRTRSGGNTNQ-----------
+ACE78967.1      GVQIASNENM------------ETMDSSTLELRSRYWAIRTRSGGNTNQ-----------
+AAK01104.1      GVQIASNENM------------ETMDSSTLELRSRYWAIRTRSGGNTNQ-----------
+AAK01105.1      GVQIASNENM------------ETMDSTTLELRSRYWAIRTRSGGNTNQ-----------
+BAG16720.1      GVQIASNENM------------ETMDSSTLELRSRYWAIRTRSGGNTNQ-----------
+AAK01106.1      GVQIASNENM------------ETMDSSTLELRSRYWAIRTRSGGNTNQ-----------
+ACE78968.1      GVQIASNENM------------ETMDSSTLELRSRYWAIRTRSGGNTNQ-----------
+ABI17555.1      GVQIASNENM------------ETMDSSTLELRSRYWAIRTRSGGNTNQ-----------
+ABI17556.1      GVQIASNENM------------ETMDSSTLELRSRYWAIRTRSGGNTNQ-----------
+
+5_frame_1       -----------DQCAAYFLSTEKSSL*---KSDHYGGIHREYGGQNTVQSF*HED*NHK-
+5_frame_2       --------------------------------------QRASAGQISVQPTFSVQ--RNL
+5_frame_3       TPTSREHLQDRSVCSLLSQYREIFPLKERPLWRHSQGIRRAEHSPILLT*GLKS*E*WKV
+AAK01103.1      --------------------------------------QRASAGQISVQPTFSVQ--RNL
+CAF21871.1      --------------------------------------QRASAGQISVQPTFSVQ--RNL
+ACE78967.1      --------------------------------------QRASAGQISVQPTFSVQ--RNL
+AAK01104.1      --------------------------------------QRASAGQISVQPTFSVQ--RNL
+AAK01105.1      --------------------------------------QRASAGQISVQPTFSVQ--RNL
+BAG16720.1      --------------------------------------QRASAGQISVQPTFSVQ--RNL
+AAK01106.1      --------------------------------------QRASAGQISVQPTFSVQ--RNL
+ACE78968.1      --------------------------------------QRASAGQISVQPTFSVQ--RNL
+ABI17555.1      --------------------------------------QRASAGQISVQPTFSVQ--RNL
+ABI17556.1      --------------------------------------QRASAGQISVQPTFSVQ--RNL
+
+5_frame_1       --------------NDG------------------KCQTRRRVFPGAGQ*PECQER----
+5_frame_2       PFERATIMAAFTGNTEGRTQSNPSDMRTEIIRMMESAKPEDVSFQGRGSDQSV--RRGEQ
+5_frame_3       PNQKTCLSR--------------------------GGAV--TRVSGEGSKAL*PHPHKRS
+AAK01103.1      PFERATIMAAFTGNTEGRT----SDMRTEIIRMMESARPEDVSFQGRGVFELS--DEK--
+CAF21871.1      PFERATIMAAFTGNTEGRT----SDMRTEIIRMMESARPEDVSFQGRGVFELS--G----
+ACE78967.1      PFERATIMAAFTGNTEGRT----SDMRTEIIRMMESARPEDVSFQGRGVFELS--E----
+AAK01104.1      PFERATIMAAFTGNTEGRT----SDMRTEIIRMMESARPEDVSFQGRGVFELS-------
+AAK01105.1      PFERATIMAAFTGNTEGRT----SDMRTEIIRMMESARPEDVSFQGRGV-----------
+BAG16720.1      PFERATIMAAFTGNTEGRT----SDMRTEIIRMMESARPEDVSFQGRGVFELS--DEKAT
+AAK01106.1      PFERATIMAAFTGNTEGRT----SDMRTEIIRMMESARPEDVSFQGRGVFELS--D----
+ACE78968.1      PFERATIMAAFTGNTEGRT----SDMRTEIIRMMESARPEDVSFQGRGVFELS--E----
+ABI17555.1      PFERATIMAAFTGNTEGRT----SDMRTEIIRMMESARPEDVSFQGRGVFELS-------
+ABI17556.1      PFERATIMAAFTGNTEGRT----SDMRTEIIRMMESARPEDVSFQGRGVFELS-------
+
+5_frame_1       GAKPSSLILIKGLIIFPPASYALG----TFERGLIDR*IDSR*MIVEAGVSGEII*ERAW
+5_frame_2       SPLASSS*KVSSFSLQPLMHWGLLNEAL*IDR*IVDR**LKQVFLEK*S------EREHG
+5_frame_3       HHFPSSLLCTGDF*TRPYR---------*IDR**IDDS*SR-CFWRN-N------LRESM
+AAK01103.1      ------------------------------------------------------------
+CAF21871.1      ------------------------------------------------------------
+ACE78967.1      ------------------------------------------------------------
+AAK01104.1      ------------------------------------------------------------
+AAK01105.1      ------------------------------------------------------------
+BAG16720.1      NPIVP------SFDMSNEGSYFFGDNAEEYDN----------------------------
+AAK01106.1      ------------------------------------------------------------
+ACE78968.1      ------------------------------------------------------------
+ABI17555.1      ------------------------------------------------------------
+ABI17556.1      ------------------------------------------------------------
+
+5_frame_1       SFPS
+5_frame_2       LFP-
+5_frame_3       VFSL
+AAK01103.1      ----
+CAF21871.1      ----
+ACE78967.1      ----
+AAK01104.1      ----
+AAK01105.1      ----
+BAG16720.1      ----
+AAK01106.1      ----
+ACE78968.1      ----
+ABI17555.1      ----
+ABI17556.1      ----
+
+>>>>>>> ae3718c133dd8466dc1b873d7a0feda592eee197

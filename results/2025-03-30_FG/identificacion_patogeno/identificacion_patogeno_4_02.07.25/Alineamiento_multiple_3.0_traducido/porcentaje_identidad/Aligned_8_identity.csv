@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Query,Hit,% Identidad
 8_frame_1,8_frame_2,24.34
 8_frame_1,8_frame_3,22.87
@@ -11,3 +12,18 @@ Query,Hit,% Identidad
 8_frame_1,ACE78968.1,87.39
 8_frame_1,ABI17555.1,88.18
 8_frame_1,ABI17556.1,88.18
+=======
+Query,Hit,% Identidad
+8_frame_1,8_frame_2,24.34
+8_frame_1,8_frame_3,22.87
+8_frame_1,AAK01103.1,85.84
+8_frame_1,CAF21871.1,87.39
+8_frame_1,ACE78967.1,87.39
+8_frame_1,AAK01104.1,88.18
+8_frame_1,AAK01105.1,90.57
+8_frame_1,BAG16720.1,71.63
+8_frame_1,AAK01106.1,87.39
+8_frame_1,ACE78968.1,87.39
+8_frame_1,ABI17555.1,88.18
+8_frame_1,ABI17556.1,88.18
+>>>>>>> ae3718c133dd8466dc1b873d7a0feda592eee197

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 >8_frame_1
 -------------------------------------------G---GGL*SSP*VQIAS
 NENMETMDSSTLELRSRYWAIRTRSGGNTNQQRASAGQISVQPTFSVQRNLPFERA----
@@ -89,3 +90,96 @@ AFTGNTEGRTSDMRTEIIRMMESARPEDVSFQGRG----------------VFELS----
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------
+=======
+>8_frame_1
+-------------------------------------------G---GGL*SSP*VQIAS
+NENMETMDSSTLELRSRYWAIRTRSGGNTNQQRASAGQISVQPTFSVQRNLPFERA----
+AFTGNTEGRTSDMRTEIIRMMESAKPEDVSFQGRG----------------QKSMRNQI*
+KSDIEIRYRNQI*KSDIPWPKKHVPGHR*IDR**IDRA*AL*GR-PVEPVPAPCPGMGRS
+QGD-RQSQGGGQGGSGVPRAGGLWCSDQSVRRGEQSPLASSS*KVSSFSLQPLMHWGD-S
+KKAWC*FSR----ECGQFPSRPLKQVSRIFYLLTI*
+>8_frame_2
+--------------GEAFEAVPEFRLLQMRTWKQWTPALLN*EA---DIGL*GPGVEETP
+TSREHLQDRSVCSLLSQYREIFPLK-----------------------------------
+ERHSQGIRRAEHLT*GLKS*E*WKVPNQKTCLSRG----------GAKKA*EIRYRNQI*
+KSDIEIRYRNQIFPGQKSMSL---AIDR*IDSR*IEPE--LCEDVLWNLSRPPALGWGEV
+RGI-DRVKVGDRAGVGSPGLGAFGAVTRVSGEGSKAL*PHPHKRSHHFPS-SLLCTGEIV
+KKHGVDFQE----SADSFLRGL*SRCPEFFTFLQYS
+>8_frame_3
+----------------------------------GRPLKQSLSSDCFK*EHGNNGLQHS*
+------TEKQILGYKDQEWRKHQPAESICRTDQC-------AAYFLSTEKSSL*KSGIHR
+EYGGQN-----------I*HED*NHKNDGKCQTRRRVFPGAGPKKHEKSDIEIRYRNQI*
+KSDIEIRYSLA--KKACPWP*--------IDR*IVDR*SLSFVRTSCGTCPGPLPWDGEK
+SGG*TESRWGTGREWGPQGWGPLVQ*PECQERGAKPSSLILIKGLIIFPPA-SYALGR**
+KSMVLIFKRVRTVSFEAFEAGVQNFLPSYNI-----
+>AAK01103.1 nucleoprotein, partial [Influenza A virus (A/chicken/Italy/312/1997(H5N2))]
+---------------AAFEDLRVSSFIRG------TR----VVP---RGQLSTRGVQIAS
+NENMETMDSSTLELRSRYWAIRTRSGGNTNQQRASAGQISVQPTFSVQRNLPFERATIMA
+AFTGNTEGRTSDMRTEIIRMMESARPEDVSFQGRG----------------VFELSDEK-
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------
+>CAF21871.1 nucleoprotein, partial [Influenza A virus (A/duck/Primorie/2633/2001(H5N3))]
+-------LVWMACHSAAFEDLRVSSFIRG------TR----VVP---RGQLSTRGVQIAS
+NENMETMDSSTLELRSRYWAIRTRSGGNTNQQRASAGQISVQPTFSVQRNLPFERATIMA
+AFTGNTEGRTSDMRTEIIRMMESARPEDVSFQGRG----------------VFELSG---
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------
+>ACE78967.1 nucleocapsid protein, partial [Influenza A virus (A/Anas querquedula/Kyrgyzstan/1047/1987(H4N6))]
+----------------AFEDLRVSSFIRG------TR----VVP---RGQLSTRGVQIAS
+NENMETMDSSTLELRSRYWAIRTRSGGNTNQQRASAGQISVQPTFSVQRNLPFERATIMA
+AFTGNTEGRTSDMRTEIIRMMESARPEDVSFQGRG----------------VFELSE---
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------
+>AAK01104.1 nucleoprotein, partial [Influenza A virus (A/chicken/Italy/330/1997(H5N2))]
+--------------------LRVSSFIRG------TR----VVP---RGQLSTRGVQIAS
+NENMETMDSSTLELRSRYWAIRTRSGGNTNQQRASAGQISVQPTFSVQRNLPFERATIMA
+AFTGNTEGRTSDMRTEIIRMMESARPEDVSFQGRG----------------VFELS----
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------
+>AAK01105.1 nucleoprotein, partial [Influenza A virus (A/chicken/Italy/367/97(H5N2))]
+----------------------VSSFIRG------TR----VVP---RGQLSTRGVQIAS
+NENMETMDSTTLELRSRYWAIRTRSGGNTNQQRASAGQISVQPTFSVQRNLPFERATIMA
+AFTGNTEGRTSDMRTEIIRMMESARPEDVSFQGRG----------------V--------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------
+>BAG16720.1 nucleoprotein, partial [Influenza A virus (A/duck/Hokkaido/W95/2006(H10N8))]
+-PAHKSQLVWMACHSAAFEDLRVSSFIRG------TR----VVP---RGQLSTRGVQIAS
+NENMETMDSSTLELRSRYWAIRTRSGGNTNQQRASAGQISVQPTFSVQRNLPFERATIMA
+AFTGNTEGRTSDMRTEIIRMMESARPEDVSFQGRG----------------VFELSDEKA
+TNPIVPSFDMSNEGSY------------------------FFGD-NAEEYDN--------
+------------------------------------------------------------
+------------------------------------
+>AAK01106.1 nucleoprotein, partial [Influenza A virus (A/chicken/Italy/9097/1997(H5N9))]
+------------------EDLRVSSFIRG------TR----VVP---RGQLSTRGVQIAS
+NENMETMDSSTLELRSRYWAIRTRSGGNTNQQRASAGQISVQPTFSVQRNLPFERATIMA
+AFTGNTEGRTSDMRTEIIRMMESARPEDVSFQGRG----------------VFELSD---
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------
+>ACE78968.1 nucleocapsid protein, partial [Influenza A virus (A/Anas crecca/Astrakhan/646/1987(H4N3))]
+----------------AFEDLRVSSFIRG------TR----VIP---RGQLSTRGVQIAS
+NENMETMDSSTLELRSRYWAIRTRSGGNTNQQRASAGQISVQPTFSVQRNLPFERATIMA
+AFTGNTEGRTSDMRTEIIRMMESARPEDVSFQGRG----------------VFELSE---
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------
+>ABI17555.1 nucleocapsid protein, partial [Influenza A virus (A/duck/Primorie/3672/02(H4N2))]
+NPAHKSQLVWMACHSAAFEDLRVSSFIRG------TR----VVP---RGQLSTRGVQIAS
+NENMETMDSSTLELRSRYWAIRTRSGGNTNQQRASAGQISVQPTFSVQRNLPFERATIMA
+AFTGNTEGRTSDMRTEIIRMMESARPEDVSFQGRG----------------VFELS----
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------
+>ABI17556.1 nucleocapsid protein, partial [Influenza A virus (A/duck/Primorie/3691/02(H12N2))]
+NPAHKSQLVWMACHSAAFEDLRVSSFIRG------TR----VVP---RGQXSTRGVQIAS
+NENMETMDSSTLELRSRYWAIRTRSGGNTNQQRASAGQISVQPTFSVQRNLPFERATIMA
+AFTGNTEGRTSDMRTEIIRMMESARPEDVSFQGRG----------------VFELS----
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------
+>>>>>>> ae3718c133dd8466dc1b873d7a0feda592eee197

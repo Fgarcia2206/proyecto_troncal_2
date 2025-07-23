@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Query #3: 3 unknown sequence 3 Query ID: lcl|Query_3932107 Length: 187
 
 Sequences producing significant alignments:
@@ -170,3 +171,177 @@ Sbjct  10   VKDIANYDSQKFNEYQRHVEEYEISLILQLCKIPLKAEVLAQINAMNSNILED  62
 
 
 
+=======
+Query #3: 3 unknown sequence 3 Query ID: lcl|Query_3932107 Length: 187
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+major capsid protein L1, partial [Human papillomavirus]           Human papill... NA              10566      106    106   85%   6e-29 98.11  116        AAB61647.1       
+major capsid protein L1, partial [Human papillomavirus]           Human papill... NA              10566      104    104   85%   3e-28 96.23  116        ADX99467.1       
+L1 protein, partial [Human papillomavirus]                        Human papill... NA              10566      101    101   85%   5e-27 92.45  92         AAC78137.1       
+major capsid L1 protein, partial [Human papillomavirus]           Human papill... NA              10566      100    100   85%   1e-26 90.57  116        CEF52502.1       
+major capsid protein L1, partial [Human papillomavirus]           Human papill... NA              10566      100    100   85%   1e-26 90.57  114        AAB71549.1       
+major capsid protein, partial [Human papillomavirus]              Human papill... NA              10566      100    100   85%   2e-26 90.57  126        CDG15349.1       
+L1, partial [Human papillomavirus unidentified type (RTRX2)]      Human papill... NA              37756      99.5   99.5  85%   2e-26 90.57  92         AAA74313.1       
+L1 protein, partial [Human papillomavirus 152]                    Human papill... NA              990302     99.8   99.8  85%   3e-26 90.57  128        WJL93791.1       
+L1 protein, partial [Human papillomavirus 152]                    Human papill... NA              990302     98.4   98.4  85%   1e-25 88.68  128        WJL93792.1       
+L1 protein, partial [Human papillomavirus]                        Human papill... NA              10566      95.3   95.3  85%   1e-24 84.91  92         AAC12652.1       
+
+
+Alignments:
+
+>major capsid protein L1, partial [Human papillomavirus]
+Sequence ID: AAB61647.1 Length: 116
+Range 1: 20 to 72
+
+Score:106 bits(361), Expect:6e-29, 
+Method:Compositional matrix adjust., 
+Identities:52/53(98%), Positives:52/53(98%), Gaps:0/53(0%)
+
+Query  9    VFEIQNYDSAKFNEFQRHVEEYEVSLILQLCKIPLKAEVLAQINAMNSDILEN  167
+            V EIQNYDSAKFNEFQRHVEEYEVSLILQLCKIPLKAEVLAQINAMNSDILEN
+Sbjct  20   VKEIQNYDSAKFNEFQRHVEEYEVSLILQLCKIPLKAEVLAQINAMNSDILEN  72
+
+
+
+
+>major capsid protein L1, partial [Human papillomavirus]
+Sequence ID: ADX99467.1 Length: 116
+>major capsid protein L1, partial [Human papillomavirus]
+Sequence ID: ADX99468.1 Length: 116 
+Range 1: 20 to 72
+
+Score:104 bits(355), Expect:3e-28, 
+Method:Compositional matrix adjust., 
+Identities:51/53(96%), Positives:52/53(98%), Gaps:0/53(0%)
+
+Query  9    VFEIQNYDSAKFNEFQRHVEEYEVSLILQLCKIPLKAEVLAQINAMNSDILEN  167
+            V EI+NYDSAKFNEFQRHVEEYEVSLILQLCKIPLKAEVLAQINAMNSDILEN
+Sbjct  20   VKEIENYDSAKFNEFQRHVEEYEVSLILQLCKIPLKAEVLAQINAMNSDILEN  72
+
+
+
+
+>L1 protein, partial [Human papillomavirus]
+Sequence ID: AAC78137.1 Length: 92
+Range 1: 10 to 62
+
+Score:101 bits(342), Expect:5e-27, 
+Method:Compositional matrix adjust., 
+Identities:49/53(92%), Positives:51/53(96%), Gaps:0/53(0%)
+
+Query  9    VFEIQNYDSAKFNEFQRHVEEYEVSLILQLCKIPLKAEVLAQINAMNSDILEN  167
+            V EIQ+YDS KFNEFQRHVEEYEVSLILQLCKIPLKAEVLAQINAMNSDILE+
+Sbjct  10   VKEIQSYDSTKFNEFQRHVEEYEVSLILQLCKIPLKAEVLAQINAMNSDILES  62
+
+
+
+
+>major capsid L1 protein, partial [Human papillomavirus]
+Sequence ID: CEF52502.1 Length: 116
+Range 1: 20 to 72
+
+Score:100 bits(340), Expect:1e-26, 
+Method:Compositional matrix adjust., 
+Identities:48/53(91%), Positives:51/53(96%), Gaps:0/53(0%)
+
+Query  9    VFEIQNYDSAKFNEFQRHVEEYEVSLILQLCKIPLKAEVLAQINAMNSDILEN  167
+            V +I++YDS KFNEFQRHVEEYEVSLILQLCKIPLKAEVLAQINAMNSDILEN
+Sbjct  20   VKDIESYDSTKFNEFQRHVEEYEVSLILQLCKIPLKAEVLAQINAMNSDILEN  72
+
+
+
+
+>major capsid protein L1, partial [Human papillomavirus]
+Sequence ID: AAB71549.1 Length: 114
+Range 1: 15 to 67
+
+Score:100 bits(339), Expect:1e-26, 
+Method:Compositional matrix adjust., 
+Identities:48/53(91%), Positives:51/53(96%), Gaps:0/53(0%)
+
+Query  9    VFEIQNYDSAKFNEFQRHVEEYEVSLILQLCKIPLKAEVLAQINAMNSDILEN  167
+            V +I++YDS KFNEFQRHVEEYEVSLILQLCKIPLKAEVLAQINAMNSDILEN
+Sbjct  15   VKDIESYDSTKFNEFQRHVEEYEVSLILQLCKIPLKAEVLAQINAMNSDILEN  67
+
+
+
+
+>major capsid protein, partial [Human papillomavirus]
+Sequence ID: CDG15349.1 Length: 126
+Range 1: 29 to 81
+
+Score:100 bits(340), Expect:2e-26, 
+Method:Compositional matrix adjust., 
+Identities:48/53(91%), Positives:51/53(96%), Gaps:0/53(0%)
+
+Query  9    VFEIQNYDSAKFNEFQRHVEEYEVSLILQLCKIPLKAEVLAQINAMNSDILEN  167
+            V +I++YDS KFNEFQRHVEEYEVSLILQLCKIPLKAEVLAQINAMNSDILEN
+Sbjct  29   VKDIESYDSTKFNEFQRHVEEYEVSLILQLCKIPLKAEVLAQINAMNSDILEN  81
+
+
+
+
+>L1, partial [Human papillomavirus unidentified type (RTRX2)]
+Sequence ID: AAA74313.1 Length: 92
+Range 1: 10 to 62
+
+Score:99.5 bits(336), Expect:2e-26, 
+Method:Compositional matrix adjust., 
+Identities:48/53(91%), Positives:51/53(96%), Gaps:0/53(0%)
+
+Query  9    VFEIQNYDSAKFNEFQRHVEEYEVSLILQLCKIPLKAEVLAQINAMNSDILEN  167
+            V EI++YDS KFNEFQRHVEEYEVSLILQLCKIPLKAEVLA+INAMNSDILEN
+Sbjct  10   VKEIESYDSTKFNEFQRHVEEYEVSLILQLCKIPLKAEVLAKINAMNSDILEN  62
+
+
+
+
+>L1 protein, partial [Human papillomavirus 152]
+Sequence ID: WJL93791.1 Length: 128
+Range 1: 27 to 79
+
+Score:99.8 bits(337), Expect:3e-26, 
+Method:Compositional matrix adjust., 
+Identities:48/53(91%), Positives:51/53(96%), Gaps:0/53(0%)
+
+Query  9    VFEIQNYDSAKFNEFQRHVEEYEVSLILQLCKIPLKAEVLAQINAMNSDILEN  167
+            V EI++YDS KFNEFQRHVEEYEVSLILQLCKIPLKAEVLAQINAMNSDILE+
+Sbjct  27   VKEIESYDSTKFNEFQRHVEEYEVSLILQLCKIPLKAEVLAQINAMNSDILES  79
+
+
+
+
+>L1 protein, partial [Human papillomavirus 152]
+Sequence ID: WJL93792.1 Length: 128
+Range 1: 27 to 79
+
+Score:98.4 bits(332), Expect:1e-25, 
+Method:Compositional matrix adjust., 
+Identities:47/53(89%), Positives:51/53(96%), Gaps:0/53(0%)
+
+Query  9    VFEIQNYDSAKFNEFQRHVEEYEVSLILQLCKIPLKAEVLAQINAMNSDILEN  167
+            V EI++YDS KFNEF+RHVEEYEVSLILQLCKIPLKAEVLAQINAMNSDILE+
+Sbjct  27   VKEIESYDSTKFNEFKRHVEEYEVSLILQLCKIPLKAEVLAQINAMNSDILES  79
+
+
+
+
+>L1 protein, partial [Human papillomavirus]
+Sequence ID: AAC12652.1 Length: 92
+Range 1: 10 to 62
+
+Score:95.3 bits(321), Expect:1e-24, 
+Method:Compositional matrix adjust., 
+Identities:45/53(85%), Positives:50/53(94%), Gaps:0/53(0%)
+
+Query  9    VFEIQNYDSAKFNEFQRHVEEYEVSLILQLCKIPLKAEVLAQINAMNSDILEN  167
+            V +I NYDS KFNE+QRHVEEYE+SLILQLCKIPLKAEVLAQINAMNS+ILE+
+Sbjct  10   VKDIANYDSQKFNEYQRHVEEYEISLILQLCKIPLKAEVLAQINAMNSNILED  62
+
+
+
+
+
+>>>>>>> ae3718c133dd8466dc1b873d7a0feda592eee197

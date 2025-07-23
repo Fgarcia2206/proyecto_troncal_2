@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Query #11: 11 unknown sequence 11 Query ID: lcl|Query_3932115 Length: 1241
 
 Sequences producing significant alignments:
@@ -214,3 +215,221 @@ Sbjct  126  TRGVQIASNENMETMDSSTL  145
 
 
 
+=======
+Query #11: 11 unknown sequence 11 Query ID: lcl|Query_3932115 Length: 1241
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+nucleocapsid protein, partial [Influenza A virus]                 Influenza A ... NA              11320      159    159   19%   3e-45 92.50  180        QDX47895.1       
+nucleocapsid protein, partial [Influenza A virus]                 Influenza A ... NA              11320      159    159   19%   3e-45 92.50  208        XPC21872.1       
+nucleocapsid protein, partial [Influenza A virus]                 Influenza A ... NA              11320      159    159   19%   4e-45 92.50  195        QDX48031.1       
+nucleocapsid protein, partial [Influenza A virus...               Influenza A ... NA              1141710    159    159   19%   4e-45 91.25  209        AFC17984.1       
+nucleocapsid protein, partial [Influenza A virus]                 Influenza A ... NA              11320      158    158   19%   1e-44 92.50  215        QDX47957.1       
+nucleocapsid protein, partial [Influenza A virus...               Influenza A ... NA              680740     159    159   19%   1e-44 92.50  254        ACZ46735.1       
+nucleoprotein, partial [Influenza A virus...                      Influenza A ... NA              1280302    159    159   19%   1e-44 92.50  268        BAM76345.1       
+nucleocapsid protein, partial [Influenza A virus...               Influenza A ... NA              1789084    159    159   19%   1e-44 92.50  261        AMQ46498.1       
+nucleocapsid protein, partial [Influenza A virus...               Influenza A ... NA              311170     159    159   19%   2e-44 92.50  269        AAW78294.1       
+nucleocapsid protein, partial [Influenza A virus...               Influenza A ... NA              1293287    159    159   19%   2e-44 92.50  264        AGG12534.1       
+
+
+Alignments:
+
+>nucleocapsid protein, partial [Influenza A virus]
+Sequence ID: QDX47895.1 Length: 180
+>nucleocapsid protein, partial [Influenza A virus]
+Sequence ID: QDX47896.1 Length: 180
+>nucleocapsid protein, partial [Influenza A virus]
+Sequence ID: QMS42563.1 Length: 180
+>nucleocapsid protein, partial [Influenza A virus]
+Sequence ID: QMS42569.1 Length: 180 
+Range 1: 6 to 85
+
+Score:159 bits(549), Expect:3e-45, 
+Method:Compositional matrix adjust., 
+Identities:74/80(93%), Positives:76/80(95%), Gaps:0/80(0%)
+
+Query  150  GLDPFRLLQNSQVFSLIRPNENPAHKSQLVWMACHSAAFEDLRVSSFIRGTRVVPRGQLS  329
+            G+DPFRLLQNSQVFSLIRPNENPAHKSQLVWMACHSAAFEDLRVSSFIRGTRVVPRGQLS
+Sbjct  6    GIDPFRLLQNSQVFSLIRPNENPAHKSQLVWMACHSAAFEDLRVSSFIRGTRVVPRGQLS  65
+
+Query  330  TRGVQIASNENMETITHQML  389
+            TRGVQIASNENMET+    L
+Sbjct  66   TRGVQIASNENMETMDSSTL  85
+
+
+
+
+>nucleocapsid protein, partial [Influenza A virus]
+Sequence ID: XPC21872.1 Length: 208
+Range 1: 10 to 89
+
+Score:159 bits(551), Expect:3e-45, 
+Method:Compositional matrix adjust., 
+Identities:74/80(93%), Positives:76/80(95%), Gaps:0/80(0%)
+
+Query  150  GLDPFRLLQNSQVFSLIRPNENPAHKSQLVWMACHSAAFEDLRVSSFIRGTRVVPRGQLS  329
+            G+DPFRLLQNSQVFSLIRPNENPAHKSQLVWMACHSAAFEDLRVSSFIRGTRVVPRGQLS
+Sbjct  10   GIDPFRLLQNSQVFSLIRPNENPAHKSQLVWMACHSAAFEDLRVSSFIRGTRVVPRGQLS  69
+
+Query  330  TRGVQIASNENMETITHQML  389
+            TRGVQIASNENMET+    L
+Sbjct  70   TRGVQIASNENMETMDSSTL  89
+
+
+
+
+>nucleocapsid protein, partial [Influenza A virus]
+Sequence ID: QDX48031.1 Length: 195
+Range 1: 9 to 88
+
+Score:159 bits(550), Expect:4e-45, 
+Method:Compositional matrix adjust., 
+Identities:74/80(93%), Positives:76/80(95%), Gaps:0/80(0%)
+
+Query  150  GLDPFRLLQNSQVFSLIRPNENPAHKSQLVWMACHSAAFEDLRVSSFIRGTRVVPRGQLS  329
+            G+DPFRLLQNSQVFSLIRPNENPAHKSQLVWMACHSAAFEDLRVSSFIRGTRVVPRGQLS
+Sbjct  9    GIDPFRLLQNSQVFSLIRPNENPAHKSQLVWMACHSAAFEDLRVSSFIRGTRVVPRGQLS  68
+
+Query  330  TRGVQIASNENMETITHQML  389
+            TRGVQIASNENMET+    L
+Sbjct  69   TRGVQIASNENMETMDSSTL  88
+
+
+
+
+>nucleocapsid protein, partial [Influenza A virus (A/chicken/Egypt/BSU-CU/2011(H9N2))]
+Sequence ID: AFC17984.1 Length: 209
+Range 1: 21 to 100
+
+Score:159 bits(550), Expect:4e-45, 
+Method:Compositional matrix adjust., 
+Identities:73/80(91%), Positives:76/80(95%), Gaps:0/80(0%)
+
+Query  150  GLDPFRLLQNSQVFSLIRPNENPAHKSQLVWMACHSAAFEDLRVSSFIRGTRVVPRGQLS  329
+            G+DPFRLLQNSQVFSLIRPNENPAHKSQLVWMACHSAAFEDLRVSSFIRGTRV+PRGQLS
+Sbjct  21   GIDPFRLLQNSQVFSLIRPNENPAHKSQLVWMACHSAAFEDLRVSSFIRGTRVIPRGQLS  80
+
+Query  330  TRGVQIASNENMETITHQML  389
+            TRGVQIASNENMET+    L
+Sbjct  81   TRGVQIASNENMETMDSSTL  100
+
+
+
+
+>nucleocapsid protein, partial [Influenza A virus]
+Sequence ID: QDX47957.1 Length: 215
+Range 1: 27 to 106
+
+Score:158 bits(547), Expect:1e-44, 
+Method:Compositional matrix adjust., 
+Identities:74/80(93%), Positives:76/80(95%), Gaps:0/80(0%)
+
+Query  150  GLDPFRLLQNSQVFSLIRPNENPAHKSQLVWMACHSAAFEDLRVSSFIRGTRVVPRGQLS  329
+            G+DPFRLLQNSQVFSLIRPNENPAHKSQLVWMACHSAAFEDLRVSSFIRGTRVVPRGQLS
+Sbjct  27   GIDPFRLLQNSQVFSLIRPNENPAHKSQLVWMACHSAAFEDLRVSSFIRGTRVVPRGQLS  86
+
+Query  330  TRGVQIASNENMETITHQML  389
+            TRGVQIASNENMET+    L
+Sbjct  87   TRGVQIASNENMETMDSSTL  106
+
+
+
+
+>nucleocapsid protein, partial [Influenza A virus (A/chicken/Middle East/ED-1/1999(H9N2))]
+Sequence ID: ACZ46735.1 Length: 254
+Range 1: 56 to 135
+
+Score:159 bits(550), Expect:1e-44, 
+Method:Compositional matrix adjust., 
+Identities:74/80(93%), Positives:76/80(95%), Gaps:0/80(0%)
+
+Query  150  GLDPFRLLQNSQVFSLIRPNENPAHKSQLVWMACHSAAFEDLRVSSFIRGTRVVPRGQLS  329
+            G+DPFRLLQNSQVFSLIRPNENPAHKSQLVWMACHSAAFEDLRVSSFIRGTRVVPRGQLS
+Sbjct  56   GIDPFRLLQNSQVFSLIRPNENPAHKSQLVWMACHSAAFEDLRVSSFIRGTRVVPRGQLS  115
+
+Query  330  TRGVQIASNENMETITHQML  389
+            TRGVQIASNENMET+    L
+Sbjct  116  TRGVQIASNENMETMDSSTL  135
+
+
+
+
+>nucleoprotein, partial [Influenza A virus (A/duck/Vietnam/OIE-3426/2012(H3N8))]
+Sequence ID: BAM76345.1 Length: 268
+Range 1: 70 to 149
+
+Score:159 bits(550), Expect:1e-44, 
+Method:Compositional matrix adjust., 
+Identities:74/80(93%), Positives:76/80(95%), Gaps:0/80(0%)
+
+Query  150  GLDPFRLLQNSQVFSLIRPNENPAHKSQLVWMACHSAAFEDLRVSSFIRGTRVVPRGQLS  329
+            G+DPFRLLQNSQVFSLIRPNENPAHKSQLVWMACHSAAFEDLRVSSFIRGTRVVPRGQLS
+Sbjct  70   GIDPFRLLQNSQVFSLIRPNENPAHKSQLVWMACHSAAFEDLRVSSFIRGTRVVPRGQLS  129
+
+Query  330  TRGVQIASNENMETITHQML  389
+            TRGVQIASNENMET+    L
+Sbjct  130  TRGVQIASNENMETMDSSTL  149
+
+
+
+
+>nucleocapsid protein, partial [Influenza A virus (A/mallard/Maryland/10OS0582/2010(H10N7))]
+Sequence ID: AMQ46498.1 Length: 261
+Range 1: 88 to 167
+
+Score:159 bits(550), Expect:1e-44, 
+Method:Compositional matrix adjust., 
+Identities:74/80(93%), Positives:76/80(95%), Gaps:0/80(0%)
+
+Query  150  GLDPFRLLQNSQVFSLIRPNENPAHKSQLVWMACHSAAFEDLRVSSFIRGTRVVPRGQLS  329
+            G+DPFRLLQNSQVFSLIRPNENPAHKSQLVWMACHSAAFEDLRVSSFIRGTRVVPRGQLS
+Sbjct  88   GIDPFRLLQNSQVFSLIRPNENPAHKSQLVWMACHSAAFEDLRVSSFIRGTRVVPRGQLS  147
+
+Query  330  TRGVQIASNENMETITHQML  389
+            TRGVQIASNENMET+    L
+Sbjct  148  TRGVQIASNENMETMDSSTL  167
+
+
+
+
+>nucleocapsid protein, partial [Influenza A virus (A/dove/Korea/S11/2003(H3N2))]
+Sequence ID: AAW78294.1 Length: 269
+Range 1: 71 to 150
+
+Score:159 bits(550), Expect:2e-44, 
+Method:Compositional matrix adjust., 
+Identities:74/80(93%), Positives:76/80(95%), Gaps:0/80(0%)
+
+Query  150  GLDPFRLLQNSQVFSLIRPNENPAHKSQLVWMACHSAAFEDLRVSSFIRGTRVVPRGQLS  329
+            G+DPFRLLQNSQVFSLIRPNENPAHKSQLVWMACHSAAFEDLRVSSFIRGTRVVPRGQLS
+Sbjct  71   GIDPFRLLQNSQVFSLIRPNENPAHKSQLVWMACHSAAFEDLRVSSFIRGTRVVPRGQLS  130
+
+Query  330  TRGVQIASNENMETITHQML  389
+            TRGVQIASNENMET+    L
+Sbjct  131  TRGVQIASNENMETMDSSTL  150
+
+
+
+
+>nucleocapsid protein, partial [Influenza A virus (A/mallard/Czech Republic/15962-4T/2010(H6N9))]
+Sequence ID: AGG12534.1 Length: 264
+Range 1: 66 to 145
+
+Score:159 bits(550), Expect:2e-44, 
+Method:Compositional matrix adjust., 
+Identities:74/80(93%), Positives:76/80(95%), Gaps:0/80(0%)
+
+Query  150  GLDPFRLLQNSQVFSLIRPNENPAHKSQLVWMACHSAAFEDLRVSSFIRGTRVVPRGQLS  329
+            G+DPFRLLQNSQVFSLIRPNENPAHKSQLVWMACHSAAFEDLRVSSFIRGTRVVPRGQLS
+Sbjct  66   GIDPFRLLQNSQVFSLIRPNENPAHKSQLVWMACHSAAFEDLRVSSFIRGTRVVPRGQLS  125
+
+Query  330  TRGVQIASNENMETITHQML  389
+            TRGVQIASNENMET+    L
+Sbjct  126  TRGVQIASNENMETMDSSTL  145
+
+
+
+
+
+>>>>>>> ae3718c133dd8466dc1b873d7a0feda592eee197

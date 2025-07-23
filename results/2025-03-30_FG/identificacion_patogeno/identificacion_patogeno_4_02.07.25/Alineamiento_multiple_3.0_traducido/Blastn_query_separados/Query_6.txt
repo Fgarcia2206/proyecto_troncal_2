@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Query #6: 6 unknown sequence 6 Query ID: lcl|Query_3932110 Length: 1596
 
 Sequences producing significant alignments:
@@ -230,3 +231,237 @@ Sbjct  57   DTIDHASHTPGSVSSAFILEAMVNVISGPKV  87
 
 
 
+=======
+Query #6: 6 unknown sequence 6 Query ID: lcl|Query_3932110 Length: 1596
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+VP40 [Zaire ebolavirus]                                           Zaire ebolav... NA              186538     172    172   17%   5e-48 95.60  326        AGB56829.1       
+VP40, partial [Zaire ebolavirus]                                  Zaire ebolav... NA              186538     171    171   17%   1e-47 94.51  292        WWV92822.1       
+matrix protein, partial [Zaire ebolavirus]                        Zaire ebolav... NA              186538     168    168   17%   1e-47 93.41  202        QYR86863.1       
+matrix protein, partial [Zaire ebolavirus]                        Zaire ebolav... NA              186538     170    170   17%   2e-47 94.51  297        QNL24357.1       
+VP40 [Zaire ebolavirus]                                           Zaire ebolav... NA              186538     170    170   17%   2e-47 94.51  326        WWV92552.1       
+matrix protein [Zaire ebolavirus]                                 Zaire ebolav... NA              186538     170    170   17%   3e-47 94.51  326        QNL27237.1       
+matrix protein, partial [Zaire ebolavirus]                        Zaire ebolav... NA              186538     170    170   17%   3e-47 94.51  316        QYR85756.1       
+matrix protein [Zaire ebolavirus]                                 Zaire ebolav... NA              186538     170    170   17%   3e-47 94.51  326        NP_066245.1      
+RecName: Full=Matrix protein VP40; AltName: Full=Ebola VP40;...   Ebola virus ... NA              128947     170    170   17%   3e-47 94.51  326        Q2PDK5.1         
+matrix protein [Zaire ebolavirus]                                 Zaire ebolav... NA              186538     170    170   17%   3e-47 94.51  326        QNL26760.1       
+
+
+Alignments:
+
+>VP40 [Zaire ebolavirus]
+Sequence ID: AGB56829.1 Length: 326
+>matrix protein VP40 [Ebola virus]
+Sequence ID: ARG43220.1 Length: 326
+>VP40 protein [Zaire ebolavirus]
+Sequence ID: AJT59736.1 Length: 326
+>VP40 protein [Zaire ebolavirus]
+Sequence ID: AJT59742.1 Length: 326
+>matrix protein VP40 [Zaire ebolavirus]
+Sequence ID: AQA27301.1 Length: 326 
+Range 1: 1 to 87
+
+Score:172 bits(597), Expect:5e-48, 
+Method:Compositional matrix adjust., 
+Identities:87/91(96%), Positives:87/91(95%), Gaps:4/91(4%)
+
+Query  724  MRRVILPTQSNPAPPEYMEAIYPVRSNSTIARGGNNNTGFLTPESVNGDTPSNPLRPIAD  903
+            MRRVILPT    APPEYMEAIYPVRSNSTIARGGNNNTGFLTPESVNGDTPSNPLRPIAD
+Sbjct  1    MRRVILPT----APPEYMEAIYPVRSNSTIARGGNNNTGFLTPESVNGDTPSNPLRPIAD  56
+
+Query  904  DTIDHASHTPGSVSSAFILEAMVNVISGPKV  996
+            DTIDHASHTPGSVSSAFILEAMVNVISGPKV
+Sbjct  57   DTIDHASHTPGSVSSAFILEAMVNVISGPKV  87
+
+
+
+
+>VP40, partial [Zaire ebolavirus]
+Sequence ID: WWV92822.1 Length: 292
+>VP40, partial [Zaire ebolavirus]
+Sequence ID: WWV92930.1 Length: 292
+>VP40, partial [Zaire ebolavirus]
+Sequence ID: WWV93299.1 Length: 292 
+Range 1: 1 to 87
+
+Score:171 bits(591), Expect:1e-47, 
+Method:Compositional matrix adjust., 
+Identities:86/91(95%), Positives:87/91(95%), Gaps:4/91(4%)
+
+Query  724  MRRVILPTQSNPAPPEYMEAIYPVRSNSTIARGGNNNTGFLTPESVNGDTPSNPLRPIAD  903
+            MRRVILPT    APPEYMEAIYPVRSNSTIARGGN+NTGFLTPESVNGDTPSNPLRPIAD
+Sbjct  1    MRRVILPT----APPEYMEAIYPVRSNSTIARGGNSNTGFLTPESVNGDTPSNPLRPIAD  56
+
+Query  904  DTIDHASHTPGSVSSAFILEAMVNVISGPKV  996
+            DTIDHASHTPGSVSSAFILEAMVNVISGPKV
+Sbjct  57   DTIDHASHTPGSVSSAFILEAMVNVISGPKV  87
+
+
+
+
+>matrix protein, partial [Zaire ebolavirus]
+Sequence ID: QYR86863.1 Length: 202
+Range 1: 1 to 87
+
+Score:168 bits(582), Expect:1e-47, 
+Method:Compositional matrix adjust., 
+Identities:85/91(93%), Positives:86/91(94%), Gaps:4/91(4%)
+
+Query  724  MRRVILPTQSNPAPPEYMEAIYPVRSNSTIARGGNNNTGFLTPESVNGDTPSNPLRPIAD  903
+            MRRVILPT    APPEYMEAIYPVRSNSTIAR GN+NTGFLTPESVNGDTPSNPLRPIAD
+Sbjct  1    MRRVILPT----APPEYMEAIYPVRSNSTIARSGNSNTGFLTPESVNGDTPSNPLRPIAD  56
+
+Query  904  DTIDHASHTPGSVSSAFILEAMVNVISGPKV  996
+            DTIDHASHTPGSVSSAFILEAMVNVISGPKV
+Sbjct  57   DTIDHASHTPGSVSSAFILEAMVNVISGPKV  87
+
+
+
+
+>matrix protein, partial [Zaire ebolavirus]
+Sequence ID: QNL24357.1 Length: 297
+Range 1: 1 to 87
+
+Score:170 bits(589), Expect:2e-47, 
+Method:Compositional matrix adjust., 
+Identities:86/91(95%), Positives:87/91(95%), Gaps:4/91(4%)
+
+Query  724  MRRVILPTQSNPAPPEYMEAIYPVRSNSTIARGGNNNTGFLTPESVNGDTPSNPLRPIAD  903
+            MRRVILPT    APPEYMEAIYPVRSNSTIARGGN+NTGFLTPESVNGDTPSNPLRPIAD
+Sbjct  1    MRRVILPT----APPEYMEAIYPVRSNSTIARGGNSNTGFLTPESVNGDTPSNPLRPIAD  56
+
+Query  904  DTIDHASHTPGSVSSAFILEAMVNVISGPKV  996
+            DTIDHASHTPGSVSSAFILEAMVNVISGPKV
+Sbjct  57   DTIDHASHTPGSVSSAFILEAMVNVISGPKV  87
+
+
+
+
+>VP40 [Zaire ebolavirus]
+Sequence ID: WWV92552.1 Length: 326
+Range 1: 1 to 87
+
+Score:170 bits(590), Expect:2e-47, 
+Method:Compositional matrix adjust., 
+Identities:86/91(95%), Positives:87/91(95%), Gaps:4/91(4%)
+
+Query  724  MRRVILPTQSNPAPPEYMEAIYPVRSNSTIARGGNNNTGFLTPESVNGDTPSNPLRPIAD  903
+            MRRVILPT    APPEYMEAIYPVRSNSTIARGGN+NTGFLTPESVNGDTPSNPLRPIAD
+Sbjct  1    MRRVILPT----APPEYMEAIYPVRSNSTIARGGNSNTGFLTPESVNGDTPSNPLRPIAD  56
+
+Query  904  DTIDHASHTPGSVSSAFILEAMVNVISGPKV  996
+            DTIDHASHTPGSVSSAFILEAMVNVISGPKV
+Sbjct  57   DTIDHASHTPGSVSSAFILEAMVNVISGPKV  87
+
+
+
+
+>matrix protein [Zaire ebolavirus]
+Sequence ID: QNL27237.1 Length: 326
+Range 1: 1 to 87
+
+Score:170 bits(590), Expect:3e-47, 
+Method:Compositional matrix adjust., 
+Identities:86/91(95%), Positives:87/91(95%), Gaps:4/91(4%)
+
+Query  724  MRRVILPTQSNPAPPEYMEAIYPVRSNSTIARGGNNNTGFLTPESVNGDTPSNPLRPIAD  903
+            MRRVILPT    APPEYMEAIYPVRSNSTIARGGN+NTGFLTPESVNGDTPSNPLRPIAD
+Sbjct  1    MRRVILPT----APPEYMEAIYPVRSNSTIARGGNSNTGFLTPESVNGDTPSNPLRPIAD  56
+
+Query  904  DTIDHASHTPGSVSSAFILEAMVNVISGPKV  996
+            DTIDHASHTPGSVSSAFILEAMVNVISGPKV
+Sbjct  57   DTIDHASHTPGSVSSAFILEAMVNVISGPKV  87
+
+
+
+
+>matrix protein, partial [Zaire ebolavirus]
+Sequence ID: QYR85756.1 Length: 316
+Range 1: 1 to 87
+
+Score:170 bits(589), Expect:3e-47, 
+Method:Compositional matrix adjust., 
+Identities:86/91(95%), Positives:87/91(95%), Gaps:4/91(4%)
+
+Query  724  MRRVILPTQSNPAPPEYMEAIYPVRSNSTIARGGNNNTGFLTPESVNGDTPSNPLRPIAD  903
+            MRRVILPT    APPEYMEAIYPVRSNSTIARGGN+NTGFLTPESVNGDTPSNPLRPIAD
+Sbjct  1    MRRVILPT----APPEYMEAIYPVRSNSTIARGGNSNTGFLTPESVNGDTPSNPLRPIAD  56
+
+Query  904  DTIDHASHTPGSVSSAFILEAMVNVISGPKV  996
+            DTIDHASHTPGSVSSAFILEAMVNVISGPKV
+Sbjct  57   DTIDHASHTPGSVSSAFILEAMVNVISGPKV  87
+
+
+
+
+>matrix protein [Zaire ebolavirus]
+Sequence ID: NP_066245.1 Length: 326
+>RecName: Full=Matrix protein VP40; AltName: Full=Ebola VP40; Short=eVP40; AltName: Full=Membrane-associated protein VP40 [Ebola virus - Mayinga, Zaire, 1976]
+Sequence ID: Q05128.1 Length: 326
+>RecName: Full=Matrix protein VP40; AltName: Full=Ebola VP40; Short=eVP40; AltName: Full=Membrane-associated protein VP40 [Ebola virus - Zaire (1995)]
+Sequence ID: Q77DJ6.1 Length: 326
+>matrix protein [Zaire ebolavirus]
+Sequence ID: AAB81003.1 Length: 326
+>matrix protein [Ebola virus - Mayinga, Zaire, 1976]
+Sequence ID: AAD14583.1 Length: 326 
+Range 1: 1 to 87
+
+Score:170 bits(590), Expect:3e-47, 
+Method:Compositional matrix adjust., 
+Identities:86/91(95%), Positives:87/91(95%), Gaps:4/91(4%)
+
+Query  724  MRRVILPTQSNPAPPEYMEAIYPVRSNSTIARGGNNNTGFLTPESVNGDTPSNPLRPIAD  903
+            MRRVILPT    APPEYMEAIYPVRSNSTIARGGN+NTGFLTPESVNGDTPSNPLRPIAD
+Sbjct  1    MRRVILPT----APPEYMEAIYPVRSNSTIARGGNSNTGFLTPESVNGDTPSNPLRPIAD  56
+
+Query  904  DTIDHASHTPGSVSSAFILEAMVNVISGPKV  996
+            DTIDHASHTPGSVSSAFILEAMVNVISGPKV
+Sbjct  57   DTIDHASHTPGSVSSAFILEAMVNVISGPKV  87
+
+
+
+
+>RecName: Full=Matrix protein VP40; AltName: Full=Ebola VP40; Short=eVP40; AltName: Full=Membrane-associated protein VP40 [Ebola virus - Gabon (1994-1997)]
+Sequence ID: Q2PDK5.1 Length: 326
+>VP40 protein [Ebola virus - Gabon (1994-1997)]
+Sequence ID: CAC79598.1 Length: 326 
+Range 1: 1 to 87
+
+Score:170 bits(590), Expect:3e-47, 
+Method:Compositional matrix adjust., 
+Identities:86/91(95%), Positives:87/91(95%), Gaps:4/91(4%)
+
+Query  724  MRRVILPTQSNPAPPEYMEAIYPVRSNSTIARGGNNNTGFLTPESVNGDTPSNPLRPIAD  903
+            MRRVILPT    APPEYMEAIYPVRSNSTIARGGN+NTGFLTPESVNGDTPSNPLRPIAD
+Sbjct  1    MRRVILPT----APPEYMEAIYPVRSNSTIARGGNSNTGFLTPESVNGDTPSNPLRPIAD  56
+
+Query  904  DTIDHASHTPGSVSSAFILEAMVNVISGPKV  996
+            DTIDHASHTPGSVSSAFILEAMVNVISGPKV
+Sbjct  57   DTIDHASHTPGSVSSAFILEAMVNVISGPKV  87
+
+
+
+
+>matrix protein [Zaire ebolavirus]
+Sequence ID: QNL26760.1 Length: 326
+Range 1: 1 to 87
+
+Score:170 bits(590), Expect:3e-47, 
+Method:Compositional matrix adjust., 
+Identities:86/91(95%), Positives:87/91(95%), Gaps:4/91(4%)
+
+Query  724  MRRVILPTQSNPAPPEYMEAIYPVRSNSTIARGGNNNTGFLTPESVNGDTPSNPLRPIAD  903
+            MRRVILPT    APPEYMEAIYPVRSNSTIARGGN+NTGFLTPESVNGDTPSNPLRPIAD
+Sbjct  1    MRRVILPT----APPEYMEAIYPVRSNSTIARGGNSNTGFLTPESVNGDTPSNPLRPIAD  56
+
+Query  904  DTIDHASHTPGSVSSAFILEAMVNVISGPKV  996
+            DTIDHASHTPGSVSSAFILEAMVNVISGPKV
+Sbjct  57   DTIDHASHTPGSVSSAFILEAMVNVISGPKV  87
+
+
+
+
+
+>>>>>>> ae3718c133dd8466dc1b873d7a0feda592eee197

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Archivo,Query_ID,Num_Hits_Validos,Promedio_%_Identidad
 Aligned_1.aln,1_frame_1,0,0.00
 Aligned_10.aln,10_frame_1,12,60.70
@@ -12,3 +13,19 @@ Aligned_6.aln,6_frame_1,17,46.50
 Aligned_7.aln,7_frame_1,13,10.19
 Aligned_8.aln,8_frame_1,10,86.21
 Aligned_9.aln,9_frame_1,20,45.95
+=======
+Archivo,Query_ID,Num_Hits_Validos,Promedio_%_Identidad
+Aligned_1.aln,1_frame_1,0,0.00
+Aligned_10.aln,10_frame_1,12,60.70
+Aligned_11.aln,11_frame_1,13,11.71
+Aligned_12.aln,12_frame_1,9,13.79
+Aligned_13.aln,13_frame_1,9,56.04
+Aligned_2.aln,2_frame_1,0,0.00
+Aligned_3.aln,3_frame_1,11,16.56
+Aligned_4.aln,4_frame_1,12,17.13
+Aligned_5.aln,5_frame_1,10,15.45
+Aligned_6.aln,6_frame_1,17,46.50
+Aligned_7.aln,7_frame_1,13,10.19
+Aligned_8.aln,8_frame_1,10,86.21
+Aligned_9.aln,9_frame_1,20,45.95
+>>>>>>> ae3718c133dd8466dc1b873d7a0feda592eee197

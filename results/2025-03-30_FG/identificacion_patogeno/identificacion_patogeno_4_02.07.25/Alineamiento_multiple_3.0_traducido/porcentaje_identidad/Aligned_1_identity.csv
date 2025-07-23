@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Query,Hit,% Identidad
 1_frame_1,1_frame_2,15.60
 1_frame_1,1_frame_3,20.18
+=======
+Query,Hit,% Identidad
+1_frame_1,1_frame_2,15.60
+1_frame_1,1_frame_3,20.18
+>>>>>>> ae3718c133dd8466dc1b873d7a0feda592eee197
