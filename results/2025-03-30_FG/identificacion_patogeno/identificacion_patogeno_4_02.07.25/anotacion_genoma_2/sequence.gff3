@@ -1,0 +1,17 @@
+##gff-version 3
+MH481611.2	GenBank	gene	436	2655	.	+	.	Name=NP
+MH481611.2	GenBank	CDS	436	2655	.	+	.	Name=NP;product=nucleoprotein;protein_id=AWU50984.2
+MH481611.2	GenBank	gene	3095	4117	.	+	.	Name=VP35
+MH481611.2	GenBank	CDS	3095	4117	.	+	.	Name=VP35;product=polymerase cofactor VP35;protein_id=AWU50985.2
+MH481611.2	GenBank	gene	4445	5425	.	+	.	Name=VP40
+MH481611.2	GenBank	CDS	4445	5425	.	+	.	Name=VP40;product=matrix protein VP40;protein_id=AWU50986.2
+MH481611.2	GenBank	gene	6005	8034	.	+	.	Name=GP
+MH481611.2	GenBank	CDS	6005	8034	.	+	.	Name=GP;product=spike glycoprotein;protein_id=AWU50990.2
+MH481611.2	GenBank	CDS	6005	7099	.	+	.	Name=GP;product=sGP;protein_id=AWU50991.2
+MH481611.2	GenBank	CDS	6005	6899	.	+	.	Name=GP;product=second secreted glycoprotein;protein_id=AWU50992.2
+MH481611.2	GenBank	gene	8475	9341	.	+	.	Name=VP30
+MH481611.2	GenBank	CDS	8475	9341	.	+	.	Name=VP30;product=minor nucleoprotein;protein_id=AWU50988.1
+MH481611.2	GenBank	gene	10311	11066	.	+	.	Name=VP24
+MH481611.2	GenBank	CDS	10311	11066	.	+	.	Name=VP24;product=membrane-associated protein VP24;protein_id=AWU50989.1
+MH481611.2	GenBank	gene	11547	18185	.	+	.	Name=L
+MH481611.2	GenBank	CDS	11547	18185	.	+	.	Name=L;product=polymerase;protein_id=AWU50987.2

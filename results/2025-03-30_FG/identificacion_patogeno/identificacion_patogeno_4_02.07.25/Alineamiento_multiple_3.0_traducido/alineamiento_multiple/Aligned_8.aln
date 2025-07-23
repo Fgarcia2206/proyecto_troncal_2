@@ -1,0 +1,92 @@
+CLUSTAL O(1.2.2) multiple sequence alignment
+
+
+8_frame_1       -------------------------------------------G---GGL*SSP*VQIAS
+8_frame_2       --------------GEAFEAVPEFRLLQMRTWKQWTPALLN*EA---DIGL*GPGVEETP
+8_frame_3       ----------------------------------GRPLKQSLSSDCFK*EHGNNGLQHS*
+AAK01103.1      ---------------AAFEDLRVSSFIRG------TR----VVP---RGQLSTRGVQIAS
+CAF21871.1      -------LVWMACHSAAFEDLRVSSFIRG------TR----VVP---RGQLSTRGVQIAS
+ACE78967.1      ----------------AFEDLRVSSFIRG------TR----VVP---RGQLSTRGVQIAS
+AAK01104.1      --------------------LRVSSFIRG------TR----VVP---RGQLSTRGVQIAS
+AAK01105.1      ----------------------VSSFIRG------TR----VVP---RGQLSTRGVQIAS
+BAG16720.1      -PAHKSQLVWMACHSAAFEDLRVSSFIRG------TR----VVP---RGQLSTRGVQIAS
+AAK01106.1      ------------------EDLRVSSFIRG------TR----VVP---RGQLSTRGVQIAS
+ACE78968.1      ----------------AFEDLRVSSFIRG------TR----VIP---RGQLSTRGVQIAS
+ABI17555.1      NPAHKSQLVWMACHSAAFEDLRVSSFIRG------TR----VVP---RGQLSTRGVQIAS
+ABI17556.1      NPAHKSQLVWMACHSAAFEDLRVSSFIRG------TR----VVP---RGQXSTRGVQIAS
+                                                                       :: : 
+
+8_frame_1       NENMETMDSSTLELRSRYWAIRTRSGGNTNQQRASAGQISVQPTFSVQRNLPFERA----
+8_frame_2       TSREHLQDRSVCSLLSQYREIFPLK-----------------------------------
+8_frame_3       ------TEKQILGYKDQEWRKHQPAESICRTDQC-------AAYFLSTEKSSL*KSGIHR
+AAK01103.1      NENMETMDSSTLELRSRYWAIRTRSGGNTNQQRASAGQISVQPTFSVQRNLPFERATIMA
+CAF21871.1      NENMETMDSSTLELRSRYWAIRTRSGGNTNQQRASAGQISVQPTFSVQRNLPFERATIMA
+ACE78967.1      NENMETMDSSTLELRSRYWAIRTRSGGNTNQQRASAGQISVQPTFSVQRNLPFERATIMA
+AAK01104.1      NENMETMDSSTLELRSRYWAIRTRSGGNTNQQRASAGQISVQPTFSVQRNLPFERATIMA
+AAK01105.1      NENMETMDSTTLELRSRYWAIRTRSGGNTNQQRASAGQISVQPTFSVQRNLPFERATIMA
+BAG16720.1      NENMETMDSSTLELRSRYWAIRTRSGGNTNQQRASAGQISVQPTFSVQRNLPFERATIMA
+AAK01106.1      NENMETMDSSTLELRSRYWAIRTRSGGNTNQQRASAGQISVQPTFSVQRNLPFERATIMA
+ACE78968.1      NENMETMDSSTLELRSRYWAIRTRSGGNTNQQRASAGQISVQPTFSVQRNLPFERATIMA
+ABI17555.1      NENMETMDSSTLELRSRYWAIRTRSGGNTNQQRASAGQISVQPTFSVQRNLPFERATIMA
+ABI17556.1      NENMETMDSSTLELRSRYWAIRTRSGGNTNQQRASAGQISVQPTFSVQRNLPFERATIMA
+                       :       .:                                           
+
+8_frame_1       AFTGNTEGRTSDMRTEIIRMMESAKPEDVSFQGRG----------------QKSMRNQI*
+8_frame_2       ERHSQGIRRAEHLT*GLKS*E*WKVPNQKTCLSRG----------GAKKA*EIRYRNQI*
+8_frame_3       EYGGQN-----------I*HED*NHKNDGKCQTRRRVFPGAGPKKHEKSDIEIRYRNQI*
+AAK01103.1      AFTGNTEGRTSDMRTEIIRMMESARPEDVSFQGRG----------------VFELSDEK-
+CAF21871.1      AFTGNTEGRTSDMRTEIIRMMESARPEDVSFQGRG----------------VFELSG---
+ACE78967.1      AFTGNTEGRTSDMRTEIIRMMESARPEDVSFQGRG----------------VFELSE---
+AAK01104.1      AFTGNTEGRTSDMRTEIIRMMESARPEDVSFQGRG----------------VFELS----
+AAK01105.1      AFTGNTEGRTSDMRTEIIRMMESARPEDVSFQGRG----------------V--------
+BAG16720.1      AFTGNTEGRTSDMRTEIIRMMESARPEDVSFQGRG----------------VFELSDEKA
+AAK01106.1      AFTGNTEGRTSDMRTEIIRMMESARPEDVSFQGRG----------------VFELSD---
+ACE78968.1      AFTGNTEGRTSDMRTEIIRMMESARPEDVSFQGRG----------------VFELSE---
+ABI17555.1      AFTGNTEGRTSDMRTEIIRMMESARPEDVSFQGRG----------------VFELS----
+ABI17556.1      AFTGNTEGRTSDMRTEIIRMMESARPEDVSFQGRG----------------VFELS----
+                   .:                     :: .   *                          
+
+8_frame_1       KSDIEIRYRNQI*KSDIPWPKKHVPGHR*IDR**IDRA*AL*GR-PVEPVPAPCPGMGRS
+8_frame_2       KSDIEIRYRNQIFPGQKSMSL---AIDR*IDSR*IEPE--LCEDVLWNLSRPPALGWGEV
+8_frame_3       KSDIEIRYSLA--KKACPWP*--------IDR*IVDR*SLSFVRTSCGTCPGPLPWDGEK
+AAK01103.1      ------------------------------------------------------------
+CAF21871.1      ------------------------------------------------------------
+ACE78967.1      ------------------------------------------------------------
+AAK01104.1      ------------------------------------------------------------
+AAK01105.1      ------------------------------------------------------------
+BAG16720.1      TNPIVPSFDMSNEGSY------------------------FFGD-NAEEYDN--------
+AAK01106.1      ------------------------------------------------------------
+ACE78968.1      ------------------------------------------------------------
+ABI17555.1      ------------------------------------------------------------
+ABI17556.1      ------------------------------------------------------------
+                                                                            
+
+8_frame_1       QGD-RQSQGGGQGGSGVPRAGGLWCSDQSVRRGEQSPLASSS*KVSSFSLQPLMHWGD-S
+8_frame_2       RGI-DRVKVGDRAGVGSPGLGAFGAVTRVSGEGSKAL*PHPHKRSHHFPS-SLLCTGEIV
+8_frame_3       SGG*TESRWGTGREWGPQGWGPLVQ*PECQERGAKPSSLILIKGLIIFPPA-SYALGR**
+AAK01103.1      ------------------------------------------------------------
+CAF21871.1      ------------------------------------------------------------
+ACE78967.1      ------------------------------------------------------------
+AAK01104.1      ------------------------------------------------------------
+AAK01105.1      ------------------------------------------------------------
+BAG16720.1      ------------------------------------------------------------
+AAK01106.1      ------------------------------------------------------------
+ACE78968.1      ------------------------------------------------------------
+ABI17555.1      ------------------------------------------------------------
+ABI17556.1      ------------------------------------------------------------
+                                                                            
+
+8_frame_1       KKAWC*FSR----ECGQFPSRPLKQVSRIFYLLTI*
+8_frame_2       KKHGVDFQE----SADSFLRGL*SRCPEFFTFLQYS
+8_frame_3       KSMVLIFKRVRTVSFEAFEAGVQNFLPSYNI-----
+AAK01103.1      ------------------------------------
+CAF21871.1      ------------------------------------
+ACE78967.1      ------------------------------------
+AAK01104.1      ------------------------------------
+AAK01105.1      ------------------------------------
+BAG16720.1      ------------------------------------
+AAK01106.1      ------------------------------------
+ACE78968.1      ------------------------------------
+ABI17555.1      ------------------------------------
+ABI17556.1      ------------------------------------
+                                                    

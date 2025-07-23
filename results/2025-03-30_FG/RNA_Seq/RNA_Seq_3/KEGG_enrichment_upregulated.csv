@@ -1,0 +1,5 @@
+"category","subcategory","ID","Description","GeneRatio","BgRatio","pvalue","p.adjust","qvalue","geneID","Count"
+"Human Diseases","Cancer: specific types","hsa05210","Colorectal cancer","8/183","87/8866",0.000411141480852883,0.0675049303306263,0.056966185933018,"JUN/FOS/GADD45B/TCF7L2/BRAF/CYCS/HRAS/BIRC5",8
+"Human Diseases","Cancer: specific types","hsa05211","Renal cell carcinoma","7/183","70/8866",0.00056966185933018,0.0675049303306263,0.056966185933018,"JUN/FLCN/CREBBP/BRAF/HRAS/PRCC/EP300",7
+"Human Diseases","Infectious disease: viral","hsa05164","Influenza A","11/183","173/8866",0.000888188055644975,0.070166856395953,0.0592125370429983,"NFKBIB/CREBBP/NXF1/KPNA5/CYCS/MX1/KPNA2/NFKBIA/EP300/RSAD2/HLA-DRA",11
+"Genetic Information Processing","Chromosome","hsa03083","Polycomb repressive complex","7/183","83/8866",0.0015762221444764,0.0933911620602269,0.0788111072238202,"TEX10/CREBBP/YAF2/PCGF1/EZH2/FBRS/EP300",7

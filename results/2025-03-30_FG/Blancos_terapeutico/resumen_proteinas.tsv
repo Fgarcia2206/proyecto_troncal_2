@@ -1,0 +1,10 @@
+Locus_Tag	Producto	Inicio	Fin	Strand	Longitud_AA	Archivo_Fasta
+NA	nucleoprotein	470	2689	1	739	NA_nucleoprotein.fasta
+NA	VP35	3129	4151	1	340	NA_VP35.fasta
+NA	matrix protein	4479	5459	1	326	NA_matrix_protein.fasta
+NA	virion spike glycoprotein precursor	6039	8068	1	676	NA_virion_spike_glycopr.fasta
+NA	sGP	6039	7133	1	364	NA_sGP.fasta
+NA	ssGP	6039	6933	1	297	NA_ssGP.fasta
+NA	polymerase complex protein	8509	9375	1	288	NA_polymerase_complex_p.fasta
+NA	VP24	10345	11100	1	251	NA_VP24.fasta
+NA	polymerase	11581	18219	1	2212	NA_polymerase.fasta

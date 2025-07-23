@@ -1,0 +1,10 @@
+>13_translation_report
+Best frame: 1
+Protein length: 101 aa
+Protein sequence:
+FDYWGRGTRVTVSSASTKGPSVFPLAPSSKSTSGGTAALGCLVKDYFPEPVTVSWNSGALTSGVHTFPAVLQSSGLYSLSSVVTVPSSSLEKSEIRYRNQI
+
+All frames analysis:
+Frame 0: 1 aa | STOP positions: [1, 97, 110, 123, 125, 138]
+Frame 1: 101 aa | STOP positions: [101, 114, 129, 142, 159, 209, 223]
+Frame 2: 50 aa | STOP positions: [50, 59, 82, 105, 118, 133, 146, 172, 177, 189, 214]
